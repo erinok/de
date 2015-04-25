@@ -3430,10 +3430,348 @@ zum Heulen sein
 
 »Nu mal langsam!«
 
+> He had leapt to his feet.
 
-Er war aufgesprungen.  In seinem Zorn schien er die ganze Hütte auszufüllen.  Die Dursleys kauerten sich an die Wand.  »Wollt ihr mir etwa sagen«, knurrte er sie an, »dass dieser Junge – dieser Junge! - nichts von - von NICHTS weiß?« Das ging Harry doch ein wenig zu weit.  Immerhin ging er zur Schule und hatte keine schlechten Noten.  »Ich weiß schon einiges«, sagte er.  »Ich kann nämlich Mathe und solche Sachen.«
+Er war aufgesprungen.
+
+aufgesprungen
+
+> In his anger he seemed to fill the whole hut.
+
+In seinem Zorn schien er die ganze Hütte auszufüllen.
+
+der Zorn
+auszufüllen
+
+> The Dursleys were cowering against the wall.
+
+Die Dursleys kauerten sich an die Wand.
+
+kauerten (kauern)
+
+> ‘Do you mean ter tell me,’ he growled at the Dursleys, ‘that this boy – this boy! – knows nothin’ abou’ – about ANYTHING?’
+
+»Wollt ihr mir etwa sagen«, knurrte er sie an, »dass dieser Junge – dieser Junge! - nichts von - von NICHTS weiß?«
+
+knurrte (knurren)
+
+> ‘About our world, I mean.  Your world.  My world.  Yer parents’ world.’
+
+»Über unsere Welt, meine ich.  Deine Welt.  Meine Welt.  Die Welt von deinen Eltern.«
+
+die Welt
+
+> Hagrid looked as if he was about to explode.
+
+Hagrid sah aus, als würde er gleich explodieren.
+
+> ‘DURSLEY!’ he boomed.
+
+»DURSLEY!«, dröhnte er.
+
+dröhnte (dröhnen)
+
+> Uncle Vernon, who had gone very pale, whispered something that sounded like ‘Mimblewimble’.
+
+Onkel Vernon, der ganz blass geworden war, flüsterte etwas, das sich anhörte wie »Mimbelwimbel«.
+
+blass
+flüsterte (flüstern)
+
+>‘I mean, they’re famous.  You’re famous.’
+
+»Ich meine, sie sind berühmt.  Du bist berühmt.«
+
+berühmt
+
+> Hagrid ran his fingers through his hair, fixing Harry with a bewildered stare.
+
+Hagrid fuhr sich mit den Fingern durch die Haare und fixierte Harry mit einem bestürzten Blick.
+
+bestürzt
+
+> ‘Stop!’ he commanded.  ‘Stop right there, sir!’
+
+»Aufhören«, befahl er, »hören Sie sofort auf, Sir!«
+
+aufhören
+
+> ‘I forbid you to tell the boy anything!’
+
+»Ich verbiete Ihnen, dem Jungen irgendetwas zu sagen!«
+
+verbiete (verbieten)
+irgendetwas
+
+> A braver man than Vernon Dursley would have quailed under the furious look Hagrid now gave him; when Hagrid spoke, his every syllable trembled with rage.
+
+Auch ein mutigerer Mann als Vernon Dursley wäre unter dem zornigen Blick Hagrids zusammengebrochen; als Hagrid sprach, zitterte Jede Silbe vor Entrüstung.
+
+mutig
+zusammengebrochen
+die Entrüstung
+
+> I was there!
+
+»Ich war auch dabei!
+
+dabei
+
+> I saw Dumbledore leave it, Dursley!
+
+»Ich hab gesehen, wie Dumbledore ihn dort hingelegt hat, Dursley!«
+
+hinglegen 
+
+> ‘An’ you’ve kept it from him all these years?’
+
+»Und du hast ihn Harry all die Jahre vorenthalten?«
+
+vorenthalten
+
+> ‘Kept what from me?’ said Harry eagerly.
+
+»Was vorenthalten?«, fragte Harry begierig.
+
+begierig
+
+> Aunt Petunia gave a gasp of horror.
+
+Tante Petunia schnappte vor Schreck nach Luft.
+
+schnappte (schnappen)
+
+> ‘Ah, go boil yer heads, both of yeh,’ said Hagrid.
+
+»Aach, kocht eure Köpfe doch im eigenen Saft, ihr beiden«,  sagte Hagrid.
+
+der Saft
+
+> There was silence inside the hut.
+
+In der Hütte herrschte mit einem Mal Stille.
+
+herrschte (herrschen)
+
+>
+
+»Ein Zauberer, natürlich«, sagte Hagrid und setzte sich wieder auf das Sofa, das unter Ächzen noch tiefer einsank.
+
+ächzen
+tief
+
+> ‘A wizard, o’ course,’ said Hagrid, sitting back down on the sofa, which groaned and sank even lower, ‘an’ a thumpin’ good’un, I’d say, once yeh’ve been trained up a bit. 
+
+»Und ein verdammt guter noch dazu, würde ich sagen, sobald du mal 'n bisschen Übung hast.
+
+sobald
+
+> Harry stretched out his hand at last to take the yellowish envelope, addressed in emerald green to Mr H.  Potter, The Floor, Hut-on-the-Rock, The Sea.  
+
+Harry streckte die Hand aus und nahm endlich den gelblichen Umschlag, der in smaragdgrüner Schrift adressiert war an Mr. H.  Potter, Der Fußboden, Hütte-auf-dem-Fels, Das Meer.
+
+die Schrift
+
+> We are pleased to inform you that you have a place at Hogwarts School of Witchcraft and Wizardry.
+
+Sehr geehrter Mr. Potter, wir freuen uns, Ihnen mitteilen zu können, dass Sie an der Hogwarts-Schule für Hexerei und Zauberei aufgenommen sind.
+
+geehrt
+freuen
+mitteilen
+aufgenommen (aufnehmen)
+
+> Please find enclosed a list of all necessary books and equipment.
+
+Beigelegt finden Sie eine Liste aller benötigten Bücher und Ausrüstungsgegenstände.
+
+beigelegt (beilegen)
+benötigten
+der Ausrüstungsgegenstände
+
+> We await your owl by no later than 31 July.
+
+Wir erwarten Ihre Eule spätestens am 31. Juli.
+
+erwarten
+spätestens
+
+> Deputy Headmistress
+
+Stellvertretende Schulleiterin
+
+stellvertretend
+
+vertreten
+
+>
+
+Wie ein Feuerwerk expldierten Fragen in Harrys Kopf, und er konnte sich, nicht entscheiden, welche er zuerst stellen sollte.
+
+entscheiden
+
+>
+
+»Galoppierende Gorgonen, da fällt mir doch ein ...«, sagte Hagrid und schlug sich mit solcher Wucht die Hand gegen die Stirn, dass es einen Brauereigaul umgehauen hätte.
+
+einen Brauereigaul
+umgehauen (umhauen)
+
+>
+
+Eine echte, lebende, recht zerzaust aussehende Eule - wie einen langen Federkiel und eine Pergamentrolle.
+
+echt
+zerzaust
+der Federkiel
+
+>
+
+Mit der Zunge zwischen den Lippen kritzelte er eine Notiz.
+
+der Zunge
+die Lippe
+kritzelte (kritzeln)
+die Notiz
+
+>
+
+Wetter ist fürchterlich.
+
+das Wetter
+
+>
+
+Hagrid rollte die Nachricht zusammen, übergab sie der Eule, die sie in deren Schnabel klemmte, ging zur Tür und schleuderte die Eule hinaus in den Sturm.
+
+der Schnabel
+schleuderte (schleudern)
+
+>
+
+Harry bemerkte, dass ihm der Mund offen stand, und klappte ihn rasch zu.
+
+bemerkte (bemerken)
+
+>
+
+»Wo war ich gerade?«, sagte Hagrid, doch in diesem Augenblick trat Onkel Vernon, immer noch aschfahl, doch sehr zornig aussehend, in das Licht des Kaminfeuers.
+
+aschfahl
+
+>
+
+»Das möchte ich sehen, wie ein so großer Muggel wie du ihn aufhalten will«, sagte er.
+
+aufhalten
+
+>
+
+»Ein Muggel«, sagte Hagrid, »so nennen wir Leute wie ihn, die nicht zu den Magiern gehören.«
+
+gehören
+
+>
+
+»Und es ist dein Pech, dass du in einer Familie der größten Muggel aufgewachsen bist, die ich Je gesehen habe.«
+
+das Pech
+aufgewachsen
+
+> ‘We swore when we took him in we’d put a stop to that rubbish,’ said Uncle Vernon, ‘swore we’d stamp it out of him! Wizard, indeed!’
+
+»Als wir ihn aufnahmen, haben wir geschworen, diesem Blödsinn ein Ende zu setzen«, sagte Onkel Vernon, »geschworen, es ihm ausbauen! Zauberer, in der Tat!«
+
+der Blödsinn
+ausbauen
+in der Tat	tatsächlich
+
+> Oh, she got a letter just like that and disappeared off to that – that school – and came home every holiday with her pockets full of frog-spawn, turning teacups into rats.
+
+»Sie hat nämlich genau den gleichen Brief bekommen und ist dann in diese - diese Schule verschwunden und kam in den Ferien Jedes Mal mit den Taschen voller Froschlaich nach Hause und hat Teetassen in Ratten verwandelt.
+
+der Froschlaich
+verwandelt (verwandeln)
+
+> I was the only one who saw her for what she was – a freak!
+
+»Ich war die Einzige, die klar erkannt hat, was sie wirklich war - eine Missgeburt.«
+
+die Missgeburt
+
+> She stopped to draw a deep breath and then went ranting on.
+
+Sie hielt inne, um tief Luft zu holen, und fing dann erneut an zu schimpfen.
+
+fing (fangen)
+erneut
+schimpfen
+
+> It seemed she had been wanting to say all this for years.
+
+Es schien, als ob sie das schon all die Jahre hatte loswerden wollen.
+
+loswerden
+
+> ‘Then she met that Potter at school and they left and got married and had you, and of course I knew you’d be just the same, just as strange, just as – as – abnormal – and then, if you please, she went and got herself blown up and we got landed with you!’
+
+»Dann hat sie diesen Potter an der Schule getroffen, und sie sind weggegangen und haben geheiratet und haben dich bekommen, und natürlich wusste ich, dass du genau so einer sein würdest, genauso seltsam, genauso - unnormal, und dann, bitte schön, hat sie es geschafft, sich in die Luft zu Jagen, und wir mussten uns plötzlich mit dir herumschlagen!«
+
+weggegangen (weggehen)
+geheiratet (heiraten)
+geschafft
+herumschlagen
+die Luft zu Jagen
+
+>
+
+»Das ist eine Schande!
+
+die Schande
+
+> It’s an outrage! A scandal! Harry Potter not knowin’ his own story when every kid in 
+
+Harry Potter kennt nicht mal seine eigene Geschichte, wo doch Jedes Kind in unserer Welt seinen Namen weiß!
+
+> ‘But why? What happened?’ Harry asked urgently.
+
+»Warum eigentlich? Was ist passiert?«, fragte Harry drängend.
+
+drängend
+
+> He looked suddenly anxious.
+
+Plötzlich schien er etwas zu fürchten.
+
+fürchten
+
+> ‘I never expected this,’ he said, in a low, worried voice.
+
+»Das hätte ich nie erwartet«, sagte er mit leiser, besorgter Stimme.
+
+besorgt
+
+> I had no idea, when Dumbledore told me there might be trouble gettin’ hold of yeh, how much yeh didnt know.
+
+»Als Dumbledore sagte, du könntest in Schwierigkeiten geraten, hatte ich keine Ahnung, wie wenig du weißt.«
+
+die Ahnung
 
 
 
+
+»Ach, Harry, vielleicht bin ich nicht der Richtige, um es dir zu sagen aber einer muss es tun - und du kannst nicht nach Hogwarts gehen, ohne es zu wissen.«
+
+Er warf den Dursleys einen finsteren Blick zu.
+
+»Nun, es ist am besten, wenn du so viel weißt, wie ich dir sagen kann - aber natürlich kann ich dir nicht alles sagen, es ist ein großes Geheimnis, manches davon Jedenfalls ...« Er setzte sich, starrte einige Augenblicke lang ins Feuer und sagte dann: »Es fängt, glaube ich, mit - mit einem Typen namens - aber es ist unglaublich, dass du seinen Namen nicht kennst, in unserer Welt kennen ihn alle -«
+
+»Wen?«
+
+»Nun Ja, ich nenn den Namen lieber nicht, wenn's nicht unbedingt sein muss. Keiner tut's.«
+
+»Warum nicht?«
+
+»Schluckende Wasserspeier, Harry, die Leute haben immer noch Angst. Verflucht, ist das schwierig. Sieh mal, da war dieser Zauberer, der ... böse geworden ist. So böse, wie es nur geht. Schlimmer noch. Schlimmer als schlimm. Sein Name war ...«
 
 300 900 2000 4000 8000 16000
