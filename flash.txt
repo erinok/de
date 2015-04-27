@@ -3757,21 +3757,177 @@ besorgt
 
 die Ahnung
 
-
-
+> Ah, Harry, I don’ know if Im the right person ter tell yeh – but someone’s gotta – yeh can’t go off ter Hogwarts not knowin’.
 
 »Ach, Harry, vielleicht bin ich nicht der Richtige, um es dir zu sagen aber einer muss es tun - und du kannst nicht nach Hogwarts gehen, ohne es zu wissen.«
 
+der Richtige
+
+>
+
 Er warf den Dursleys einen finsteren Blick zu.
 
-»Nun, es ist am besten, wenn du so viel weißt, wie ich dir sagen kann - aber natürlich kann ich dir nicht alles sagen, es ist ein großes Geheimnis, manches davon Jedenfalls ...« Er setzte sich, starrte einige Augenblicke lang ins Feuer und sagte dann: »Es fängt, glaube ich, mit - mit einem Typen namens - aber es ist unglaublich, dass du seinen Namen nicht kennst, in unserer Welt kennen ihn alle -«
+finster
 
-»Wen?«
+>
 
-»Nun Ja, ich nenn den Namen lieber nicht, wenn's nicht unbedingt sein muss. Keiner tut's.«
+»Nun, es ist am besten, wenn du so viel weißt, wie ich dir sagen kann - aber natürlich kann ich dir nicht alles sagen, es ist ein großes Geheimnis, manches davon Jedenfalls ...«
 
-»Warum nicht?«
+jedenfalls
 
-»Schluckende Wasserspeier, Harry, die Leute haben immer noch Angst. Verflucht, ist das schwierig. Sieh mal, da war dieser Zauberer, der ... böse geworden ist. So böse, wie es nur geht. Schlimmer noch. Schlimmer als schlimm. Sein Name war ...«
+>
+
+»Es fängt, glaube ich, mit - mit einem Typen namens - aber es ist unglaublich, dass du seinen Namen nicht kennst, in unserer Welt kennen ihn alle -«
+
+einem Typen
+unglaublich
+
+>
+
+»Schluckende Wasserspeier, Harry, die Leute haben immer noch Angst.«
+
+schlucken
+der Wasserspeier
+
+>
+
+Sieh mal, da war dieser Zauberer, der ... böse geworden ist.
+
+böse
+
+> Hagrid shuddered.
+
+Hagrid erschauerte.
+
+erschauerte (erschauern)
+
+>
+
+»Zwing mich nicht, das noch mal zu sagen.«
+
+zwing (zwängen)
+
+> started lookin’ fer followers.
+
+Jedenfalls, dieser - dieser Zauberer hat vor etwa zwanzig Jahren begonnen, sich Anhänger zu suchen.
+
+begonnen
+der Anhänger
+
+> Got ’em, too –some were afraid, some just wanted a bit o’ his power, ’cause he was gettin’ himself power, all right.
+
+Und die hat er auch bekommen - manche hatten Angst, manche wollten einfach ein wenig von seiner Macht, denn er verschaffte sich viel Macht, das muss man sagen.
+
+die Macht
+verschaffte (verschaffen)
+
+> Didn’t know who ter trust, didnt dare get friendly with strange wizards or witches ...
+
+Wussten nicht, wem wir trauen sollten, wagten nicht, uns mit fremden Zauberern oder Hexen anzufreunden ...
+
+trauen
+fremden
+anzufreunden (anfreunden)
+
+> He was takin’ over.
+
+Er hat die Macht übernommen
+
+übernommen (übernehmen)
+
+>
+
+Klar haben sich einige gewehrt - und er hat sie umgebracht.
+
+gewehrt (wehren)
+umgebracht (umbringen)
+
+>
+
+Furchtbar.
+
+>
+
+Einer der wenigen sicheren Orte, die es noch gab, war Hogwarts.
+
+weniger
+sicher
+der Ort
+
+> Reckon Dumbledore’s the only one You-Know-Who was afraid of.
+
+Vermute, Dumbledore war der Einzige, vor dem Du-weißt-schon-wer Angst hatte.
+
+vermute (vermuten)
+
+>
+
+Hat es nicht gewagt, die Schule einzusacken, damals Jedenfalls nicht.
+
+gewagt
+einzusacken (einsacken)
+damals
+
+> Suppose the myst’ry is why You-Know-Who never tried to get ’em on his side before ...
+
+Für mich ist es ein großes Rätsel, warum Du-weißt-schon-wer nie versucht hat, sie auf seine Seite zu bringen ...
+
+die Seite
+
+>
+
+Vielleicht hat er geglaubt, er könne sie überreden ...
+
+überreden
+
+>
+
+Alles, was man weiß, ist, dass er in dem Dorf auftauchte, wo ihr alle gelebt habt, an Halloween vor zehn Jahren.
+
+das Dorf
+
+>
+
+Hat wohl gewusst, dass sie Dumbledore zu nahe waren, um etwas mit der dunklen Seite zu tun haben zu wollen.
+
+>
+
+Hagrid zog plötzlich ein sehr schmutziges, gepunktetes Taschentuch hervor und schnäuzte sich laut wie ein Nebelhorn die Nase.
+
+gepunktet
+das Taschentuch
+schnäuzte (schnäuzen)
+das Nebelhorn
+
+>
+
+»Aber es ist so traurig - hab deine Mum und deinen Dad gekannt, und nettere Menschen hast du einfach nicht finden können, Jedenfalls - Du-weißt-schon-wer hat sie getötet.
+
+traurig
+getötet (töten)
+
+>
+
+Wollte reinen Tisch machen, denk ich, oder hatte inzwischen einfach Spaß am Töten.
+
+reinen Tisch machen
+das Spaß
+
+>
+
+Das war kein gewöhnlicher Schnitt.
+
+gewöhnlich
+der Schnitt
+
+
+Das kriegst du, wenn ein mächtiger, böser Fluch dich berührt - hat sogar bei deiner Mum und deinem Dad geklappt aber nicht bei dir, und darum bist du berühmt, Harry.  Keiner hat es Überlebt, wenn er einmal beschlossen hat, Jemanden zu töten, keiner außer dir, und er hatte einige der besten Hexen und Zauberer der Zeit getötet - die McKinnons, die Bones, die Prewetts - und du warst nur ein Baby, aber du hast überlebt.«
+
+In Harrys Kopf spielte sich etwas sehr Schmerzhaftes ab.  Als Hagrid mit der Geschichte ans Ende kam, sah er noch einmal den blendend hellen, grünen Blitz vor sich, deutlicher als Jemals zuvor - und er erinnerte sich zum ersten Mal im Leben an etwas anderes - an ein höhnische, kaltes, grausames Lachen. Hagrid betrachtete ihn traurig.
+
+»Hab dich selbst aus dem zerstörten Haus geholt, auf Dumbledores Befehl hin.  Hab dich zu diesem Pack hier gebracht ...«
+
+»Lauter dummes Zeug«, sagte Onkel Vernon.  Harry schreckte auf, er hatte fast vergessen, dass die Dursleys auch noch da waren.  Onkel Vernon hatte offenbar seine Courage wiedergewonnen.
+
 
 300 900 2000 4000 8000 16000
