@@ -1053,8 +1053,6 @@ wieherten
 
 ¶ »Das weiß ich«, sagte Harry.  »Es war Ja nur ein Traum.«
 
-***
-
 > But he wished he hadn’t said anything.
 
 ¶ Hätte er bloß nichts gesagt, dachte er.
@@ -1714,7 +1712,7 @@ der Nachbarschaft	> neighborhood
 
 lustig
 
-»In Stonewall stecken sie den Neuen am ersten Tag den Kopf ins Klo«, eröffnete er Harry. »Weilst du mit hochkommen und schon mal üben?«
+¶ »In Stonewall stecken sie den Neuen am ersten Tag den Kopf ins Klo«, eröffnete er Harry. »Weilst du mit hochkommen und schon mal üben?«
 
 das Klo
 hochkommen
@@ -2070,8 +2068,6 @@ der Buchstabe
 > ‘What are you doing, checking for letter-bombs?’
 
 ¶ »Was machst du da draußen eigentlich, Briefbombenkontrolle?«
-
-***
 
 > He chuckled at his own joke.
 
@@ -3197,7 +3193,7 @@ der Lärm
 
 ¶ Er wandte sich um und blickte sie an.
 
-wenden
+wandte (wenden)
 
 > It’s not been an easy journey ...
 
@@ -3982,14 +3978,243 @@ gelitten (leiden)
 schikaniert (schikanieren)
 einzuschließen (einschließen)
 
-¶
+¶ Wenn er einst den größten Hexer der Welt besiegt hatte, wie konnte ihn dann Dudley immer herumkicken wie einen Fußball?
 
-Wenn er einst den größten Hexer der Welt besiegt hatte, wie konnte ihn dann Dudley immer herumkicken wie einen Fußball?
+besiegt (besiegen)
 
-»Hagrid«, sagte er leise, »du musst einen Fehler gemacht haben.  Ich kann unmöglich ein Zauberer sein.«
+¶ Zu seiner Überraschung gluckste Hagrid.
 
-Zu seiner Überraschung gluckste Hagrid.
+die Überraschung
 
-»Kein Zauberer, was? Nie Dinge geschehen lassen, wenn du Angst hattest oder wütend warst?«
+¶ Nun, da er darüber nachdachte ...
+
+darüber
+nachdachte (nachdenken)
+
+¶ Manchmal, wenn er mit diesem lächerlichen Haarschnitt partout nicht hatte zur Schule gehen wollen, hatte er es geschafft, dass sein Haar rasch nachwuchs ...
+
+lächerlich
+der Haarschnitt
+partout
+nachwuchs (nachwachsen)
+
+¶ Und das letzte Mal, als Dudley ihn gestoßen hatte, da hatte er doch seine Rache bekommen, ohne auch nur zu wissen, was er tat?
+
+gestoßen (stoßen)
+der Rache
+
+¶ Harry wandte sich erneut Hagrid zu und lächelte, und er sah, dass Hagrid ihn geradezu anstrahlte.
+
+geradezu
+anstrahlte (anstrahlen)
+
+¶ Doch Onkel Vernon würde nicht kampflos aufgeben.
+
+kampflos
+aufgeben
+
+¶ »Hab ich Ihnen nicht gesagt, der Junge bleibt hier?«, zischte er.
+
+zischte (zischen)
+
+¶ Lily und James Potters Sohn von Hogwarts fernhalten!
+
+fernhalten
+
+¶ Sein Name ist vorgemerkt, schon seit seiner Geburt.
+
+vorgemerkt (vormerken)
+die Geburt
+
+¶ Nach sieben Jahren dort wird er sich nicht mehr wiedererkennen.
+
+wiedererkennen
+
+¶ Er wird dort mit Jungen Leuten seinesgleichen zusammen sein, zur Abwechslung mal, und er wird unter dem größten Schulleiter lernen, den Hogwarts Je gesehen hat, Albus Dumbled-
+
+seinesgleichen
+die Abwechslung
+der Schulleiter
+
+¶ »ICH BEZAHLE KEINEN HIRNRISSIGEN ALTEN DUMMKOPF, DAMIT ER IHM ZAUBERTRICKS BEIBRINGT!«, schrie Onkel Vernon.
+
+bezahle (bezahlen)
+hirnrissig
+der Dummkopf
+beibringt (beibringen)
+
+> But he had finally gone too far.
+
+¶ Doch nun war er endgültig zu weit gegangen.
+
+¶ Hagrid packte den Schirm, schwang ihn über seinem Kopf hin und her und polterte:
+
+polterte (poltern)
+
+¶ »BELEIDIGE NIE - ALBUS DUMBLEDORE - IN MEINER GEGENWART!«
+
+beleidige (beleidigen)
+die Gegenwart
+
+¶ Pfeifend sauste der Schirm herunter, bis die Spitze auf Dudley gerichtet war - ein Blitz aus violettem Licht, ein Geräusch wie das Knallen eines Feuerwerkskörpers, ein schrilles Kreischen - und schon begann Dudley einen Tanz aufzuführen, mit den Händen auf dem dicken Hintern und heulend vor Schmerz.
+
+sauste (sausen)
+die Spitze
+das/der Knallen
+der Tanz
+aufzuführen (aufführen)
+
+¶ Gerade, als er ihnen den Rücken zu wandte, sah Harry ein geringeltes Schweineschwänzchen durch ein Loch in seiner Hose hervorpurzeln.
+
+geringelt
+das Schweineschwänzchen
+das Loch
+die Hose
+hervorpurzeln (hervorsprudeln)
+
+¶ Onkel Vernon tobte.
+
+tobte (toben)
+
+¶ Er zog Tante Petunia und Dudley in den anderen Raum, warf Hagrid einen letzten, angsterfüllten Blick zu und schlug die Tür hinter sich zu.
+
+der Raum
+letzte
+angsterfüllt
+
+¶ Hagrid sah auf den Schirm hinab und strich sich über den Bart.
+
+hinab
+strich (streichen)
+
+¶ »Hätt die Beherrschung nicht verlieren dürfen«, sagte er reuevoll, »aber es hat ohnehin nicht geklappt.«
+
+die Beherrschung
+reuevoll
+
+¶ Unter seinen buschigen Augenbrauen hervor blickte er Harry von der Seite an.
+
+buschig
+die Augenbrau
+
+¶ Ich durfte ein wenig, um dir zu folgen und um dir die Briefe zu bringen und - einer der Gründe, warum ich so scharf auf diesen Job war -«
+
+der Gründe
+
+¶ »Nun Ja - ich war selbst in Hogwarts, doch ich - ähm - man hat mich rausgeworfen, um dir die Wahrheit zu sagen.
+
+rausgeworfen (rauswerfen)
+die Wahrheit
+
+¶ »Es wird spät und wir haben morgen viel zu erledigen«, sagte Hagrid laut.
+
+erledigen
+
+¶ »Kannst drunter pennen«, sagte er.
+
+drunter
+pennen
+
+¶ »Mach dir nichts draus, wenn's dadrin ein wenig zappelt, ich glaub, ich hab immer noch ein paar Haselmäuse in den Taschen.«
+
+draus
+dadrin
+die Haselmäuse
+
+¶ In der Winkelgasse
+
+der Winkelgasse
+
+¶ Am nächsten Morgen wachte Harry früh auf.
+
+früh
+
+¶ »Es war ein Traum«, sagte er sich entschlossen.
+
+entschlossen
+
+¶ »Ich habe von einem Riesen namens Hagrid geträumt, der mir erklärt hat, von nun an werde ich eine Schule für Zauberer besuchen.
+
+erklärt (erklären)
+
+¶ Doch die Augen hielt er weiter geschlossen.
+
+geschlossen
+
+¶ »Schon gut«, murmelte Harry, »Ich steh Ja schon aus.«
+
+steh (stehen)
+
+¶ Hagrid selbst schlief auf dem zusammengebrochenen Sofa, und eine Eule, eine Zeitung in den Schnabel geklemmt, tappte mit ihrer Kralle gegen das Fenster.
+
+die Kralle
+
+¶ Harry rappelte sich auf Er war so glücklich, dass es ihm vorkam, als würde in seinem Innern ein großer Ballon anschwellen.
+
+rappelte (rappeln)
+vorkam (vorkommen)
+innere
+anschwellen
+
+¶ Schnurstracks lief er zum Fenster und riss es auf.
+
+schnurstracks
+
+¶ Die Eule schwebte herein und ließ die Zeitung auf Hagrids Bauch fallen.
+
+schwebte (schweben)
+
+¶ Er schlief Jedoch munter weiter.
+
+jedoch
+munter
+
+¶ Harry versuchte die Eule wegzuscheuchen, doch sie hackte wütend nach ihm und fuhr fort, den Umhang zu zerfetzen.
+
+wegzuscheuchen
+hackte (hacken)
+fort
+zerfetzen
+
+¶ »Sie will ihren Lohn fürs Zeitungausfliegen.«
+
+der Lohn
+
+¶ Hagrids Umhang schien aus nichts als Taschen zu bestehen: Schlüsselbunde, Musketenkugeln, Bindfadenröllchen, Pfefferminzbonbons, Teebeutel ...
+
+bestehen
+der Schlüsselbund
+der Pfefferminzbonbon
+der Teebeutel
+
+¶ Schließlich zog er eine Hand voll merkwürdig aussehender Münzen hervor.
+
+die Münze
+
+¶ »Gib ihr fünf Knuts«, sagte Hagrid schläfrig.
+
+schläfrig
+
+¶ Die Eule streckte ein Bein aus, und er steckte das Geld in ein Lederbeutelchen, das daran festgebunden war.
+
+der Lederbeutelchen
+festgebunden (festbinden)
+
+
+
+
+
+
+Dann flatterte sie durch das offene Fenster davon. Hagrid gähnte laut, richtete sich auf und reckte genüsslich die Glieder.
+
+»Wir brechen am besten gleich auf, Harry, haben heute eine Menge zu erledigen.  Müssen hoch nach London und dir alles für die Schule besorgen.«
+
+Harry drehte die Münzen nachdenklich hin und her.  Eben war ihm ein Gedanke gekommen, der dem Glücksballon in seinem Innern einen Pikser versetzt hatte.
+
+»Ähm ...  Hagrid?«
+
+»Mm?« Hagnid zog gerade seine riesigen Stiefel an.
+
+»Ich hab kein Geld - und du hast Ja gestern Nacht Onkel Vernon gehört - er wird nicht dafür bezahlen, dass ich fortgehe und Zaubern lerne.«
 
 300 900 2000 4000 8000 16000
