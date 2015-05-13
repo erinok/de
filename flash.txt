@@ -147,11 +147,11 @@ stellen	> to place [upon]
 
 ¶ Er drehte sich auf den Rücken und versuchte sich an den Traum zu erinnern, den er gerade noch geträumt hatte.
 
-drehen	> to roll
-den Rücken	> back
-versuchen	> to attempt
-der Traum	> dream
-geträumt (träumen)	> dreamed
+drehen
+den Rücken
+versuchen
+der Trau
+geträumt (träumen)
 
 > It had been a good one.
 
@@ -4200,21 +4200,82 @@ schläfrig
 der Lederbeutelchen
 festgebunden (festbinden)
 
+¶ Dann flatterte sie durch das offene Fenster davon.
+
+flatterte (flattern)
+
+¶ Hagrid gähnte laut, richtete sich auf und reckte genüsslich die Glieder.
+
+gähnte (gähnen)
+reckte (recken)
+genüsslich
+die Glieder
+
+¶ Harry drehte die Münzen nachdenklich hin und her.
+
+nachdenklich
+
+¶ Eben war ihm ein Gedanke gekommen, der dem Glücksballon in seinem Innern einen Pikser versetzt hatte.
+
+der Pikser
+
+¶ »Mm?« Hagnid zog gerade seine riesigen Stiefel an.
+
+der Stiefel
+
+¶ »Ich hab kein Geld - und du hast Ja gestern Nacht Onkel Vernon gehört - er wird nicht dafür bezahlen, dass ich fortgehe und Zaubern lerne.«
+
+fortgehe (fortgehen)
+
+¶ »Glaubst du etwa, deine Eltern hätten dir nichts hinterlassen?«
+
+hinterlassen
+
+¶ »Sie haben ihr Gold doch nicht im Haus aufbewahrt, mein Junge!«
+
+aufbewahrt (aufbewahren)
+
+¶ Nee, wir machen als Erstes bei Gringotts Halt.
+
+der Halt
+
+¶ »Wird von Kobolden geführt.«
+
+der Kobold
+
+¶ »Musst also ganz schön bescheuert sein, wenn du versuchst, sie auszurauben.«
+
+bescheuert
+auszurauben (ausrauben)
+
+¶ Muss übrigens sowieso bei Gringotts vorbeischauen.
+
+sowieso
+vorbeischauen
+
+¶ Auftrag von Dumbledore.
+
+der Auftrag
+
+¶ Geschäftliches für Hogwarts.
+
+geschäftlich
+
+¶ Meist nimmt er mich, wenn es Wichtiges zu erledigen gibt.
+
+wichtig
 
 
 
 
+Dich abholen, etwas von Gringotts besorgen, weiß, dass er mir vertrauen kann, verstehst du. Alles klar? Na dann los.«
 
-Dann flatterte sie durch das offene Fenster davon. Hagrid gähnte laut, richtete sich auf und reckte genüsslich die Glieder.
+Harry folgte Hagrid hinaus auf den Felsen. Der Himmel war Jetzt klar und das Meer schimmerte im Sonnenlicht. Das Boot, das Onkel Vernon gemietet hatte, lag noch da. Viel Wasser hatte sich auf dem Boden angesammelt.
 
-»Wir brechen am besten gleich auf, Harry, haben heute eine Menge zu erledigen.  Müssen hoch nach London und dir alles für die Schule besorgen.«
+»Wie bist du hergekommen?«, fragte Harry und sah sich nach einem zweiten Boot um.
 
-Harry drehte die Münzen nachdenklich hin und her.  Eben war ihm ein Gedanke gekommen, der dem Glücksballon in seinem Innern einen Pikser versetzt hatte.
+»Geflogen«, sagte Hagrid.
 
-»Ähm ...  Hagrid?«
-
-»Mm?« Hagnid zog gerade seine riesigen Stiefel an.
-
-»Ich hab kein Geld - und du hast Ja gestern Nacht Onkel Vernon gehört - er wird nicht dafür bezahlen, dass ich fortgehe und Zaubern lerne.«
+»Geflogen?«
 
 300 900 2000 4000 8000 16000
