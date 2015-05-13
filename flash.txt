@@ -1,126 +1,126 @@
  -*- tab-width: 40; iedit-case-sensitive: nil; eval: (turn-on-de-freq-mode); fill-column: 10000; -*-
- 
+
 > Nearly ten years had passed since the Dursleys had woken up to find their nephew on the front step, but Privet Drive had hardly changed at all.
 
 ¶ Fast zehn Jahre waren vergangen, seit die Dursleys eines Morgens die Haustür geöffnet und auf der Schwelle ihren Neffen gefunden hatten, doch der Ligusterweg hatte sich kaum verändert.
 
-die Schwelle	> barrier, sill, threshold value
-gefunden	> find, detect
-kaum	> scarcely
-verändert	> changed, alterted
+die Schwelle
+gefunden
+kaum
+verändert
 
 > The sun rose on the same tidy front gardens and lit up the brass number four on the Dursleys’ front door
 
 ¶ Wenn die Sonne aufging, tauchte sie dieselben fein säuberlich gepflegten Vorgarten in ihr Licht und ließ dasselbe Messingschild mit der Nummer 4 über der Tür erglimmen.
 
-die Sonne	> the sun
-aufgehen	> to rise
-tauchen	> to dip; to dive
-derselbe, dieselbe, dasselbe	> the same
-fein säuberlich	> nice and neat
-gepflegt	> well-kempt
-der Vorgarten	> front garden
-das Licht	> light; light of day
-das Messingschild	> brass plate
-die Tür	> door, doorway
+die Sonne
+aufgehen
+tauchen
+derselbe, dieselbe, dasselbe
+fein säuberlich
+gepflegt
+der Vorgarten
+das Licht
+das Messingschild
+die Tür
 
 > it crept into their living-room,
 
 ¶ Schließlich krochen ihre Strahlen ins Wohnzimmer.
 
-schließlich	> slowly
-kriechen	> to crawl
-der Strahlen	> beam, ray
-das Wohnzimmer	> living room
+schließlich
+kriechen
+der Strahlen
+das Wohnzimmer
 
 > which was almost exactly the same as it had been on the night when Mr Dursley had seen that fateful news report about the owls.
 
 ¶ Dort sah es fast genauso aus wie in jener Nacht, als Mr. Dursley im Fernsehen den unheilvollen Bericht über die Eulen gesehen hatte.
 
-sah (sehen)	> looked
-dort	> there
-genauso	> just the same
-das Fernsehen	> television
-unheilvoll	> fateful
-der Bericht	> report, narrative
-gesehen (sehen)	> saw
+sah (sehen)
+dort
+genauso
+das Fernsehen
+unheilvoll
+der Bericht
+gesehen (sehen)
 
 > Only the photographs on the mantelpiece really showed how much time had passed.
 
 ¶ Nur die Fotos auf dem Kaminsims führten einem vor Augen, wie viel Zeit verstrichen war.
 
-nur	> only
-führten (führen)	> lead
-viel	> a lot
-verstrichen	> elapsed
+nur
+führten (führen)
+viel
+verstrichen
 
 > Ten years ago, there had been lots of pictures of what looked like a large pink beach ball wearing different-coloured bobble hats – but Dudley Dursley was no longer a baby, and now the photographs showed a large, blond boy riding his first bicycle, on a roundabout at the fair, playing a computer game with his father, being hugged and kissed by his mother.
 
 ¶ Zehn Jahre zuvor hatten dort eine Menge Bilder gestanden, auf denen etwas, das an einen großen rosa Strandball erinnerte, zu sehen war und Bommelhüte in verschiedenen Farben trug - doch Dudley Dursley war nun kein Baby mehr und Jetzt zeigten die Fotos einen großen, blonden Jungen, mal auf seinem ersten Fahrrad, mal auf dem Rummelplatz Karussell fahrend, mal beim Computerspiel mit dem Vater und schließlich, wie ihn die Mutter knuddelte und küsste.
 
-zuvor	> ago
-dort	> there
-die Menge 	> la cantidad
-das Bild	> la foto, la imagen
-eine Menge Bilder	> una gran cantidad de imágenes/fótos
-gestanden	> stood-up
-auf	> at/on/up/of/to
-denen	> those; the ones indicated; to whose
-erinnern	> to remind, to remember
-verschiedenen 	> various
-die Farbe	> color
-trug	> to wear
-das Jetzt	> the present; now
-zeigen	> to appear in
-das Fahrrad	> bicycle
-auf seinem	> on his
-ersten	> first
-der Rummelplatz Karussel	> carnival merry-go-round
-knuddeln	> to hug / cuddle
-küssen	> to kiss
+zuvor
+dort
+die Menge 
+das Bild
+eine Menge Bilder
+gestanden
+auf
+denen
+erinnern
+verschiedenen 
+die Farbe
+trug
+das Jetzt
+zeigen
+das Fahrrad
+auf seinem
+ersten
+der Rummelplatz Karussel
+knuddeln
+küssen
 
 > The room held no sign at all that another boy lived in the house, too.
 
 ¶ Nichts in dem Zimmer ließ ahnen, dass in diesem Haus auch noch ein anderer Junge lebte.
 
 das Zimmer
-lassen (ließ)	> to let
-ahnen	> to suspect
-auch	> also
-noch	> another
-anderer	> another
+lassen (ließ)
+ahnen
+auch
+noch
+anderer
 
 > Yet Harry Potter was still there, asleep at the moment, but not for long.
 
 ¶ Doch Harry Potter war immer noch da, er schlief gerade, aber nicht mehr lange.
 
-doch	> but
-noch	> still
-da	> there
-er schlief gerade	> he was sleeping
+doch
+noch
+da
+er schlief gerade
 
 > His Aunt Petunia was awake and it was her shrill voice which made the first noise of the day.
 
 ¶ Seine Tante Petunia war schon wach und ihre schrille Stimme durchbrach die morgendliche Stille.
 
-die Tante	> aunt
-schon	> already
-wach	> awake
-die Stimme	> voice
-durchbrechen	> to break through
-die Stille	> quiteness; still
+die Tante
+schon
+wach
+die Stimme
+durchbrechen
+die Stille
 
 > ‘Up! Get up! Now!’
 
 ¶ »Aufstehen, aber dalli!«
 
-aufstehen	> to get up
-aber dalli	> pronto; right now
+aufstehen
+aber dalli
 
 Mit einem Schlag war Harry hellwach.
 
-der Schlag	> a start, a knock, a clip...
-hellwach	> wide awake
+der Schlag
+hellwach
 
 > His aunt rapped on the door again.
 
@@ -130,18 +130,18 @@ hellwach	> wide awake
 
 ¶ »Aufstehen!«, kreischte sie.
 
-kreischen	> to screech
+kreischen
 
 > Harry heard her walking towards the kitchen and then the sound of the frying pan being put on the cooker.
 
 ¶ Harry hörte, wie sie in die Küche ging und dort die Pfanne auf den Herd stellte.
 
-hören	> to hear
-die Küche	> kitchen
-ging (gehen)	> to go
-die Pfanne	> pan
-der Herd	> stove
-stellen	> to place [upon]
+hören
+die Küche
+ging (gehen)
+die Pfanne
+der Herd
+stellen
 
 > He rolled on to his back and tried to remember the dream he had been having.
 
@@ -161,52 +161,52 @@ geträumt (träumen)
 
 ¶ Ein fliegendes Motorrad war darin vorgekommen.
 
-darin	> there; in it
-vorgekommen (vorkommen)	> had been
+darin
+vorgekommen (vorkommen)
 
 > He had a funny feeling he’d had the same dream before.
 
 ¶ Er hatte das merkwürdige Gefühl, den Traum schon einmal geträumt zu haben.
 
-merkwürdige	> strange	> 
-das Gefühl	> feeling
+merkwürdige
+das Gefühl
 
 > His aunt was back outside the door.
 
 ¶ Draußen vor der Tür stand Jetzt schon wieder seine Tante.
 
-draußen	> outside; out
-wieder	> again
+draußen
+wieder
 
 > ‘Are you up yet?’ she demanded.
 
 ¶ »Bist du schon auf den Beinen?«, fragte sie.
 
-die Beine	> legs
-fragen	> to ask
+die Beine
+fragen
 
 > ‘Nearly,’ said Harry.
 
 ¶ »Fast«, sagte Harry.
 
-sagen	> to say
+sagen
 
 > ‘Well, get a move on, I want you to look after the bacon.  And don’t you dare let it burn, I want everything perfect on Duddy’s birthday.’
 
 ¶ »Beeil dich.  Ich möchte, dass du auf den Schinken aufpasst.  Und lass ihn ja nicht anbrennen, an Duddys Geburtstag muss alles tipptopp sein.«
 
-beeil dich	> hurry up
-ich möchte	> I would like
-den Schinken	> ham
-aufpassen	> to look after
-anbrennen	> to burn
-der Geburtstag	> birthday
+beeil dich
+ich möchte
+den Schinken
+aufpassen
+anbrennen
+der Geburtstag
 
 > Harry groaned.
 
 ¶ Harry stöhnte.
 
-stöhnen	> to groan
+stöhnen
 
 > ‘What did you say?’ his aunt snapped through the door.
 
@@ -220,351 +220,351 @@ stöhnen	> to groan
 
 ¶ Dudleys Geburtstag - wie konnte er den nur vergessen haben?
 
-vergessen	> to forget
+vergessen
 
 > Harry got slowly out of bed and started looking for socks.
 
 ¶ Langsam kletterte Harry aus dem Bett und begann nach Socken zu suchen.
 
-klettern	> to climb [out of]
-suchen	> to search
+klettern
+suchen
 
 > He found a pair under his bed and, after pulling a spider off one of them, put them on.
 
 ¶ Unter seinem Bett fand er ein Paar, zupfte eine Spinne davon weg und zog sie an.
 
-fand (finden)	> found
-zupfen	> to pick
-eine Spinne	> a spider
-davon	> of [it]
-weg	> away
-ziehen (zog)	> to drag
+fand (finden)
+zupfen
+eine Spinne
+davon
+weg
+ziehen (zog)
 
 > Harry was used to spiders, because the cupboard under the stairs was full of them, and that was where he slept.
 
 ¶ Harry war an Spinnen gewöhnt, weil es im Schrank unter der Treppe von Spinnen wimmelte. Und in diesem Schrank schlief Harry.
 
-war an [...] gewöhnt 	> was used to [...]
-weil	> because
-der Schrank	> cupboard
-der Treppe	> stairs
-wimmeln (von)	> to be overrun (with)
+war an [...] gewöhnt 
+weil
+der Schrank
+der Treppe
+wimmeln (von)
 
 > When he was dressed he went down the hall into the kitchen.
 
 ¶ Als er angezogen war, ging er den Flur entlang und betrat die Küche.
 
-angezogen	> dressed
-den Flur	> hallway
-betrat (betreten)	> entered
+angezogen
+den Flur
+betrat (betreten)
 
 > The table was almost hidden beneath all Dudley’s birthday presents.
 
 ¶ Der ganze Tisch war über und über bedeckt mit Geburtstagsgeschenken.
 
-ganze	> entire
-der Tisch	> table
-die Geburtstagsgeschenken, das Geschenk	> birthday presents/presents
+ganze
+der Tisch
+die Geburtstagsgeschenken, das Geschenk
 
 > It looked as though Dudley had got the new computer he wanted, not to mention the second television and the racing bike.
-  
+
 ¶ Offenbar hatte Dudley den neuen Computer bekommen, den er sich gewünscht hatte, und, der Rede gar nicht wert, auch noch den zweiten Fernseher und das Rennrad.
 
-offenbar	> por lo visto, it looked as tho
-bekommen	> to get
-gewünscht	> wanted
-die Rede	> conversation
-zweiten	> second
-der Fernseher	> television
-das Rennrad	> racing bike
+offenbar
+bekommen
+gewünscht
+die Rede
+zweiten
+der Fernseher
+das Rennrad
 
 > Exactly why Dudley wanted a racing bike was a mystery to Harry, as Dudley was very fat and hated exercise – unless of course it involved punching somebody.
 
 ¶ Warum Dudley eigentlich ein Rennrad haben wollte, war Harry ein Rätsel, denn Dudley war sehr dick und verabscheute Sport - außer natürlich, wenn es darum ging, andern eine reinzuhauen.
 
-warum	> why
-eigentlich	> really/exactly
-wollte	> wanted
-ein Rätsel	> mystery
-denn	> because
-dick	> fat
-verabscheuen 	> to hate
-außer	> other than, unless
-reinzuhauen	> punching? fighting?
+warum
+eigentlich
+wollte
+ein Rätsel
+denn
+dick
+verabscheuen 
+außer
+reinzuhauen
 
 > Dudley’s favourite punch-bag was Harry, but he couldn’t often catch him.
 
 ¶ Dudleys Lieblingsopfer war Harry, doch den bekam er nicht so oft zu fassen.
 
-bekam (bekommen)	> to get
-fassen	> to catch
+bekam (bekommen)
+fassen
 
 > Harry didn’t look it, but he was very fast.
 
 ¶ Man sah es Harry zwar nicht an, aber er konnte sehr schnell rennen.
 
-sah (sehen)	> looked like
-rennen	> to run
+sah (sehen)
+rennen
 
 > Perhaps it had something to do with living in a dark cupboard, but Harry had always been small and skinny for his age.
 
 ¶ Vielleicht hatte es damit zu tun, dass er in einem dunklen Schrank lebte, jedenfalls war Harry für sein Alter immer recht klein und dürr gewesen.
 
-vielleicht	> perhaps
-das Alter	> age
-klein	> small
-dürr	> skinny 
+vielleicht
+das Alter
+klein
+dürr
 
 > He looked even smaller and skinnier than he really was because all he had to wear were old clothes of Dudley’s and Dudley was about four times bigger than he was.
 
 ¶ Er sah sogar noch kleiner und dürrer aus, als er in Wirklichkeit war, denn alles, was er zum Anziehen hatte, waren die abgelegten Klamotten Dudleys, und der war etwa viermal so dick wie Harry.
 
-sogar noch	> even more
-die Wirklichkeit	> reality
-alles	> everything
-anziehen	> to wear
-abgelegten	> handed down, set aside
-die Klamotten	> clothes
-etwa	> about
-viermal	> 4 times
+sogar noch
+die Wirklichkeit
+alles
+anziehen
+abgelegten
+die Klamotten
+etwa
+viermal
 
 > Harry had a thin face, knobbly knees, black hair and bright-green eyes.
 
 ¶ Harry hatte ein schmales Gesicht, knubbelige Knie, schwarzes Haar und hellgrüne Augen.
 
-schmales	> thin
-das Gesicht	> face
-knubbelige	> knobbly
-das Knie	> knee
-schwarzes	> black
-das Haar	> hair
-hellgrüne	> bright green
+schmales
+das Gesicht
+knubbelige
+das Knie
+schwarzes
+das Haar
+hellgrüne
 
 > He wore round glasses held together with a lot of Sellotape because of all the times Dudley had punched him on the nose.
 
 ¶ Er trug eine Brille mit runden Gläsern, die, weil Dudley ihn auf die Nase geschlagen hatte, mit viel Klebeband zusammengehalten wurden.
 
-die Brille	> glasses
-runden Gläsern	> round lenses
-die Nase	> nose
-schlagen	> to punch/fight
-das Kebeband	> tape
-zusammenhalten	> to stick together
+die Brille
+runden Gläsern
+die Nase
+schlagen
+das Kebeband
+zusammenhalten
 
 > The only thing Harry liked about his own appearance was a very thin scar on his forehead which was shaped like a bolt of lightning.
 
 ¶ Das Einzige, das Harry an seinem Aussehen mochte, war eine sehr feine Narbe auf seiner Stirn, die an einen Blitz erinnerte.
 
-einzige	> only
-das Aussehen	> appearance
-feine	> thin
-die Narbe	> scar
-die Stirn	> forehead
+einzige
+das Aussehen
+feine
+die Narbe
+die Stirn
 
 > He had had it as long as he could remember and the first question he could ever remember asking his Aunt Petunia was how he had got it.
 
 ¶ So weit er zurückdenken konnte, war sie da gewesen, und seine allererste Frage an Tante Petunia war gewesen, wie er zu dieser Narbe gekommen war.
 
-weit	> far/long
-zurückdenken	> think back [remember]
-allererste	> first
-die Frage	> question
-dieser	> this
-kommen (gekommen)	> come
+weit
+zurückdenken
+allererste
+die Frage
+dieser
+kommen (gekommen)
 
 > ‘In the car crash when your parents died,’ she had said.  ‘And don’t ask questions.’
 
 ¶ »Durch den Autounfall, bei dem deine Eltern starben«, hatte sie gesagt.  »Und Jetzt hör auf zu fragen.«
 
-durch	> by means of
-der Autounfall	> car accident
-die Eltern	> parents
-sterben	> to die
-hör auf zu fragen	> don't ask questions
+durch
+der Autounfall
+die Eltern
+sterben
+hör auf zu fragen
 
 > Don’t ask questions – that was the first rule for a quiet life with the Dursleys.
 
 ¶ Hör auf zu fragen - das war die erste Regel, wenn man bei den Dursleys ein ruhiges Leben fristen wollte.
 
-erste	> 1st
-die Regel	> rule
-ruhig	> quiet
-das Leben	> life
+erste
+die Regel
+ruhig
+das Leben
 
 > Uncle Vernon entered the kitchen as Harry was turning over the bacon.
 
 ¶ Onkel Vernon kam in die Küche, als Harry gerade den Schinken umdrehte.
 
-der Onkel	> uncle
-umdrehte (umdrehen)	> turned over
+der Onkel
+umdrehte (umdrehen)
 
 > ‘Comb your hair!’ he barked, by way of a morning greeting.
 
 ¶ »Kämm dir die Haare!«, bellte er als Morgengruß.
 
-kämmen	> to comb
-bellen	> to bark
+kämmen
+bellen
 
 > About once a week, Uncle Vernon looked over the top of his newspaper and shouted that Harry needed a haircut.
 
 ¶ Etwa einmal die Woche spähte Onkel Vernon über seine Zeitung und rief, Harry müsse endlich einmal zum Friseur.
 
-die Woche	> the week
-spähen	> to peek
-die Zeitung	> newspaper
-rufen	> to shout
-der Friseur	> haircutter
+die Woche
+spähen
+die Zeitung
+rufen
+der Friseur
 
 > Harry must have had more haircuts than the rest of the boys in his class put together, but it made no difference, his hair simply grew that way – all over the place.
 
 ¶ Harry musste öfter beim Friseur gewesen sein als alle Jungen seiner Klasse zusammen, doch es half nichts.  Sein Haar wucherte einfach vor sich hin - wie ein wilder Garten.
 
-öfter	> more often
-beim	> at the
-zusammen	> put together; combined
-helfen (half)	> to help
-wechern	> to grow wildly
-einfach	> easily
-wie	> like
+öfter
+beim
+zusammen
+helfen (half)
+wechern
+einfach
+wie
 
 > Harry was frying eggs by the time Dudley arrived in the kitchen with his mother.
 
 ¶ Harry briet gerade Eier, als Dudley mit seiner Mutter in die Küche kam.
 
-braten (briet)	> to fry
-das Ei	> egg
+braten (briet)
+das Ei
 
 > Dudley looked a lot like Uncle Vernon.
 
 ¶ Dudley sah Onkel Vernon auffällig ähnlich.
 
-auffällig	> strikingly
-ähnlich	> similar
+auffällig
+ähnlich
 
 > He had a large, pink face, not much neck, small, watery blue eyes and thick, blond hair that lay smoothly on his thick, fat head.
 
 ¶ Er hatte ein breites, rosa Gesicht, nicht viel Hals, kleine, wässrige blaue Augen und dichtes blondes Haar das glatt auf seinem runden, fetten Kopf lag.
 
-breites	> large
-wässrige	> watery
-dichtes	> thick
-glatt	> smoothly
-runden	> round
-fetten	> fat
-der Kopf	> head
-liegen (lag)	> to lie
+breites
+wässrige
+dichtes
+glatt
+runden
+fetten
+der Kopf
+liegen (lag)
 
 > Aunt Petunia often said that Dudley looked like a baby angel – Harry often said that Dudley looked like a pig in a wig.
 
 ¶ Tante Petunia sagte oft, dass Dudley aussehe wie ein kleiner Engel - Harry sagte oft, Dudley sehe aus wie ein Schwein mit Perücke.
 
-aussehen	> to look [like]
-der Engel	> angel
-sehe aus wie	> looked like
-das Schwein	> pig
-die Perücke	> wig
+aussehen
+der Engel
+sehe aus wie
+das Schwein
+die Perücke
 
 > Harry put the plates of egg and bacon on the table, which was difficult as there wasn’t much room.  Dudley, meanwhile, was counting his presents.  His face fell.
 
 ¶ Harry stellte die Teller mit Eiern und Schinken auf den Tisch, was schwierig war, denn viel Platz gab es nicht.
 
-die Teller	> plate
-der Platz	> space
-schwierig	> difficult
-geben (gab)	> to leave
+die Teller
+der Platz
+schwierig
+geben (gab)
 
-> Dudley, meanwhile, was counting his presents. 
+> Dudley, meanwhile, was counting his presents.
 
 ¶ Dudley zählte unterdessen seine Geschenke.
 
-zählen	> to count
-unterdessen	> meanwhile
+zählen
+unterdessen
 
 > His face fell.
 
 ¶ Er zog eine Schnute.
 
-die Schnute	> pout
+die Schnute
 
 > ‘Thirty-six,’ he said, looking up at his mother and father.  ‘That’s two less than last year.’
 
 ¶ »Sechsunddreißig«, sagte er und blickte auf zu Mutter und Vater.  »Das sind zwei weniger als letztes Jahr.«
 
-sechsunddreißig	> 36
-blickte auf (blicken)	> looked at
-zwei	> 2
-weniger	> less
-letztes	> last
+sechsunddreißig
+blickte auf (blicken)
+zwei
+weniger
+letztes
 
 > ‘Darling, you haven’t counted Auntie Marge’s present, see, it’s here under this big one from Mummy and Daddy.’
 
 ¶ »Liebling, du hast Tante Maggies Geschenk nicht mitgezählt, schau, es ist hier unter dem großen von Mummy und Daddy.«
 
-der Liebling	> darling
-mitgezählt (mitzählen)	> counted in
-schau (schauen)	> see
+der Liebling
+mitgezählt (mitzählen)
+schau (schauen)
 
 > ‘All right, thirty-seven then,’ said Dudley, going red in the face.  Harry, who could see a huge Dudley tantrum coming on, began wolfing down his bacon as fast as possible in case Dudley turned the table over.
 
 ¶ »Na gut, dann eben siebenunddreißig«, sagte Dudley und lief rot an - Harry, der einen gewaltigen Wutanfall nach Art von Dudley kommen sah, schlang seinen Schinken so schnell wie möglich hinunter, für den Fall, dass Dudley den Tisch umkippte.
 
-na gut	> alright
-siebenunddreißig	> 37
-rot	> red
-lief [...] an	> turned [...]
-gewaltigen	> huge
-der Wutanfall	> tantrum
-die Art	> kind/style
-schlang (schlingen)	> golped
-möglich	> possible
-hinunter	> down
-der Fall	> event
-umkippte (umkippen)	> knocked over
+na gut
+siebenunddreißig
+rot
+lief [...] an
+gewaltigen
+der Wutanfall
+die Art
+schlang (schlingen)
+möglich
+hinunter
+der Fall
+umkippte (umkippen)
 
 > Aunt Petunia obviously scented danger too, because she said quickly, ‘And we’ll buy you another two presents while we’re out today.  How’s that, popkin? Two more presents.  Is that all right?’
 
 ¶ Auch Tante Petunia witterte offenbar Gefahr, denn rasch sagte sie: »Und heute, wenn wir ausgehen, kaufen wir dir noch zwei Geschenke.  Was sagst du nun, Spätzchen?«
 
-witterte (wittern)	> scented
-die Gefahr	> danger
-rasch	> quickly
-ausgehen	> to go out
-kaufen	> to buy
-dir	> for you
-noch	> another
-zwei	> 2
-nun	> now
-das Spätzchen	> sweetie
+witterte (wittern)
+die Gefahr
+rasch
+ausgehen
+kaufen
+dir
+noch
+zwei
+nun
+das Spätzchen
 
-> Dudley thought for a moment.   It looked like hard work. 
+> Dudley thought for a moment.   It looked like hard work.
 
 ¶ Dudley dachte einen Augenblick nach und es sah wie Schwerstarbeit aus.
 
-dachte (denken)	> thought
-der Augenblick	> moment
-die Schwerstarbeit	> hard work
+dachte (denken)
+der Augenblick
+die Schwerstarbeit
 
 > Finally he said slowly, ‘So I’ll have thirty ...  thirty ...”
 
 ¶ Schließlich sagte er langsam: »Dann habe ich achtund ...  achtund ...«
 
-schließlich	> finally
-langsam	> slowly
+schließlich
+langsam
 
 > ‘Thirty-nine, sweetums,’ said Aunt Petunia.
 
 ¶ »Neununddreißig, mein Süßer«, sagte Tante Petunia.
 
-neununddreißig	> 39
-Süßer	> sweetie
+neununddreißig
+Süßer
 
 > ‘Oh.’ Dudley sat down heavily and grabbed the nearest parcel.  ‘All right then.’
 
 ¶ »Oh.« Dudley ließ sich auf einen Stuhl plumpsen und grabschte nach einem Päckchen.  »Von mir aus.«
 
-ließ sich ...	> let himself
-plumpsen	> to plop--
-von mir aus	> all right then
+ließ sich ...
+plumpsen
+von mir aus
 
 > Uncle Vernon chuckled. ‘Little tyke wants his money’s worth, just like his father.  Atta boy, Dudley!’ He ruffled Dudley’s hair.
 
@@ -590,11 +590,11 @@ auspackte (auspacken)
 
 ¶ Gerade riss er das Papier von einer goldenen Armbanduhr, als Tante Petunia mit zornigem und besorgtem Blick vom Telefon zurückkam.
 
-riss (reißen)	
+riss (reißen)
 das Papier
 die Armbanduhr
 der Blick
-zurückkam (zurückkommen)	
+zurückkam (zurückkommen)
 
 »Schlechte Nachrichten, Vernon«, sagte sie.
 
@@ -647,7 +647,7 @@ weiter
 Harry hasste es, dorthin zu gehen.
 
 hasste (hassen)
-dorthin	> there
+dorthin
 
 > The whole house smelled of cabbage and Mrs Figg made him look at photographs of all the cats she’d ever owned.
 
@@ -655,7 +655,7 @@ dorthin	> there
 
 roch (riechen)
 der Kohl
-bestand darauf (bestehen)	> insisted
+bestand darauf (bestehen)
 
 > ‘Now what?’ said Aunt Petunia, looking furiously at Harry as though he’d planned this.
 
@@ -663,14 +663,14 @@ bestand darauf (bestehen)	> insisted
 
 zornig
 die Unannehmlichkeit
-ausgeheckt (aushecken) 	> made happen
+ausgeheckt (aushecken) 
 
 > Harry knew he ought to feel sorry that Mrs Figg had broken her leg, but it wasn’t easy when he reminded himself it would be a whole year before he had to look at Tibbies, Snowy, Mr Paws and Tufty again.
 
 ¶ Harry wusste, es sollte ihm eigentlich Leid tun, dass sich Mrs. Figg ein Bein gebrochen hatte, doch fiel ihm das nicht leicht bei dem Gedanken, sich Tibbles, Snowy, Putty und Tuffy erst wieder in einem Jahr angucken zu müssen.
 
 wusste (wissen)
-sollte (sollen)	> should
+sollte (sollen)
 das Leid
 leicht	easy
 
@@ -710,7 +710,7 @@ hermachen
 
 ¶ Tante Petunia schaute, als hätte sie soeben in eine Zitrone gebissen.
 
-schaute (schauen)	
+schaute (schauen)
 gebissen (beißen)
 
 > ‘And come back and find the house in ruins?’ she snarled.
@@ -762,12 +762,12 @@ verderben
 
 der Schluchzer
 
-> ‘He always sp-spoils everything!’ 
+> ‘He always sp-spoils everything!’
 
 ¶ »Er macht immer alles k-k-aputt!« Durch die Arme seiner Mutter hindurch warf er Harry ein gehässiges Grinsen zu.
 
 immer
-hindurch	> thru
+hindurch
 warf (werfen)
 gehässige
 grinsen
@@ -799,7 +799,7 @@ einschlug (einschlagen)
 
 ¶ Sofort hörte Dudley auf mit seinem falschen Weinen.
 
-sofort	> right away
+sofort
 
 > Half an hour later, Harry, who couldn’t believe his luck, was sitting in the back of the Dursleys’ car with Piers and Dudley, on the way to the zoo for the first time in his life.
 
@@ -836,9 +836,9 @@ das Weihnachten
 
 ¶ »Ich mach überhaupt nichts«, sagte Harry, »ehrlich ...«
 
-mach (machen)	> do
-überhaupt	> anything
-ehrlich	> honestly
+mach (machen)
+überhaupt
+ehrlich
 
 > But Uncle Vernon didnt believe him.
 
@@ -884,10 +884,10 @@ der Schule
 nächsten (nächste, nächster, nächstes)
 ergehen
 würde (werden)
-ohnehin	> already
+ohnehin
 hänselten (hänseln)
-wegen	> because
-ausgebeulten (ausgebeult)	
+wegen
+ausgebeulten (ausgebeult)
 die Sache
 
 > Next morning, however, he had got up to find his hair exactly as it had been before Aunt Petunia had sheared it off.
@@ -919,7 +919,7 @@ mühte (mühen)
 ziehen
 enger (eng)
 schien (scheinen)
-gepasst (passen) 
+gepasst (passen)
 
 > Aunt Petunia had decided it must have shrunk in the wash and, to his great relief, Harry wasn’t punished.
 
@@ -927,7 +927,7 @@ gepasst (passen)
 
 zufrieden
 der Erklärung
-eingelaufen (einlaufen)	> shrunk
+eingelaufen (einlaufen)
 die Erleichterung
 bestrafte (bestrafen)
 
@@ -954,7 +954,7 @@ verdutzt
 
 ¶ Die Dursleys bekamen daraufhin in einem sehr wütenden Brief von Harrys Schulleiterin zu lesen, Harry sei das Schulhaus emporgeklettert.
 
-daraufhin	> thereon, as a result
+daraufhin
 wütenden (wütend)
 der Brief
 die Schulleiterin
@@ -1038,7 +1038,7 @@ der Vordermann	Person, die sich (in einer Reihe, Gruppe o. Ä.) vor einer andere
 
 der Sitz
 ganz
-um	> around
+um
 riesige (riesig)	groß
 die Rote Bete
 der Schnurrbart
@@ -1067,11 +1067,11 @@ die Geschichte
 verhielten (verhalten)
 passierte (passieren)
 gefährlich, gefährliche
-egal	> no matter
-ob	> if
-wenn es	> if there …
+egal
+ob
+wenn es
 mehr
-dann	> then …
+dann
 
 > It was a very sunny Saturday and the zoo was crowded with families.
 
@@ -1098,7 +1098,7 @@ der Stiel
 lutschte (lutschen)
 zuschauten (zuschauen)
 kratzte (kratzen)
-erstaunlich	> remarkably
+erstaunlich
 
 > Harry had the best morning he’d had in a long time.
 
@@ -1108,16 +1108,16 @@ erstaunlich	> remarkably
 
 ¶ Umsichtig ging er ein Stück hinter den Dursleys her, damit Dudley und Piers, die um die Mittagszeit anfingen sich zu langweilen, nicht wieder auf ihre Lieblingsbeschäftigung verfielen, nämlich Harry zu verhauen.
 
-umsichtig	> prudent
+umsichtig
   Umsicht zeigend, mit Umsicht [handelnd]
   /eine äußerst umsichtige Mitarbeiterin | umsichtig handeln, vorgehen/
-das Stück	> quantity
-damit	> so
+das Stück
+damit
 die Mittagszeit
 anfingen (anfangen)
 langweilen
 die Lieblingsbeschäftigung
-verfielen (verfallen)	> fall back on
+verfielen (verfallen)
 verhauen
 
 > They ate in the zoo restaurant and when Dudley had a tantrum because his knickerbocker glory wasn’t big enough, Uncle Vernon bought him another one and Harry was allowed to finish the first.
@@ -1135,7 +1135,7 @@ aufessen
 
 ¶ Das war des Guten zu viel, und im Nachhinein hatte Harry das Gefühl, er hätte es wissen müssen.
 
-im Nachhinein	> in retrospect
+im Nachhinein
 
 > After lunch they went to the reptile house.
 
@@ -1172,7 +1172,7 @@ zerquetschen
 
 ¶ Schnell fand Dudley die größte Schlange, die es hier gab.
 
-gab (geben)	> [that they] had; [that there] was
+gab (geben)
 
 > It could have wrapped its body twice around Uncle Vernon’s car and crushed it into a dustbin – but at the moment it didnt look in the mood.
 
@@ -1182,7 +1182,7 @@ zweimal
 schlingen
 der Mülleimer	Eimer für [Haushalts]müll
 quetschen
-dazu	> to
+dazu
 die Stimmung
 
 > In fact, it was fast asleep.
@@ -1253,7 +1253,7 @@ störten (stören)
 schlimm
 der Besucher
 aufzuwecken (aufwecken)
-zumindest	> at least
+zumindest
 
 > The snake suddenly opened its beady eyes.
 
@@ -1308,26 +1308,26 @@ oben
 ¶ Sie sah Harry mit einem Blick an, der eindeutig sagte: »So was muss ich den ganzen Tag ertragen.«
 
 eindeutig
-ertragen	> to bear; to put up with
+ertragen
 
 > ‘I know,’ Harry murmured through the glass, though he wasn’t sure the snake could hear him.
 
 ¶ »Ich weiß«, murmelte Harry durch das Glas, wenn er auch nicht sicher war, ob die Schlange ihn hören konnte.
 
-sicher	> sure; certain
+sicher
 
 > ‘It must be really annoying.’
 
 ¶ »Das muss dich wirklich auf die Palme bringen.«
 
-auf die Palme bringen	> be annoying
+auf die Palme bringen
 
 > The snake nodded vigorously.
 
 ¶ Die Schlange nickte lebhaft.
 
-nickte (nicken)	> nodded
-lebhaft	> vigorously
+nickte (nicken)
+lebhaft
 
 > ‘Where do you come from, anyway?’ Harry asked.
 
@@ -1337,8 +1337,8 @@ lebhaft	> vigorously
 
 ¶ Die Schlange stieß mit ihrem Schwanz gegen ein kleines Schild nahe dem Fenster.
 
-der Schwanz	> tail
-der Schild	> sign
+der Schwanz
+der Schild
 
 Harry spähte auf die Inschrift.
 
@@ -1346,13 +1346,13 @@ Boa constrictor, Brasilien.
 
 »War es schön dort?«
 
-schön	> nice
+schön
 
 > The boa constrictor jabbed its tail at the sign again and Harry read on: This specimen was bred in the zoo.
 
 ¶ Wieder stieß die Schlange mit dem Schwanz gegen das Schild, und Harry las weiter: Dieses Exemplar wurde im Zoo ausgebrütet.
 
-ausgebrütet (ausbrüten)	> born
+ausgebrütet (ausbrüten)
 
 »Oh, ich verstehe, du warst nie in Brasilien?«
 
@@ -1360,11 +1360,11 @@ ausgebrütet (ausbrüten)	> born
 
 ¶ Die Schlange schüttelte den Kopf, und plötzlich erschallte hinter Harry ein ohrenbetäubendes Rufen, das sie beide zusammenzucken ließ:
 
-schüttelte (schütteln)	> shook
+schüttelte (schütteln)
 erschallte (erschallen)	laut ertönen
 ohrenbetäubend	übermäßig laut
-beide	> both
-zusammenzucken	> jump
+beide
+zusammenzucken
 
 > ‘DUDLEY! MR DURSLEY! COME AND LOOK AT THIS SNAKE! YOU WON’T BELIEVE WHAT IT’S DOING!’
 
@@ -1378,13 +1378,13 @@ zusammenzucken	> jump
 
 ¶ »Aus dem Weg, Mann«, sagte er und stieß Harry in die Rippen.
 
-die Rippen	> the ribs
+die Rippen
 
 > Caught by surprise, Harry fell hard on the concrete floor.
 
 ¶ Harry, von dem Schlag ganz überrascht, fiel hart auf den Betonboden.
 
-der Betonboden	> concrete floor
+der Betonboden
 
 > What came next happened so fast no one saw how it happened –
 
@@ -1398,8 +1398,8 @@ der Betonboden	> concrete floor
 
 ¶ Harry setzte sich auf und nun stockte ihm der Atem.
 
-stockte (stocken)	> stopped
-der Atem	> breath
+stockte (stocken)
+der Atem
 
 > the glass front of the boa constrictor’s tank had vanished.
 
@@ -1409,11 +1409,11 @@ der Atem	> breath
 
 ¶ Die große Schlange entrollte sich im Nu und schlängelte sich heraus auf den Boden.
 
-entrollte (entrollen)	> uncoiled
-im Nu	> quickly
-schlängelte (schlängeln)	> slithered
-heraus	> out
-den Boden	> floor
+entrollte (entrollen)
+im Nu
+schlängelte (schlängeln)
+heraus
+den Boden
 
 > people throughout the reptile house screamed and started running for the exits.
 
@@ -1423,14 +1423,14 @@ den Boden	> floor
 
 ¶ Als die Schlange an Harry vorbeiglitt, hätte er schwören können, dass eine leise, zischelnde Stimme sagte: »Brasilien, ich komme .  ..  tschüsss, Amigo.«
 
-vorbeiglitt (vorbeigleiten)	> slid
-leise	> low/faint
+vorbeiglitt (vorbeigleiten)
+leise
 
 > The keeper of the reptile house was in shock.
 
 ¶ Der Obertierpfleger des Reptilienhauses stand unter Schock.
 
-der Obertierpfleger	> keeper; caretaker
+der Obertierpfleger
 
 > ‘But the glass,’ he kept saying, ‘where did the glass go?’
 
@@ -1442,16 +1442,16 @@ der Obertierpfleger	> keeper; caretaker
 
 brühte (brühen)
 die Tasse
-stark	> strong
+stark
 süß
-überschlug sich (überschlagen sich)	> over and over again
-die Entschuldigung	> apology
+überschlug sich (überschlagen sich)
+die Entschuldigung
 
 > Piers and Dudley could only gibber.
 
 ¶ Piers und Dudley schnatterten nur noch.
 
-schnatterten (schnattern)	> gibber
+schnatterten (schnattern)
 
 > As far as Harry had seen, the snake hadn’t done anything except snap playfully at their heels as it passed, but by the time they were all back in Uncle Vernon’s car, Dudley was telling them how it had nearly bitten off his leg, while Piers was swearing it had tried to squeeze him to death.
 
@@ -1459,41 +1459,41 @@ schnatterten (schnattern)	> gibber
 
 soweit
 getan	tun
-spielerisch	> playfully
-die Fersen	> heels
-schlenzen	> snap/flick
-erzählte (erzählen)	> told
-abgebissen (abbeißen)	> bitten off
-totzuquetschen	> squeeze to death
+spielerisch
+die Fersen
+schlenzen
+erzählte (erzählen)
+abgebissen (abbeißen)
+totzuquetschen
 
 > But worst of all, for Harry at least, was Piers calming down enough to say, ‘Harry was talking to it, weren’t you, Harry?’
 
 ¶ Doch am schlimmsten für Harry war, dass Piers, als er sich ein wenig beruhigt hatte, sagte: »Harry hat mit ihr gesprochen, nicht wahr, Harry?«
 
-ein wenig	> a little
+ein wenig
 beruhigt (beruhigen)
 
 > Uncle Vernon waited until Piers was safely out of the house before starting on Harry.
 
 ¶ Onkel Vernon wartete, bis Piers endgültig aus dem Haus war, bevor er sich Harry vorknöpfte.
 
-wartete (warten)	> waited
-endgültig	> out
-vorknöpfte (vorknöpfen)	> "staring on"
+wartete (warten)
+endgültig
+vorknöpfte (vorknöpfen)
 
 > He was so angry he could hardly speak.
 
 ¶ Er war so wütend, dass er kaum ein Wort hervorbrachte.
 
-das Wort	> word
-hervorbrachte (hervorbringen)	> [be able] to say[?]
+das Wort
+hervorbrachte (hervorbringen)
 
 > He managed to say, ‘Go – cupboard – stay – no meals,’ before he collapsed into a chair and Aunt Petunia had to run and get him a large brandy.
 
 ¶ »Geh - Schrank - bleib - kein Essen«, konnte er gerade noch herauswürgen, bevor er auf einem Stuhl zusammensackte und Tante Petunia ihm schleunigst einen großen Cognac bringen musste.
 
 herauswürgen
-schleunigst	> quickly; in a hurry
+schleunigst
 
 > Harry lay in his dark cupboard much later
 
@@ -1501,21 +1501,21 @@ schleunigst	> quickly; in a hurry
 
 Hätte er doch nur eine Uhr.
 
-die Uhr	> clock/watch
+die Uhr
 
 Er wusste nicht, wie spät es war, und er war sich nicht sicher, ob die Dursleys schon schliefen.
 
-spät	> late
+spät
 
 Bis es so weit war, konnte er es nicht riskieren, in die Küche zu schleichen und sich etwas zu essen zu holen.
 
-holen	> seek out
+holen
 
-> He’d lived with the Dursleys almost ten years, ten miserable years, as long as he could remember, 
+> He’d lived with the Dursleys almost ten years, ten miserable years, as long as he could remember,
 
 ¶ Fast zehn Jahre lebte er nun bei den Dursleys, solange er sich erinnern konnte, und es waren zehn elende Jahre gewesen.
 
-elend	> miserable/bad
+elend
 
 > ever since he’d been a baby and his parents had died in that car crash.
 
@@ -1529,18 +1529,18 @@ elend	> miserable/bad
 
 ¶ Manchmal, wenn er sich während der langen Stunden im Schrank ganz angestrengt zu erinnern suchte, tauchte eine unheimliches Bild vor seinen Augen auf:
 
-manchmal	> sometimes
-anstrengen	> strained
-unheimlich	> strange
+manchmal
+anstrengen
+unheimlich
 
 > a blinding flash of green light and a burning pain on his forehead.
 
 ¶ ein blendend heller Blitz aus grünem Licht und ein brennender Schmerz auf seiner Stirn.
 
-blendend	> blinding
-hell	> bright
-der Blitz	> flash
-der Schmerz	> pain
+blendend
+hell
+der Blitz
+der Schmerz
 
 > This, he supposed, was the crash, though he couldn’t imagine where all the green light came from.
 
@@ -1562,9 +1562,9 @@ der Schmerz	> pain
 
 ¶ Als Harry noch Jünger gewesen war, hatte er immer und immer wieder von einem unbekannten Verwandten geträumt, der kommen und ihn mitnehmen würde, aber das war nie Wirklichkeit geworden;
 
-unbekannt	> stranger/unknown
-Verwandte	> relative
-geworden (werden)	> happened
+unbekannt
+Verwandte
+geworden (werden)
 
 *
 
@@ -1576,8 +1576,8 @@ geworden (werden)	> happened
 
 ¶ Doch manchmal hatte er den Eindruck (oder vielleicht die Hoffnung), dass Unbekannte auf der Straße ihn zu kennen schienen.
 
-kennen	> know
-schienen	> seemed
+kennen
+schienen
 
 > Very strange strangers they were, too.
 
@@ -1589,44 +1589,44 @@ das übrigens
 
 ¶ Einmal, als er mit Tante Petunia und Dudley beim Einkaufen war, hatte sich ein kleiner Mann mit einem violetten Zylinder vor ihm verneigt.
 
-der Zylinder	> tophat
+der Zylinder
 verneigt (verneigen)
 
 > After asking Harry furiously if he knew the man, Aunt Petunia had rushed them out of the shop without buying anything.
 
 ¶ Tante Petunia fragte Harry ganz entsetzt, ob er den Mann kenne, und schubste ihn und Dudley hastig aus dem Laden, ohne etwas zu kaufen.
 
-ohne	> without
+ohne
 
 > A wild-looking old woman dressed all in green had waved merrily at him once on a bus.
 
 ¶ Ein andermal hatte ihm eine wild aussehende, ganz in Grün gekleidete alte Frau im Bus fröhlich zugewinkt.
 
-aussehende	> looking/appearing
-gekleidete (kleiden)	> dressed
-zugewinkt (zuwinken)	> waved to
+aussehende
+gekleidete (kleiden)
+zugewinkt (zuwinken)
 
 > A bald man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word.
 
 ¶ Und ein glatzköpfiger Mann mit einem sehr langen, purpurnen Umhang hatte ihm doch tatsächlich mitten auf der Straße die Hand geschüttelt und war dann ohne ein Wort zu sagen weitergegangen.
 
-glatzköpfiger	> bald
-weitergegangen (weitergehen)	> left
+glatzköpfiger
+weitergegangen (weitergehen)
 
 > The weirdest thing about all these people was the way they seemed to vanish the second Harry tried to get a closer look.
 
 ¶ Das Seltsamste an all diesen Leuten war, dass sie zu verschwinden schienen, wenn Harry versuchte sie genauer anzusehen.
 
-seltsam	> weird
-anzusehen (ansehen)	> looked
-genauer	> closer/more precise
+seltsam
+anzusehen (ansehen)
+genauer
 
 > Everybody knew that Dudley’s gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley’s gang.
 
 ¶ Jeder wusste, dass Dudleys Bande diesen komischen Harry Potter mit seinen ausgebeulten alten Klamotten und seiner zerbrochenen Brille nicht ausstehen konnte, und niemand mochte Dudleys Bande in die Quere kommen.
 
-komisch	> odd
-ausstehen	> to bear/put up with
+komisch
+ausstehen
 
 > The escape of the Brazilian boa constrictor earned Harry his longest-ever punishment.
 
@@ -1644,17 +1644,17 @@ bisher
 ¶ Dudley hatte seine neue Videokamera schon längst zertrümmert und sein ferngesteuertes Flugzeug zu Bruch geflogen.
 
 längst
-zertrümmert	> broken
-der Bruch	> crashed / broken
+zertrümmert
+der Bruch
 
 > first time on his racing bike, knocked down old Mrs Figg as she crossed Privet Drive on her crutches.
 
 ¶ Bei seiner ersten Fahrt mit dem Rennrad hatte er die alte Mrs. Figg, die gerade auf ihre Krücken gestützt den Ligusterweg überquerte, über den Haufen geradelt.
 
-die Krücke	> crutches
-gestützt (stützen)	> on
-überquerte (überqueren)	> crossed
-der Haufen	> pile
+die Krücke
+gestützt (stützen)
+überquerte (überqueren)
+der Haufen
 geradelt (radeln)
 
 > Harry was glad school was over, but there was no escaping Dudley’s gang, who visited the house every single day.
@@ -1673,36 +1673,36 @@ entkommen
 
 ¶ Die andern schlossen sich mit ausgesprochenem Vergnügen Dudleys Lieblingssport an: Harry Jagen.
 
-schlossen (schließen)	> joined
-ausgesprochen	> decided
-das Vergnügen	> joy
+schlossen (schließen)
+ausgesprochen
+das Vergnügen
 
 > This was why Harry spent as much time as possible out of the house, wandering around
 
 ¶ Deshalb verbrachte Harry möglichst viel Zeit außer Haus und wanderte durch die Straßen.
 
 deshalb
-möglichst	> most possible
+möglichst
 
 > thinking about the end of the holidays, where he could see a tiny ray of hope.
 
 ¶ Das baldige Ende der Ferien war ein kleiner Hoffnungsschimmer.
 
-baldig	> quick/speedy
-der Hoffnungsschimmer	> shimmer of hope
+baldig
+der Hoffnungsschimmer
 
 > When September came he would be going off to secondary school and, for the first time in his life, he wouldn’t be with Dudley.
 
 ¶ Im September würde er auf die höhere Schule kommen und zum ersten Mal im Leben nicht mehr mit Dudley zusammen sein.
 
-höhere (hoch)	> upper
+höhere (hoch)
 
 > Harry, on the other hand, was going to Stonewall High, the local comprehensive.
 
 ¶ Harry dagegen kam in die Stonewall High Scheel, die Gesamtschule in der Nachbarschaft.
 
-dagegen	> on the other hand
-der Nachbarschaft	> neighborhood
+dagegen
+der Nachbarschaft
 
 *
 
@@ -1731,7 +1731,7 @@ geschluckt (schlucken)
 ¶ Dann rannte er los, bevor sich Dudley einen Reim daraus machen konnte.
 
 los	weg
-daraus	> out of it
+daraus
 
 > One day in July, Aunt Petunia took Dudley to London to buy his Smeltings uniform, leaving Harry at Mrs Figg’s.
 
@@ -1790,10 +1790,10 @@ der Lehrer
 gegenseitig
 
 > This was supposed to be good training for later life.
-  
+
 ¶ Das galt als gute Übung fürs spätere Leben.
 
-galt als	> considered to be
+galt als
 die Übung
 
 > As he looked at Dudley in his new knickerbockers, Uncle Vernon said gruffly that it was the proudest moment of his life.
@@ -1835,36 +1835,36 @@ Ich wäre so gern...
 
 ¶ Die wohl geheimnisvollste Spezies unseres Planeten.
 
-wohl	> probably
-geheimnisvoll	> mysterious
-unser	> our
+wohl
+geheimnisvoll
+unser
 
 Wer sind wir? Woher kommen wir?  Wohin gehen wir?
 
-wer	> who
-woher	> where
+wer
+woher
 
 Woher wissen wir, was wir zu wissen glauben?
 
-woher	> why
+woher
 
 > Why do we believe anything at all?
 
 ¶ Wieso glauben wir überhaupt etwas?
 
-wieso	> why
+wieso
 
 > an answer that will give rise to a new question,
 
 ¶ Eine Antwort, die wieder eine neue Frage aufwerfen wird.
 
-aufwerfen	> raise
+aufwerfen
 
 > But, in the end, isn't it always the same question?
 
 ¶ Doch ist es am Ende nicht immer wieder die gleiche Frage...
 
-gleich	> same
+gleich
 
 > The ball is round. The game lasts 90 minutes. That's a fact.
 
@@ -1878,8 +1878,8 @@ klar
 
 ¶ Was ist denn? Wo bist du?
 
-wo	> where
-was ist denn?	> what's up?
+wo
+was ist denn?
 
 > Where am I? Where were you, damn it?
 
@@ -1890,7 +1890,7 @@ warst
 Wieso kommst du ausgerechnet heute zu spät?  Du bist doch immer
 pünktlich. Immer!
 
-ausgerechnet	> "of all"
+ausgerechnet
 
 
 > My moped got ripped off.
@@ -1912,11 +1912,11 @@ die Schuld
 
 die Kippe
 
-> When I noticed, it was too late. 
+> When I noticed, it was too late.
 
 ¶ Und ich seh das erst viel zu spät.
 
-erst	> until
+erst
 
 > There was a horrible smell in the kitchen next morning when Harry went in for breakfast.
 
@@ -2073,14 +2073,14 @@ der Buchstabe
 
 ¶ Er gluckste über seinen eigenen Scherz.
 
-der Scherz	> joke
+der Scherz
 
 > Harry went back to the kitchen, still staring at his letter.
 
 ¶ Harry kam in die Küche zurück, den Blick unverwandt auf den Brief gerichtet.
 
 unverwandt
-gerichtet	> riveted; glued-to
+gerichtet
 
 > He handed Uncle Vernon the bill and the postcard, sat down and slowly began to open the yellow envelope.
 
@@ -2090,22 +2090,22 @@ gerichtet	> riveted; glued-to
 
 ¶ Onkel Vernon riss den Brief mit der Rechnung auf, schnaubte vor Abscheu, und überflog die Postkarte.
 
-schnaubte (schnauben)	> snorted
-der/die Abscheu	> disgust
-überflog (überfliegen)	> scanned
+schnaubte (schnauben)
+der/die Abscheu
+überflog (überfliegen)
 
 > ‘Marge’s ill,’ he informed Aunt Petunia.
 
 ¶ »Marge ist krank«, teilte er Tante Petunia mit.
 
-krank	> sick
+krank
 
 > Harry was on the point of unfolding his letter, which was written on the same heavy parchment as the envelope, when it was jerked sharply out of his hand by Uncle Vernon.
 
 ¶ Harry war gerade dabei, den Brief zu entfalten, der aus demselben schweren Pergament bestand wie der Umschlag, als Onkel Vernon ihm das Blatt aus der Hand riss.
 
-entfalten	> unfold
-das Blatt	> paper/letter/leaf
+entfalten
+das Blatt
 
 > ‘That’s mine!’ said Harry, trying to snatch it back.
 
@@ -2117,14 +2117,14 @@ wegzuschnappen
 
 ¶ »Wer sollte dir denn schreiben?«, höhnte Onkel Vernon, schüttelte das zusammengefaltete Blatt mit einer Hand auseinander und begann zu lesen.
 
-höhnte (höhnen)	> taunted
-zusammengefaltete	> folded-up
+höhnte (höhnen)
+zusammengefaltete
 
 > His face went from red to green faster than a set of traffic lights.
 
 ¶ Sein Gesicht wechselte schneller von Rot zu Grün als eine Verkehrsampel.
 
-wechselte (wechseln)	> changed
+wechselte (wechseln)
 die Verkehrsampel
 
 > And it didnt stop there.
@@ -2725,7 +2725,7 @@ aufgehalten
 links
 rechts
 
-> Even Aunt Petunia didnt dare ask where they were going. 
+> Even Aunt Petunia didnt dare ask where they were going.
 
 ¶ Selbst Tante Petunia wagte nicht zu fragen, wo sie denn hinfuhren.
 
@@ -2778,7 +2778,7 @@ feucht
 
 die Lichter
 
-> They ate stale cornflakes and cold tinned tomatoes on toast for breakfast next day. 
+> They ate stale cornflakes and cold tinned tomatoes on toast for breakfast next day.
 
 ¶ Am nächsten Morgen frühstückten sie muffige Cornflakes und kalte Dosentomaten auf Toast.
 
@@ -2949,7 +2949,7 @@ peitschte (peitschen)
 > After what seemed like hours they reached the rock, where Uncle Vernon, slipping and sliding, led the way to the broken-down house.
 
 ¶ Nach Stunden, so kam es ihnen vor, erreichten sie den Fels, wo sie Onkel Vernon rutschend und schlitternd zu dem heruntergekommenen Haus führte.
- 
+
 erreichten (erreichen)
 der Fels
 rutschend (rutschen)
@@ -3176,7 +3176,7 @@ der Käfer
 gebeugt (beugen)
 streifte (streifen)
 
-> He bent down, picked up the door and fitted it easily back into its frame. 
+> He bent down, picked up the door and fitted it easily back into its frame.
 
 ¶ Er bückte sich, stellte die Tür aufrecht und setzte sie mit leichter Hand wieder in den Rahmen ein.
 
@@ -3303,7 +3303,7 @@ vorstellen
 ¶ Er streckte eine gewaltige Hand aus und schüttelte Harrys ganzen Arm.
 
 gewaltig
- 
+
 > ‘What about that tea then, eh?’ he said, rubbing his hands together.
 
 ¶ »Was ist nun eigentlich mit dem Tee?«, sagte er und rieb sich die Hände.
@@ -3515,7 +3515,7 @@ dabei
 
 ¶ »Ich hab gesehen, wie Dumbledore ihn dort hingelegt hat, Dursley!«
 
-hinglegen 
+hinglegen
 
 > ‘An’ you’ve kept it from him all these years?’
 
@@ -3552,13 +3552,13 @@ herrschte (herrschen)
 ächzen
 tief
 
-> ‘A wizard, o’ course,’ said Hagrid, sitting back down on the sofa, which groaned and sank even lower, ‘an’ a thumpin’ good’un, I’d say, once yeh’ve been trained up a bit. 
+> ‘A wizard, o’ course,’ said Hagrid, sitting back down on the sofa, which groaned and sank even lower, ‘an’ a thumpin’ good’un, I’d say, once yeh’ve been trained up a bit.
 
 ¶ »Und ein verdammt guter noch dazu, würde ich sagen, sobald du mal 'n bisschen Übung hast.
 
 sobald
 
-> Harry stretched out his hand at last to take the yellowish envelope, addressed in emerald green to Mr H.  Potter, The Floor, Hut-on-the-Rock, The Sea.  
+> Harry stretched out his hand at last to take the yellowish envelope, addressed in emerald green to Mr H.  Potter, The Floor, Hut-on-the-Rock, The Sea.
 
 ¶ Harry streckte die Hand aus und nahm endlich den gelblichen Umschlag, der in smaragdgrüner Schrift adressiert war an Mr. H.  Potter, Der Fußboden, Hütte-auf-dem-Fels, Das Meer.
 
@@ -4265,17 +4265,91 @@ geschäftlich
 
 wichtig
 
+¶ Dich abholen, etwas von Gringotts besorgen, weiß, dass er mir vertrauen kann, verstehst du.
+
+abholen
+vertrauen
+
+¶ Der Himmel war Jetzt klar und das Meer schimmerte im Sonnenlicht.
+
+der Himmel
+
+¶ Das Boot, das Onkel Vernon gemietet hatte, lag noch da.
+
+gemietet (mieten)
+
+¶ Viel Wasser hatte sich auf dem Boden angesammelt.
+
+angesammelt (ansammeln)
+
+¶ »Schande allerdings, dass man rudern muss«, sagte Hagrid und sah Harry wieder mit einem seiner Blicke von der Seite her an.
+
+allerdings
+rudern
+
+¶ »Wenn ich ... ähm ... die Sache etwas beschleunigen würde, wärst du so freundlich und würdest in Hogwarts nichts davon sagen?«
+
+beschleunigen
+
+¶ »Klar«, sagte Harry, gespannt darauf, mehr von Hagrids Zauberkünsten zu sehen.
+
+gespannt
+
+¶ Hagrid zog den rosa Schirm hervor, schlug ihn zweimal sachte gegen die Seitenwand des Bootes, und schon rauschten sie in Richtung Küste davon.
+
+die Seitenwand
+
+¶ Es heißt, die Hochsicherheitsverliese werden von Drachen bewacht.
+
+hochsicherheits-
+das Verliese
+heißt (heißen)
+der Drachen
+bewacht (bewachen)
+
+¶ Du stirbst vor Hunger, bevor du wieder ans Tageslicht kommst, auch wenn du dir was unter den Nagel gerissen hast.
+
+unter den Nagel gerissen
+
+¶ »Zaubereiministerium vermasselt mal wieder alles, wie Üblich«, brummte Hagrid und blätterte um.
+
+vermasselt (vermasseln)
+blätterte (blättern)
+
+¶ »Es gibt ein Ministerium für Zauberei?«, platzte Harry los.
+
+platzte (platzen)
+
+¶ Gibt keinen größeren Stümper.
+
+der Stümper
+
+Schickt also Durnbledore Jeden Morgen ein Dutzend Eulen und fragt ihn um Rat.«
+
+»Aber was tut ein Zaubereinünisterium?«
+
+»Nun, seine Hauptaufgabe ist, vor den Muggels geheim zu halten, dass es landauf, landab immer noch Hexen und Zauberer gibt.«
+
+»Warum?«
+
+»Warum? Mein Güte, Harry, die wären doch ganz scharf darauf, dass wir ihre Schwierigkeiten mit magischen Kräften lösen. Nö, die sollen uns mal in Ruhe lassen.«
+
+In diesem Augenblick stupste das Boot sanft gegen die Hafenmauer. Hagrid faltete die Zeitung zusammen und sie stiegen die Steintreppe zur Straße empor.
+
+Die Menschen auf den Straßen der kleinen Stadt starrten Hagrid mit großen Augen an. Harry konnte es ihnen nicht verübeln. Hagrid war nicht nur doppelt so groß wie alle anderen, er zeigte auch auf ganz gewöhnliche Dinge wie Parkuhren und rief dabei laut:
+
+»Schau dir das an, Harry. Solche Sachen lassen sich die Muggels einfallen, nicht zu fassen!«
+
+»Hagnid«, sagte Harry ein wenig außer Atem, weil er rennen musste, um Schritt zu halten. »Hast du gesagt, bei Griingotts gebe es Drachen?«
+
+»Ja, so heißt es«, sagte Hagrid. »Mann, ich hätte gern einen Drachen.«
+
+»Du hättest gerne einen?«
+
+»Schon als kleiner Junge wollte ich einen - hier lang.«
+
+Sie waren am Bahnhof angekommen. In fünf Minuten ging ein Zug nach London. Hagrid, der mit »Muggelgeld«, wie er es nannte, nicht zurechtkam, reichte Harry ein paar Scheine, mit denen er die Fahrkarten kaufte.
 
 
-
-Dich abholen, etwas von Gringotts besorgen, weiß, dass er mir vertrauen kann, verstehst du. Alles klar? Na dann los.«
-
-Harry folgte Hagrid hinaus auf den Felsen. Der Himmel war Jetzt klar und das Meer schimmerte im Sonnenlicht. Das Boot, das Onkel Vernon gemietet hatte, lag noch da. Viel Wasser hatte sich auf dem Boden angesammelt.
-
-»Wie bist du hergekommen?«, fragte Harry und sah sich nach einem zweiten Boot um.
-
-»Geflogen«, sagte Hagrid.
-
-»Geflogen?«
 
 300 900 2000 4000 8000 16000
