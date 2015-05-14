@@ -4324,32 +4324,92 @@ platzte (platzen)
 
 der Stümper
 
-Schickt also Durnbledore Jeden Morgen ein Dutzend Eulen und fragt ihn um Rat.«
+¶ Schickt also Dumbledore Jeden Morgen ein Dutzend Eulen und fragt ihn um Rat.
 
-»Aber was tut ein Zaubereinünisterium?«
+schickt (schicken)
+der Rat
 
-»Nun, seine Hauptaufgabe ist, vor den Muggels geheim zu halten, dass es landauf, landab immer noch Hexen und Zauberer gibt.«
+¶ »Nun, seine Hauptaufgabe ist, vor den Muggels geheim zu halten, dass es landauf, landab immer noch Hexen und Zauberer gibt.«
 
-»Warum?«
+die Hauptaufgabe
+geheim
+landauf, landab
 
-»Warum? Mein Güte, Harry, die wären doch ganz scharf darauf, dass wir ihre Schwierigkeiten mit magischen Kräften lösen. Nö, die sollen uns mal in Ruhe lassen.«
+¶ In diesem Augenblick stupste das Boot sanft gegen die Hafenmauer.
 
-In diesem Augenblick stupste das Boot sanft gegen die Hafenmauer. Hagrid faltete die Zeitung zusammen und sie stiegen die Steintreppe zur Straße empor.
+stupste (stupsen)
+die Hafenmauer
 
-Die Menschen auf den Straßen der kleinen Stadt starrten Hagrid mit großen Augen an. Harry konnte es ihnen nicht verübeln. Hagrid war nicht nur doppelt so groß wie alle anderen, er zeigte auch auf ganz gewöhnliche Dinge wie Parkuhren und rief dabei laut:
+¶ Hagrid faltete die Zeitung zusammen und sie stiegen die Steintreppe zur Straße empor.
 
-»Schau dir das an, Harry. Solche Sachen lassen sich die Muggels einfallen, nicht zu fassen!«
+faltete (falten)
+stiegen
+die Steintreppe
+empor
 
-»Hagnid«, sagte Harry ein wenig außer Atem, weil er rennen musste, um Schritt zu halten. »Hast du gesagt, bei Griingotts gebe es Drachen?«
+¶ Harry konnte es ihnen nicht verübeln.
 
-»Ja, so heißt es«, sagte Hagrid. »Mann, ich hätte gern einen Drachen.«
+verübeln
 
-»Du hättest gerne einen?«
+¶ Hagrid war nicht nur doppelt so groß wie alle anderen, er zeigte auch auf ganz gewöhnliche Dinge wie Parkuhren und rief dabei laut:
 
-»Schon als kleiner Junge wollte ich einen - hier lang.«
+die Parkuhr
 
-Sie waren am Bahnhof angekommen. In fünf Minuten ging ein Zug nach London. Hagrid, der mit »Muggelgeld«, wie er es nannte, nicht zurechtkam, reichte Harry ein paar Scheine, mit denen er die Fahrkarten kaufte.
+¶ »Hagrid«, sagte Harry ein wenig außer Atem, weil er rennen musste, um Schritt zu halten.
+
+Schritt zu halten
+
+¶ Sie waren am Bahnhof angekommen.
+
+der Bahnhof
+
+¶ In fünf Minuten ging ein Zug nach London.
+
+der Zug
+
+¶ Hagrid, der mit »Muggelgeld«, wie er es nannte, nicht zurechtkam, reichte Harry ein paar Scheine, mit denen er die Fahrkarten kaufte.
+
+zurechtkam (zurechtkommen)
+der Schein
+
+¶ Im Zug glotzten die Leute noch mehr.
+
+glotzten
+
+¶ Hagrid, der zwei Sitzplätze brauchte, strickte während der Fahrt an etwas, das aussah wie ein kanariengelbes Zirkuszelt.
+
+strickte (stricken)
+kanariengelb
+das Zirkuszelt
 
 
+»Hast deinen Brief noch, Harry?«, fragte er, während er die Maschen zählte.
+
+Harry zog den Pergarnentumschlag aus der Tasche.
+
+»Gut«, sagte Hagrid. »Da ist eine Liste drin mit allem, was du brauchst.«
+
+Harry entfaltete einen zweiten Bogen Papier, den er in der Nacht zuvor nicht bemerkt hatte, und las:
+
+HOGWARTS-SCHULE FÜR HEXEREI UND ZAUBEREI
+Uniforin
+
+Im ersten Jahr benötigen die Schüler:
+
+1. Drei Garnituren einfache Arbeitskleidung (schwarz)
+2. Einen einfachen Spitzhut (schwarz) für tagsüber
+3. Ein Paar Schutzhandschuhe (Drachenhaut o. Ä.)
+4. Einen Winterumhang (schwarz, mit silbernen Schnallen)
+
+Bitte beachten Sie, dass alle Kleidungsstücke der Schüler mit Namensetiketten versehen sein müssen.
+
+Lehrbücher Alle Schüler sollten Jeweils ein Exemplar der folgenden Werke besitzen:
+
+- Miranda Habicht: Lehrbuch der Zaubersprüche, Band 1
+- Bathilda Bagshot: Geschichte der Zauberei
+- Adalbert Schwahfel: Theorie der Magie
+- Emeric Wendel: Verwandlungenftir Anfdnger
+- Phyllida Spore: Tausend Zauberkräuter und -pilze
+- Arsenius Bunsen: Zaubertränke und Zauberbräue
 
 300 900 2000 4000 8000 16000
