@@ -4382,31 +4382,55 @@ strickte (stricken)
 kanariengelb
 das Zirkuszelt
 
+¶ »Hast deinen Brief noch, Harry?«, fragte er, während er die Maschen zählte.
 
-»Hast deinen Brief noch, Harry?«, fragte er, während er die Maschen zählte.
+die Maschen
 
-Harry zog den Pergarnentumschlag aus der Tasche.
+¶ Harry entfaltete einen zweiten Bogen Papier, den er in der Nacht zuvor nicht bemerkt hatte, und las:
 
-»Gut«, sagte Hagrid. »Da ist eine Liste drin mit allem, was du brauchst.«
+¶ Drei Garnituren einfache Arbeitskleidung (schwarz)
 
-Harry entfaltete einen zweiten Bogen Papier, den er in der Nacht zuvor nicht bemerkt hatte, und las:
+die Garnitur
+die Arbeitskleidung
 
-HOGWARTS-SCHULE FÜR HEXEREI UND ZAUBEREI
-Uniforin
+¶ Einen einfachen Spitzhut (schwarz) für tagsüber.
 
-Im ersten Jahr benötigen die Schüler:
+die Spitzhut
+tagsüber
 
-1. Drei Garnituren einfache Arbeitskleidung (schwarz)
-2. Einen einfachen Spitzhut (schwarz) für tagsüber
-3. Ein Paar Schutzhandschuhe (Drachenhaut o. Ä.)
-4. Einen Winterumhang (schwarz, mit silbernen Schnallen)
 
-Bitte beachten Sie, dass alle Kleidungsstücke der Schüler mit Namensetiketten versehen sein müssen.
+¶ Ein Paar Schutzhandschuhe (Drachenhaut o. Ä.)
 
-Lehrbücher Alle Schüler sollten Jeweils ein Exemplar der folgenden Werke besitzen:
+der Schutzhandschuhe
+die Drachenhaut
 
-- Miranda Habicht: Lehrbuch der Zaubersprüche, Band 1
-- Bathilda Bagshot: Geschichte der Zauberei
+¶ Einen Winterumhang (schwarz, mit silbernen Schnallen)
+
+silbern
+die Schnalle
+
+¶ Bitte beachten Sie, dass alle Kleidungsstücke der Schüler mit Namensetiketten versehen sein müssen.
+
+beachten
+das Kleidungsstück
+Namensetiketten
+
+¶ Lehrbücher Alle Schüler sollten Jeweils ein Exemplar der folgenden Werke besitzen:
+
+das Lehrbuch
+jeweils
+das Werk
+besitzen
+
+¶ Lehrbuch der Zaubersprüche, Band 1
+
+der Zaubersprüche
+
+¶ Geschichte der Zauberei
+
+die Geschichte
+
+
 - Adalbert Schwahfel: Theorie der Magie
 - Emeric Wendel: Verwandlungenftir Anfdnger
 - Phyllida Spore: Tausend Zauberkräuter und -pilze
