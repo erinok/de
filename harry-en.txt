@@ -1140,8 +1140,6 @@ Harry unfolded a second piece of paper he hadn’t noticed the night before and 
 
 HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY
 
-
-
 Uniform
 
 First-year students will require:
@@ -1156,6 +1154,7 @@ Please note that all pupils’ clothes should carry name tags
 Set Books
 
 All students should have a copy of each of the following:
+
 The Standard Book of Spells (Grade 1) by Miranda Goshawk
 A History of Magic by Bathilda Bagshot
 Magical Theory by Adalbert Waffling
