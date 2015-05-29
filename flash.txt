@@ -4475,11 +4475,48 @@ der Besen
 
 ¶ Hagrid schien zwar zu wissen, wo er hinwollte, doch offensichtlich war er es nicht gewohnt, auf normalem Weg dorthin zu gelangen.
 
+offensichtlich
+gelangen
 
-Er verhedderte sich im Drehkreuz zur Untergrundbahn und beschwerte sich laut, die Sitze seien zu klein und die Züge zu lahm.
+¶ Er verhedderte sich im Drehkreuz zur Untergrundbahn und beschwerte sich laut, die Sitze seien zu klein und die Züge zu lahm.
 
-»Keine Ahnung, wie die Muggels zurechtkommen ohne Zauberei«, meinte er, als sie eine kaputte Rolltreppe einporkletterten, die auf eine belebte, mit Läden gesäumte Straße führte.
+verhedderte (verheddern)
+das Drehkreuz
 
-Hagrid war ein solcher Riese, dass er ohne Mühe einen Keil in die Menschenmenge trieb, und Harry brauchte sich nur dicht hinter ihm zu halten.
+¶ »Keine Ahnung, wie die Muggels zurechtkommen ohne Zauberei«, meinte er, als sie eine kaputte Rolltreppe ein por kletterten, die auf eine belebte, mit Läden gesäumte Straße führte.
+
+die Rolltreppe
+belebte
+Läden
+gesäumte (säumen)
+
+¶ Hagrid war ein solcher Riese, dass er ohne Mühe einen Keil in die Menschenmenge trieb, und Harry brauchte sich nur dicht hinter ihm zu halten.
+
+Mühe
+der Keil
+Menschenmenge
+trieb (treiben)
+
+¶ Sie gingen an Buchhand Lungen und Musikläden vorbei, an Schnellimbissen und Kinos, doch nirgends sah es danach aus, als ob es Zauberstäbe zu kaufen gäbe.
+
+Buchhand
+die Lunge
+Musikläden
+vorbei
+der Schnellimbiss
+nirgends
+danach
+
+
+Dies war eine ganz gewöhnliche Straße voll ganz gewöhnlicher Menschen. Konnte es wirklich sein, dass viele Meilen unter ihnen haufenweise Zauberergold vergraben war? War all dies vielleicht nur ein gewaltiger Jux, den die Dursleys ausgeheckt hatten? Das hätte Harry vielleicht geglaubt, wenn er nicht gewusst hätte, dass die Dursleys keinerlei Sinn für Humor besaßen. Doch obwohl alles, was Hagrid ihm bisher erzählt hatte, schlicht unfassbar war, konnte er einfach nicht anders, als ihm zu vertrauen.
+
+»Hier ist es«, sagte Hagrid und blieb stehen. »Zum Tropfenden Kessel. Den Laden kennt Jeder.«
+
+Es war ein kleiner, schmuddelig wirkender Pub. Harry hätte ihn nicht einmal bemerkt, wenn Hagrid nichts gesagt hätte. Die vorbeiellenden Menschen beachteten ihn nicht. Ihre Blicke wanderten von der großen Buchhandlung auf der einen Seite zum Plattenladen auf der anderen Seite, als könnten sie den Tropfenden Kessel überhaupt nicht sehen. Tatsächlich hatte Harry das ganz eigentümliche Gefühl, dass nur er und Hagrid ihn sahen.
+
+Doch bevor er den Mund aufmachen konnte, schob ihn Hagrid zur Tür hinein. Für einen berühmten Ort war es hier sehr dunkel und schäbig. In einer Ecke saßen ein paar alte Frauen und tranken Sherry aus kleinen Gläsern. Eine von ihnen rauchte eine lange Pfeife. Ein kleiner Mann mit Zylinder sprach mit dem alten Wirt, der vollkommen kahlköpfig war und aussah wie eine klebrige Walnuss. Als sie eintraten, verstummte das leise Summen der Gespräche. Hagrid schienen alle zu kennen; sie winkten und lächelten ihm zu, und der Wirt griff nach einem Glas:
+
+»Das Übliche, Hagrid?«
+
 
 300 900 2000 4000 8000 16000
