@@ -4501,18 +4501,46 @@ trieb (treiben)
 
 Buchhand
 die Lunge
-Musikläden
+die Musikläden
 vorbei
 der Schnellimbiss
 nirgends
 danach
 
+¶ Konnte es wirklich sein, dass viele Meilen unter ihnen haufenweise Zauberergold vergraben war?
 
-Dies war eine ganz gewöhnliche Straße voll ganz gewöhnlicher Menschen. Konnte es wirklich sein, dass viele Meilen unter ihnen haufenweise Zauberergold vergraben war? War all dies vielleicht nur ein gewaltiger Jux, den die Dursleys ausgeheckt hatten? Das hätte Harry vielleicht geglaubt, wenn er nicht gewusst hätte, dass die Dursleys keinerlei Sinn für Humor besaßen. Doch obwohl alles, was Hagrid ihm bisher erzählt hatte, schlicht unfassbar war, konnte er einfach nicht anders, als ihm zu vertrauen.
+viele
+die Meile
+haufenweise
+vergraben
 
-»Hier ist es«, sagte Hagrid und blieb stehen. »Zum Tropfenden Kessel. Den Laden kennt Jeder.«
+¶ War all dies vielleicht nur ein gewaltiger Jux, den die Dursleys ausgeheckt hatten?
 
-Es war ein kleiner, schmuddelig wirkender Pub. Harry hätte ihn nicht einmal bemerkt, wenn Hagrid nichts gesagt hätte. Die vorbeiellenden Menschen beachteten ihn nicht. Ihre Blicke wanderten von der großen Buchhandlung auf der einen Seite zum Plattenladen auf der anderen Seite, als könnten sie den Tropfenden Kessel überhaupt nicht sehen. Tatsächlich hatte Harry das ganz eigentümliche Gefühl, dass nur er und Hagrid ihn sahen.
+der Jux
+
+¶ Das hätte Harry vielleicht geglaubt, wenn er nicht gewusst hätte, dass die Dursleys keinerlei Sinn für Humor besaßen.
+
+keinerlei
+der Sinn
+besaßen	besitzen
+
+¶ Doch obwohl alles, was Hagrid ihm bisher erzählt hatte, schlicht unfassbar war, konnte er einfach nicht anders, als ihm zu vertrauen.
+
+schlicht
+unfassbar
+
+¶ »Zum Tropfenden Kessel. Den Laden kennt Jeder.«
+
+tropfenden
+der Kessel
+
+¶ Es war ein kleiner, schmuddelig wirkender Pub.
+
+schmuddelig 
+
+
+
+Harry hätte ihn nicht einmal bemerkt, wenn Hagrid nichts gesagt hätte. Die vorbeiellenden Menschen beachteten ihn nicht. Ihre Blicke wanderten von der großen Buchhandlung auf der einen Seite zum Plattenladen auf der anderen Seite, als könnten sie den Tropfenden Kessel überhaupt nicht sehen. Tatsächlich hatte Harry das ganz eigentümliche Gefühl, dass nur er und Hagrid ihn sahen.
 
 Doch bevor er den Mund aufmachen konnte, schob ihn Hagrid zur Tür hinein. Für einen berühmten Ort war es hier sehr dunkel und schäbig. In einer Ecke saßen ein paar alte Frauen und tranken Sherry aus kleinen Gläsern. Eine von ihnen rauchte eine lange Pfeife. Ein kleiner Mann mit Zylinder sprach mit dem alten Wirt, der vollkommen kahlköpfig war und aussah wie eine klebrige Walnuss. Als sie eintraten, verstummte das leise Summen der Gespräche. Hagrid schienen alle zu kennen; sie winkten und lächelten ihm zu, und der Wirt griff nach einem Glas:
 
