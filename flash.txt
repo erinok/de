@@ -4627,16 +4627,28 @@ dauerte (dauern)
 
 ¶ Endlich konnte sich Hagrid in der allgemeinen Aufregung Gehör verschaffen.
 
+allgemein
+das Gehör
 
+¶ Hagrid führte ihn durch die Bar auf einen kleinen, von Mauern umgebenen Hof hinaus, wo es nichts als einen Mülleimer und ein paar Unkräuter gab.
 
-»Wir müssen weiter - haben eine Menge einzukaufen. Komm, Harry.«
+die Mauer
+umgebenen (umgeben)
+der Hof
+das Unkräut
 
-Doris Crockford schüttelte Harry ein letztes Mal die Hand. Hagrid führte ihn durch die Bar auf einen kleinen, von Mauern umgebenen Hof hinaus, wo es nichts als einen Mülleimer und ein paar Unkräuter gab. Hagrid grinste Harry zu.
+¶ Armer Kerl.
 
-»Hab's dir doch gesagt, oder? Hab dir doch gesagt, dass du berühmt bist. Sogar Professor Quirrell hat gezittert, als er dich sah - nunja, er zittert fast ständig.«
+der Kerl
 
-»Ist er immer so nervös?«
+¶ Genialer Kopf.
 
-»O Ja. Armer Kerl. Genialer Kopf. Ging ihm gut, als er nur die Bücher studierte, doch dann hat er sich ein Jahr freigenommen, um ein wenig Erfahrung zu sammeln ... 
+genial
+
+¶ Ging ihm gut, als er nur die Bücher studierte, doch dann hat er sich ein Jahr freigenommen, um ein wenig Erfahrung zu sammeln ...
+
+freigenommen (freikommen)
+die Erfahrung
+sammeln
 
 300 900 2000 4000 8000 16000
