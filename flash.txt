@@ -4711,19 +4711,48 @@ vorbeigingen (vorbeigehen)
 die Leber
 die Unze
 
-Gedämpftes Eulengeschrei drang aus einem dunklen Laden. Auf einem Schild über dem Eingang stand:
+¶ Gedämpftes Eulengeschrei drang aus einem dunklen Laden.
 
-Eeylops Eulenkaujhaus - Waldkäuze, Zwergohreulen, Steinkäuze, Schleiereulen, Schneeeulen.
+gedämpft
+drang (drängen)
+der Laden
 
-Einige Jungen in Harrys Alter drückten ihre Nasen gegen ein Schaufenster mit Besen.
+¶ Einige Jungen in Harrys Alter drückten ihre Nasen gegen ein Schaufenster mit Besen.
 
-»Schau mal«, hörte Harry einen von ihnen sagen, »der neue Nimbus Zweitausend, der schnellste überhaupt -«
+das Schaufenstern
 
-Manche Läden verkauften nur Umhänge, andere Teleskope und merkwürdige silberne Instrumente, die Harry noch nie gesehen hatte. Es gab Schaufenster, die voll gestopft waren mit Fässern voller Fledermausmilzen und Aalaugen, wacklig gestapelten Zauberspruchfibeln, Pergamentrollen, Zaubertrankflaschen, Mondgloben ...
+¶ »Schau mal«, hörte Harry einen von ihnen sagen, »der neue Nimbus Zweitausend, der schnellste überhaupt -«
 
-»Gringotts«, sagte Hagrid. Sie waren vor einem schneeweißen Haus angelangt, das hoch über die kleinen Läden hinausragte. Neben dem blank polierten Bronzetor, in einer scharlachroten und goldbestickten Uniform stand ein
+zweitausend
 
-»Ja, das ist ein Kobold«, sagte Hagrid leise, als sie die steinernen Stufen zu ihm hochstiegen. Der Kobold war etwa einen Kopf kleiner als Harry. Er hatte ein dunkelhäutiges, kluges Gesicht, einen Spitzbart und, wie Harry auffiel, sehr lange Finger und große Füße. Mit einer Verbeugung wies er sie hinein. Wieder standen sie vor einer Doppeltür, einer silbernen diesmal, in die folgende Worte eingraviert waren:
+¶ Es gab Schaufenster, die voll gestopft waren mit Fässern voller Fledermausmilzen und Aalaugen, wacklig gestapelten Zauberspruchfibeln, Pergamentrollen, Zaubertrankflaschen, Mondgloben ...
+
+das Fass
+wacklig
+gestapelten
+die Fibel
+der Mondglobus
+
+¶ Sie waren vor einem schneeweißen Haus angelangt, das hoch über die kleinen Läden hinausragte.
+
+schneeweiß
+angelangt (anlangen)
+hinausragte (hinausragen)
+
+¶ Neben dem blank polierten Bronzetor, in einer scharlachroten und goldbestickten Uniform stand ein ...
+
+polierten (polieren)
+das Bronzetor
+scharlachrot
+goldbestickt
+
+¶ »Ja, das ist ein Kobold«, sagte Hagrid leise, als sie die steinernen Stufen zu ihm hochstiegen.
+
+steinern
+die Stufe
+hochstiegen
+
+Der Kobold war etwa einen Kopf kleiner als Harry. Er hatte ein dunkelhäutiges, kluges Gesicht, einen Spitzbart und, wie Harry auffiel, sehr lange Finger und große Füße. Mit einer Verbeugung wies er sie hinein. Wieder standen sie vor einer Doppeltür, einer silbernen diesmal, in die folgende Worte eingraviert waren:
 
 
 
