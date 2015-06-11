@@ -4768,20 +4768,38 @@ schnitten (schneiden)
 
 ¶ Um die hundert Kobolde saßen auf hohen Schemeln hinter einem langen Schalter, kritzelten Zahlen in große Folianten, wogen auf Messingwaagen Münzen ab und prüften Edelsteine mit unter die Brauen geklemmten Uhrmacherlupen.
 
-hohen
-Schemeln
-kritzelten
-Zahlen
-Folianten
+hohen (hoch) 
+der Schemel
+die Zahl
+der Foliant
 wogen
-Messingwaagen
-prüften
-Edelsteine
-Brauen
-geklemmten
-Uhrmacherlupen
+prüften (prüfen)
+der Edelsteine
+die Braue
+geklemmten (klemmen)
+die Uhrmacherlupen
+
+¶ Die “Ronja Räubertochter” der deutschsprachigen Elektro-Szene.
+
+Ronja Räubertochter
+deutschsprachigen
+die Szene
+
+¶ Wobei man fairerweise sagen muss, dass Elenka mit ihrer Musik zwar an Björk, The Knife, M83 oder Trentemøller erinnern will, aber – ob sie will oder nicht – bei mir eher für das Gefühl sorgt, 2raumwohnung (allen voran bei den Stücken Kleine Welt und Sorgenfrei) laufen zu haben.
+
+wobei
+fairerweise
+eher
+allen voran
+laufen
+sorgenfrei
+
+
+Manchmal erinnert Elenkas Haltung sogar an die von Nena, die jedes ihrer jüngeren Alben auch mindestens mit einen elektronisch-angehauchten Song schmückt. Das ist aber alles weitaus weniger schlimm, als es sich für manchen bis zum jetzigen Zeitpunkt lesen mag. Denn das Debüt von Elenka ist ein sehr gelungenes Elektro-Pop-Album geworden, das vor allem in den bevorstehenden Sommermonaten ordentlich Punkte sammeln dürfte.
+
+
+
 
 Unzählige Türen führten in anschließende Räume, und andere Kobolde geleiteten Leute herein und hinaus. Hagrid und Harry traten vor den Schalter. »Moin«, sagte Hagrid. »Wir sind hier, um ein wernig Geld aus Mr. Harry Potters Safe zu entnehmen.«  »Sie haben seinen Schlüssel, Sir?«, fragte der Kobold. »Hab ihn hier irgendwo«, sagte Hagrid und begann seine Taschen zu entleeren und ihren Inhalt auf dem Schalter auszubreiten, wobei er eine Hand voll krümellger Hundekuchen über das Kassenbuch des Kobolds verstreute. Dieser rümpfte die Nase. Harry sah dem Kobold zu ihrer Rechten dabei zu, wie er einen Haufen Rubine wog, die so groß waren wie Eierkohlen. »Hab ihn«, sagte Hagnid endlich und hielt dem Kobold einen kleinen goldenen Schlüssel vor die Nase.
-
 
 300 900 2000 4000 8000 16000
