@@ -1616,8 +1616,7 @@ Leb wohl.
 
 352
 00:33:00,292 --> 00:33:03,574
-Heute Morgen
-wurde meine EC-Karte eingezogen.
+Heute Morgen wurde meine EC-Karte eingezogen.
 
 353
 00:33:03,792 --> 00:33:07,832
