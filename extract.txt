@@ -1,35 +1,36 @@
-00:28:48,251 --> 00:28:50,620 ¶ Komm mal rüber.
-00:29:01,334 --> 00:29:04,865 ¶ Du kannst aufm Monitor zugucken.
-00:29:09,625 --> 00:29:12,374 ¶ Woher kennt ihr euch, der Matze und du?
-00:29:22,042 --> 00:29:27,197 ¶ - Schauspielschule. Das ist ewig her.
-00:29:33,167 --> 00:29:36,829 ¶ Nach ein paar Monaten hatte er ein Vorsprechen.
-00:29:42,750 --> 00:29:45,073 ¶ Die Leute sind ausgeflippt!
-00:29:45,875 --> 00:29:49,916 ¶ Tausend Angebote. Fernsehen, Kino, Theater, alles.
-00:29:56,459 --> 00:29:59,789 ¶ Nichts. Er hat alles abgesagt, fand's scheiße.
-00:30:00,084 --> 00:30:05,037 ¶ Sitzt in der Kneipe und wartet auf die richtige Rolle. Die kam nie.
-00:30:09,750 --> 00:30:12,867 ¶ Ein Riesenschauspieler und wertvoller Mensch.
-00:30:22,167 --> 00:30:25,035 ¶ - Und was sagt der Chef?
-00:30:32,875 --> 00:30:36,499 ¶ Leute, ich muss. Pflicht ruft.
-00:30:37,334 --> 00:30:38,874 ¶ Nicht weglaufen.
-00:30:40,709 --> 00:30:44,916 ¶ - (Mann) Ruhe dahinten!
-00:30:40,709 --> 00:30:44,916 ¶ - (Mann) Ruhe bitte und Ton ab!
-00:30:45,209 --> 00:30:46,998 ¶ (Mann) Ton läuft.
-00:31:23,834 --> 00:31:28,905 ¶ Berlin ist eingenommen.
-00:31:23,834 --> 00:31:28,905 ¶ Die Leute sagen, dass Hitler kapituliert hat.
-00:31:42,042 --> 00:31:44,791 ¶ Ab morgen muss ich mich verstecken.
-00:31:49,959 --> 00:31:54,865 ¶ - Dass du nicht dazugehört hast.
-00:32:13,709 --> 00:32:15,166 ¶ (schluchzen)
-00:32:38,084 --> 00:32:42,077 ¶ - Dann bist du fleißig?
-00:32:42,292 --> 00:32:45,325 ¶ - Genau, sozusagen.
-00:32:48,042 --> 00:32:52,118 ¶ Ich hab's letzte Woche schon probiert.
-00:32:52,334 --> 00:32:55,913 ¶ Hörst du deine Nachrichten denn ab?
-00:32:56,125 --> 00:33:00,071 ¶ Heute Morgen wurde meine EC-Karte eingezogen.
-00:33:11,042 --> 00:33:14,988 ¶ Bis gleich.
-00:33:43,375 --> 00:33:46,492 ¶ Leck mich am Arsch, war locker 200 Meter.
-00:34:04,292 --> 00:34:07,455 ¶ - Sein einziger.
-00:34:10,000 --> 00:34:13,330 ¶ Komm, hilf uns, ein paar Bälle wegzuhauen [wegziehen?].
-00:34:13,542 --> 00:34:19,159 ¶ - Zeig, was du drauf hast. Los.
-00:34:49,833 --> 00:34:53,448 ¶ Schatzekind, im Handgelenk nicht abknicken, ja?
-00:34:53,667 --> 00:34:58,205 ¶ Führungsarm gerade, Schwung holen, eine Bewegung, durchziehen.
-00:35:08,458 --> 00:35:10,414 ¶ (Niko räuspert sich)
-00:35:18,375 --> 00:35:20,946 ¶ Der Verlierer zahlt die Getränke.
+00:35:43,375 --> 00:35:48,198 ¶ Stell dir vor, wie du mir mit dem Schläger eins überziehst, ja?
+00:35:48,583 --> 00:35:52,115 ¶ Und wenn die Haltung stimmt, haust du drauf.
+00:36:22,250 --> 00:36:26,290 ¶ Abgeschlossenes Jurastudium.
+00:37:17,250 --> 00:37:20,746 ¶ - (Schneider) Zum Wohl.
+00:37:27,958 --> 00:37:30,447 ¶ - Hat mich gefreut. - Mhm, gleichfalls.
+00:38:47,625 --> 00:38:52,365 ¶ - Niko, warum lügst du mich an?
+00:37:43,833 --> 00:37:48,490 ¶ Ich habe Prof. Kollath kennengelernt auf einem Kongress in Zürich.
+00:37:48,708 --> 00:37:53,081 ¶ Er sagt, du hast vor zwei Jahren das Studium geschmissen.
+00:37:55,958 --> 00:38:01,907 ¶ Was hast du zwei Jahre lang getrieben, während ich dir Geld überwiesen habe?
+00:38:36,583 --> 00:38:41,287 ¶ Als deine Mutter dich rausgedrückt hat, war ich 24.
+00:38:41,500 --> 00:38:43,905 ¶ Da musste ich Geld verdienen.
+00:38:47,625 --> 00:38:52,365 ¶ Weil Niko Trompetenunterricht wollte.
+00:38:52,583 --> 00:38:55,581 ¶ Niko hat Fecht-, Gitarren-, Klavierunterricht, alles abgebrochen!
+00:38:55,875 --> 00:39:00,947 ¶ Dein Konto existiert nicht mehr.
+00:39:35,666 --> 00:39:39,245 ¶ Schneid dir die Haare, kauf dir ordentliche Schuhe, und such dir einen Job.
+00:41:03,708 --> 00:41:05,663 ¶ (Vögel zwitschern)
+00:42:19,249 --> 00:42:22,117 ¶ - Ich bräuchte Ihren Ausweis.
+00:42:22,333 --> 00:42:25,912 ¶ - Mag sein. Ihren Ausweis.
+00:42:39,416 --> 00:42:43,540 ¶ Dass ein Automat mal außer Betrieb ist, kommt vor.
+00:42:44,999 --> 00:42:48,993 ¶ Aber dann lösen Sie an der nächsten Station ein Ticket.
+00:42:49,333 --> 00:42:52,496 ¶ - Für eine ordnungsgemäße Fahrt.
+00:42:52,708 --> 00:42:57,945 ¶ - Ein Ticket entspricht einem Vertrag.
+00:42:58,249 --> 00:43:02,030 ¶ Benutzung eines Verkehrsmittels ohne gültiges Ticket.
+00:43:02,333 --> 00:43:06,278 ¶ - 40 Euro kostet das.
+00:43:11,499 --> 00:43:14,497 ¶ - Klar, wie ein Roboter.
+00:43:25,666 --> 00:43:29,825 ¶ - Sie wiederholen sich.
+00:43:40,291 --> 00:43:45,197 ¶ - Vorher möchte ich Ihren Ausweis sehen.
+00:43:40,291 --> 00:43:45,197 ¶ - Dürfen wir nicht zeigen.
+00:43:47,666 --> 00:43:52,288 ¶ Ich darf nicht mal meinen Namen nennen. Nur die Dienstnummer.
+00:43:52,583 --> 00:43:56,162 ¶ Ich soll mich ausweisen, aber Sie dürfen's nicht.
+00:44:05,749 --> 00:44:08,320 ¶ Irgendwann platzt mir der Reifen.
+00:44:17,208 --> 00:44:19,198 ¶ - (Ansage) Einsteigen!
+00:44:20,041 --> 00:44:23,738 ¶ - Stefan, mach keinen Scheiß. - Zurückbleiben!
+00:45:25,666 --> 00:45:28,580 ¶ Und Kaugummis. Und einen kleinen Wodka.
+00:46:01,457 --> 00:46:05,238 ¶ (Reporter) Roman Hubnik bringt Stimmung in die Bude.
+00:46:05,457 --> 00:46:11,116 ¶ Der Tabellenführer feiert und profitiert von einem Fehler von Peitz.

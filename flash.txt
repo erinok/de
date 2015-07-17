@@ -67,7 +67,7 @@ verschiedenen
 die Farbe
 trug
 das Jetzt
-zeigen
+zeigten (zeigen)
 das Fahrrad
 auf seinem
 ersten
@@ -1170,8 +1170,10 @@ der Mülleimer	Eimer für [Haushalts]müll
 quetschen
 dazu
 die Stimmung
+Bude
 
-¶ Sie hätte sich zweimal um Onkel Vernons Wagen schlingen und ihn in einen Mülleimer quetschen können - doch offenbar war sie dazu gerade nicht in Stimmung.
+¶ Sie hätte sich zweimal um Onkel Vernons Wagen schlingen und ihn in einen Mülleimer quetschen können - doch offenbar war sie dazu gerade nicht in Stimmung
+Bude.
 
 > It could have wrapped its body twice around Uncle Vernon’s car and crushed it into a dustbin – but at the moment it didnt look in the mood.
 
@@ -5537,6 +5539,92 @@ gültig
 kostet (kosten)
 
 ¶ - 40 Euro kostet das.
+
+die Personalie
+
+- Macht 40 Euro. Ihre Personalien bitte.
+
+der Roboter
+
+¶ - Klar, wie ein Roboter.
+
+wiederholen
+
+¶ - Sie wiederholen sich.
+
+vorher
+
+¶ - Vorher möchte ich Ihren Ausweis sehen.
+
+zeigen
+
+¶ - Dürfen wir nicht zeigen.
+
+der Dienstnummer
+
+¶ Ich darf nicht mal meinen Namen nennen. Nur die Dienstnummer.
+
+ausweisen
+
+¶ Ich soll mich ausweisen, aber Sie dürfen's nicht.
+
+irgendwann
+der Reifen
+
+¶ Irgendwann platzt mir der Reifen.
+
+die Ansage
+einsteigen
+
+¶ - (Ansage) Einsteigen!
+
+zurückbleiben
+
+¶ - Stefan, mach keinen Scheiß. - Zurückbleiben!
+
+der Kaugummi, das Kaugummi
+der Wodka
+
+¶ Und Kaugummis. Und einen kleinen Wodka.
+
+die Bude
+
+¶ (Reporter) Roman Hubnik bringt Stimmung in die Bude.
+
+der Tabellenführer
+feiert (feiern)
+profitiert (profitieren)
+
+¶ Der Tabellenführer feiert und profitiert von einem Fehler von Peitz.
+
+weiterhin
+
+¶ (nebenan läuft weiterhin der Fernseher)
+
+abbiegen
+
+¶ Wir hätten da abbiegen müssen.
+
+womit
+dienen
+
+¶ - Womit kann ich dienen? Sneakers?
+
+abwiegen
+
+¶ Ich muss noch abwiegen.
+
+das Brot
+
+¶ - (Oma) Ich kann Brote machen.
+
+nachher
+
+¶ - Nein. ist lieb. Nachher vielleicht.
+
+benutzen
+
+¶ Marcel. kann ich deine Toilette benutzen?
 
 
 Manchmal erinnert Elenkas Haltung sogar an die von Nena, die jedes ihrer jüngeren Alben auch mindestens mit einen elektronisch-angehauchten Song schmückt. Das ist aber alles weitaus weniger schlimm, als es sich für manchen bis zum jetzigen Zeitpunkt lesen mag. Denn das Debüt von Elenka ist ein sehr gelungenes Elektro-Pop-Album geworden, das vor allem in den bevorstehenden Sommermonaten ordentlich Punkte sammeln dürfte.
