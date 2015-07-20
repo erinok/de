@@ -1,36 +1,37 @@
-00:35:43,375 --> 00:35:48,198 ¶ Stell dir vor, wie du mir mit dem Schläger eins überziehst, ja?
-00:35:48,583 --> 00:35:52,115 ¶ Und wenn die Haltung stimmt, haust du drauf.
-00:36:22,250 --> 00:36:26,290 ¶ Abgeschlossenes Jurastudium.
-00:37:17,250 --> 00:37:20,746 ¶ - (Schneider) Zum Wohl.
-00:37:27,958 --> 00:37:30,447 ¶ - Hat mich gefreut. - Mhm, gleichfalls.
-00:38:47,625 --> 00:38:52,365 ¶ - Niko, warum lügst du mich an?
-00:37:43,833 --> 00:37:48,490 ¶ Ich habe Prof. Kollath kennengelernt auf einem Kongress in Zürich.
-00:37:48,708 --> 00:37:53,081 ¶ Er sagt, du hast vor zwei Jahren das Studium geschmissen.
-00:37:55,958 --> 00:38:01,907 ¶ Was hast du zwei Jahre lang getrieben, während ich dir Geld überwiesen habe?
-00:38:36,583 --> 00:38:41,287 ¶ Als deine Mutter dich rausgedrückt hat, war ich 24.
-00:38:41,500 --> 00:38:43,905 ¶ Da musste ich Geld verdienen.
-00:38:47,625 --> 00:38:52,365 ¶ Weil Niko Trompetenunterricht wollte.
-00:38:52,583 --> 00:38:55,581 ¶ Niko hat Fecht-, Gitarren-, Klavierunterricht, alles abgebrochen!
-00:38:55,875 --> 00:39:00,947 ¶ Dein Konto existiert nicht mehr.
-00:39:35,666 --> 00:39:39,245 ¶ Schneid dir die Haare, kauf dir ordentliche Schuhe, und such dir einen Job.
-00:41:03,708 --> 00:41:05,663 ¶ (Vögel zwitschern)
-00:42:19,249 --> 00:42:22,117 ¶ - Ich bräuchte Ihren Ausweis.
-00:42:22,333 --> 00:42:25,912 ¶ - Mag sein. Ihren Ausweis.
-00:42:39,416 --> 00:42:43,540 ¶ Dass ein Automat mal außer Betrieb ist, kommt vor.
-00:42:44,999 --> 00:42:48,993 ¶ Aber dann lösen Sie an der nächsten Station ein Ticket.
-00:42:49,333 --> 00:42:52,496 ¶ - Für eine ordnungsgemäße Fahrt.
-00:42:52,708 --> 00:42:57,945 ¶ - Ein Ticket entspricht einem Vertrag.
-00:42:58,249 --> 00:43:02,030 ¶ Benutzung eines Verkehrsmittels ohne gültiges Ticket.
-00:43:02,333 --> 00:43:06,278 ¶ - 40 Euro kostet das.
-00:43:11,499 --> 00:43:14,497 ¶ - Klar, wie ein Roboter.
-00:43:25,666 --> 00:43:29,825 ¶ - Sie wiederholen sich.
-00:43:40,291 --> 00:43:45,197 ¶ - Vorher möchte ich Ihren Ausweis sehen.
-00:43:40,291 --> 00:43:45,197 ¶ - Dürfen wir nicht zeigen.
-00:43:47,666 --> 00:43:52,288 ¶ Ich darf nicht mal meinen Namen nennen. Nur die Dienstnummer.
-00:43:52,583 --> 00:43:56,162 ¶ Ich soll mich ausweisen, aber Sie dürfen's nicht.
-00:44:05,749 --> 00:44:08,320 ¶ Irgendwann platzt mir der Reifen.
-00:44:17,208 --> 00:44:19,198 ¶ - (Ansage) Einsteigen!
-00:44:20,041 --> 00:44:23,738 ¶ - Stefan, mach keinen Scheiß. - Zurückbleiben!
-00:45:25,666 --> 00:45:28,580 ¶ Und Kaugummis. Und einen kleinen Wodka.
-00:46:01,457 --> 00:46:05,238 ¶ (Reporter) Roman Hubnik bringt Stimmung in die Bude.
-00:46:05,457 --> 00:46:11,116 ¶ Der Tabellenführer feiert und profitiert von einem Fehler von Peitz.
+00:46:05,457 --> 00:46:07,697 ¶ Der Tabellenführer feiert und profitiert von einem Fehler von Peitz.
+00:46:12,416 --> 00:46:16,077 ¶ (nebenan läuft weiterhin der Fernseher)
+00:47:08,249 --> 00:47:10,619 ¶ Wir hätten da abbiegen müssen.
+00:47:55,541 --> 00:48:00,245 ¶ - Womit kann ich dienen? Sneakers?
+00:48:03,082 --> 00:48:06,530 ¶ Ich muss noch abwiegen.
+00:48:19,541 --> 00:48:24,281 ¶ - (Oma) Ich kann Brote machen.
+00:48:19,541 --> 00:48:24,281 ¶ - Nein. ist lieb. Nachher vielleicht.
+00:48:25,124 --> 00:48:28,287 ¶ Marcel. kann ich deine Toilette benutzen?
+00:48:32,166 --> 00:48:33,955 ¶ - Gegenüber. - Danke.
+00:48:41,999 --> 00:48:43,456 ¶ (Plätschern)
+00:49:12,665 --> 00:49:15,284 ¶ (klassische Klaviermusik)
+00:49:47,124 --> 00:49:51,532 ¶ - Einen schicken Sessel haben Sie.
+00:50:01,957 --> 00:50:05,737 ¶ Und jetzt lehnen Sie sich mal ganz bequem zurück.
+00:50:26,415 --> 00:50:28,868 ¶ (getragene Klaviermusik)
+00:51:57,874 --> 00:52:02,199 ¶ - Ihr seid spät dran.
+00:52:02,415 --> 00:52:04,868 ¶ Pechsache. Es hat schon angefangen.
+00:52:20,790 --> 00:52:23,907 ¶ - Von wem sind die Tickets?
+00:52:34,749 --> 00:52:36,325 ¶ Dritte Reihe.
+00:53:13,082 --> 00:53:15,535 ¶ (sphärische Musik)
+00:54:48,623 --> 00:54:52,404 ¶ Wir hätten fast ohne dich angestoßen.
+00:55:18,790 --> 00:55:21,457 ¶ - Hat's euch gefallen, ja?
+00:55:56,665 --> 00:55:59,118 ¶ - Ihr lasst euch einladen.
+01:02:42,289 --> 01:02:44,327 ¶ Vielleicht mögt ihr unsere Kunst nicht, weil das keine Mainstream-Scheiße ist.
+00:56:04,207 --> 00:56:07,204 ¶ - Ich hoffe. ihr habt euch amüsiert.
+00:56:10,457 --> 00:56:14,153 ¶ Bei einigen Passagen dachte ich, es war lustig gemeint.
+00:56:21,290 --> 00:56:24,655 ¶ - Wir entspannen uns und feiern.
+00:56:28,457 --> 00:56:30,779 ¶ Die Darstellung der Geburt.
+00:56:32,040 --> 00:56:35,950 ¶ Das streift durchaus auch das Gebiet des Komischen.
+00:56:36,248 --> 00:56:38,819 ¶ Dann frage ich mich allen Ernstes, warum kommen wir nicht mit einem Riesenlacher zur Welt?
+00:56:49,081 --> 00:56:51,404 ¶ Zur Befreiung der Atemwege.
+00:56:54,831 --> 00:56:57,154 ¶ - Was machst du beruflich?
+00:56:59,915 --> 00:57:04,039 ¶ - Ich bin in der... Werbebranche tätig.
+00:57:08,706 --> 00:57:13,696 ¶ - Nein. Quatsch. Nein.
+00:57:13,998 --> 00:57:16,534 ¶ - So 'ne subventionierte Klapse?
+00:57:21,915 --> 00:57:27,496 ¶ Was ist so schlimm daran wenn wir frischen Wind in die Off-Szene bringen?
+00:57:27,706 --> 00:57:30,195 ¶ - Das ist absolut lobenswert.
+00:57:40,290 --> 00:57:42,327 ¶ Klar? Für acht Wochen Probe.
