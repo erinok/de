@@ -5899,6 +5899,43 @@ die Vergangenheit
 
 ¶ - Was? Vergangenheitsbewältigung? - Ja, Vergangenheit.
 
+sauber
+
+¶ Die Maschine ist schon sauber.
+
+lallt
+einsam
+
+¶ (lallt) Bist ein einsamer Wolf, wa?
+
+ausmacht (ausmachen)
+
+¶ Wenn's Ihnen nichts ausmacht, ich wäre gern allein.
+
+blass
+der Schimmer
+wovon
+
+¶ Ich habe keinen blassen Schimmer, wovon die überhaupt reden.
+
+die Sprache
+
+¶ Das klingt doch wie eine andere Sprache, oder?
+
+das Stimmengewirr
+
+¶ (Stimmengewirr)
+
+das Funkeln
+der Matrose
+
+¶ Da warst du noch das Funkeln in den Augen eines Matrosen, was?
+
+vorm
+strammstehen
+begrüßen
+
+¶ Wir haben uns in die Hosen gepisst, weil wir vorm Unterricht strammstehen mussten und erst mal den Führer begrüßen: "Heil Hitler" hier. "Heil Hitler" da!
 
 
 
