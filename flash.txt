@@ -4321,7 +4321,7 @@ die Seitenwand
 ¶ Hagrid zog den rosa Schirm hervor, schlug ihn zweimal sachte gegen die Seitenwand des Bootes, und schon rauschten sie in Richtung Küste davon.
 
 hochsicherheits-
-das Verliese
+das Verlies
 heißt (heißen)
 der Drachen
 bewacht (bewachen)
@@ -6175,5 +6175,55 @@ blinzeln
 das Vermögen
 
 ¶ Und die ganze Zeit über war ein kleines Vermögen, das ihm gehörte, tief unter Londons Straßen vergraben gewesen.
+
+die Teil
+der Schätze
+die Tüte
+
+¶ Hagrid half Harry dabei, einen Teil der Schätze in eine Tüte zu packen.
+
+die Geschwindigkeit
+
+¶ »Nur eine Geschwindigkeit«, sagte Griphook.
+
+wurden (werden)
+allmählich
+
+¶ Sie fuhren nun noch tiefer hinunter und wurden allmählich schneller.
+
+die Kurve
+rasten
+
+¶ Während sie durch scharfe Kurven rasten, wurde die Luft immer kälter.
+
+die Schlucht
+der Grund
+der Kragen
+
+¶ Sie ratterten über eine unterirdische Schlucht hinweg, und Harry lehnte sich über den Wagenrand, um zu sehen, was tief unten auf dem dunklen Grund war, doch Hagrid stöhnte und zog ihn am Kragen zurück.
+
+streichelte (streicheln)
+wegschmolz (wegschmelzen)
+
+¶ Mit einem seiner langen Finger streichelte er sanft die Tür - die einfach wegschmolz.
+
+gesogen (saugen)
+der Falle
+
+¶ »Sollte Jemand dies versuchen, der kein Kobold von Gringotts ist, dann wird er durch die Tür gesogen und sitzt dort drin in der Falle«, sagte Griphook.
+
+gemein
+
+¶ »Einmal in zehn Jahren vielleicht«, sagte Griphook mit einem ziemlich gemeinen Grinsen.
+
+ganz Besonderes
+sagenhaft
+das Juwel
+
+¶ In diesem Hochsicheffieitsverlies musste etwas ganz Besonderes aufbewahrt sein, da war sich Harry sicher, und er steckte seine Nase begierig hinein, um zumindest ein paar sagenhafte Juwelen zu sehen - doch auf den ersten Blick schien alles leer.
+
+umwickeln
+
+¶ Dann bemerkte er auf dem Boden ein schmutziges, mit braunem Papier umwickeltes Päckchen.
 
 300 900 2000 4000 8000 16000
