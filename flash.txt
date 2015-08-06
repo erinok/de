@@ -1633,7 +1633,6 @@ bisher
 
 > The escape of the Brazilian boa constrictor earned Harry his longest-ever punishment.
 
-
 ¶ Als er den Schrank wieder verlassen durfte, hatten die Sommerferien begonnen.
 
 > By the time he was allowed out of his cupboard again, the summer holidays had started
@@ -6398,5 +6397,65 @@ spürte (spüren)
 
 ¶ Harry spürte, wie er rot wurde.
 
+angesagt
+auslachen
+niesen
+
+¶ Keine Kröte, Kröten sind schon seit Jahren nicht mehr angesagt, man würde dich auslachen - und ich mag keine Katzen, von denen muss ich niesen.
+
+nützlich
+
+¶ Alle Kinder wollen Eulen, die sind unglaublich nützlich, besorgen deine Post und so weiter.
+
+verließen (verlassen)
+
+¶ Zwanzig Minuten später verließen sie Eeylops Eulenkaufhaus.
+
+gelegentlich
+diamanthelle (diamanten)
+aufblitzen
+
+¶ Dunkel war es dort gewesen, aus der einen oder andern Ecke hatten sie ein Flattern gehört, und gelegentlich waren diamanthelle Augenpaare aufgeblitzt.
+
+wunderschön
+
+¶ Harry trug Jetzt einen großen Käfig, in dem eine wunderschöne Schneeeule saß, tief schlafend mit dem Kopf unter einem Flügel.
+
+schroff
+
+¶ »Nicht der Rede wert«, sagte Hagrid schroff.
+
+allzu
+
+¶ »Kann mir denken, dass du von diesen Dursleys nicht allzu viele Geschenke bekommen hast.«
+
+abblättern
+
+¶ Der Laden war eng und schäbig. Über der Tür hieß es in abblätternden Goldbuchstaben:
+
+verblassen
+das Kissen
+staubig
+
+¶ Auf einem verblassten purpurroten Kissen im staubigen Fenster lag ein einziger Zauberstab.
+
+die Glocke
+
+¶ Sie traten ein und von irgendwo ganz hinten im Laden kam das helle Läuten einer Glocke.
+
+storchbeinig
+der Stuhl
+
+¶ Der Raum war klein und leer mit Ausnahme eines einzigen storchbeinigen Stuhls, auf den sich Hagrid niederließ, um zu warten.
+
+die Aufsicht
+streng
+
+¶ Harry fühlte sich so fremd hier, als ob er eine Bibliothek mit sehr strenger Aufsicht betreten hätte.
+
+länglich
+die Schachtel
+
+¶ Er schluckte eine Menge neuer Fragen hinunter, die ihm gerade eingefallen waren, und betrachtete stattdessen tausende von länglichen Schachteln, die fein säuberlich bis an die Decke gestapelt waren.
 
 300 900 2000 4000 8000 16000
