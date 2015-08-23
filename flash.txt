@@ -2141,13 +2141,10 @@ hervor
 
 > ‘P-P-Petunia!’ he gasped.
 
-Tante Petunia nahm ihn neugierig in die Hand und las die erste Zeile.
-neugierig
 die Zeile
 
-¶ Dudley grabschte nach dem Brief, um ihn zu lesen, aber Onkel Vernon hielt ihn hoch, so dass er ihn nicht zu fassen bekam.
-
-> Dudley tried to grab the letter to read it, but Uncle Vernon held it high out of his reach.
+¶ Tante Petunia nahm ihn neugierig in die Hand und las die erste Zeile.
+neugierig
 
 die Ohnmacht
 
@@ -2975,7 +2972,6 @@ leer
 ¶ Innen sah es fürchterlich aus; es stank durchdringend nach Seetang, der Wind pfiff durch die Ritzen der Holzwände und die Feuerstelle war nass und leer.
 
 > The inside was horrible; it smelled strongly of seaweed, the wind whistled through the gaps in the wooden walls and the fireplace was damp and empty.
-
 
 ¶ Onkel Vernons Rationen stellten sich als eine Packung Kräcker für Jeden und vier Bananen heraus.
 
@@ -6648,5 +6644,152 @@ beladen
 verspeisen
 
 ¶ Er kaufte für sich und Harry zwei Hamburger und sie setzten sich auf die Plastiksitze, um sie zu verspeisen.
+
+blau
+
+¶ Ihr seid ja schon ganz blau.
+
+zumutbar
+
+¶ - Die Wahrheit ist den Menschen zumutbar.
+
+wenigstens
+
+¶ Die lächelt wenigstens.
+
+die Sondermaschine
+der Flughafen
+
+¶ Das Kaiserpaar landete um 11.05 Uhr in einer Sondermaschine auf dem Flughafen Tempelhof.
+
+der Hut
+die Komplet
+fuchsrot
+
+¶ Kaiserin Farah trug ein fuchsrotes Complet mit einem schwarz-weiß gestreiften Hut.
+
+die Ehrenformation
+
+¶ Der Schah schritt die Ehrenformation der Berliner Polizei ab.
+
+frisch
+der Druckerei
+
+¶ Frisch aus der Druckerei.
+
+die Kolumnistin
+klug
+Eheweib
+die Hoheit
+
+¶ Meine Starkolumnistin und kluges Eheweib schrieb einen offenen Brief an lhre Kaiserliche Hoheit Farah Diba.
+
+das Flugblatt
+verteilt (verteilen)
+
+¶ 5.000 dieser Flugblätter sind aber schon an den Universitätenverteiltworden.
+
+der Heimat
+der/die Perser
+das Kaspisches Meer
+
+¶ Sie erzählen über lhre iranische Heimat, dass es dort im Sommer sehr heiß sei und Sie, wie die meisten Perser, mit lhrer Familie ans Kaspische Meer fahren.
+
+übertrieben
+
+¶ Ist das nicht übertrieben?
+
+bauern
+das Jahreseinkommen
+
+¶ Die meisten Perser sind Bauern mit einem Jahreseinkommen von weniger als 100 Mark.
+
+die Armut
+die Krankheit
+
+¶ Und den meisten persischen Frauen stirbt jedes zweite Kind...vor Hunger, Armut und Krankheit.
+
+der Teppich
+knüpfen
+
+¶ Und die Kinder, die 14 Stunden am Tag Teppiche knüpfen, fahren von denen auch die meisten im Sommer ans Kaspische Meer?
+
+das Grundgesetz
+
+¶ In diesem Punkt sei das iranische Grundgesetz sehr strikt.
+
+ansonsten
+die Verfassung
+gleichgültig
+
+¶ Merkwürdig, dass dem Schah ansonsten die Verfassung so gleichgültig ist.
+
+unzensiert
+veröffentlicht
+
+¶ Dass keine unzensierte Zeile veröffentlicht werden darf.
+
+ausgerissen (ausreißen)
+
+¶ Dass Mossadeghs Justizminister die Augen ausgerissen wurden.
+
+der Gerichtsprozess
+der Ausschluss
+die Öffentlichkeit
+stattfinden
+
+¶ Dass Gerichtsprozesse unter Ausschluss der Offentlichkeit stattfinden.
+
+die Folter
+
+¶ Dass die Folter zum Alltag der persischen Justiz gehört.
+
+hochachtungsvoll
+
+¶ Hochachtungsvoll, Ulrike Meinhof.
+
+¶ Spinnst du?
+
+der Arzt
+
+¶ Ist hier irgendwo'n Arzt?
+
+die/der Verletzte
+
+¶ Wir haben hier eine Verletzte.
+
+¶ der Schuss
+
+wahnsinnig
+
+¶ - Bist du wahnsinnig?
+
+der Demonstranten
+
+¶ Frau Meinhof, Sie stellten sich auf die Seite der Demonstranten. Warum?
+
+der Springer-Konzern
+kritisch
+der Studentenschaft
+der/des/die Randalierer
+verteufeln
+
+¶ Vor allem der Springer-Konzern versucht in seiner Zeitung, die kritischen Stimmen der Studentenschaft als Randalierer zu verteufeln.
+
+der Halbstarke, des Halbstarken, die Halbstarken, zwei Halbstarke
+genügt (genügen)
+der Krach
+das Blut, des Blutes
+
+¶ "Diesen Halbstarken genügt der Krach nicht mehr, sie müssen Blut sehen."
+
+entlarvt (entlarven)
+
+¶ Die Wahrheit ist aber, dass die Studentenproteste unseren Staat als Polizeistaat entlarvt haben.
+
+die Presse
+der Höhepunkt
+
+¶ Dass Polizei- und Presse terror am 2. Juni in Berlin ihren Höhepunkt erreicht haben.
 
 300 900 2000 4000 8000 16000
