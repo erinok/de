@@ -6980,4 +6980,37 @@ spannend
 
 ¶ Spannende Musik
 
+dreckig
+
+¶ - Du dreckiges Kommunistenschwein!
+
+der Soldat
+
+¶ Musszum Friseur... Soldaten... Soldaten...
+
+durchsucht (durchsuchen)
+die Baustelle
+
+¶ Durchsucht die Baustelle.
+
+die Deckung
+
+¶ - Deckung!
+
+umstellt (umstellen)
+
+¶ Sie sind umstellt.
+
+erhobenen (erheben)
+
+¶ Kommen Sie mit erhobenen Händen heraus!
+
+notoperiert (notoperieren)
+
+¶ Rudi Dutschke wird zur Stunde zum wiederholten Mal notoperiert.
+
+entfernt
+
+¶ Eine der beiden Kugeln konnte aus seinem Kopfentferntwerden.
+
 300 900 2000 4000 8000 16000
