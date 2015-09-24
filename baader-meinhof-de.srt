@@ -1,3 +1,6 @@
+-*- tab-width: 40; iedit-case-sensitive: nil; eval: (turn-on-de-freq-mode); fill-column: 10000; -*-
+
+
 1
 00:00:15,228 --> 00:00:18,538
 Janis Joplin:
@@ -154,7 +157,7 @@ an lhre Kaiserliche Hoheit Farah Diba.
 34
 00:02:57,348 --> 00:03:02,786
 Mach nichtwieder so'ne Show daraus.
-- Komm. Das kommt in die nächste <i>Konkret.</i>
+- Komm. Das kommt in die nächste Konkret.
 
 35
 00:03:03,268 --> 00:03:08,422
@@ -255,7 +258,7 @@ soll auch nicht durch Beiträge...
 
 55
 00:04:26,228 --> 00:04:29,265
-wie den lhren in der <i>Neuen Revue</i>
+wie den lhren in der Neuen Revue
 beleidigtwerden.
 
 56
@@ -1068,42 +1071,42 @@ die mein Lebenvorher bestimmt hatte.
 
 229
 00:22:42,708 --> 00:22:45,666
-Sie hat mir dieAngst genommen.
+Sie hat mir die Angst genommen.
 
 230
 00:22:50,668 --> 00:22:54,627
-<i>Wirft maneinen Stein,</i>
-<i>so ist das eine strafbare Nandlung.</i>
+Wirft man einen Stein,
+so ist das eine strafbare Handlung.
 
 231
 00:22:54,868 --> 00:22:59,419
-<i>Werden TausendSteinegeworfen,</i>
-<i>ist das eine politischeAktion.</i>
+Werden Tausend Steine geworfen,
+ist das eine politische Aktion.
 
 232
 00:22:59,988 --> 00:23:03,583
-<i>Zündet maneinAutoan,</i>
-<i>ist das eine strafbare Nandlung.</i>
+Zündet man ein Auto an,
+ist das eine strafbare Handlung.
 
 233
 00:23:03,708 --> 00:23:08,862
-<i>Werden Nunderte vonAutos angezündet,</i>
-<i>ist das eine politischeAktion.</i>
+Werden Hunderte von Autos angezündet,
+ist das eine politische Aktion.
 
 234
 00:23:10,988 --> 00:23:14,947
-<i>Protest ist, wenn ich sage. :
-<i>"Das unddas passt mirnicht."</i>
+Protest ist, wenn ich sage:
+"Das und das passt mir nicht."
 
 235
 00:23:15,548 --> 00:23:18,506
-<i>Widerstand ist,</i>
-<i>wenn ich dafür sorge,</i>
+Widerstand ist,
+wenn ich dafür sorge,
 
 236
 00:23:18,668 --> 00:23:22,627
-<i>dassdas, was mirnicht passt,</i>
-<i>nicht mehrlänger geschieht.</i>
+dass das, was mir nicht passt,
+nicht mehr länger geschieht.
 
 237
 00:23:25,388 --> 00:23:31,145
@@ -1112,18 +1115,18 @@ Danke, dass Sie das möglich gemacht haben.
 
 238
 00:23:36,748 --> 00:23:41,776
-Kann man mit Dingenwie dem Kaufhausbrand
+Kann man mit Dingen wie dem Kaufhausbrand
 den Völkermord in Vietnam stoppen?
 
 239
 00:23:41,908 --> 00:23:46,982
-Nein. DieAktionwar so gesehen
-ein Fehler, wie ichvor Gericht sagte.
+Nein. Die Aktion war so gesehen
+ein Fehler, wie ich vor Gericht sagte.
 
 240
 00:23:48,748 --> 00:23:53,185
 Du musst das als Rebellion begreifen.
-Diesmal sehenwir nichttatenloszu,
+Diesmal sehen wir nicht taten los zu,
 
 241
 00:23:53,308 --> 00:23:56,266
@@ -1132,23 +1135,23 @@ wie unter Hitler.
 
 242
 00:23:56,388 --> 00:24:01,542
-Diesmal leistenwir Widerstand.
+Diesmal leisten wir Widerstand.
 Aus Verantwortungvor der Geschichte.
 
 243
 00:24:01,828 --> 00:24:06,777
-Die Menschen hier und inAmerika,
-die müssenfressen, fressen und einkaufen,
+Die Menschen hier und in Amerika,
+die müssen fressen, fressen und einkaufen,
 
 244
 00:24:07,348 --> 00:24:13,298
 damit sie ja nicht auf die Idee kommen,
-nachzudenken undzu Bewusstseinzu kommen.
+nachzudenken und zu Bewusstsein zu kommen.
 
 245
 00:24:14,188 --> 00:24:18,147
 Sonst müssten sie vielleicht
-irgendwann malwastun.
+irgendwann mal was tun.
 
 246
 00:24:18,348 --> 00:24:21,340
@@ -1157,8 +1160,8 @@ das Kaufhaus angezündet?
 
 247
 00:24:21,468 --> 00:24:25,541
-Ichwerde mich niemals damit abfinden,
-dass man nichtstut. Niemals.
+Ich werde mich niemals damit abfinden,
+dass man nichts tut. Niemals.
 
 248
 00:24:25,668 --> 00:24:28,978
@@ -1167,7 +1170,7 @@ wie Ohnesorg und Dutschke,
 
 249
 00:24:29,108 --> 00:24:33,659
-dannwerdenwir in Zukunft zurückschießen.
+dann werden wir in Zukunft zurück schießen.
 Das ist nur konsequent.
 
 250
@@ -1182,7 +1185,7 @@ die Genossen mit der Waffe in der Hand.
 252
 00:24:42,068 --> 00:24:46,027
 Wir müssen uns solidarisch erklären.
-- Aber dastunwir doch.
+- Aber das tun wir doch.
 
 253
 00:24:46,228 --> 00:24:50,187
@@ -1191,7 +1194,7 @@ dafür ins Gefängnis werfen?
 
 254
 00:24:50,388 --> 00:24:53,266
-Solche Opfer müssen gebrachtwerden.
+Solche Opfer müssen gebracht werden.
 
 255
 00:24:53,388 --> 00:24:58,826
@@ -1232,8 +1235,8 @@ Erziehungsheim.
 
 263
 00:25:52,748 --> 00:25:56,707
-Die kommen jetzt allezu uns.
-Wirziehen hier selberwas auf.
+Die kommen jetzt alle zu uns.
+Wir ziehen hier selber was auf.
 
 264
 00:25:58,188 --> 00:26:02,147
@@ -1268,7 +1271,7 @@ nicht mehr raus, bis ich 21 bin.
 270
 00:26:45,348 --> 00:26:49,261
 Mach dir keine Gedanken.
-Jetzt gehörst du erst malzur Familie.
+Jetzt gehörst du erst mal zur Familie.
 
 271
 00:26:49,388 --> 00:26:53,745
@@ -1277,27 +1280,27 @@ verknackt worden.
 
 272
 00:26:53,868 --> 00:26:56,826
-Aberwir sind draußen biszur Revision.
+Aber wir sind draußen bis zur Revision.
 
 273
 00:26:57,108 --> 00:27:01,067
-Es gab eineAuflage, dass wirwas
+Es gab eine Auflage, dass wir was
 im sozialen Bereich machen.
 
 274
 00:27:01,348 --> 00:27:04,385
-Und das machenwir jetzt.
-- Finde ichtoll.
+Und das machen wir jetzt.
+- Finde ich toll.
 
 275
 00:27:04,508 --> 00:27:09,457
-Andreas und ich müssenverschwinden,
-falls unsere Revision abgelehntwird.
+Andreas und ich müssen verschwinden,
+falls unsere Revision abgelehnt wird.
 
 276
 00:27:15,388 --> 00:27:19,347
-Sag mal, checkich das richtig?
-Duwillst meineAlte ficken?
+Sag mal, check ich das richtig?
+Du willst meine Alte ficken?
 
 277
 00:27:28,828 --> 00:27:30,784
@@ -1318,8 +1321,8 @@ Was ist denn mit dir passiert?
 
 281
 00:27:49,748 --> 00:27:52,945
-Denen reißenwir auch noch
-denArsch auf.
+Denen reißen wir auch noch
+den Arsch auf.
 
 282
 00:27:53,068 --> 00:27:55,628
@@ -1332,12 +1335,12 @@ Hier, kannste haben.
 284
 00:28:00,548 --> 00:28:05,144
 Los, nach Darmstadt. Wir machen Putz!
-- Wir haben doch gar nicht genugAutos.
+- Wir haben doch gar nicht genug Autos.
 
 285
 00:28:05,268 --> 00:28:08,544
-Dann klauenwir eben
-nochzwei oder drei.
+Dann klauen wir eben
+nochz wei oder drei.
 
 286
 00:28:11,148 --> 00:28:12,900
@@ -1349,7 +1352,7 @@ Nur die Knarre löst die Starre.
 
 288
 00:28:54,468 --> 00:28:57,028
-Los, Feuerfrei.
+Los, Feuer frei.
 
 289
 00:28:57,468 --> 00:28:59,424
@@ -1358,12 +1361,12 @@ Feuerfrei!
 290
 00:29:14,268 --> 00:29:18,102
 Unser Volk
-braucht außerordentlicheAnstrengung,
+braucht außer ordentliche Anstrengung,
 
 291
 00:29:18,388 --> 00:29:24,258
-sich gegenseitigzuverstehen.
-Wirwollen mehr Demokratie wagen.
+sich gegenseitig zu verstehen.
+Wir wollen mehr Demokratie wagen.
 
 292
 00:29:24,508 --> 00:29:28,740
@@ -1373,7 +1376,7 @@ Willy Brandtbei seinem Amtsantritt...
 293
 00:29:28,868 --> 00:29:33,783
 versöhnen die Studenten und beenden die
-seitfast 3 Jahren anhaltenden Krawalle.
+seit fast 3 Jahren anhaltenden Krawalle.
 
 294
 00:29:33,908 --> 00:29:38,823
@@ -1387,8 +1390,8 @@ in demokratische Prozesse einzubeziehen.
 
 296
 00:29:43,948 --> 00:29:47,907
-Undwas glauben Sie?
-- Ich denke, der Spukistvorbei.
+Und was glauben Sie?
+- Ich denke, der Spuk ist vorbei.
 
 297
 00:29:48,148 --> 00:29:52,903
@@ -2058,42 +2061,42 @@ Schnell.
 
 440
 00:44:24,508 --> 00:44:29,536
-<i>Wir sagen. : "Der Typ inderUniform</i>
-<i>ist ein Schwein, das ist kein Mensch."</i>
+Wir sagen. : "Der Typ inderUniform
+ist ein Schwein, das ist kein Mensch."
 
 441
 00:44:29,668 --> 00:44:34,696
-<i>Undso habenwirmit ihm umzugehen.</i>
-<i>Wirhaben also nicht mit ihmzu reden.</i>
+Undso habenwirmit ihm umzugehen.
+Wirhaben also nicht mit ihmzu reden.
 
 442
 00:44:34,828 --> 00:44:38,787
-<i>Undes istfalsch,</i>
-<i>überhaupt mit diesen Leutenzu reden.</i>
+Undes istfalsch,
+überhaupt mit diesen Leutenzu reden.
 
 443
 00:44:38,988 --> 00:44:44,016
-<i>Und natürlich kanngeschossenwerden.</i>
-<i>Waswirmachen undzeigenwollen, ist. :
+Und natürlich kanngeschossenwerden.
+Waswirmachen undzeigenwollen, ist. :
 
 444
 00:44:44,148 --> 00:44:48,699
-<i>BewaffneteAuseinandersetzungen</i>
-<i>sinddurchführbar. Es ist möglich,</i>
+BewaffneteAuseinandersetzungen
+sinddurchführbar. Es ist möglich,
 
 445
 00:44:48,988 --> 00:44:53,937
-<i>Aktionenzu machen, wowir siegen</i>
-<i>und nicht, wodieandere Seite siegt.</i>
+Aktionenzu machen, wowir siegen
+und nicht, wodieandere Seite siegt.
 
 446
 00:44:54,068 --> 00:44:57,458
-<i>Undwowichtigist,</i>
-<i>dass sieuns nicht kriegen.</i>
+Undwowichtigist,
+dass sieuns nicht kriegen.
 
 447
 00:44:57,588 --> 00:45:00,102
-<i>Dasgehörtzum ErfolgderGeschichte.</i>
+Dasgehörtzum ErfolgderGeschichte.
 
 448
 00:45:05,548 --> 00:45:07,106
@@ -2483,13 +2486,13 @@ Und so was will Revolution machen!
 
 532
 00:55:53,188 --> 00:55:56,339
-<i>Manche sagen,</i>
-<i>Bankraub ist nicht politisch.</i>
+Manche sagen,
+Bankraub ist nicht politisch.
 
 533
 00:55:56,468 --> 00:56:01,542
-<i>Die Stadtguerillas in Lateinamerika</i>
-<i>nennen Bankraub "Enteignungsaktion".</i>
+Die Stadtguerillas in Lateinamerika
+nennen Bankraub "Enteignungsaktion".
 
 534
 00:56:01,668 --> 00:56:04,740
@@ -2498,13 +2501,13 @@ zu einem Banküberfäll
 
 535
 00:56:04,868 --> 00:56:08,827
-<i>Erist politisch richtig,</i>
-<i>weiler eine Enteignungsaktion ist.</i>
+Erist politisch richtig,
+weiler eine Enteignungsaktion ist.
 
 536
 00:56:09,068 --> 00:56:13,141
-<i>Erist strategisch richtig, weiler</i>
-<i>derFinanzierungderGuerilladient.</i>
+Erist strategisch richtig, weiler
+derFinanzierungderGuerilladient.
 
 537
 00:56:13,268 --> 00:56:17,307
@@ -2919,32 +2922,32 @@ des 17. Breitengrades ausgenommen.
 
 624
 01:04:41,748 --> 01:04:44,945
-<i>"Für die Ausrottungsstrategen</i>
-<i>von Vietnam...</i>
+"Für die Ausrottungsstrategen
+von Vietnam...
 
 625
 01:04:45,068 --> 01:04:50,700
-<i>sollen WestdeutschlandundWest-Berlin</i>
-<i>kein sicheres Ninterland mehr sein.</i>
+sollen WestdeutschlandundWest-Berlin
+kein sicheres Ninterland mehr sein.
 
 626
 01:04:56,068 --> 01:05:01,017
-<i>Sie müssenwissen, dass ihre Verbrechen</i>
-<i>am vietnamesischen Volk ihnen neue,</i>
+Sie müssenwissen, dass ihre Verbrechen
+am vietnamesischen Volk ihnen neue,
 
 627
 01:05:01,148 --> 01:05:04,106
-<i>verbitterte Feindegeschaffen haben.</i>
+verbitterte Feindegeschaffen haben.
 
 628
 01:05:04,308 --> 01:05:08,267
-<i>Dass esfür sie keinen Platz</i>
-<i>mehr gibt inderWelt,</i>
+Dass esfür sie keinen Platz
+mehr gibt inderWelt,
 
 629
 01:05:08,468 --> 01:05:13,906
-<i>andem sie vor Angriffen revolutionärer</i>
-<i>Guerilla-Einheiten sicher sein können."</i>
+andem sie vor Angriffen revolutionärer
+Guerilla-Einheiten sicher sein können."
 
 630
 01:05:16,948 --> 01:05:18,700
@@ -2956,18 +2959,18 @@ Nachrichtenkommentar zum Anschlag
 
 632
 01:05:29,948 --> 01:05:33,907
-<i>"Wirforderndie Einstellung</i>
-<i>derBombenagriffeaufVietnam.</i>
+"Wirforderndie Einstellung
+derBombenagriffeaufVietnam.
 
 633
 01:05:34,188 --> 01:05:38,147
-<i>WirforderndenAbzug</i>
-<i>derUS-Truppen aus Indochina.</i>
+WirforderndenAbzug
+derUS-Truppen aus Indochina.
 
 634
 01:05:38,628 --> 01:05:42,587
-<i>WirforderndenAbbruch</i>
-<i>derMinenblockadegegen Nordvietnam."</i>
+WirforderndenAbbruch
+derMinenblockadegegen Nordvietnam."
 
 635
 01:05:49,948 --> 01:05:53,907
@@ -2991,27 +2994,27 @@ den Polizisten Heinz Eckart erschossen.
 
 639
 01:06:12,308 --> 01:06:17,746
-<i>"Wirführen sooft undso langeAnschläge</i>
-<i>gegen RichterundStaatsanwältedurch,</i>
+"Wirführen sooft undso langeAnschläge
+gegen RichterundStaatsanwältedurch,
 
 640
 01:06:17,948 --> 01:06:22,976
-<i>bis sie mit ihren Rechtsbrüchen</i>
-<i>gegen politische Gefangeneaufhören.</i>
+bis sie mit ihren Rechtsbrüchen
+gegen politische Gefangeneaufhören.
 
 641
 01:06:23,108 --> 01:06:27,147
-<i>Wirverlangendamit nichts,</i>
-<i>wasfür dieseJustiz unmöglichwäre.</i>
+Wirverlangendamit nichts,
+wasfür dieseJustiz unmöglichwäre.
 
 642
 01:06:27,268 --> 01:06:31,227
-<i>Andere Mittel, um sie dazuzuzwingen,</i>
-<i>habenwirnicht.</i>
+Andere Mittel, um sie dazuzuzwingen,
+habenwirnicht.
 
 643
 01:06:33,068 --> 01:06:35,741
-<i>Kommando PetraSchelm."</i>
+Kommando PetraSchelm."
 
 644
 01:06:35,868 --> 01:06:40,896
@@ -3108,22 +3111,22 @@ Verdammte Schweine!
 
 663
 01:08:08,668 --> 01:08:11,626
-<i>Wirfordernvonden Springer-Zeitungen,</i>
+Wirfordernvonden Springer-Zeitungen,
 
 664
 01:08:11,828 --> 01:08:16,697
-<i>die Netzegegendie Befreiungsbewegungen</i>
-<i>derDritten Welt einzustellen,</i>
+die Netzegegendie Befreiungsbewegungen
+derDritten Welt einzustellen,
 
 665
 01:08:16,828 --> 01:08:21,856
-<i>besondersgegendiearabischen Völker,</i>
-<i>die für die BefreiungPalästinas kämpfen.</i>
+besondersgegendiearabischen Völker,
+die für die BefreiungPalästinas kämpfen.
 
 666
 01:08:21,988 --> 01:08:26,937
-<i>Wirwerden unsereAktionenerst beenden,</i>
-<i>wenn unsere Forderungenerfüllt sind</i>
+Wirwerden unsereAktionenerst beenden,
+wenn unsere Forderungenerfüllt sind
 
 667
 01:08:31,668 --> 01:08:36,822
@@ -3137,28 +3140,28 @@ wörtlich "feige und hinterhältig".
 
 669
 01:08:42,108 --> 01:08:47,660
-<i>Springernahm lieberin Kauf,</i>
-<i>dassdie BombenArbeiterverletzen,</i>
+Springernahm lieberin Kauf,
+dassdie BombenArbeiterverletzen,
 
 670
 01:08:48,308 --> 01:08:53,746
-<i>als ein paarStundenArbeitszeit,</i>
-<i>also Profit, durch Fehlalarmzuverlieren.</i>
+als ein paarStundenArbeitszeit,
+also Profit, durch Fehlalarmzuverlieren.
 
 671
 01:08:54,068 --> 01:08:57,060
-<i>Für den Kapitalismus</i>
-<i>ist derProfit alles,</i>
+Für den Kapitalismus
+ist derProfit alles,
 
 672
 01:08:57,188 --> 01:09:00,464
-<i>sinddie Menschen, die ihn schaffen,</i>
-<i>ein Dreck.</i>
+sinddie Menschen, die ihn schaffen,
+ein Dreck.
 
 673
 01:09:00,588 --> 01:09:05,537
-<i>Wir sindzutiefst betroffen, dass Arbeiter</i>
-<i>undAngestellte verletztwurden.</i>
+Wir sindzutiefst betroffen, dass Arbeiter
+undAngestellte verletztwurden.
 
 674
 01:09:05,868 --> 01:09:08,428
@@ -3767,27 +3770,27 @@ Diese Probleme bestehen objektiv!
 
 803
 01:23:53,072 --> 01:23:56,621
-<i>Das Gefühl,</i>
-<i>es explodiert einem derKopf.</i>
+Das Gefühl,
+es explodiert einem derKopf.
 
 804
 01:23:56,832 --> 01:23:59,665
-<i>Das Gefühl, die Zelle fährt.</i>
+Das Gefühl, die Zelle fährt.
 
 805
 01:23:59,832 --> 01:24:04,508
-<i>Man kanndas Gefühldes Fahrens</i>
-<i>nicht abstellen. RasendeAggressivität,</i>
+Man kanndas Gefühldes Fahrens
+nicht abstellen. RasendeAggressivität,
 
 806
 01:24:04,632 --> 01:24:10,264
-<i>für diees kein Ventilgibt. Das ist</i>
-<i>das Schlimmsteanderlsolationshaft.</i>
+für diees kein Ventilgibt. Das ist
+das Schlimmsteanderlsolationshaft.
 
 807
 01:24:11,392 --> 01:24:15,351
-<i>Klares Bewusstein,</i>
-<i>dass man keine Überlebenschance hat.</i>
+Klares Bewusstein,
+dass man keine Überlebenschance hat.
 
 808
 01:24:23,832 --> 01:24:27,381
@@ -3816,60 +3819,60 @@ in der Isolationshaft.
 
 813
 01:24:48,592 --> 01:24:51,550
-<i>Wirmüssenden Nungerstreik soanlegen,</i>
+Wirmüssenden Nungerstreik soanlegen,
 
 814
 01:24:51,752 --> 01:24:56,303
-<i>dassdie Gefangenen in seinerFolge</i>
-<i>verhandlungsunfähigwerden.</i>
+dassdie Gefangenen in seinerFolge
+verhandlungsunfähigwerden.
 
 815
 01:24:56,912 --> 01:25:01,906
-<i>Die Perspektive sind Explosionen</i>
-<i>im Gefängnissystem.</i>
+Die Perspektive sind Explosionen
+im Gefängnissystem.
 
 816
 01:25:04,112 --> 01:25:08,071
-<i>Die Ziele müssen so formuliert sein,</i>
-<i>dass sich jederRocker,</i>
+Die Ziele müssen so formuliert sein,
+dass sich jederRocker,
 
 817
 01:25:08,272 --> 01:25:12,231
-<i>auch jeder, der seineAlteabgejakst hat,</i>
-<i>darinfindet.</i>
+auch jeder, der seineAlteabgejakst hat,
+darinfindet.
 
 818
 01:25:12,352 --> 01:25:15,901
-<i>Das heißt,</i>
-<i>eswerden Typendabeikaputtgehen.</i>
+Das heißt,
+eswerden Typendabeikaputtgehen.
 
 819
 01:25:17,192 --> 01:25:22,312
-<i>Wirkönnen sagen. : Jede3. Woche,</i>
-<i>oder egal, jede 2. oder</i> 4.,
+Wirkönnen sagen. : Jede3. Woche,
+oder egal, jede 2. oder 4.,
 
 820
 01:25:23,032 --> 01:25:25,865
-<i>wirdsicheinervon unstöten.</i>
+wirdsicheinervon unstöten.
 
 821
 01:25:26,192 --> 01:25:28,911
-<i>So lange, bisdie Isolation,</i>
+So lange, bisdie Isolation,
 
 822
 01:25:29,032 --> 01:25:32,866
-<i>bisdie Vernichtungshaft</i>
-<i>für alleaufgehoben ist.</i>
+bisdie Vernichtungshaft
+für alleaufgehoben ist.
 
 823
 01:25:34,272 --> 01:25:39,551
-<i>Aber eine WaffewirdderNungerstreik nur,</i>
-<i>wenn klarist, dass er durchgehaltenwird.</i>
+Aber eine WaffewirdderNungerstreik nur,
+wenn klarist, dass er durchgehaltenwird.
 
 824
 01:25:39,672 --> 01:25:44,621
-<i>Bisdie kollektive Forderungerfüllt ist.</i>
-<i>Auchwennes Krankeund Totegibt.</i>
+Bisdie kollektive Forderungerfüllt ist.
+Auchwennes Krankeund Totegibt.
 
 825
 01:25:55,232 --> 01:26:00,181
@@ -3906,47 +3909,47 @@ Gib mir'ne Kippe.
 
 832
 01:26:59,992 --> 01:27:03,951
-<i>Ichweiß natürlich auch nicht,</i>
-<i>wie das ist, wenn man stirbt.</i>
+Ichweiß natürlich auch nicht,
+wie das ist, wenn man stirbt.
 
 833
 01:27:04,712 --> 01:27:07,545
-<i>Oderwenn sieeinen killen.</i>
+Oderwenn sieeinen killen.
 
 834
 01:27:08,952 --> 01:27:11,512
-<i>Woher auch?</i>
+Woher auch?
 
 835
 01:27:16,712 --> 01:27:18,464
-<i>Daswar's.</i>
+Daswar's.
 
 836
 01:27:20,072 --> 01:27:23,030
-<i>Jedenfalls auf derrichtigen Seite.</i>
+Jedenfalls auf derrichtigen Seite.
 
 837
 01:27:25,592 --> 01:27:28,425
-<i>Die Sache ist jaganz klar.</i>
+Die Sache ist jaganz klar.
 
 838
 01:27:29,672 --> 01:27:34,826
-<i>Kämpfendgegendie Schweine</i>
-<i>als Mensch für die Befreiungdes Menschen.</i>
+Kämpfendgegendie Schweine
+als Mensch für die Befreiungdes Menschen.
 
 839
 01:27:37,112 --> 01:27:39,945
-<i>Revolutionärim Kampf.</i>
+Revolutionärim Kampf.
 
 840
 01:27:42,152 --> 01:27:46,543
-<i>BeiallerLiebe zum Leben</i>
-<i>den Todverachtend.</i>
+BeiallerLiebe zum Leben
+den Todverachtend.
 
 841
 01:27:49,112 --> 01:27:52,468
-<i>Das istfürmich</i>
-<i>"dem Volkedienen".</i>
+Das istfürmich
+"dem Volkedienen".
 
 842
 01:27:58,752 --> 01:28:03,030
@@ -3989,8 +3992,8 @@ v. Drenkmann in seiner Wohnung erschossen.
 
 850
 01:29:13,032 --> 01:29:17,981
-<i>Wirweinen Drenkmann keine Träne nach.</i>
-<i>Wirfreuen uns über seine Ninrichtung.</i>
+Wirweinen Drenkmann keine Träne nach.
+Wirfreuen uns über seine Ninrichtung.
 
 851
 01:29:18,192 --> 01:29:23,220
@@ -4004,13 +4007,13 @@ Anzeige wegen Mordes gegen die Justiz...
 
 853
 01:29:28,472 --> 01:29:32,943
-<i>Die Aktionwarnotwendig, weilsie</i>
-<i>jedemJustiz-und Bullenschweinzeigte,</i>
+Die Aktionwarnotwendig, weilsie
+jedemJustiz-und Bullenschweinzeigte,
 
 854
 01:29:33,072 --> 01:29:37,463
-<i>dass aucher, undzwarheute schon,</i>
-<i>zurVerantwortunggezogenwerden kann.</i>
+dass aucher, undzwarheute schon,
+zurVerantwortunggezogenwerden kann.
 
 855
 01:29:40,632 --> 01:29:43,192
@@ -4563,18 +4566,18 @@ zieht sichzur Beratungzurück.
 
 971
 01:40:38,072 --> 01:40:43,704
-<i>Ulrike, willstewissen? Wirklich finster.</i>
-<i>Ein Vampir, zitterndvorBlutgier.</i>
+Ulrike, willstewissen? Wirklich finster.
+Ein Vampir, zitterndvorBlutgier.
 
 972
 01:40:43,952 --> 01:40:47,911
-<i>Ulrikeszweimaliges Gelächter,</i>
-<i>währendder Arbeit noch...</i>
+Ulrikeszweimaliges Gelächter,
+währendder Arbeit noch...
 
 973
 01:40:48,232 --> 01:40:53,181
-<i>Nekrophil. Nysterisch. Wirklich absolut</i>
-<i>hässlich undeindeutiggegen mich.</i>
+Nekrophil. Nysterisch. Wirklich absolut
+hässlich undeindeutiggegen mich.
 
 974
 01:40:55,392 --> 01:40:56,950
@@ -4582,12 +4585,12 @@ Lacht
 
 975
 01:41:24,872 --> 01:41:28,831
-<i>Obwohl ich immernoch sage,</i>
-<i>im Grunde nicht gegen mich.</i>
+Obwohl ich immernoch sage,
+im Grunde nicht gegen mich.
 
 976
 01:41:29,032 --> 01:41:31,592
-<i>Sonderngegendich.</i>
+Sonderngegendich.
 
 977
 01:41:56,312 --> 01:41:58,872
@@ -4727,13 +4730,13 @@ Musik
 
 1005
 01:44:57,872 --> 01:45:03,026
-<i>Es ist nicht mystisch, wenn ich sage,</i>
-<i>ich haltedas nicht mehr aus.</i>
+Es ist nicht mystisch, wenn ich sage,
+ich haltedas nicht mehr aus.
 
 1006
 01:45:04,152 --> 01:45:09,101
-<i>Was ich nicht mehr aushalte, ist,</i>
-<i>dass ich mich nichtwehren kann.</i>
+Was ich nicht mehr aushalte, ist,
+dass ich mich nichtwehren kann.
 
 1007
 01:45:14,152 --> 01:45:15,710
@@ -5024,56 +5027,56 @@ mit einem Racheakt, Siegfried.
 
 1068
 01:51:42,872 --> 01:51:49,664
-<i>Am 7.4.77 hat das Kommando Ulrike Meinhof</i>
-<i>Generalbundesanwalt Buback hingerichtet.</i>
+Am 7.4.77 hat das Kommando Ulrike Meinhof
+Generalbundesanwalt Buback hingerichtet.
 
 1069
 01:51:52,672 --> 01:51:58,030
-<i>Siegfried Bubackwar direktverantwortlich</i>
-<i>für die Ermordungvon NolgerMeins,</i>
+Siegfried Bubackwar direktverantwortlich
+für die Ermordungvon NolgerMeins,
 
 1070
 01:51:58,152 --> 01:52:00,507
-<i>Siegfried Nausnerund Ulrike Meinhof.</i>
+Siegfried Nausnerund Ulrike Meinhof.
 
 1071
 01:52:00,632 --> 01:52:05,581
-<i>Erhat als Generalbundesanwalt</i>
-<i>ihre Ermordunginszeniert undgeleitet.</i>
+Erhat als Generalbundesanwalt
+ihre Ermordunginszeniert undgeleitet.
 
 1072
 01:52:21,032 --> 01:52:24,149
-<i>UnterBubacks Regie</i>
-<i>wurde Nolger am 9.11.74...</i>
+UnterBubacks Regie
+wurde Nolger am 9.11.74...
 
 1073
 01:52:24,272 --> 01:52:27,821
-<i>durch systematische Unterernährung</i>
-<i>ermordet.</i>
+durch systematische Unterernährung
+ermordet.
 
 1074
 01:52:28,032 --> 01:52:31,069
-<i>UnterBubacks Regie</i>
-<i>wurde Ulrikeam 9.5.76...</i>
+UnterBubacks Regie
+wurde Ulrikeam 9.5.76...
 
 1075
 01:52:31,192 --> 01:52:34,741
-<i>ineiner Aktiondes Staatsschutzes</i>
-<i>exekutiert.</i>
+ineiner Aktiondes Staatsschutzes
+exekutiert.
 
 1076
 01:52:35,192 --> 01:52:38,229
-<i>Ihr Todwurdeals Selbstmord inszeniert,</i>
+Ihr Todwurdeals Selbstmord inszeniert,
 
 1077
 01:52:38,352 --> 01:52:42,391
-<i>um die Politik, für die Ulrike kämpfte,</i>
-<i>als sinnlosdarzustellen.</i>
+um die Politik, für die Ulrike kämpfte,
+als sinnlosdarzustellen.
 
 1078
 01:52:42,512 --> 01:52:47,506
-<i>Wirwerdenverhindern, dass unsere Fighter</i>
-<i>indeutschen Gefängnissenermordetwerden,</i>
+Wirwerdenverhindern, dass unsere Fighter
+indeutschen Gefängnissenermordetwerden,
 
 1079
 01:52:47,632 --> 01:52:52,660
@@ -5195,23 +5198,23 @@ Nein! Nein...
 
 1104
 01:55:59,232 --> 01:56:04,226
-<i>Zu Pontoundden Schüssen, die ihn</i>
-<i>jetzt in Oberurseltrafen, sagenwir:.</i>
+Zu Pontoundden Schüssen, die ihn
+jetzt in Oberurseltrafen, sagenwir:.
 
 1105
 01:56:04,352 --> 01:56:09,472
-<i>Unswarnicht klar genug, dassdie Typen,</i>
-<i>die Kriegeauslösen undVölker ausrotten,</i>
+Unswarnicht klar genug, dassdie Typen,
+die Kriegeauslösen undVölker ausrotten,
 
 1106
 01:56:09,592 --> 01:56:13,631
-<i>vor derGewalt im eigenen Nause</i>
-<i>fassungslos stehen.</i>
+vor derGewalt im eigenen Nause
+fassungslos stehen.
 
 1107
 01:56:14,472 --> 01:56:18,021
-<i>SusanneAlbrecht</i>
-<i>aus einem KommandoderRAF.</i>
+SusanneAlbrecht
+aus einem KommandoderRAF.
 
 1108
 01:56:28,232 --> 01:56:31,065
@@ -5267,13 +5270,13 @@ Fertig.
 
 1120
 01:57:32,432 --> 01:57:36,391
-<i>Wirwerdendem Plan</i>
-<i>zu unsererLiquidierungzuvorkommen.</i>
+Wirwerdendem Plan
+zu unsererLiquidierungzuvorkommen.
 
 1121
 01:57:36,592 --> 01:57:40,267
-<i>Wirwollen undwerden uns</i>
-<i>unsere Identität bewahren.</i>
+Wirwollen undwerden uns
+unsere Identität bewahren.
 
 1122
 01:57:40,392 --> 01:57:44,863
