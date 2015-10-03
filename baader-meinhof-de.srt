@@ -1,6 +1,5 @@
 -*- tab-width: 40; iedit-case-sensitive: nil; eval: (turn-on-de-freq-mode); fill-column: 10000; -*-
 
-
 1
 00:00:15,228 --> 00:00:18,538
 Janis Joplin:
@@ -1414,7 +1413,7 @@ Bewusstsein der Gesellschaft zu schmeißen.
 
 301
 00:30:16,948 --> 00:30:19,906
-Guckmal.
+Guck mal.
 Suchst du uns?
 
 302
@@ -1429,7 +1428,7 @@ Andreas... Hallo, Astrid.
 304
 00:30:29,868 --> 00:30:33,827
 Und? Was sind jetzt eure Pläne?
-Was habt ihr jetztvor?
+Was habt ihr jetzt vor?
 
 305
 00:30:34,188 --> 00:30:38,261
@@ -1453,11 +1452,11 @@ Wir bauen'ne neue Gruppe auf.
 309
 00:30:49,348 --> 00:30:54,422
 Wahrscheinlich alles Schießbudenfiguren.
-- Wir sindweiter, als du denkst.
+- Wir sind weiter, als du denkst.
 
 310
 00:30:54,548 --> 00:30:58,587
-Seit ihrweg seid, istviel passiert.
+Seit ihr weg seid, ist viel passiert.
 Wir haben gute Kontakte.
 
 311
@@ -1478,7 +1477,7 @@ Ich könnte mich abscheißen.
 314
 00:31:12,108 --> 00:31:16,943
 Der kann doch keiner Oma den Hund klauen!
-- Das istjetzt relativunsachlich.
+- Das ist jetzt relativ unsachlich.
 
 315
 00:31:17,068 --> 00:31:20,140
@@ -1492,13 +1491,13 @@ Kann kaum sprechen.
 
 317
 00:31:23,868 --> 00:31:28,020
-Seit dem Attentatweiß niemand so recht,
-wie der Kampfweitergehen soll.
+Seit dem Attentat weiß niemand so recht,
+wie der Kampf weitergehen soll.
 
 318
 00:31:28,148 --> 00:31:33,302
-Der APO-Wichserwar schonfertig,
-bevor jemand aufihn geballert hat.
+Der APO-Wichser war schon fertig,
+bevor jemand auf ihn geballert hat.
 
 319
 00:31:34,468 --> 00:31:39,258
@@ -1508,7 +1507,8 @@ die Tasche leer, bevor sie wiederkommt.
 320
 00:31:39,388 --> 00:31:42,937
 Baby...
-- Ichwillwissen, was er draufhat.
+
+- Ich will wissen, was er drauf hat.
 
 321
 00:31:45,388 --> 00:31:48,346
@@ -1520,8 +1520,8 @@ Mahler spricht Englisch
 
 323
 00:32:04,868 --> 00:32:08,417
-Thankyouverymuch.
-That's verykind. Thanks.
+> Thank you very much.
+> That's very kind. Thanks.
 
 324
 00:32:14,788 --> 00:32:16,380
@@ -1540,11 +1540,11 @@ Ihr verdammten Spaghettifresser!
 327
 00:32:25,188 --> 00:32:30,182
 Scheiße! Du blöde Tusse hast bestimmt
-dasAuto wieder nicht abgeschlossen!
+das Auto wieder nicht abgeschlossen!
 
 328
 00:32:30,308 --> 00:32:34,267
-Reg dich ab. Klauenwir halt'n neuen.
+Reg dich ab. Klauen wir halt'n neuen.
 - Ihr Fotzen!
 
 329
@@ -1566,7 +1566,7 @@ Was machst du denn hier?
 
 333
 00:32:51,108 --> 00:32:53,941
-Kannstja die Bullen rufen.
+Kannst ja die Bullen rufen.
 
 334
 00:32:57,068 --> 00:32:59,707
@@ -1584,20 +1584,20 @@ Moment.
 
 337
 00:33:08,028 --> 00:33:10,986
-Sei leise, duweckst die Kinder auf.
+Sei leise, du weckst die Kinder auf.
 
 338
 00:33:31,028 --> 00:33:33,588
-Wir sindzurück.
+Wir sind zurück.
 
 339
 00:33:38,788 --> 00:33:41,985
-Aber ihrwerdet doch gesucht.
+Aber ihr werdet doch gesucht.
 - Wenn schon.
 
 340
 00:33:42,108 --> 00:33:45,657
-Könnenwir erst mal hierbleiben?
+Können wir erst mal hierbleiben?
 - Ja, klar.
 
 341
@@ -1607,22 +1607,22 @@ Und auch in anderen Städten.
 
 342
 00:33:50,668 --> 00:33:54,741
-Wir bauen eine Gruppe auf. Wirwerden
+Wir bauen eine Gruppe auf. Wir werden
 die politischen Verhältnisse ändern.
 
 343
 00:33:54,868 --> 00:33:58,827
 Wie soll das denn gehen?
-- Was ist dasfür'ne Scheiß-Frage?
+- Was ist das für'ne Scheiß-Frage?
 
 344
 00:33:59,508 --> 00:34:03,057
 Wir machen das.
-Undwennwir dabei draufgehen.
+Und wenn wir dabei draufgehen.
 
 345
 00:34:07,948 --> 00:34:11,782
-So, mir reicht'sfür heute.
+So, mir reicht's für heute.
 Wo kann ich pennen?
 
 346
@@ -1643,7 +1643,7 @@ Du musst das verstehen.
 349
 00:34:27,148 --> 00:34:31,107
 Andreas hat mehr revolutionäre Kraft
-als wir allezusammen.
+als wir alle zusammen.
 
 350
 00:34:31,308 --> 00:34:34,141
@@ -1656,7 +1656,7 @@ Du siehst mitgenommen aus.
 352
 00:34:38,988 --> 00:34:44,016
 Ich hab einen Film in einem Heim gedreht.
-Die Mädchen dawerdenwie Dreckbehandelt.
+Die Mädchen da werden wie Dreck behandelt.
 
 353
 00:34:44,148 --> 00:34:50,064
@@ -1726,12 +1726,12 @@ Auch die Fahrzeugpapiere, bitte.
 
 368
 00:36:33,068 --> 00:36:36,026
-Dastut mir leid, Herr Wachmeister,
+Das tut mir leid, Herr Wachtmeister,
 
 369
 00:36:36,228 --> 00:36:40,062
 die hat mein Freund
-wohlvergessen reinzulegen.
+wohl vergessen rein zulegen.
 
 370
 00:36:43,628 --> 00:36:46,586
@@ -1749,7 +1749,7 @@ Wann sind Sie denn geboren?
 
 373
 00:36:55,228 --> 00:36:59,665
-Ganz sicher scheinen Sie nichtzu sein.
+Ganz sicher scheinen Sie nicht zu sein.
 - Das ist auch schon'ne Weile her.
 
 374
@@ -1776,16 +1776,16 @@ Ich auch.
 
 379
 00:37:17,228 --> 00:37:20,061
-Undwie? Mit'nem Bettlaken?
+Und wie? Mit'nem Bettlaken?
 
 380
 00:37:20,308 --> 00:37:25,336
-Du kannstja hinterher drüber schreiben.
+Du kannst ja hinterher drüber schreiben.
 Was anderes kannst du sowieso nicht.
 
 381
 00:37:25,468 --> 00:37:29,507
-Vielleicht sollteAndreas einfach
+Vielleicht sollte Andreas einfach
 seine 10 Monate Reststrafe abreißen.
 
 382
@@ -1795,17 +1795,17 @@ im Mittelpunkt der politischen Diskussion.
 
 383
 00:37:35,068 --> 00:37:40,096
-Man muss den Schweinenzeigen, dass wir
-wastun, wenn die unsere Leute wegsperren.
+Man muss den Schweinen zeigen, dass wir
+was tun, wenn die unsere Leute wegsperren.
 
 384
 00:37:40,228 --> 00:37:43,061
-Wir holenAndy da raus. Jetzt!
+Wir holen Andy da raus. Jetzt!
 
 385
 00:37:45,988 --> 00:37:49,537
 In den Knast rein
-könnenwir jedenfalls nicht.
+können wir jedenfalls nicht.
 
 386
 00:37:50,588 --> 00:37:55,708
@@ -1818,7 +1818,7 @@ Guten Tag.
 
 388
 00:38:03,388 --> 00:38:08,667
-Frau Dr. GretelWeitemeier, die Lektorin
+Frau Dr. Gretel Weitemeier, die Lektorin
 vom Verlag, der unser Buch rausbringt.
 
 389
@@ -1843,8 +1843,8 @@ Wo hast du die her?
 
 393
 00:38:35,388 --> 00:38:40,542
-Die hatfür uns alle so Dinger besorgt.
-- Undwer ist das, wir alle?
+Die hat für uns alle so Dinger besorgt.
+- Und wer ist das, wir alle?
 
 394
 00:38:43,068 --> 00:38:45,628
@@ -1852,12 +1852,12 @@ Das wär Verrat.
 
 395
 00:38:46,068 --> 00:38:50,027
-Dannverrate ich mal.
+Dann verrate ich mal.
 Gudrun, Astrid, Ingrid.
 
 396
 00:38:50,868 --> 00:38:53,826
-Ich brauch'neAspirin.
+Ich brauch'ne Aspirin.
 - Ulrike.
 
 397
@@ -1871,13 +1871,13 @@ du machst nicht mit.
 
 399
 00:39:00,988 --> 00:39:03,946
-Ichwilljetztwissen, was abgeht.
+Ich will jetzt wissen, was abgeht.
 Also?
 
 400
 00:39:06,028 --> 00:39:10,067
-Mahler hat erreicht, dassAndreas und ich
-im Institutfür soziale Fragen...
+Mahler hat erreicht, dass Andreas und ich
+im Institut für soziale Fragen...
 
 401
 00:39:10,188 --> 00:39:14,261

@@ -681,7 +681,7 @@ albern
 > ‘Don’t be silly, Vernon, she hates the boy.’
 
 vielmehr
-widerwärtiges	nasty
+widerwärtiges
 verstehen
 die Schnecke
 »Was ist mit Wie-heißt-sie-noch-mal, deine Freundin-Yvonne?«
@@ -7323,3 +7323,162 @@ der Spuk
 die Massenbewegung
 
 ¶ Die Massenbewegung hat ihren Schwung längst verloren.
+
+die Gruppierung
+existenziell
+bedrückend
+zögern
+empfinden
+die Bombe
+verkrusten
+schmeißen
+
+¶ Gruppierungen, die die Verhältnisse als existenziell bedrückend empfinden, werden nicht zögern, Bomben in das aus ihrer Sichtverkrustete Bewusstsein der Gesellschaft zu schmeißen.
+
+¶ Guck mal.
+
+der Anwalt
+
+¶ - Der Herr Anwalt.
+
+der Knast
+
+¶ Wir gehen nicht mehr in den Knast.
+
+die Schießbudenfigure
+
+¶ Wahrscheinlich alles Schießbudenfiguren.
+
+seit
+
+¶ Seit ihr weg seid, ist viel passiert.
+
+die Wohnung
+
+¶ Wohnungen, Papiere, Geld, Waffen... können wir alles besorgen.
+
+abscheißen
+
+¶ Ich könnte mich abscheißen.
+
+unsachlich
+
+¶ Das ist jetzt relativ unsachlich
+
+behindert
+
+¶ Ist immer noch behindert.
+
+geballert (ballern)
+
+¶ Der APO-Wichser war schon fertig, bevor jemand auf ihn geballert hat.
+
+der Maulheld
+
+¶ Bist eben doch nur ein Maulheld.
+
+die Tusse
+
+¶ Du blöde Tusse hast bestimmt das Auto wieder nicht abgeschlossen!
+
+reg (regen)
+
+¶ Reg dich ab.
+
+die Fotze
+
+¶ - Ihr Fotzen!
+
+¶ Klingel
+
+¶ Wir werden die politischen Verhältnisse 
+
+bekifft
+
+¶ Klingt ganz schön bekifft.
+
+mitgenommen
+
+¶ Du siehst mitgenommen aus.
+
+das Heim
+
+¶ Ich hab einen Film in einem Heim gedreht.
+
+der Dreck
+
+¶ Die Mädchen da werden wie Dreck behandelt.
+
+die Lage
+verändern
+
+¶ Ich dachte, ich kann ihre Lage verändern, aber es ist die alte Scheiße geblieben.
+
+bekämpfen
+
+¶ Zwischen dir und denen, die du bekämpfen willst.
+
+ausklinken
+die Brücke
+
+¶ Du musst dich aus dem System ausklinken und hinter dir alle Brücken abbrennen.
+
+die Fahrzeugpapiere
+
+¶ Auch die Fahrzeugpapiere, bitte.
+
+der Wachtmeister
+
+¶ Das tut mir leid, Herr Wachtmeister, die hat mein Freund wohl vergessen rein zulegen.
+
+¶ Sie wohnen in Rom, Herr Hoger?
+
+das Bettlaken
+
+¶ Und wie? Mit'nem Bettlaken?
+
+schreiben
+
+¶ Du kannst ja hinterher drüber schreiben.
+
+die Reststrafe
+abreißen
+
+¶ Vielleicht sollte Andreas einfach seine 10 Monate Reststrafe abreißen.
+
+die Gefangenenbefreiung
+
+¶ Scheiße! Gefangenenbefreiung steht im Mittelpunkt der politischen Diskussion.
+
+wegsperren
+
+¶ Man muss den Schweinen zeigen, dass wir was tun, wenn die unsere Leute wegsperren.
+
+der Verleger, die Verleger
+
+¶ Ich kenne da so'nen Verleger.
+
+die Lektorin, der Lektor
+
+¶ Frau Dr. Gretel Weitemeier, die Lektorin vom Verlag, der unser Buch rausbringt.
+
+das Tränengas
+
+¶ Mann, das ist bloß Tränengas.
+
+der Verrat
+
+¶ Das wär Verrat.
+
+der Vogel
+der Lockvogel
+
+¶ Sie macht nur den Lockvogel.
+
+abgehen
+
+¶ Ich will jetzt wissen, was abgeht.
+
+recherchieren
+
+¶ Mahler hat erreicht, dass Andreas und ich im Institut für soziale Fragen für ein Buch recherchieren können.
