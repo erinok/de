@@ -3549,7 +3549,7 @@ schnappte (schnappen)
 
 der Saft
 
-¶ »Aach, kocht eure Köpfe doch im eigenen Saft, ihr beiden«,  sagte Hagrid.
+¶ »Aach, kocht eure Köpfe doch im eigenen Saft, ihr beiden«, sagte Hagrid.
 
 > ‘Ah, go boil yer heads, both of yeh,’ said Hagrid.
 
@@ -7482,3 +7482,91 @@ abgehen
 recherchieren
 
 ¶ Mahler hat erreicht, dass Andreas und ich im Institut für soziale Fragen für ein Buch recherchieren können.
+
+überraschen
+
+¶ Ich bleib sitzen und spiel die Überraschte.
+
+der Profi
+
+¶ Mahler kennt noch'nen richtigen Profi.
+
+abgezogen (abziehen)
+
+¶ Mahler sagt, der hat schon scharfe Sachen abgezogen.
+
+der Schrott
+
+¶ Die Bullen haben doch richtige Knarren, nicht so'n Schrott.
+
+der Schusswaffe
+der Gebrauch
+
+¶ Herr Baader, bei einem Flucht versuch machen wir von der Schusswaffe Gebrauch.
+
+ausdrücklich
+
+¶ Darauf weise ich ausdrücklich hin.
+
+verheiratet
+
+¶ Sind Sie verheiratet? Haben Sie Kinder?
+
+der Lesesaal
+besetzt
+
+¶ Der Lesesaal ist im Augenblick besetzt.
+
+unverständlich
+
+¶ Unverständlich
+
+die Entführer, entführen
+
+¶ Berichten zufolge schossen die Entführer durch die geöffnete Tür Tränengas.
+
+der Mitarbeiter
+die Waffengewalt
+
+¶ Dann drängten sie Mitarbeiter beiseite und befreiten Baader mit Waffengewalt.
+
+der Typ
+
+¶ Wir sagen. : "Der Typ in der Uniform ist ein Schwein, das ist kein Mensch."
+
+umzugehen (umgehen)
+
+¶ Und so haben wir mit ihm umzugehen.
+
+die Auseinandersetzungen
+durchführbar 
+
+¶ Bewaffnete Auseinandersetzungen sind durchführbar.
+
+siegen
+
+¶ Es ist möglich, Aktionen zu machen, wo wir siegen und nicht, wo die andere Seite siegt.
+
+die Wüste
+
+¶ Bei uns ist keine Wüste!
+
+übersetzt
+
+¶ Übersetzt
+
+das Französisch
+
+¶ Französisch
+
+bewundert (bewundern)
+
+¶ - Wir haben nur deine Hosen bewundert.
+
+der Schwanzlutscher
+
+¶ - Ich mach dich alle, du Schwanzlutscher.
+
+der Schiss
+
+¶ Der ist doch nur hier, weil er Schiss vor den Bullen in Deutschland hat.

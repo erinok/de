@@ -1,34 +1,26 @@
 all:
 
-~/Desktop/declips/1169.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:37:34.568 -to 00:37:45.124 ~/Desktop/declips/1169.mp3 &> /dev/null
-all: ~/Desktop/declips/1169.mp3
+~/Desktop/declips/1192.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:46:59.488 -to 00:47:04.548 ~/Desktop/declips/1192.mp3 &> /dev/null
+all: ~/Desktop/declips/1192.mp3
 
-~/Desktop/declips/1170.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:37:50.088 -to 00:38:00.828 ~/Desktop/declips/1170.mp3 &> /dev/null
-all: ~/Desktop/declips/1170.mp3
+~/Desktop/declips/1193.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:47:04.048 -to 00:47:08.052 ~/Desktop/declips/1193.mp3 &> /dev/null
+all: ~/Desktop/declips/1193.mp3
 
-~/Desktop/declips/1171.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:38:02.888 -to 00:38:13.946 ~/Desktop/declips/1171.mp3 &> /dev/null
-all: ~/Desktop/declips/1171.mp3
+~/Desktop/declips/1194.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:47:19.368 -to 00:47:22.508 ~/Desktop/declips/1194.mp3 &> /dev/null
+all: ~/Desktop/declips/1194.mp3
 
-~/Desktop/declips/1172.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:38:23.728 -to 00:38:32.146 ~/Desktop/declips/1172.mp3 &> /dev/null
-all: ~/Desktop/declips/1172.mp3
+~/Desktop/declips/1195.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:47:22.008 -to 00:47:30.586 ~/Desktop/declips/1195.mp3 &> /dev/null
+all: ~/Desktop/declips/1195.mp3
 
-~/Desktop/declips/1173.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:38:42.568 -to 00:38:48.188 ~/Desktop/declips/1173.mp3 &> /dev/null
-all: ~/Desktop/declips/1173.mp3
+~/Desktop/declips/1196.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:47:41.008 -to 00:47:53.340 ~/Desktop/declips/1196.mp3 &> /dev/null
+all: ~/Desktop/declips/1196.mp3
 
-~/Desktop/declips/1174.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:38:53.528 -to 00:38:59.694 ~/Desktop/declips/1174.mp3 &> /dev/null
-all: ~/Desktop/declips/1174.mp3
-
-~/Desktop/declips/1175.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:39:00.488 -to 00:39:06.028 ~/Desktop/declips/1175.mp3 &> /dev/null
-all: ~/Desktop/declips/1175.mp3
-
-~/Desktop/declips/1176.mp3:
-	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:39:05.528 -to 00:39:22.494 ~/Desktop/declips/1176.mp3 &> /dev/null
-all: ~/Desktop/declips/1176.mp3
+~/Desktop/declips/1197.mp3:
+	ffmpeg -y -i /Users/erin/Downloads/de/baader-meinhof/baader-meinhof.avi  -ss 00:47:54.208 -to 00:48:05.972 ~/Desktop/declips/1197.mp3 &> /dev/null
+all: ~/Desktop/declips/1197.mp3
 

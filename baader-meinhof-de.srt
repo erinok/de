@@ -337,7 +337,7 @@ Schuss
 73
 00:07:43,748 --> 00:07:47,297
 Die ist mir losgegangen.
-- Bist duwahnsinnig?
+- Bist du wahnsinnig?
 
 74
 00:07:48,148 --> 00:07:50,708
@@ -1887,16 +1887,16 @@ für ein Buch recherchieren können.
 402
 00:39:14,388 --> 00:39:18,347
 Mit Polizeibewachung natürlich.
-- Da kommenwir ins Spiel.
+- Da kommen wir ins Spiel.
 
 403
 00:39:18,548 --> 00:39:22,939
-Im Institut haltenwir den beiden Bullen
+Im Institut halten wir den beiden Bullen
 unsere Wumme unter die Nase,
 
 404
 00:39:23,068 --> 00:39:26,026
-undweg ist der Baader.
+und weg ist der Baader.
 - Und du?
 
 405
@@ -1938,23 +1938,23 @@ Ich muss das jetzt machen.
 
 413
 00:40:20,068 --> 00:40:25,062
-Herr Baader, bei einem Fluchtversuch
-machenwir von der Schusswaffe Gebrauch.
+Herr Baader, bei einem Flucht versuch
+machen wir von der Schusswaffe Gebrauch.
 
 414
 00:40:25,188 --> 00:40:29,625
-Daraufweise ich ausdrücklich hin.
+Darauf weise ich ausdrücklich hin.
 - Machen Sie sich mal keine Sorgen.
 
 415
 00:40:43,228 --> 00:40:47,983
 Ich habe Sie im Fernsehen gesehen.
-- Hoffentlichwar es interessant.
+- Hoffentlich war es interessant.
 
 416
 00:40:48,108 --> 00:40:52,499
-Ja, sehr. Brauchen Sie nochwas?
-- Danke, ich kommezurecht.
+Ja, sehr. Brauchen Sie noch was?
+- Danke, ich komme zurecht.
 
 417
 00:41:02,508 --> 00:41:04,578
@@ -1981,18 +1981,18 @@ Ah.
 
 422
 00:41:32,908 --> 00:41:36,457
-Also, dannfangenwir mal an.
+Also, dann fangen wir mal an.
 Wir haben...
 
 423
 00:41:39,108 --> 00:41:43,545
 Ich hatte Sie doch gestern gebeten,
-erst am Nachmittagzu kommen.
+erst am Nachmittag zu kommen.
 
 424
 00:41:43,668 --> 00:41:48,423
-Der Lesesaal ist im Augenblickbesetzt.
-- Dannwartenwir eben hier.
+Der Lesesaal ist im Augenblick besetzt.
+- Dann warten wir eben hier.
 
 425
 00:41:48,548 --> 00:41:51,506
@@ -2001,7 +2001,7 @@ Kann aber dauern.
 
 426
 00:41:56,868 --> 00:41:59,826
-In einem darauffolgenden Gespräch...
+In einem darauf folgenden Gespräch...
 
 427
 00:42:26,308 --> 00:42:28,868
@@ -2027,7 +2027,7 @@ Komm, Katze!
 
 432
 00:43:04,428 --> 00:43:06,783
-Gudrun! Hilfmir!
+Gudrun! Hilf mir!
 
 433
 00:43:09,548 --> 00:43:11,937
@@ -2061,42 +2061,42 @@ Schnell.
 
 440
 00:44:24,508 --> 00:44:29,536
-Wir sagen. : "Der Typ inderUniform
+Wir sagen: "Der Typ in der Uniform 
 ist ein Schwein, das ist kein Mensch."
 
 441
 00:44:29,668 --> 00:44:34,696
-Undso habenwirmit ihm umzugehen.
-Wirhaben also nicht mit ihmzu reden.
+Und so haben wir mit ihm umzugehen.
+Wir haben also nicht mit ihm zu reden.
 
 442
 00:44:34,828 --> 00:44:38,787
-Undes istfalsch,
-überhaupt mit diesen Leutenzu reden.
+Und es ist falsch,
+überhaupt mit diesen Leuten zu reden.
 
 443
 00:44:38,988 --> 00:44:44,016
-Und natürlich kanngeschossenwerden.
-Waswirmachen undzeigenwollen, ist. :
+Und natürlich kann geschossen werden.
+Was wir machen und zeigen wollen, ist:
 
 444
 00:44:44,148 --> 00:44:48,699
-BewaffneteAuseinandersetzungen
-sinddurchführbar. Es ist möglich,
+Bewaffnete Auseinandersetzungen
+sind durchführbar. Es ist möglich,
 
 445
 00:44:48,988 --> 00:44:53,937
-Aktionenzu machen, wowir siegen
-und nicht, wodieandere Seite siegt.
+Aktionen zu machen, wo wir siegen
+und nicht, wo die andere Seite siegt.
 
 446
 00:44:54,068 --> 00:44:57,458
-Undwowichtigist,
-dass sieuns nicht kriegen.
+Und wo wichtig ist,
+dass sie uns nicht kriegen.
 
 447
 00:44:57,588 --> 00:45:00,102
-Dasgehörtzum ErfolgderGeschichte.
+Das gehört zum Erfolg der Geschichte.
 
 448
 00:45:05,548 --> 00:45:07,106
@@ -2126,8 +2126,8 @@ Willkommen, Andreas. Hi, Gudrun.
 
 454
 00:46:01,948 --> 00:46:05,907
-Das istAchmed, der Kommandant.
-This is Gudrun andAndy.
+Das ist Achmed, der Kommandant.
+This is Gudrun and Andy.
 
 455
 00:46:06,028 --> 00:46:09,862
@@ -2137,7 +2137,7 @@ Die Männer schlafen hier, die Frauen da!
 456
 00:46:10,548 --> 00:46:15,576
 So sind die Regeln hier im Lager.
-- Scheiß drauf. Wir schlafenzusammen! Da!
+- Scheiß drauf. Wir schlafen zusammen! Da!
 
 457
 00:46:24,268 --> 00:46:27,977
@@ -2180,7 +2180,7 @@ Das hat nichts mit unserem Job zutun!
 
 465
 00:46:59,988 --> 00:47:04,425
-Wir sind Stadtguerilla, verstehst du?
+Wir sind Stadt guerilla, verstehst du?
 Bei uns ist keine Wüste!
 
 466
@@ -2194,8 +2194,8 @@ Bankkisten auf dem Schirm!
 
 468
 00:47:16,028 --> 00:47:19,737
-We wantto rob banks.
-We need a differenttraining.
+We want to rob banks.
+We need a different training.
 
 469
 00:47:19,868 --> 00:47:21,824
@@ -2216,7 +2216,7 @@ Leave them.
 
 473
 00:47:41,508 --> 00:47:47,424
-(Achmed) Stop it! Put downthe gun!
+(Achmed) Stop it! Put down the gun!
 - Ich mach dich alle, du Schwanzlutscher.
 
 474
@@ -2239,7 +2239,7 @@ Musik
 
 478
 00:48:46,028 --> 00:48:48,861
-Duwillstzurück, stimmt's?
+Du willst zurück, stimmt's?
 
 479
 00:48:52,428 --> 00:48:56,660
@@ -2249,7 +2249,7 @@ Das heißt also, du gibst auf.
 480
 00:48:56,788 --> 00:49:00,747
 Was hat das mit unserer Situation
-in der BRD zutun?
+in der BRD zu tun?
 
 481
 00:49:01,548 --> 00:49:06,576
@@ -2267,22 +2267,22 @@ gegen Ungerechtigkeit und Unterdrückung.
 
 484
 00:49:16,068 --> 00:49:20,619
-Ich dachte, duwüsstest das.
-- Dannfang bei deinen Kindern an.
+Ich dachte, du wüsstest das.
+- Dann fang bei deinen Kindern an.
 
 485
 00:49:21,908 --> 00:49:25,867
 Du lebst im Untergrund.
-Was soll denn aus ihnenwerden?
+Was soll denn aus ihnen werden?
 
 486
 00:49:30,628 --> 00:49:35,702
 Über kurz oder lang kommt raus, dass ich
-bei der Baader-Befreiung nicht dabeiwar.
+bei der Baader-Befreiung nicht dabei war.
 
 487
 00:49:35,828 --> 00:49:38,786
-Dann kann ichzurückin die Legalität.
+Dann kann ich zurück in die Legalität.
 
 488
 00:49:39,228 --> 00:49:42,186
@@ -2290,11 +2290,11 @@ Ich könnte mich um die Kinder kümmern.
 
 489
 00:49:45,548 --> 00:49:48,506
-Das klingtverdammt nach Verrat.
+Das klingt verdammt nach Verrat.
 
 490
 00:49:48,748 --> 00:49:51,103
-Verrat? Anwem?
+Verrat? An wem?
 
 491
 00:49:57,988 --> 00:50:00,548
@@ -2314,8 +2314,8 @@ Was denn? Muss doch Spaß machen.
 
 495
 00:50:39,588 --> 00:50:44,025
-Erwill uns keine Munition mehr geben.
-- Dann streikenwir eben.
+Er will uns keine Munition mehr geben.
+- Dann streiken wir eben.
 
 496
 00:50:45,428 --> 00:50:47,180
@@ -2332,7 +2332,7 @@ Hey, seht mal, wer da kommt.
 
 499
 00:51:06,668 --> 00:51:09,626
-Was macht man eigentlich mitVerrätern?
+Was macht man eigentlich mit Verrätern?
 
 500
 00:51:11,468 --> 00:51:14,028
@@ -2344,13 +2344,13 @@ Was?
 
 502
 00:51:21,668 --> 00:51:26,105
-Erwill, dass wir uns was anziehen.
-- Was ist'n dasfür'ne Scheißtruppe?
+Er will, dass wir uns was anziehen.
+- Was ist'n das für'ne Scheißtruppe?
 
 503
 00:51:26,228 --> 00:51:31,382
 Sexuelle Befreiung und Kampf gegen
-den lmperialismus gehörenzusammen.
+den imperialismus gehören zusammen.
 
 504
 00:51:31,508 --> 00:51:34,341
@@ -2371,22 +2371,22 @@ to get backto Germany.
 
 508
 00:52:08,508 --> 00:52:12,467
-Erwill uns helfen,
-nach Deutschlandzurückzukommen.
+Er will uns helfen,
+nach Deutschland zurückzukommen.
 
 509
 00:52:12,628 --> 00:52:16,587
-Undw. As ist mitWaff. En? Logistik?
+Und. As ist mit Waff. En? Logistik?
 Ubersetz das. Ubersetz.
 
 510
 00:52:17,188 --> 00:52:20,021
-How aboutweapons?
+How about weapons?
 Logistics? Passports?
 
 511
 00:52:29,348 --> 00:52:33,227
-Lm Momentwird erwohl nichts machen.
+Im Moment wird er wohl nichts machen.
 Vielleicht später.
 
 512
