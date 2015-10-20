@@ -2537,11 +2537,11 @@ im Gegensatz zu anderen durchsetzen.
 542
 00:56:35,268 --> 00:56:39,102
 Hey, was machen Sie da?
-Hey! Das ist meinAuto!
+Hey! Das ist mein Auto!
 
 543
 00:56:39,468 --> 00:56:43,746
-Gesternwurden 5 Personenverhaftet:
+Gestern wurden 5 Personen verhaftet:
 Rechtsanwalt Horst Mahler,
 
 544
@@ -2570,7 +2570,7 @@ waren es vermutlich dieselben Täter.
 
 549
 00:57:05,708 --> 00:57:08,541
-Zeigen Sie mal lhre Papiere.
+Zeigen Sie mal ihre Papiere.
 
 550
 00:57:14,548 --> 00:57:16,504
@@ -2602,13 +2602,13 @@ Viele Zuschauer bezeugten ihre Sympathie.
 
 556
 00:57:47,148 --> 00:57:50,982
-Laut einer Umfrage
-desAllensbacher Institutes...
+Laut einer Umfrage 
+des Allensbacher Institutes...
 
 557
 00:57:51,308 --> 00:57:55,347
-hatjeder 4. Deutsche unter 30
-gewisse Sympathienfür die RAF.
+hat jeder 4. Deutsche unter 30
+gewisse Sympathien für die RAF.
 
 558
 00:57:55,468 --> 00:58:01,065
@@ -2631,7 +2631,7 @@ der elektronischen Datenverarbeitung.
 
 562
 00:58:16,988 --> 00:58:20,947
-Ichwill Ihnen an einem Beispiel erklären,
+Ich will Ihnen an einem Beispiel erklären,
 was ich meine.
 
 563
@@ -2650,12 +2650,12 @@ auch kein Bankkonto einrichten.
 
 566
 00:58:34,068 --> 00:58:38,027
-Siezahlen also ihre Mieten bar.
-Haben Sie keinenAppetit?
+Sie zahlen also ihre Mieten bar.
+Haben Sie keinen Appetit?
 
 567
 00:58:38,908 --> 00:58:42,867
-Diezahlen alles bar.
+Die zahlen alles bar.
 Gas-, Wasser- und Stromrechungen...
 
 568
@@ -2675,17 +2675,17 @@ Oder bei einer Krankenkasse sind.
 
 571
 00:58:56,068 --> 00:59:00,425
-Dannfolgenweitere Datenabgleiche
+Dann folgen weitere Datenabgleiche
 und Löschungen. Zum Beispiel,
 
 572
 00:59:00,548 --> 00:59:04,587
-aufwen ein Fahrzeugzugelassen ist
-oderwer Kindergeld bezieht.
+auf wen ein Fahrzeug zu gelassen ist
+oder wer Kindergeld bezieht.
 
 573
 00:59:04,708 --> 00:59:10,066
-Der Rasterwird immer kleiner.
+Der Raster wird immer kleiner.
 Am Ende bleiben nur 2 oder 3 Verdächtige.
 
 574
@@ -2695,7 +2695,7 @@ Das ist eine mathematische Gewissheit.
 575
 00:59:15,468 --> 00:59:19,905
 Auflange Sicht nützt es aber nichts,
-aufKöpfe einzuschlagen.
+au fKöpfe einzuschlagen.
 
 576
 00:59:20,068 --> 00:59:23,458
@@ -2717,7 +2717,7 @@ unter denen Terrorismus entsteht.
 
 580
 00:59:35,588 --> 00:59:38,546
-Das istzumindest meine Meinung.
+Das ist zumindest meine Meinung.
 
 581
 00:59:39,748 --> 00:59:43,297
@@ -2780,7 +2780,7 @@ Du hast gesagt, für eine Nacht.
 594
 01:02:03,228 --> 01:02:07,187
 Komm, jetzt hab dich nicht so.
-Morgen sindwirweg.
+Morgen sind wir weg.
 
 595
 01:02:07,708 --> 01:02:10,268
@@ -2793,7 +2793,7 @@ Na gut. Morgen.
 597
 01:02:23,868 --> 01:02:27,907
 2 Insassen, ein Mann und eine Frau.
-Das Fahrzeugwar kurzgeschlossen.
+Das Fahrzeug war kurz geschlossen.
 
 598
 01:02:28,028 --> 01:02:30,588
@@ -2801,8 +2801,8 @@ Was ist los?
 
 599
 01:02:31,908 --> 01:02:34,741
-(lrmgard)
-Das ist PetrasAuto.
+(Irmgard)
+Das ist Petras Auto.
 
 600
 01:02:35,988 --> 01:02:41,062
@@ -2821,7 +2821,7 @@ Scheiße.
 603
 01:02:51,868 --> 01:02:55,827
 Jetzt ist Krieg.
-- Das kriegen die Schweinezurück.
+- Das kriegen die Schweine zurück.
 
 604
 01:02:56,148 --> 01:03:00,107
@@ -2830,7 +2830,7 @@ Ganz klar gibt es einen Schießbefehl.
 
 605
 01:03:00,308 --> 01:03:05,382
-Die machen jetzt gezielt Jagd aufuns.
+Die machen jetzt gezielt Jagd auf uns.
 - Wir müssen die Bullen direkt angreifen.
 
 606
