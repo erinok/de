@@ -7818,3 +7818,49 @@ gezielt
 die Jagd
 
 ¶ Die machen jetzt gezielt Jagd auf uns.
+
+angreifen
+
+¶ Wir müssen die Bullen direkt angreifen.
+
+der Hubschrauber
+
+¶ Polizeihubschrauber in die Luft jagen.
+
+die Dienststelle
+
+¶ Dienststellen beschießen.
+
+der Widerspruch
+Hauptlinie
+
+¶ Das steht im Widerspruch zur Hauptlinie.
+
+die Sicherheitsmaßnahmen
+die Maßnahmen
+
+¶ Wir brauchen mehr Sicherheitsmaßnahmen. 
+
+die Kenntnis
+die Örtlichkeit
+
+¶ Aktionen infremden Städten ohne Kenntnis der Örtlichkeit dürfen nicht sein.
+
+der Fehlschlag
+Einzelne
+
+¶ An Fehlschlägen waren Einzelne schuld.
+
+die Planung
+gesamt
+
+¶ Es ist nicht die Gesamtplanung.
+
+hetzen
+
+¶ Diese plan lose Rumrennerei, dieses Hetzen. 
+
+die Emanzipation
+anschreit (anschreien)
+
+¶ Eure Emanzipation besteht doch nur darin, dass ihr eure Männer anschreit!

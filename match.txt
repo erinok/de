@@ -1,33 +1,44 @@
-¶ - Die Flossen hoch! Du auch!
 
-schalt (schalten)
+¶ Wir müssen die Bullen direkt angreifen.
 
-¶ Schalt mal aufs Erste.
+der Hubschrauber
 
-Tagesschau
+¶ Polizeihubschrauber in die Luft jagen.
 
-¶ "Tagesschau" beginnt
+die Dienststelle
 
-der Insasse
+¶ Dienststellen beschießen.
 
-¶ 2 Insassen, ein Mann und eine Frau.
+der Widerspruch
+Hauptlinie
 
-Schusswechsel
-tödlich
+¶ Das steht im Widerspruch zur Hauptlinie.
 
-¶ Die Frau wurde in einem Schusswechsel mit der Polizei tödlich verletzt.
+die Sicherheitsmaßnahmen
+die Maßnahmen
 
-eröffnete (eröffnen)
-aufgefordert (auffordern)
-niederzulegen (niederlugen)
+¶ Wir brauchen mehr Sicherheitsmaßnahmen. 
 
-¶ Sie eröffnete ihn und wurde aufgefordert, die Waffe niederzulegen.
+die Kenntnis
+die Örtlichkeit
 
-der Schießbefehl
+¶ Aktionen infremden Städten ohne Kenntnis der Örtlichkeit dürfen nicht sein.
 
-¶ Ganz klar gibt es einen Schießbefehl.
+der Fehlschlag
+Einzelne
 
-gezielt
-die Jagd
+¶ An Fehlschlägen waren Einzelne schuld.
 
-¶ Die machen jetzt gezielt Jagd auf uns.
+die Planung
+gesamt
+
+¶ Es ist nicht die Gesamtplanung.
+
+hetzen
+
+¶ Diese plan lose Rumrennerei, dieses Hetzen. 
+
+die Emanzipation
+anschreit (anschreien)
+
+¶ Eure Emanzipation besteht doch nur darin, dass ihr eure Männer anschreit!

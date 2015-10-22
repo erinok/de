@@ -1,8 +1,10 @@
-01:00:20,348 --> 01:00:24,057 ¶ - Die Flossen hoch! Du auch!
-01:01:54,868 --> 01:01:58,827 ¶ Schalt mal aufs Erste.
-01:02:07,708 --> 01:02:10,268 ¶ "Tagesschau" beginnt
-01:02:23,868 --> 01:02:27,907 ¶ 2 Insassen, ein Mann und eine Frau.
-01:02:35,988 --> 01:02:41,062 ¶ Die Frau wurde in einem Schusswechsel mit der Polizei tödlich verletzt.
-01:02:41,188 --> 01:02:45,739 ¶ Sie eröffnete ihn und wurde aufgefordert, die Waffe niederzulegen.
-01:02:56,148 --> 01:03:00,107 ¶ Ganz klar gibt es einen Schießbefehl.
-01:03:00,308 --> 01:03:05,382 ¶ Die machen jetzt gezielt Jagd auf uns.
+01:03:00,308 --> 01:03:05,382 ¶ Wir müssen die Bullen direkt angreifen.
+01:03:05,508 --> 01:03:10,457 ¶ Polizeihubschrauber in die Luft jagen.
+01:03:05,508 --> 01:03:10,457 ¶ Dienststellen beschießen.
+01:03:11,068 --> 01:03:15,664 ¶ Das steht im Widerspruch zur Hauptlinie.
+01:03:30,068 --> 01:03:33,026 ¶ Wir brauchen mehr Sicherheitsmaßnahmen. 
+01:03:33,268 --> 01:03:38,296 ¶ Aktionen infremden Städten ohne Kenntnis der Örtlichkeit dürfen nicht sein.
+01:03:38,428 --> 01:03:42,899 ¶ An Fehlschlägen waren Einzelne schuld.
+01:03:43,028 --> 01:03:47,499 ¶ Es ist nicht die Gesamtplanung.
+01:03:56,268 --> 01:04:01,388 ¶ Diese plan lose Rumrennerei, dieses Hetzen. 
+01:04:05,588 --> 01:04:11,220 ¶ Eure Emanzipation besteht doch nur darin, dass ihr eure Männer anschreit!
