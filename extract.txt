@@ -1,10 +1,9 @@
-01:03:00,308 --> 01:03:05,382 ¶ Wir müssen die Bullen direkt angreifen.
-01:03:05,508 --> 01:03:10,457 ¶ Polizeihubschrauber in die Luft jagen.
-01:03:05,508 --> 01:03:10,457 ¶ Dienststellen beschießen.
-01:03:11,068 --> 01:03:15,664 ¶ Das steht im Widerspruch zur Hauptlinie.
-01:03:30,068 --> 01:03:33,026 ¶ Wir brauchen mehr Sicherheitsmaßnahmen. 
-01:03:33,268 --> 01:03:38,296 ¶ Aktionen infremden Städten ohne Kenntnis der Örtlichkeit dürfen nicht sein.
-01:03:38,428 --> 01:03:42,899 ¶ An Fehlschlägen waren Einzelne schuld.
-01:03:43,028 --> 01:03:47,499 ¶ Es ist nicht die Gesamtplanung.
-01:03:56,268 --> 01:04:01,388 ¶ Diese plan lose Rumrennerei, dieses Hetzen. 
-01:04:05,588 --> 01:04:11,220 ¶ Eure Emanzipation besteht doch nur darin, dass ihr eure Männer anschreit!
+01:06:35,868 --> 01:06:40,896 ¶ Heute, am 12. Mai, wurde ein Anschlag auf die Polizeidirektion in Augsburg verübt.
+01:06:46,188 --> 01:06:50,147 ¶ Sachverständige untersuchen, woraus der Sprengsatz bestand.
+01:06:50,428 --> 01:06:55,456 ¶ Die Oberstaatsanwaltschaft Karlsruhe setzte 10.000 Mark Belohnung aus.
+01:06:55,588 --> 01:06:59,024 ¶ Der Wagen wird derzeit von Fachleuten des BKA in Wiesbaden durchsucht.
+01:07:22,468 --> 01:07:26,939 ¶ Bundesrichter Buddenberg ermittelte auch gegen die Baader-Meinhof-Gruppe.
+01:07:27,068 --> 01:07:31,266 ¶ Seine Frau wurde mit Splitterverletzungen ins Krankenhaus eingeliefert.
+01:07:31,388 --> 01:07:35,347 ¶ Sie steht noch unter Schock, ist aber außer Lebensgefahr.
+01:07:35,548 --> 01:07:38,506 ¶ Wir brauchen mehr Mühlen.
+01:07:38,708 --> 01:07:43,736 ¶ Wie sieht es kurz vor der angedrohten Tatzeit um 14:00 Uhr in Stuttgart aus?

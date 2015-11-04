@@ -1,4 +1,4 @@
--*- fill-column: 10000; eval: (turn-on-de-freq-mode) -*-
+-*- fill-column: 10000; iedit-case-sensitive: nil eval: (turn-on-de-freq-mode) -*-
 
 Harry Potter und der Stein der Weisen
 
@@ -164,8 +164,7 @@ Dumbledore nickte mit düsterer Miene.
 
 »Wir können nur mutmaßen«, sagte Dumbledore.  »Vielleicht werden wir es nie wissen.«
 
-Professor McGonagall zog ein Spitzentaschentuch hervor und betupfte die Augen unter der Brille. Dumbledore zog eine goldene Uhr aus der Tasche und gab ein langes Schniefen von sich. Es war eine sehr merkwürdige Uhr. Sie hatte zwölf Zeiger, aber keine Ziffern; stattdessen drehten sich kleine Planeten in ihrem Rund. Dumbledore Jedenfalls musste diese Uhr etwas mitteilen, denn er steckte sie zurück in die Tasche und sagte: »Hagrid verspätet sich. Übrigens nehme ich an, er hat Ihnen erzählt, dass ich hierher kommen würde?« »Ja«, sagte Professor McGonagall. »Und ich nehme nicht an, dass Sie mir sagen werden, warum Sie ausgerechnet hier sind?« »Ich bin gekommen, um Harry zu seiner Tante und seinem Onkel zu bringen. Sie sind die Einzigen aus der Familie, die ihm noch geblieben sind.« »Sie meinen doch nicht - Sie können einfach nicht die Leute meinen, die hier wohnen?«, rief Professor McGonagall, sprang auf und deutete auf Nummer 4. »Dumbledore -
-das geht nicht. Ich habe sie den ganzen Tag beobachtet. Sie könnten keine zwei Menschen finden, die uns weniger ähneln. Und sie haben diesen Jungen -ich habe gesehen, wie er seine Mutter den ganzen Weg die Straße entlang gequält und nach Süßigkeiten geschrien hat. Harry Potter und hier leben?« »Das ist der beste Platz für ihn«, sagte Dumbledore bestimmt. »Onkel und Tante werden ihm alles erklären können, wenn er älter ist. Ich habe ihnen einen Brief geschrieben.« »Einen Brief«, wiederholte Professor McGonagall mit erlahmender Stimme und setzte sich wieder auf die Mauer. 18
+Professor McGonagall zog ein Spitzentaschentuch hervor und betupfte die Augen unter der Brille. Dumbledore zog eine goldene Uhr aus der Tasche und gab ein langes Schniefen von sich. Es war eine sehr merkwürdige Uhr. Sie hatte zwölf Zeiger, aber keine Ziffern; stattdessen drehten sich kleine Planeten in ihrem Rund. Dumbledore Jedenfalls musste diese Uhr etwas mitteilen, denn er steckte sie zurück in die Tasche und sagte: »Hagrid verspätet sich. Übrigens nehme ich an, er hat Ihnen erzählt, dass ich hierher kommen würde?« »Ja«, sagte Professor McGonagall. »Und ich nehme nicht an, dass Sie mir sagen werden, warum Sie ausgerechnet hier sind?« »Ich bin gekommen, um Harry zu seiner Tante und seinem Onkel zu bringen. Sie sind die Einzigen aus der Familie, die ihm noch geblieben sind.« »Sie meinen doch nicht - Sie können einfach nicht die Leute meinen, die hier wohnen?«, rief Professor McGonagall, sprang auf und deutete auf Nummer 4. »Dumbledore - das geht nicht. Ich habe sie den ganzen Tag beobachtet. Sie könnten keine zwei Menschen finden, die uns weniger ähneln. Und sie haben diesen Jungen -ich habe gesehen, wie er seine Mutter den ganzen Weg die Straße entlang gequält und nach Süßigkeiten geschrien hat. Harry Potter und hier leben?« »Das ist der beste Platz für ihn«, sagte Dumbledore bestimmt. »Onkel und Tante werden ihm alles erklären können, wenn er älter ist. Ich habe ihnen einen Brief geschrieben.« »Einen Brief«, wiederholte Professor McGonagall mit erlahmender Stimme und setzte sich wieder auf die Mauer. 18
 
 »wirklich, Dumbledore, glauben Sie, dass Sie all das in
 einem Brief erklären können? Diese Leute werden ihn nie
@@ -1655,7 +1654,9 @@ Tante und Onkel starrten ihn an. »Gleis wie viel?«
 
 »Es steht auf meiner Fahrkarte.«
 
-»Total verrückt«, sagte Onkel Vernon, »vollkommen übergeschnappt, das ganze Pack. Du wirst sehen. Wart's nur ab. Gut, wir fahren dich nach King's Cross. Wir müssen morgen ohnehin nach London, sonst würd ich mir die Mühe Ja nicht machen.«  100
+»Total verrückt«, sagte Onkel Vernon, »vollkommen übergeschnappt, das ganze Pack. Du wirst sehen. Wart's nur ab. Gut, wir fahren dich nach King's Cross. Wir müssen morgen ohnehin nach London, sonst würd ich mir die Mühe Ja nicht machen.«
+
+100
 
 »Warum fahrt ihr nach London?«, fragte Harry, um das Gespräch ein wenig freundlich zu gestalten.
 
@@ -1673,85 +1674,70 @@ Harry fand dies ungewöhnlich freundlich von ihm, bis Onkel Vernon mit einem hä
 
 Natürlich hatte er vollkommen Recht. Über dem Bahnsteig hing auf der einen Seite die große Plastikziffer 9, über der anderen die große Plastikziffer 10, und dazwischen war nichts.
 
-»Na dann, ein gutes Schuljahr«, sagte Onkel Vernon mit einem noch hässlicheren Grinsen. Er verschwand ohne ein 101
+»Na dann, ein gutes Schuljahr«, sagte Onkel Vernon mit einem noch hässlicheren Grinsen.
 
-weiteres Wort zu sagen.
+101
 
-Harry wandte sich um und sah die Dursleys wegfahren. Alle drei lachten. Harrys Mund wurde ganz trocken. Was um Himmels willen sollte er tun? Schon richteten sich viele erstaunte Blicke auf ihn - wegen Hedwig. Er musste Jemanden fragen. Er sprach einen vorbeigehenden Wachmann an, wagte es aber nicht, Gleis neundreiviertel zu erwähnen. Der Wachmann hatte nie von Hogwarts gehört, und als Harry ihm nicht einmal sagen konnte, in welchem Teil des Landes die Schule lag, wurde er zusehends ärgerlich, als ob Harry sich absichtlich dumm anstellen würde. Schon ganz verzweifelt fragte Harry nach dem Zug, der um elf Uhr ging, doch der Wachmann meinte, es gebe keinen.
+Er verschwand ohne ein weiteres Wort zu sagen.
+
+Harry wandte sich um und sah die Dursleys wegfahren. Alle drei lachten. Harrys Mund wurde ganz trocken. Was um Himmels willen sollte er tun? Schon richteten sich viele erstaunte Blicke auf ihn - wegen Hedwig. Er musste Jemanden fragen. Er sprach einen vorbeigehenden Wachmann an, wagte es aber nicht, Gleis neundreiviertel zu erwähnen.
+
+Der Wachmann hatte nie von Hogwarts gehört, und als Harry ihm nicht einmal sagen konnte, in welchem Teil des Landes die Schule lag, wurde er zusehends ärgerlich, als ob Harry sich absichtlich dumm anstellen würde. Schon ganz verzweifelt fragte Harry nach dem Zug, der um elf Uhr ging, doch der Wachmann meinte, es gebe keinen.
 
 Eine mürrische Bemerkung über Zeitverschwender auf den Lippen ging er schließlich davon. Harry versuchte mit aller Macht, ruhig Blut zu bewahren.
 
-Der großen Uhr über der Ankunfttafel nach hatte er noch zehn Minuten, um in den Zug nach Hogwarts zu steigen, und er hatte keine Ahnung, wie er das anstellen sollte. Da stand er nun, verloren mitten auf einem Bahnhof, mit einem Koffer, den er kaum vom -Boden heben konnte, einer Tasche voller Zauberergeld und einer großen Eule. Hagrid musste vergessen haben, ihm zu sagen, dass er etwas Bestimmtes tun sollte, so wie man auf den dritten Backstein zur Linken klopfen musste, um auf die Winkelgasse zu kommen. Sollte er vielleicht seinen Zauberstab herausholen und auf den Fahrkartenschalter zwischen Gleis neun und Gleis zehn klopfen? In diesem Augenblick ging eine Gruppe von Menschen dicht hinter ihm vorbei und er schnappte ein paar Worte ihrer Unterhaltung auf. »... voller Muggel, natürlich ...«  Harry wandte sich rasch um. Gesprochen hatte eine ku102
+Der großen Uhr über der Ankunftstafel nach hatte er noch zehn Minuten, um in den Zug nach Hogwarts zu steigen, und er hatte keine Ahnung, wie er das anstellen sollte. Da stand er nun, verloren mitten auf einem Bahnhof, mit einem Koffer, den er kaum vom Boden heben konnte, einer Tasche voller Zauberergeld und einer großen Eule.
 
-gelrunde Frau, um sie herum vier Jungen, allesamt mit flammend
-rotem Haar. Jeder der vier schob einen Koffer, so groß wie der
-Harrys, vor sich her - und sie hatten eine Eule dabei.
-Mit klopfendem Herzen schob Harry seinen Gepäckwagen
-hinter ihnen her. Sie hielten an, und auch Harry blieb stehen,
-dicht genug hinter ihnen, um sie zu hören.
-»So, welches Gleis war es noch mal?«, fragte die Mutter der
-Jungen.
-»Neundreiviertel«, piepste ein kleines Mädchen an ihrer
-Hand, das ebenfalls rote Haare hatte. »Mammi, kann ich nicht
-mitgehen ...«
-»Du bist noch zu klein, Ginny, und Jetzt sei still. Percy, du
-gehst zuerst.«
-Der offenbar älteste Junge machte sich auf den Weg in
-Richtung Bahnsteig neun und zehn. Harry beobachtete ihn,
-angestrengt darauf achtend, nicht zu blinzeln, damit ihm nichts
-entginge - doch gerade als der Junge die Absperrung zwischen
-den beiden Gleisen erreichte, schwärmte eine große Truppe
-Touristen an ihm vorbei, und als der letzte Rucksack sich
-verzogen hatte, war der Junge verschwunden.
+Hagrid musste vergessen haben, ihm zu sagen, dass er etwas Bestimmtes tun sollte, so wie man auf den dritten Backstein zur Linken klopfen musste, um auf die Winkelgasse zu kommen. Sollte er vielleicht seinen Zauberstab herausholen und auf den Fahrkartenschalter zwischen Gleis neun und Gleis zehn klopfen?
+
+In diesem Augenblick ging eine Gruppe von Menschen dicht hinter ihm vorbei und er schnappte ein paar Worte ihrer Unterhaltung auf.
+
+»... voller Muggel, natürlich ...«
+
+Harry wandte sich rasch um. Gesprochen hatte eine kugelrunde Frau, um sie herum vier Jungen, allesamt mit flammend rotem Haar. Jeder der vier schob einen Koffer, so groß wie der Harrys, vor sich her - und sie hatten eine Eule dabei. Mit klopfendem Herzen schob Harry seinen Gepäckwagen hinter ihnen her. Sie hielten an, und auch Harry blieb stehen, dicht genug hinter ihnen, um sie zu hören.
+
+»So, welches Gleis war es noch mal?«, fragte die Mutter der Jungen.
+
+»Neundreiviertel«, piepste ein kleines Mädchen an ihrer Hand, das ebenfalls rote Haare hatte. »Mammi, kann ich nicht mitgehen ...«
+
+»Du bist noch zu klein, Ginny, und Jetzt sei still. Percy, du gehst zuerst.«
+
+Der offenbar älteste Junge machte sich auf den Weg in Richtung Bahnsteig neun und zehn. Harry beobachtete ihn, angestrengt darauf achtend, nicht zu blinzeln, damit ihm nichts entginge - doch gerade als der Junge die Absperrung zwischen den beiden Gleisen erreichte, schwärmte eine große Truppe Touristen an ihm vorbei, und als der letzte Rucksack sich verzogen hatte, war der Junge verschwunden.
+
 »Fred, du bist dran«, sagte die rundliche Frau.
-»Ich bin nicht Fred, ich bin George«, sagte der Junge.
-»Ehrlich mal, gute Frau, du nennst dich unsere Mutter? Kannst
-du nicht sehen, dass ich George bin?«
+
+»Ich bin nicht Fred, ich bin George«, sagte der Junge. »Ehrlich mal, gute Frau, du nennst dich unsere Mutter? Kannst du nicht sehen, dass ich George bin?«
+
 »Tut mir Leid, George, mein Liebling.«
-»War nur'n Witz, ich bin Fred«, sagte der Junge, und fort
-war er. Sein Zwillingsbruder rief ihm hinterher, er solle sich
-beeilen, und das musste er getan haben, denn eine Sekunde
-später war er verschwunden - doch wie hatte er es geschafft?
-Nun schritt der dritte Bruder zügig auf die Bahnsteigabsperrung zu - er war schon fast dort -, und dann, ganz
-plötzlich, war er nicht mehr zu sehen.
+
+»War nur'n Witz, ich bin Fred«, sagte der Junge, und fort war er.
+
+Sein Zwillingsbruder rief ihm hinterher, er solle sich beeilen, und das musste er getan haben, denn eine Sekunde später war er verschwunden - doch wie hatte er es geschafft? Nun schritt der dritte Bruder zügig auf die Bahnsteigabsperrung zu - er war schon fast dort -, und dann, ganz plötzlich, war er nicht mehr zu sehen.
+
 103
 
 Er war spurlos verschwunden.
-»Entschuldigen Sie«, sagte Harry zu der rundlichen Frau.
-»Hallo, mein Junge«, sagte sie. »Das erste Mal nach Hogwarts? Ron ist auch neu.«
-Sie deutete auf den letzten und Jüngsten ihrer Söhne. Er war
-hoch gewachsen, dünn und schlaksig, hatte Sommersprossen,
-große Hände und Füße und eine kräftige Nase.
-»Ja«, sagte Harry. »Die Sache ist die ... ist nämlich die, ich
-weiß nicht, wie ich ...«
-»Wie du zum Gleis kommen sollst?«, sagte sie freundlich,
-und Harry nickte.
-»Keine Sorge«, sagte sie. »Du läufst einfach schnurstracks
-auf die Absperrung vor dem Bahnsteig für die Gleise neun und
-zehn zu. Halt nicht an und hab keine Angst, du könntest dagegen
-knallen, das ist sehr wichtig. Wenn du nervös bist, dann renn
-lieber ein bisschen. Nun geh, noch vor Ron.«
-»Ähm -ja«, sagte Harry.
-Er drehte seinen Gepäckwagen herum und blickte auf die
-Absperrung. Sie machte einen sehr stabilen Eindruck.
-Langsam ging er auf sie zu. Menschen auf dem Weg zu den
-Gleisen neun oder zehn rempelten ihn an. Harry beschleunigte
-seine Schritte. Er würde direkt in diesen Fahrkartenschalter
-knallen, und dann hätte er ein echtes Problem. Er lehnte sich, auf
-den Wagen gestützt, nach vorn und stürzte nun schwer atmend
-los - die Absperrung kam immer näher - anhalten konnte er nun
-nicht mehr -der Gepäckkarren war außer Kontrolle - noch ein
-halber Meter - er schloss die Augen, bereit zum Aufprall Nichts geschah ... Harry rannte weiter ... er öffnete die
-Augen.
-Eine scharlachrote Dampflok stand an einem Bahnsteig
-bereit, die Waggons voller Menschen. Auf einem Schild
-104
-über der Lok stand Hogwarts-Express, 11 Uhr. Harry warf
-einen Blick über die Schulter und sah an der Stelle, wo der
-Fahrkartenschalter gestanden hatte, ein schmiedeeisernes Tor
 
-und darauf die Worte Gleis neundreiviertel. Er hatte es
-geschafft.
+»Entschuldigen Sie«, sagte Harry zu der rundlichen Frau.
+
+»Hallo, mein Junge«, sagte sie. »Das erste Mal nach Hogwarts? Ron ist auch neu.«  Sie deutete auf den letzten und Jüngsten ihrer Söhne. Er war hoch gewachsen, dünn und schlaksig, hatte Sommersprossen, große Hände und Füße und eine kräftige Nase.
+
+»Ja«, sagte Harry. »Die Sache ist die ... ist nämlich die, ich weiß nicht, wie ich ...«
+
+»Wie du zum Gleis kommen sollst?«, sagte sie freundlich, und Harry nickte.
+
+»Keine Sorge«, sagte sie. »Du läufst einfach schnurstracks auf die Absperrung vor dem Bahnsteig für die Gleise neun und zehn zu. Halt nicht an und hab keine Angst, du könntest dagegen knallen, das ist sehr wichtig. Wenn du nervös bist, dann renn lieber ein bisschen. Nun geh, noch vor Ron.«
+
+»Ähm -ja«, sagte Harry.
+
+Er drehte seinen Gepäckwagen herum und blickte auf die Absperrung. Sie machte einen sehr stabilen Eindruck.
+
+Langsam ging er auf sie zu. Menschen auf dem Weg zu den Gleisen neun oder zehn rempelten ihn an. Harry beschleunigte seine Schritte. Er würde direkt in diesen Fahrkartenschalter knallen, und dann hätte er ein echtes Problem. Er lehnte sich, auf den Wagen gestützt, nach vorn und stürzte nun schwer atmend los - die Absperrung kam immer näher - anhalten konnte er nun nicht mehr -der Gepäckkarren war außer Kontrolle - noch ein halber Meter - er schloss die Augen, bereit zum Aufprall Nichts geschah ... Harry rannte weiter ... er öffnete die Augen. Eine scharlachrote Dampflok stand an einem Bahnsteig bereit, die Waggons voller Menschen.
+
+104
+
+Auf einem Schild über der Lok stand Hogwarts-Express, 11 Uhr. Harry warf einen Blick über die Schulter und sah an der Stelle, wo der Fahrkartenschalter gestanden hatte, ein schmiedeeisernes Tor und darauf die Worte Gleis neundreiviertel. Er hatte es geschafft.
+
 Die Lok blies Dampf über die Köpfe der schnatternden
 Menge hinweg, während sich hie und da Katzen in allen Farben
 zwischen den Beinen der Leute hindurchschlängelten. Durch das
