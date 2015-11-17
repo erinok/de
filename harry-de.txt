@@ -1976,7 +1976,7 @@ Ron machte große Augen, als Harry mit all den Sachen ins Abteil zurückkam und 
 
 »Ich verhungere gleich«, sagte Harry und nahm einen großen Bissen von einer Kürbispastete. Ron hatte ein klobiges Papierbündel herausgeholt und es aufgewickelt. Drin waren vier belegte Brote. Er zog eins davon auseinander und sagte:
 
-»Sie vergisst immer, dass ich kein Corned Beef inag.«
+»Sie vergisst immer, dass ich kein Corned Beef mag.«
 
 »Ich tausch es für eine hiervon«, sagte Harry und hielt eine Pastete hoch. »Na los -«
 
@@ -1988,7 +1988,7 @@ Es war ein gutes Gefühl, hier mit Ron zu sitzen und sich durch all seine Pastet
 
 »Was ist das?«, fragte Harry und hielt eine Schachtel Schokofrösche hoch. »Das sind keine echten Frösche, oder?«
 
-Allmählich hatte er das Gefühl, dass ihn nichts mehr überraschen vrürde.
+Allmählich hatte er das Gefühl, dass ihn nichts mehr überraschen würde.
 
 »Nein«, sagte Ron. »Aber schau nach, was auf der Karte ist, mir fehlt noch Agrippa.«
 
@@ -2000,17 +2000,19 @@ Allmählich hatte er das Gefühl, dass ihn nichts mehr überraschen vrürde.
 
 Harry wickelte den Schokofrosch aus und entnahm die Karte. Sie zeigte das Gesicht eines Mannes. Er trug eine Lesebrille, hatte eine lange, krumme Nase, wehendes Silberhaar und einen mächtigen Vollbart. Unter dem Bild stand der Name Albus Dumbledore.
 
-»Das ist also Dumbledore«, rief Harry. »Sag bloß, du hast noch nie von Dumbledore gehört!«, rief Ron. »Kann ich einen Frosch haben? Vielleicht ist Agrippa drin. Danke.«
+»Das ist also Dumbledore«, rief Harry.
 
-Harry drehte seine Karte um und las: Albus Dumbledore, gegenwärtig Schulleiter von Hogwarts. Gilt bei vielen als der größte Zauberer derjüngeren Geschichte. Durnbledores Ruhm beruht vor allem auf seinem Sieg über den schwarzen Magier Grindelwald imjahre 1945, auf der Entdeckung der sechs Anwendungen für Drachenmilch und auf seinem Werk über Alchernie, verfasst zusammen mit seinem Partner Nicolas Flamel. In seiner Freizeit hört Professor Dumbledore mit Vorliebe Kammermusik und spielt Bowling. Harry drehte die Karte wieder um und stellte verblüfft fest, dass Durnbledores Gesicht verschwunden war.
+»Sag bloß, du hast noch nie von Dumbledore gehört!«, rief Ron. »Kann ich einen Frosch haben? Vielleicht ist Agrippa drin. Danke.«
+
+Harry drehte seine Karte um und las: Albus Dumbledore, gegenwärtig Schulleiter von Hogwarts. Gilt bei vielen als der größte Zauberer der jüngeren Geschichte. Dumbledores Ruhm beruht vor allem auf seinem Sieg über den schwarzen Magier Grindelwald im jahre 1945, auf der Entdeckung der sechs Anwendungen für Drachenmilch und auf seinem Werk über Alchernie, verfasst zusammen mit seinem Partner Nicolas Flamel. In seiner Freizeit hört Professor Dumbledore mit Vorliebe Kammermusik und spielt Bowling. Harry drehte die Karte wieder um und stellte verblüfft fest, dass Dumbledores Gesicht verschwunden war.
 
 »Er ist weg!«
 
-»Tja, du kannst nicht erwarten, dass er den ganzen Tag hier rumhängt«, sagte Ron. »Er wird schon wieder kommen. Ach nein, ich hab schon wieder Morgana; von der
+»Tja, du kannst nicht erwarten, dass er den ganzen Tag hier rumhängt«, sagte Ron. »Er wird schon wieder kommen. Ach nein, ich hab schon wieder Morgana; von der hab ich doch schon sechs Stück.
 
 114
 
-hab ich doch schon sechs Stück ... willst du Sie? Du könntest anfangen zu sammeln.«
+... willst du Sie? Du könntest anfangen zu sammeln.«
 
 Rons Augen wanderten hinüber zu dem Haufen Schokofrösche, die nur darauf warteten, ausgewickelt zu werden.
 
@@ -2018,7 +2020,9 @@ Rons Augen wanderten hinüber zu dem Haufen Schokofrösche, die nur darauf warte
 
 »Wirklich? Soll das heißen, sie bewegen sich überhaupt nicht?« Ron klang verblüfft. »Komisch!«
 
-Harry machte große Augen, als Dumbledore wieder ins Bild auf seiner Karte huschte und ihn kaum merklich anlächelte. Ron war mehr daran interessiert, die Frösche zu verspeisen, als die Karten mit den berühmten Hexen und Zauberern zu betrachten, doch Harry konnte seine Augen nicht von ihnen abwenden. Bald besaß er nicht nur Dumbledore und Morgana, sondern auch Hengis von Woodcroft, Alberich Grunnion, Circe, Paracelsus und Merlin.
+Harry machte große Augen, als Dumbledore wieder ins Bild auf seiner Karte huschte und ihn kaum merklich anlächelte. Ron war mehr daran interessiert, die Frösche zu verspeisen, als die Karten mit den berühmten Hexen und Zauberern zu betrachten, doch Harry konnte seine Augen nicht von ihnen abwenden.
+
+Bald besaß er nicht nur Dumbledore und Morgana, sondern auch Hengis von Woodcroft, Alberich Grunnion, Circe, Paracelsus und Merlin.
 
 Schließlich wandte er mit Mühe die Augen von der Druidin Cliodna ab, die sich gerade an der Nase kratzte, und öffnete eine Tüte Bertie Botts Bohnen aller Geschmacksrichtungen.
 
@@ -2028,13 +2032,15 @@ Ron nahm sich eine grüne Bohne, studierte sie sorgfältig und biss sich ein St�
 
 »Ääähhh - siehst du? Sprösslinge.«
 
-Die Bohnen jeder Geschmacksrichtung zu essen machte ihnen Spaß. Harry hatte Toast, Kokosnuss, gebackene Bohnen, Erdbeere, Curry, Gras, Kaffee und Sardine und war sogar kühn genug, um das Ende einer merkwürdigen grauen 115
+Die Bohnen jeder Geschmacksrichtung zu essen machte ihnen Spaß. Harry hatte Toast, Kokosnuss, gebackene Bohnen, Erdbeere, Curry, Gras, Kaffee und Sardine und war sogar kühn genug, um das Ende einer merkwürdigen grauen
+
+115
 
 Bohne anzuknabbern, die Ron nicht einmal anfassen wollte.
 
 Sie schmeckte nach Pfeffer.
 
-Die Landschaft, die nun am Fenster vorbeiflog, wurde zunehmend wilder. Die ordentlich bestellten Felder waren verschwunden. Jetzt sahen sie Wälder, verschlungene Flüsse und dunkelgrüne Hügel. An der Abteiltür klopfte es, und derjunge mit dem runden Gesicht, an dem Harry auf dem Bahnsteig vorbeigegangen war, kam herein. Er sah ganz verweint aus.
+Die Landschaft, die nun am Fenster vorbeiflog, wurde zunehmend wilder. Die ordentlich bestellten Felder waren verschwunden. Jetzt sahen sie Wälder, verschlungene Flüsse und dunkelgrüne Hügel. An der Abteiltür klopfte es, und der junge mit dem runden Gesicht, an dem Harry auf dem Bahnsteig vorbeigegangen war, kam herein. Er sah ganz verweint aus.
 
 »Tut mir Leid«, sagte er, »aber habt ihr vielleicht eine Kröte gesehen?«
 
@@ -2044,7 +2050,7 @@ Als sie die Köpfe schüttelten, fing er an zu klagen:
 
 »Sie wird schon wieder auftauchen«, sagte Harry.
 
-»Ja«, sagte derjunge verzweifelt. »Gut, falls ihr sie seht ... Er verschwand wieder.
+»Ja«, sagte der junge verzweifelt. »Gut, falls ihr sie seht ... Er verschwand wieder.
 
 »Weiß nicht, warum er sich so aufregt«, sagte Ron. »Wenn ich eine Kröte mitgebracht hätte, dann wär ich sie so schnell wie möglich losgeworden. Doch was soll's, hab ja Krätze mitgebracht, ich sollte also lieber den Mund halten.«
 
