@@ -1322,7 +1322,6 @@ lebhaft
 
 > The snake nodded vigorously.
 
-
 ¶ »Weber kommst du eigentlich?«, fragte Harry.
 
 > ‘Where do you come from, anyway?’ Harry asked.
@@ -2057,7 +2056,6 @@ der Buchstabe
 ¶ ein Löwe, ein Adler, ein Dachs und eine Schlange, die einen Kreis um den Buchstaben »H« schlossen.
 
 > a lion, an eagle, a badger and a snake surrounding a large letter ‘H’.
-
 
 ¶ »Was machst du da draußen eigentlich, Briefbombenkontrolle?«
 
@@ -8290,8 +8288,6 @@ der Blindgänger
 
 ¶ Wette, er hat gewusst, dass es ein Blindgänger ist.
 
-***
-
 trübselig
 
 ¶ Er ließ sich mit trübseliger Miene in seinen Sitz zurückfallen.
@@ -8307,4 +8303,56 @@ erforschen
 
 ¶ »Charlie ist in Rumänien und erforscht Drachen und Bill ist in Afrika und erledigt etwas für Gringotts«, sagte Ron.
 
+kriegen
 
+¶ Es kam ganz groß im Tagespropheten, aber den kriegst du wohl nicht bei den Muggeln: Jemand hat versucht ein Hochsicherheitsverlies auszurauben.«
+
+erwischen
+
+¶ Man hat sie nicht erwischt.
+
+eindringen
+
+¶ Mein Dad sagt, es muss ein mächtiger schwarzer Magier gewesen sein, wenn er bei Gringotts eindringen konnte, aber sie glauben nicht, dass sie etwas mitgenommen haben, und das ist das Merkwürdige daran.
+
+dahinter
+stecken
+
+¶ Natürlich kriegen es alle mit der Angst zu tun, wenn so etwas passiert, es könnte Ja Du-weißt-schon-wer dahinter stecken.
+
+die Neuigkeit
+
+¶ Harry dachte über diese Neuigkeit nach.
+
+eintreten
+
+¶ Das gehörte wohl dazu, wenn man in die Welt der Zauberer eintrat, doch es war viel einfacher gewesen, »Voldemort« zu sagen, ohne sich deswegen zu beunruhigen.
+
+mustern
+
+¶ Er musterte Harry nun viel interessierter als in der Winkelgasse.
+
+fies
+
+¶ Beide waren stämmig und wirkten ziemlich fies.
+
+der Leibwächter
+
+¶ Wie sie da zur Rechten und zur Linken des blassenjungen standen, sahen sie aus wie seine Leibwächter.
+
+lässig
+
+¶ »Oh, das ist Crabbe und das ist Goyle«, bemerkte der blasse Junge lässig, als er Harrys Blick folgte.
+
+der Husten
+kichern
+
+¶ Von Ron kam ein leichtes Husten, das sich anhörte wie ein verdruckstes Kichern.
+
+feststellen
+
+¶ »Du wirst bald feststellen, dass einige Zaubererfamillen viel besser sind als andere, Potter.
+
+abgeben
+
+¶ Und du wirst dich doch nicht etwa mit der falschen Sorte abgeben.
