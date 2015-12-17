@@ -8094,8 +8094,6 @@ aufmuntern
 
 ¶ Das schien Ron ein wenig aufzumuntern.
 
-***
-
 der Seele
 kurzem
 bereiten
@@ -8156,8 +8154,6 @@ futtern
 
 ¶ Es war ein gutes Gefühl, hier mit Ron zu sitzen und sich durch all seine Pasteten und Kuchen zu futtern (die Stullen hatten sie längst vergessen).
 
-***
-
 eine Lesebrille
 wehend
 
@@ -8180,8 +8176,6 @@ die Freizeit
 rumhängen
 
 ¶ »Tja, du kannst nicht erwarten, dass er den ganzen Tag hier rumhängt«, sagte Ron.
-
-***
 
 häufen
 auswickeln
@@ -8407,8 +8401,6 @@ hochnäsig
 
 ¶ Ich bin nur reingekommen, weil sich die Leute draußen einfach kindisch aufführen und ständig die Gänge auf und ab rennen«, sagte Hermine hochnäsig.
 
-***
-
 der Berg
 
 ¶ Unter einem tief purpurrot gefärbten Himmel konnte er noch Berge und Wälder erkennen.
@@ -8428,3 +8420,61 @@ der Baum
 schniefen
 
 ¶ Neville, der Junge, der immer seine Kröte verlor, schniefte hin und wieder.
+
+***
+
+die Biegung
+
+»Augenblick noch, und ihr seht zum ersten Mal in eurem Leben Hogwarts«, rief Hagrid über die Schulter, »nur noch um diese Biegung hier.«
+
+das Ufer
+
+¶ Der enge Pfad war plötzlich zu Ende und sie standen am Ufer eines großen schwarzen Sees.
+
+die Zinne
+der Turm
+
+¶ Drüben auf der anderen Seite, auf der Spitze eines hohen Berges, die Fenster funkelnd im rabenschwarzen Himmel, thronte ein gewaltiges Schloss mit vielen Zinnen und Türmen.
+
+die Flotte
+dümpeln
+
+¶ »Nicht mehr als vier in einem Boot!«, rief Hagrid und deutete auf eine Flotte kleiner Boote, die am Ufer dümpelten.
+
+spiegelglatten
+
+¶ Die kleinen Boote setzten sich gleichzeitig in Bewegung und glitten über den spiegelglatten See.
+
+nähern
+
+¶ Es thronte dort oben, während sie sich dem Felsen näherten, auf dem es gebaut war.
+
+der Vorhang
+das Efeu
+auftun
+
+¶ »Köpfe runter«, rief Hagrid, als die ersten Boote den Felsen erreichten; sie duckten sich, und die kleinen Boote schienen durch einen Vorhang aus Efeu zu schweben, der sich direkt vor dem Felsen auftat.
+
+mustern
+
+¶ »He, du da! Ist das deine Kröte?«, rief Hagrid, der die Boote musterte, während die Kinder ausstiegen.
+
+stiefeln
+der Felsgang
+
+¶ Dann stiefelten sie hinter Hagrids Lampe einen Felsgang empor und kamen schließlich auf einer weichen, feuchten Wiese im Schatten des Schlosses heraus.
+
+***
+
+die Kirsche
+
+¶ Sie hatte ein strenges Gesicht, und Harrys erster Gedanke war, dass mit ihr wohl nicht gut Kirschen essen wäre.
+
+das Stockwerk
+
+¶ Wie bei Gringotts beleuchtete das flackernde Licht von Fackeln die Steinwände, die Decke war so hoch, dass man sie nicht mehr erkennen konnte, und vor ihnen führte eine gewaltige Marmortreppe in die oberen Stockwerke.
+
+hunderter
+die Kammer
+
+¶ Aus einem Gang zur Rechten konnte Harry das Summen hunderter von Stimmen hören - die anderen Schüler mussten schon da sein -, doch Professor McGonagall führte die Erstklässler in eine kleine, leere Kammer neben der Halle.
