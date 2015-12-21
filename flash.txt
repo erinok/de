@@ -1,4 +1,4 @@
--*- tab-width: 40; iedit-case-sensitive: nil; eval: (turn-on-de-freq-mode); fill-column: 10000; -*-
+-*- tab-width: 4; iedit-case-sensitive: nil; eval: (turn-on-de-freq-mode); fill-column: 10000; -*-
 
 die Schwelle
 gefunden
@@ -8548,4 +8548,255 @@ eine Halskrause
 die Strumpfhosen
 
 ¶ Ein Geist, der eine Halskrause und Strumpfhosen trug, hatte plötzlich die Erstklässler bemerkt.
+
+***
+
+die Einführungsfeler
+
+¶ Die Einführungsfeler beginnt.
+
+das Blei
+reihen
+der Gänsemarsch
+
+¶ Harry, dessen Beine sich anfühlten, als seien sie aus Blei, reihte sich hinter einem Jungen mit rotblondem Haar ein, Ron stellte sich hinter ihn, und im Gänsemarsch verließen sie die Kammer, gingen zurück durch die Eingangshalle und betraten durch eine Doppeltür die Große Halle.
+
+fremdartig
+
+¶ Harry hatte von einem so fremdartigen und wundervollen Ort noch nicht einmal geträumt.
+
+die Kerze
+
+¶ Tausende und abertausende von Kerzen erleuchteten ihn, über den vier langen Tischen schwebend, an denen die anderen Schüler saßen.
+
+der Kelch
+
+¶ Die Tische waren mit schimmernden Goldtellern und -kelchen gedeckt.
+
+fahl
+die Laterne
+
+¶ Hunderte von Gesichtern starrten sie an und sahen aus wie fahle Laternen im flackernden Kerzenlicht.
+
+ausweichen
+samt
+der Stern
+übersäen, übersät
+
+¶ Um den starrenden Blicken auszuweichen, wandte Harry das Gesicht nach oben und sah eine samtschwarze, mit Sternen übersäte Decke.
+
+***
+
+vierbeinig
+
+¶ Harry wandte den Blick rasch wieder nach unten, als Professor McGonagall schweigend einen vierbeinigen Stuhl vor die Erstklässler stellte.
+
+verschlissen
+flicken
+
+¶ Es war ein verschlissener, hie und da geflickter und ziemlich schmutziger Hut.
+
+der Hase
+
+¶ Vielleicht mussten sie versuchen einen Hasen daraus hervorzuzaubern, schoss es Harry durch den Kopf, darauf schien es hinauszulaufen.
+
+der Herzschlag
+
+¶ Ein paar Herzschläge lang herrschte vollkommenes Schweigen.
+
+die Krempe
+
+¶ Ein Riss nahe der Krempe tat sich auf, so weit wie ein Mund, und der Spitzhut begann zu singen:
+
+schlau
+fress
+
+¶ Dafür bin ich der schlauste aller Hüte, und ist's nicht wahr, so fress ich mich, du meine Güte!
+
+die Kappe
+der Jammerlappen
+
+¶ Alle Zylinder und schicken Kappen sind gegen mich doch nur Jammerlappen!
+
+der Bescheid
+der Schädel
+
+¶ Ich weiß in Hogwarts am besten Bescheid und bin fürieden Schädel bereit.
+
+die Tapferkeit
+
+¶ Vielleicht seid ihr Gryffindors, sagt euer alter Hut, denn dort regieren, wie man weiß, Tapferkeit und Mut.
+
+***
+
+geschwind
+gelehrsam
+
+¶ Bist du geschwind im Denken, gelehrsam auch und weise, dann machst du dich nach Ravenclaw, so wett ich, auf die Reise.
+
+das Lied
+der Beifallssturm
+
+¶ Als der Hut sein Lied beendet hatte, brach in der Halle ein Beifallssturm los.
+
+spucken
+der Ringkampf
+
+¶ »Ich bring Fred um, er hat große Töne gespuckt - von wegen Ringkampf mit einem Troll.«
+
+der Zopf
+
+¶ Ein Mädchen mit rosa Gesicht und blonden Zöpfen stolperte aus der Reihe der Neuen hervor, setzte den Hut auf, der ihr sogleich über die Augen rutschte, und ließ sich auf dem Stuhl nieder.
+
+***
+
+niederlassen
+
+¶ Der Tisch zur Rechten johlte und klatschte, als Hannah aufstand und sich bei den Hufflepuffs niederließ.
+
+bilden
+unangenehm
+
+¶ Vielleicht bildete Harry es sich nur ein, nach all dem, was er über Slytherin gehört hatte, aber sie sahen doch alle recht unangenehm aus.
+
+verkünden
+wiederum
+
+¶ Bei den einen, bemerkte Harry, verkündete der Hut auf der Stelle das Haus, bei anderen wiederum brauchte er ein Welle, um sich zu entscheiden.
+
+***
+
+eilig
+
+¶ Hermine ging eilig auf den Stuhl zu und packte sich den Hut begierig auf den Kopf.
+
+gewählt
+
+¶ Was, wenn er gar nicht gewählt würde?
+
+die Ewigkeit
+
+¶ Was, wenn er, den Hut auf dem Kopf, eine Ewigkeit lang nur dasäße, bis Professor McGonagall ihm den Hut vom Kopf reißen und erklären würde, offenbar sei ein Irrtum geschehen und er solle doch besser wieder in den Zug steigen?
+
+der Wunsch
+
+¶ Malfoy stolzierte nach vorn, als sein Name aufgerufen Wurde, und bekam seinen Wunsch sofort erfüllt.
+
+zufrieden
+
+¶ Malfoy ging hinüber zu seinen Freunden Crabbe und Goyle, offensichtlich zufrieden mit sich selbst.
+
+entflammen
+zischeln
+
+¶ Als Harry vortrat, entflammten plötzlich überall in der Halle Feuer, kleine, zischelnde Geflüsterfeuer.
+
+***
+
+piepsig
+
+¶ »Hmm«, sagte eine piepsige Stimme in seinem Ohr.
+
+die Begabung
+der Durst
+
+¶ Da ist Begabung, du meine Güte ja und ein kräftiger Durst, sich zu beweisen, nun, das ist interessant ...
+
+umklammern
+die Stuhllehne
+
+¶ Harry umklammerte die Stuhllehnen und dachte:
+
+der Zweifel
+
+¶ Kein Zweifel - nein?
+
+zittrig
+
+¶ Harry hörte, wie der Hut das letzte Wort laut in die Halle rief, Er nahm den Hut ab und ging mit zittrigen Knien hinüber zum Tisch der Gryffindors.
+
+aufrufen
+
+¶ Er war so erleichtert, überhaupt aufgerufen worden und nicht nach Slytherin gekommen zu sein, dass er kaum bemerkte, dass er den lautesten Beifall überhaupt bekam.
+
+begeistert
+
+¶ Percy der Vertrauensschüler stand auf und schüttelte ihm begeistert die Hand, während die Weasley-Zwillinge riefen:
+
+tätscheln
+der Eimer
+
+¶ Der Geist tätschelte ihm den Arm, und Harry hatte plötzlich das schreckliche Gefühl, den Arm gerade in einen Eimer voll eiskalten Wassers zu tauchen.
+
+erwidern
+der Daumen
+
+¶ Am einen Ende, ihm am nächsten, saß Hagrid, der seinen Blick erwiderte und mit dem Daumen nach oben zeigte.
+
+***
+
+eigenartig
+
+¶ Mit seinem großen purpurroten Turban sah er sehr eigenartig aus.
+
+der Reihe
+
+¶ Dann war Ron an der Reihe.
+
+mittlerweile
+
+¶ Mittlerweile war er blassgrün im Gesicht.
+
+wichtigtuerisch
+
+¶ »Gut gemacht, Ron, hervorragend«, sagte Percy Weasley wichtigtuerisch über Harrys Kopf hinweg, während »Zabini, Blaise« zu einer Slytherin gemacht wurde.
+
+***
+
+unbekümmert
+
+¶ »Verrückt?«, sagte Percy unbekümmert.
+
+staunen
+
+¶ Harry staunte mit offenem Mund.
+
+das Brathähnchen
+die Pellkartoffel
+die Bratkartoffel
+die Erbse
+
+¶ Er hatte noch nie so vieles, das er mochte, auf einem einzigen Tisch gesehen: Roastbeef, Brathähnchen, Schweine- und Lammkoteletts, Würste, Schinken, Steaks, Pellkartoffeln, Bratkartoffeln, Pommes, Yorkshire-Pudding, Erbsen, Karotten, Ketchup und, aus irgendeinem merkwürdigen Grund, Pfefferminzbonbons.
+
+köstlich
+
+¶ Er begann zu essen und es schmeckte köstlich.
+
+wahrhaft
+
+¶ »Das sieht wahrhaft gut aus«, sagte der Geist mit der Halskrause traurig, während er Harry dabei zusah, wie er sein Steak zerschnitt.
+
+der Dienst
+
+¶ Sir Nicholas de Mimsy-Porpington, zu Ihren Diensten. 
+
+***
+
+verärgert
+
+¶ »Eben So«, sagte er leicht verärgert.
+
+kippen
+das Scharnier
+
+¶ Sein ganzer Kopf kippte vom Hals weg, als ob er an einem Scharnier hinge, und fiel ihm auf die Schulter.
+
+unerträglich
+
+¶ Der Blutige Baron wird langsam unerträglich
+
+stierenden
+ausgemergelt
+
+¶ Harry blickte hinüber zum Tisch der Slytherins und sah dort einen fürchterlichen Geist sitzen, mit leeren, stierenden Augen, einem ausgemergelten Gesicht und einem mit silbrigem Blut bespritzten Umhang.
 
