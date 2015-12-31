@@ -5931,7 +5931,7 @@ begrüßen
 
 die Ansicht
 
-¶ Oder bist du da anderer Ansicht? 
+¶ Oder bist du da anderer Ansicht?
 
 die Sicht
 
@@ -6011,7 +6011,7 @@ Angehöriger
 
 ¶ - Sind Sie Angehöriger?
 
-Wartebereich 
+Wartebereich
 
 ¶ Nehmen Sie bitte im Wartebereich Platz.
 
@@ -6279,7 +6279,7 @@ abhauen
 
 herrje
 
-¶ »Ach herrje, schau dir mal diesen Mann an!«, sagte der Junge plötzlich und deutete auf das Schaufenster. 
+¶ »Ach herrje, schau dir mal diesen Mann an!«, sagte der Junge plötzlich und deutete auf das Schaufenster.
 
 der Knecht
 
@@ -6533,7 +6533,7 @@ der Füß
 
 fügte (fügen)
 strahlend
- 
+
 ¶ »Hab aber immer noch die Stücke«, fügte er strahlend hinzu.
 
 umklammerte (unklammern)
@@ -7306,7 +7306,7 @@ der Amtsantritt
 versöhnen
 der Krawall
 
-¶ Diese Worte des neuen Bundeskanzlers Willy Brandtbei seinem Amtsantritt... versöhnen die Studenten und beenden die seit fast 3 Jahren anhaltenden Krawalle. 
+¶ Diese Worte des neuen Bundeskanzlers Willy Brandtbei seinem Amtsantritt... versöhnen die Studenten und beenden die seit fast 3 Jahren anhaltenden Krawalle.
 
 die Versprechungen
 außerparlamentarische
@@ -7389,7 +7389,7 @@ die Fotze
 
 ¶ Klingel
 
-¶ Wir werden die politischen Verhältnisse 
+¶ Wir werden die politischen Verhältnisse
 
 bekifft
 
@@ -7537,7 +7537,7 @@ umzugehen (umgehen)
 ¶ Und so haben wir mit ihm umzugehen.
 
 die Auseinandersetzungen
-durchführbar 
+durchführbar
 
 ¶ Bewaffnete Auseinandersetzungen sind durchführbar.
 
@@ -7837,7 +7837,7 @@ Hauptlinie
 die Sicherheitsmaßnahmen
 die Maßnahmen
 
-¶ Wir brauchen mehr Sicherheitsmaßnahmen. 
+¶ Wir brauchen mehr Sicherheitsmaßnahmen.
 
 die Kenntnis
 die Örtlichkeit
@@ -7856,7 +7856,7 @@ gesamt
 
 hetzen
 
-¶ Diese plan lose Rumrennerei, dieses Hetzen. 
+¶ Diese plan lose Rumrennerei, dieses Hetzen.
 
 die Emanzipation
 anschreit (anschreien)
@@ -7864,7 +7864,7 @@ anschreit (anschreien)
 ¶ Eure Emanzipation besteht doch nur darin, dass ihr eure Männer anschreit!
 
 der Abteilungsleiter
-der Bombenangriff 
+der Bombenangriff
 künftig
 das Ziel
 der Breitengrad
@@ -8778,7 +8778,7 @@ wahrhaft
 
 der Dienst
 
-¶ Sir Nicholas de Mimsy-Porpington, zu Ihren Diensten. 
+¶ Sir Nicholas de Mimsy-Porpington, zu Ihren Diensten.
 
 ***
 
@@ -8908,7 +8908,7 @@ todmüde
 
 die Türbögen
 die Täfelung
-der Wandteppich 
+der Wandteppich
 
 ¶ Er war sogar zu schläfrig, um sich darüber zu wundern, dass die Menschen auf den Porträts entlang der Korridore flüsterten und auf sie deuteten, als sie vorbeigingen, oder dass Percy sie zweimal durch Türbögen führte, die versteckt hinter beiseite gleitenden Täfelungen und Wandteppichen lagen.
 
@@ -8967,7 +8967,7 @@ wehtun
 
 der Schweiß
 
-¶ Und da war Malfoy, der ihn auslachte, jetzt verwandelte sich Malfoy in den hakennasigen Lehrer Snape, dessen Lachen spitz und kalt wurde - grünes Licht flammte auf und Harry erwachte zitternd und in Schweiß gebadet. 
+¶ Und da war Malfoy, der ihn auslachte, jetzt verwandelte sich Malfoy in den hakennasigen Lehrer Snape, dessen Lachen spitz und kalt wurde - grünes Licht flammte auf und Harry erwachte zitternd und in Schweiß gebadet.
 
 ***
 
@@ -9039,11 +9039,11 @@ züchten
 
 der Stoff
 
-¶ Der bei weitem langweiligste Stoff war Geschichte der Zauberei, der einzige Unterricht, den ein Geist gab. 
+¶ Der bei weitem langweiligste Stoff war Geschichte der Zauberei, der einzige Unterricht, den ein Geist gab.
 
 das Kaminfeuer
 
-¶ Professor Binns war wirklich schon sehr alt gewesen, als er vor dem Kaminfeuer im Lehrerzimmer eingeschlafen und am nächsten Morgen zum Unterricht aufgestanden war, wobei er freilich seinen Körper zurückgelassen hatte. 
+¶ Professor Binns war wirklich schon sehr alt gewesen, als er vor dem Kaminfeuer im Lehrerzimmer eingeschlafen und am nächsten Morgen zum Unterricht aufgestanden war, wobei er freilich seinen Körper zurückgelassen hatte.
 
 das Heft
 verwechseln
@@ -9052,7 +9052,7 @@ verwechseln
 
 das Pult
 
-¶ Professor Flitwick, der Lehrer für Zauberkunst, war ein winzig kleiner Magier, der sich, um über das Pult sehen zu können, auf einen Stapel Bücher stellen musste. 
+¶ Professor Flitwick, der Lehrer für Zauberkunst, war ein winzig kleiner Magier, der sich, um über das Pult sehen zu können, auf einen Stapel Bücher stellen musste.
 
 hinsetzen
 
@@ -9064,7 +9064,7 @@ beeindruckt
 das Möbel
 das Tier
 
-¶ Sie waren alle sehr beeindruckt und konnten es kaum erwarten, loslegen zu dürfen, doch sie erkannten bald, dass es noch lange dauern würde, bis sie die Möbel in Tiere verwandeln konnten. 
+¶ Sie waren alle sehr beeindruckt und konnten es kaum erwarten, loslegen zu dürfen, doch sie erkannten bald, dass es noch lange dauern würde, bis sie die Möbel in Tiere verwandeln konnten.
 
 kompliziert
 
@@ -9095,11 +9095,11 @@ schützen, beschützen
 
 ¶ Als nämlich Seamus Finnigan neugierig fragte, wie Quirrell den Zombie denn verjagt habe, lief der rosarot an und begann über das Wetter zu reden; außerdem hatten sie bemerkt, dass von dem Turban ein komischer Geruch ausging, und die Weasley-Zwillinge behaupteten steif und fest, auch er sei voll gestopft mit Knoblauch, damit Professor Quirrell geschützt sei, wo immer er gehe und stehe.
 
-*** 
+***
 
 meilenweit
 
-¶ Harry stellte erleichtert fest, dass er nicht meilenweit hinter den andern herhinkte. 
+¶ Harry stellte erleichtert fest, dass er nicht meilenweit hinter den andern herhinkte.
 
 der Vorsprung
 
@@ -9131,19 +9131,19 @@ das Marmeladenglas
 
 kraklig
 
-¶ »Lieber Harry,« stand da sehr kraklig geschrieben, »ich weiß, dass du Freitagnachmittag frei hast. 
+¶ »Lieber Harry,« stand da sehr kraklig geschrieben, »ich weiß, dass du Freitagnachmittag frei hast.
 
 besuchen
 
-¶ Hättest du nicht Lust, mich zu besuchen und eine Tasse Tee zu trinken? 
+¶ Hättest du nicht Lust, mich zu besuchen und eine Tasse Tee zu trinken?
 
 borgen
 
 ¶ Harry borgte sich Rons Federkiel, kritzelte
 
 der Essig
-einlegen 
-aufreihen 
+einlegen
+aufreihen
 
 ¶ Hier war es kälter als oben im Hauptschloss, und auch ohne die in Essig eingelegten Tiere, die in großen, an den Wänden aufgereihten Gläsern herumschwammen, wäre es schon unheimlich genug gewesen.
 
@@ -9160,7 +9160,7 @@ mühelos
 
 albern
 
-¶ Da es bei mir nur wenig albernes Zauberstabgefuchtel gibt, werden viele von euch kaum glauben, dass es sich um Zauberei handelt. 
+¶ Da es bei mir nur wenig albernes Zauberstabgefuchtel gibt, werden viele von euch kaum glauben, dass es sich um Zauberei handelt.
 
 die Schönheit
 brodeln
@@ -9181,3 +9181,279 @@ gerieben
 hizufügen
 
 ¶ »Potter!«, sagte Snape plötzlich. »Was bekomme ich, wenn ich einem Wermutaufguss geriebene Affodillwurzel hinzufüge?«
+
+***
+
+geschnellt
+
+¶ Harry blickte Ron an, der genauso verdutzt aussah wie er; Hermines Hand war nach oben geschnellt.
+
+hämischen
+
+¶ Snapes Lippen kräuselten sich zu einem hämischen Lächeln.
+
+übersehen
+
+¶ Hermines Hand übersah er.
+
+beschaffen
+
+¶ Wo würdest du suchen, wenn du mir einen Bezoar beschaffen müsstest?«
+
+meiden
+
+¶ Er mied den Blick hinüber zu Malfoy, Crabbe und Goyle, die sich vor Lachen schüttelten.
+
+aufschlagen
+
+¶ »Dachtest sicher, es wäre nicht nötig, ein Buch aufzuschlagen, bevor du herkommst, nicht wahr, Potter?«
+
+herbeten
+
+¶ Bei den Dursleys hatte er wohl in seine Bücher geschaut, doch erwartete Snape, dass er alles aus Tausend Zauberkräutern und pilzen herbeten konnte?
+
+missachten
+
+¶ Snape missachtete immer noch Hermines zitternde Hand.
+
+blaffen
+
+¶ »Setz dich.«, blaffte er Hermine an.
+
+***
+
+ergeben
+bekannt
+
+¶ »Zu deiner Information, Potter, Affodill und Wermut ergeben einen Schlaftrank, der so stark ist, dass er als Trank der Lebenden Toten bekannt ist.
+
+die Ziege
+
+¶ Ein Bezoar ist ein Stein aus dem Magen einer Ziege, der einen vor den meisten Giften rettet.
+
+die Pflanze
+
+¶ Was Eisenhut und Wolfswurz angeht, so bezeichnen sie dieselbe Pflanze, auch bekannt unter dem Namen Aconitum.
+
+die Heilung
+der Furunkel
+anrühren
+
+¶ Snape stellte sie zu Paaren zusammen und ließ sie einen einfachen Trank zur Heilung von Furunkeln anrühren.
+
+die Nessel
+der Giftzahn
+zermahlen
+
+¶ Er huschte in seinem langen schwarzen Umhang zwischen den Tischen umher, sah zu, wie sie getrocknete Nesseln abwogen und Giftzähne von Schlangen zermahlten.
+
+schmoren
+giftgrün
+
+¶ Gerade forderte er die ganze Klasse auf sich anzusehen, wie gut Malfoy seine Wellhornschnecken geschmort hatte, als giftgrüne Rauchwolken und ein lautes Zischen den Kerker erfüllten.
+
+unförmig
+der Klumpen
+zerschmelzen
+das Gebräu
+sickern
+spritzen
+zerspringen
+zornrote
+der Furunkel
+
+¶ Neville hatte es irgendwie geschafft, den Kessel von Seamus zu einem unförmigen Klumpen zu zerschmelzen. Das Gebräu sickerte über den Steinboden und brannte Löcher in die Schuhe. Im Nu stand die ganze Klasse auf den Stühlen, während Neville, der sich mit dem Gebräu voll gespritzt hatte, als der Kessel zersprang, vor Schmerz stöhnte, denn überall auf seinen Armen und Beinen brachen zornrote Furunkel auf.
+
+verschütten
+
+¶ »Du Idiot«, blaffte Snape ihn an und wischte den verschütteten Trank mit einem Schwung seines Zauberstabs weg.
+
+hinzugegeben
+
+¶ »Ich nehme an, du hast die Stachelschweinpastillen hinzugegeben, bevor du den Kessel vom Feuer genommen hast?«
+
+***
+
+die Pastille
+
+¶ Du - Potter - warum hast du ihm nicht gesagt, er solle die Pastillen weglassen?
+
+ein Knuff, knuffen
+
+¶ Das war so unfair, dass Harry den Mund öffnete, um ihm zu widersprechen, doch Ron versetzte ihm hinter ihrem Kessel ein Knuff.
+
+am Rande
+
+¶ Hagrid lebte in einem kleinen Holzhaus am Rande des verbotenen Waldes.
+
+die Armbrust
+
+¶ Neben der Tür standen eine Armbrust und ein Paar Galoschen.
+
+der Türspalt
+
+¶ Hagrids großes, haariges Gesicht erschien im Türspalt, dann öffnete er.
+
+***
+
+der Saurüden
+das Halsband
+
+¶ Er ließ sie herein, wobei er versuchte einen riesigen schwarzen Saurüden am Halsband zu fassen.
+
+der Fasan
+die Flickendecke
+
+¶ Von der Decke hingen Schinken und Fasane herunter, ein Kupferkessel brodelte über dem offenen Feuer, und in der Ecke stand ein riesiges Bett mit einer Flickendecke.
+
+losstürzen
+
+¶ »Macht's euch bequem«, sagte Hagrid und ließ Fang los, der gleich auf Ron losstürzte und ihn an den Ohren leckte.
+
+gießen
+das Plätzchen
+
+¶ »Das ist Ron«, erklärte Harry, während Hagrid kochendes Wasser in einen großen Teekessel goss und Plätzchen auf einen Teller legte.
+
+ausbeißen
+anmerken
+
+¶ Die Plätzchen waren so hart, dass sie sich fast die Zähne ausbissen, doch Harry und Ron ließen sich nichts anmerken und erzählten Hagrid alles über die ersten Unterrichtsstunden.
+
+der Sabber
+
+¶ Fang legte den Kopf auf Harrys Knie und Sabber lief den Umhang hinunter.
+
+der Tritt
+
+¶ Wisst ihr, immer wenn ich hochgeh zur Schule, folgt sie mir auf Schritt und Tritt.
+
+***
+
+prima
+
+¶ »Mochte ihn sehr gern, konnte prima mit Tieren umgehen.«
+
+der Teehaube
+
+¶ Während Ron Hagrid von Charlies Arbeit mit den Drachen erzählte, zog Harry ein Blatt Papier unter der Teehaube hervor.
+
+der Ausschnitt
+
+¶ Es war ein Ausschnitt aus dem Tagespropheten:
+
+die Ermittlungen
+fortgesetzt
+
+¶ Die Ermittlungen im Fall des Einbruchs bei Gringotts vom 31. Juli werden fortgesetzt.
+
+wen
+
+¶ Um wen genau es sich handelt, ist jedoch unklar.
+
+der Vertreter
+bekräftigten
+
+¶ Vertreter der Kobolde bei Gringotts bekräftigten heute noch einmal, dass nichts gestohlen wurde.
+
+zufällig
+
+¶ Das Verlies, das durchsucht wurde, war zufällig am selben Tag geleert worden.
+
+***
+
+herausholen
+
+¶ Hagrid hatte Verlies siebenhundertneunzehn geleert, wenn man es so nennen konnte, denn er hatte nur dieses schmutzige kleine Paket herausgeholt.
+
+der Dieb
+
+¶ War es das, wonach die Diebe gesucht hatten?
+
+das Abendessen
+die Höflichkeit
+ablehnen
+
+¶ Als Harry und Ron zum Abendessen ins Schloss zurückkehrten, waren ihre Taschen voll gestopft mit den steinharten Plätzchen, die sie aus Höflichkeit nicht hatten ablehnen wollen.
+
+rechtzeitig
+
+¶ Hatte Hagrid dieses Päckchen gerade noch rechtzeitig geholt?
+
+***
+
+schwarzen Brett
+der Aufenthaltsraum
+aufstöhnen
+
+¶ Wenigstens taten sie es nicht, bis sie am schwarzen Brett ihres Aufenthaltsraumes eine Notiz bemerkten, die sie alle aufstöhnen ließ.
+
+die Flugstunde
+der Donnerstag
+
+¶ Die Flugstunden würden am Donnerstag beginnen.
+
+vernünftigerweise 
+
+¶ »Du weißt doch noch gar nicht, ob du dich lächerlich machst«, sagte Ron vernünftigerweise.
+
+protzen
+
+¶ »Jedenfalls weiß ich, dass Malfoy immer damit protzt, wie gut er im Quidditch ist, aber ich wette, das ist alles nur Gerede.«
+
+ausgiebig
+
+¶ Malfoy sprach in der Tat ausgiebig vom Fliegen.
+
+lauthals
+langatmig
+die Haaresbreite
+
+¶ Er beklagte sich lauthals, dass die Erstklässler es nie schafften, in eines der Quidditch-Teams aufgenommen zu werden, und erzählte langatmige Geschichten, die immer damit zu enden schienen, dass er um Haaresbreite irgendwelchen Muggeln in Hubschraubern entkommen war.
+
+***
+
+durchblicken
+die Kindheit
+brausen
+
+¶ Allerdings war er nicht der Einzige: Seamus Finnigan jedenfalls ließ durchblicken, dass er den größten Teil seiner Kindheit damit verbracht habe, auf einem Besen übers Land zu brausen.
+
+der Drachenflieger
+zusammenstoßen
+
+¶ Selbst Ron erzählte jedem, der es hören wollte, wie er auf Charlies altem Besen einmal fast mit einem Drachenflieger zusammengestoßen sei.
+
+heftig
+der Streit
+
+¶ Mit Dean Thomas, der auch in ihrem Schlafsaal war, hatte sich Ron bereits einen heftigen Streit über Fußball geliefert.
+
+erlauben
+
+¶ Ron konnte einfach nicht einsehen, was so spannend sein sollte in einem Spiel mit nur einem Ball, bei dem es nicht erlaubt war zu fliegen.
+
+anfeuern
+
+¶ Harry hatte Ron dabei erwischt, wie er vor Deans Poster von dessen Lieblingsfußballmannschaft stand und die Spieler anfeuerte, sich doch endlich zu bewegen. 
+
+bestiegen
+
+¶ Neville wiederum hatte noch nie einen Besen bestiegen.
+
+das Fluggerät
+
+¶ Seine Großmutter wollte ihn nicht einmal in die Nähe eines solchen Fluggeräts lassen.
+
+der Wandel
+
+¶ Beim Frühstück am Donnerstagmorgen langweilte sie alle mit dummen Flugtipps, die sie in einem Bibliotheksband namens Quidditch im Wandel der Zeiten gefunden hatte. 
+
+die Ankunft
+die Vorlesung
+
+¶ Neville hing ihr an den Lippen, begierig auf alles, was ihm nachher helfen könnte, auf dem Besen zu bleiben, doch alle anderen waren erleichtert, als die Ankunft der Post Hermines Vorlesung unterbrach.
+
+die Einladung
+
+¶ Seit Hagrids Einladung hatte Harry keinen einzigen Brief mehr bekommen, was Malfoy natürlich schnell bemerkt hatte.
