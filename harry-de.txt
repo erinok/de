@@ -1,4 +1,4 @@
--*- fill-column: 10000; iedit-case-sensitive: nil eval: (turn-on-de-freq-mode) -*-
+-*- fill-column: 10000; iedit-case-sensitive: nil eval: (turn-on-de-freq-w/syntax) -*-
 
 Harry Potter und der Stein der Weisen
 
@@ -1552,9 +1552,13 @@ Er zog ein langes Bandmaß mit silbernen Strichen aus der Tasche.
 
 »Strecken Sie Ihren Arm aus. Genau so.«
 
-Er maß Harry von der Schulter bis zu den Fingerspitzen, dann vom Handgelenk zum Ellenbogen, von der Schulter bis zu den Füßen, vom Knie zur Armbeuge und schließlich von Ohr zu Ohr. Während er mit dem Maßband arbeitete, sagte er: »Jeder Zauberstab von Ollivander hat einen Kern aus einem mächtigen Zauberstoff, Mr. Potter. Wir benutzen Einhornhaare, Schwanzfedern von Phönixen und die Herzfasern von Drachen. Keine zwei Ollivander-Stäbe sind gleich, ebenso wie kein Einhorn, Drache oder Phönix dem andern aufs Haar gleicht. Und natürlich werden Sie mit dem Stab eines anderen Zauberers niemals so hervorragende Resultate erzielen.« Harry fiel plötzlich auf, dass das Maßband, welches gerade den Abstand zwischen seinen Nasenlöchern maß, dies von selbst tat. Mr. Ollivander huschte zwischen den Regalen herum und nahm Schachteln herunter. »Das wird reichen«, sagte er, und das Bandmaß schnurrte zu einem Haufen auf dem Boden zusammen.
+Er maß Harry von der Schulter bis zu den Fingerspitzen, dann vom Handgelenk zum Ellenbogen, von der Schulter bis zu den Füßen, vom Knie zur Armbeuge und schließlich von Ohr zu Ohr. Während er mit dem Maßband arbeitete, sagte er: 
 
-»Nun gut, Mr. Potter. Probieren Sie mal diesen. Buchenholz und Drachenherzfasern. Neun Zoll. Handlich und biegsam. Nehmen Sie ihn einfach mal und schwingen Sie ihn durch die Luft.«
+»Jeder Zauberstab von Ollivander hat einen Kern aus einem mächtigen Zauberstoff, Mr. Potter. Wir benutzen Einhornhaare, Schwanzfedern von Phönixen und die Herzfasern von Drachen. Keine zwei Ollivander-Stäbe sind gleich, ebenso wie kein Einhorn, Drache oder Phönix dem andern aufs Haar gleicht. Und natürlich werden Sie mit dem Stab eines anderen Zauberers niemals so hervorragende Resultate erzielen.« 
+
+Harry fiel plötzlich auf, dass das Maßband, welches gerade den Abstand zwischen seinen Nasenlöchern maß, dies von selbst tat. Mr. Ollivander huschte zwischen den Regalen herum und nahm Schachteln herunter. 
+
+»Das wird reichen«, sagte er, und das Bandmaß schnurrte zu einem Haufen auf dem Boden zusammen. »Nun gut, Mr. Potter. Probieren Sie mal diesen. Buchenholz und Drachenherzfasern. Neun Zoll. Handlich und biegsam. Nehmen Sie ihn einfach mal und schwingen Sie ihn durch die Luft.«
 
 Harry nahm den Zauberstab in die Hand und schwang ihn ein wenig hin und her (wobei er sich albern vorkam), doch Mr. Ollivander riss ihm den Stab gleich wieder weg.
 
@@ -3554,9 +3558,9 @@ Malfoy riss Harry das Paket aus den Händen und betastete es.
 
 Ron konnte nicht widerstehen.
 
-»Es ist nicht irgendein blöder Besen«, sagte er, »es ist ein Nimbus Zweitausend. Was sagtest du, was für einen du *daheim hast, einen Komet Zwei-Sechzig?« Ron grinste Harry an. »Ein Komet sieht ganz *protzig aus, aber der Nimbus spielt in einer ganz anderen Liga.«
+»Es ist nicht irgendein blöder Besen«, sagte er, »es ist ein Nimbus Zweitausend. Was sagtest du, was für einen du daheim hast, einen Komet Zwei-Sechzig?« Ron grinste Harry an. »Ein Komet sieht ganz protzig aus, aber der Nimbus spielt in einer ganz anderen Liga.«
 
-»Was weißt du denn schon darüber, Weasley, du könntest dir nicht mal den halben Stiel *leisten«, fauchte Malfoy zurück. »Ich nehme an, du und deine Brüder müssen sich jeden *Reisigzweig einzeln ***zusammensparen.«
+»Was weißt du denn schon darüber, Weasley, du könntest dir nicht mal den halben Stiel leisten«, fauchte Malfoy zurück. »Ich nehme an, du und deine Brüder müssen sich jeden Reisigzweig einzeln *zusammensparen.«
 
 Bevor Ron antworten konnte, erschien Professor Flitwick an Malfoys Seite.
 
@@ -3564,11 +3568,11 @@ Bevor Ron antworten konnte, erschien Professor Flitwick an Malfoys Seite.
 
 »Potter hat einen Besen geschickt bekommen, Professor«, sagte Malfoy wie aus der Pistole geschossen.
 
-»Ja, das hat seine Richtigkeit«, sagte Professor Flitwick und strahlte Harry an. »Professor McGonagall hat mir die *besonderen *Umstände eingehend erläutert, Potter. Und welches Modell ist es?«
+»Ja, das hat seine Richtigkeit«, sagte Professor Flitwick und strahlte Harry an. »Professor McGonagall hat mir die besonderen Umstände eingehend erläutert, Potter. Und welches Modell ist es?«
 
 »Ein Nimbus Zweitausend, Sir«, sagte Harry und musste kämpfen, um beim Anblick von Malfoys Gesicht nicht laut loszulachen. »Und im Grunde genommen verdanke ich ihn Malfoy hier«, fügte er hinzu. 
 
-Mit halb **unterdrücktem Lachen über Malfoys **unverhohlene Wut und Bestürzung stiegen Harry und Ron die Marmortreppe hoch.
+Mit halb *unterdrücktem Lachen über Malfoys *unverhohlene Wut und Bestürzung stiegen Harry und Ron die Marmortreppe hoch.
 
 »Tja, es stimmt«, frohlockte Harry, als sie oben angelangt waren, »wenn er nicht Nevilles Erinnermich geklaut hätte, wär ich nicht in der Mannschaft ...« 
 
@@ -3588,346 +3592,227 @@ Harry fiel es an diesem Tag ausgesprochen schwer, sich auf den Unterricht zu kon
 
 »Aaah«, seufzte Ron, als der Besen auf Harrys Bettdecke lag.
 
-Selbst für Harry, der nichts über die verschiedenen Besen wusste, sah er wundervoll aus. Der ***schlanke, glänzende Stil war aus Mahagoni und trug die goldgeprägte Aufschrift Nimbus Zweitausend an der Spitze, der ***Schweif war aus fest gebündelten und ***geraden Reisigzweigen.
+Selbst für Harry, der nichts über die verschiedenen Besen wusste, sah er wundervoll aus. Der *schlanke, glänzende Stil war aus Mahagoni und trug die goldgeprägte Aufschrift Nimbus Zweitausend an der Spitze, der *Schweif war aus fest gebündelten und *geraden Reisigzweigen.
 
-Es war bald sieben. Harry verließ das Schloss und machte sich in der ***Dämmerung auf den Weg zum Quidditch-Feld. Er war noch nie in dem Stadion gewesen. Auf Gerüsten um das Feld herum waren hunderte von Sitzen befestigt, so dass die Zuschauer hoch genug saßen, um das Geschehen verfolgen zu können. An beiden Enden des Feldes standen je drei goldene Pfeiler mit Ringen an der Spitze. Sie erinnerten Harry an die Ringe aus Plastik, mit denen die Muggelkinder Seifenblasen machten, nur waren sie in einer Höhe von fast zwanzig Metern angebracht.
+Es war bald sieben. Harry verließ das Schloss und machte sich in der *Dämmerung auf den Weg zum Quidditch-Feld. Er war noch *nie in dem Stadion gewesen. 
+
+Auf *Gerüsten um das Feld herum waren hunderte von Sitzen *befestigt, so dass die Zuschauer hoch genug saßen, um das **Geschehen verfolgen zu können. 
+
+An beiden Enden des Feldes standen je drei goldene Pfeiler mit Ringen an der Spitze. Sie erinnerten Harry an die Ringe aus Plastik, mit denen die Muggelkinder *Seifenblasen machten, nur waren sie in einer Höhe von fast zwanzig Metern angebracht.
 
 183
 
-Harry war so scharf darauf, wieder zu fliegen, dass er nicht
-auf Wood wartete, sondern seinen Besen bestieg und sich vom
-Boden abstieß. Was für ein Gefühl - er schwebte durch die
-Torringe und raste dann das Spielfeld hinauf und hinunter. Der
-Nimbus Zweitausend reagierte auf die leiseste Berührung.
-»He, Potter, runter da«
-Oliver Wood war angekommen. Er trug eine große
-Holzkiste unter dem Arm. Harry landete neben ihm.
-»Sehr schön«, sagte Wood mit glänzenden Augen. »Ich weiß
-jetzt, was McGonagall gemeint hat ... du bist wirklich ein
-Naturtalent. Heute Abend erkläre ich dir nur die Regeln und
-dann nimmst du dreimal die Woche am Mannschaftstraining
-teil.«
-Er öffnete die Kiste. Darin lagen vier Bälle verschiedener
-Größe.
-»So«, sagte Wood, »pass auf, Quidditch ist leicht zu verstehen, auch wenn es nicht leicht zu spielen ist. Jede Mannschaft
-hat sieben Spieler. Drei von ihnen heißen Jäger.«
-»Drei Jäger«, wiederholte Harry, und Wood nahm einen
-hellroten Ball in der Größe eines Fußballs heraus.
-»Dieser Ball ist der so genannte Quaffel«, sagte Wood. »Die
-Jäger werfen sich den Quaffel zu und versuchen ihn durch einen
-der Ringe zu werfen und damit ein Tor zu erzielen. jedes Mal
-zehn Punkte, wenn der Quaffel durch einen Ring geht. Alles klar
-so weit?«
-»Die Jäger spielen mit dem Quaffel und werfen ihn durch die
-Ringe, um ein Tor zu erzielen«, wiederholte Harry. »Das ist wie
-Basketball auf Besen mit sechs Körben, oder?«
+Harry war so scharf darauf, wieder zu fliegen, dass er nicht auf Wood wartete, sondern seinen Besen bestieg und sich vom Boden abstieß. Was für ein Gefühl - er schwebte durch die Torringe und raste dann das Spielfeld hinauf und hinunter. Der Nimbus Zweitausend reagierte auf die leiseste Berührung.
+
+»He, Potter, runter da.« 
+
+Oliver Wood war angekommen. Er trug eine große *Holzkiste unter dem Arm. Harry landete neben ihm.
+
+»Sehr schön«, sagte Wood mit glänzenden Augen. »Ich weiß jetzt, was McGonagall gemeint hat ... du bist wirklich ein Naturtalent. Heute Abend erkläre ich dir nur die Regeln und dann nimmst du dreimal die Woche am Mannschaftstraining teil.«
+
+Er öffnete die Kiste. Darin lagen vier Bälle verschiedener Größe.
+
+»So«, sagte Wood, »pass auf, Quidditch ist leicht zu verstehen, auch wenn es nicht leicht zu spielen ist. Jede Mannschaft hat sieben Spieler. Drei von ihnen heißen Jäger.«
+
+»Drei Jäger«, wiederholte Harry, und Wood nahm einen hellroten Ball in der Größe eines Fußballs heraus. 
+
+»Dieser Ball ist der so genannte Quaffel«, sagte Wood. »Die Jäger werfen sich den Quaffel zu und versuchen ihn durch einen der Ringe zu werfen und damit ein *Tor zu *erzielen. Jedes Mal zehn Punkte, wenn der Quaffel durch einen Ring geht. Alles klar so weit?«
+
+»Die Jäger spielen mit dem Quaffel und werfen ihn durch die Ringe, um ein Tor zu erzielen«, wiederholte Harry. »Das ist wie Basketball auf Besen mit sechs Körben, oder?«
+
 »Was ist Basketball?«, fragte Wood neugierig.
+
 »Nicht so wichtig«, sagte Harry rasch.
-»Nun hat jede Seite noch einen Spieler, der Hüter heißt - ich
-bin der Hüter von Gryffindor. Ich muss um unsere Ringe
+
+»Nun hat jede Seite noch einen Spieler, der *Hüter heißt - ich bin der Hüter von Gryffindor. Ich muss um unsere Ringe herumfliegen und die andere Mannschaft daran hindern, Tore zu erzielen.«
 
 184
 
-herumfliegen und die andere Mannschaft daran hindern, Tore zu
-erzielen.«
-»Drei Jäger, ein Hüter«, sagte Harry, entschlossen, sich Alles
-genau zu merken. »Und sie spielen mit dem Quaffel. Gut, hab ich
-verstanden. Und wozu sind die da?« Er deutete auf die drei
-Bälle, die noch in der Kiste lagen.
+»Drei Jäger, ein Hüter«, sagte Harry, entschlossen, sich Alles genau zu merken. »Und sie spielen mit dem Quaffel. Gut, hab ich verstanden. Und wozu sind die da?«
+
+Er deutete auf die drei Bälle, die noch in der Kiste lagen.
+
 »Das zeig ich dir jetzt«, sagte Wood. »Nimm das.«
-Er reichte Harry ein kleines Schlagholz, das an einen
-Baseballschläger erinnerte.
-»Ich zeig dir, was die Klatscher tun«, sagte Wood. »Diese
-beiden hier sind Klatschen«
-Er zeigte Harry zwei gleiche Bälle, die tiefschwarz und
-etwas kleiner waren als der rote Quaffel. Harry bemerkte, dass
-sie den Bändern offenbar entkommen wollten, die sie im Korb
-festhielten.
-»Geh einen Schritt zurück«, warnte Wood Harry. Er bückte
-sich und befreite einen der Klatscher.
-Der schwarze Ball stieg sofort hoch in die Luft und schoss
-dann direkt auf Harrys Gesicht zu. Harry schlug mit dem
-Schlagholz nach ihm, damit er ihm nicht die Nase brach, und der
-Ball flog im Zickzack hoch in die Luft. Er drehte sich im Kreis
-um ihre Köpfe und schoss dann auf Wood hinunter, der ihm
-auswich und es schaffte, ihn mit dem Fuß auf dem Boden
-festzuhalten.
-»Siehst du?«, keuchte Wood und mühte sich damit ab, den
-Klatscher wieder in den Korb zu zwängen und ihn sicher
-festzuschnallen. »Die Klatscher schießen in der Luft herum und
-versuchen die Spieler von ihren Besen zu stoßen. Deshalb hat
-jede Mannschaft zwei Treiber - die Weasley-Zwillinge sind
-unsere -, ihre Aufgabe ist es, die eigene Seite vor den Klatschern
-zu schützen und zu versuchen sie auf die gegnerische Mannschaft
-zu jagen. So, meinst du, du hast alles im Kopf?«
+
+Er reichte Harry ein kleines *Schlagholz, das an einen Baseballschläger erinnerte.
+
+»Ich zeig dir, was die *Klatscher tun«, sagte Wood. »Diese beiden hier sind Klatschen.« 
+
+Er zeigte Harry zwei gleiche Bälle, die tiefschwarz und etwas kleiner waren als der rote Quaffel. Harry bemerkte, dass sie den Bändern offenbar entkommen wollten, die sie im Korb festhielten.
+
+»Geh einen Schritt zurück«, warnte Wood Harry. 
+
+Er *bückte sich und befreite einen der Klatscher. Der schwarze Ball stieg sofort hoch in die Luft und schoss dann direkt auf Harrys Gesicht zu. Harry schlug mit dem Schlagholz nach ihm, damit er ihm nicht die Nase brach, und der Ball flog im Zickzack hoch in die Luft. Er drehte sich im Kreis um ihre Köpfe und schoss dann auf Wood hinunter, der ihm *auswich und es schaffte, ihn mit dem Fuß auf dem Boden festzuhalten. 
+
+»Siehst du?«, keuchte Wood und mühte sich damit ab, den Klatscher wieder in den Korb zu *zwängen und ihn sicher *festzuschnallen.
+
+»Die Klatscher schießen in der Luft herum und versuchen die Spieler von ihren Besen zu stoßen. Deshalb hat jede Mannschaft zwei Treiber - die Weasley-Zwillinge sind unsere -, ihre Aufgabe ist es, die eigene Seite vor den Klatschern zu schützen und zu versuchen sie auf die gegnerische Mannschaft zu jagen. So, meinst du, du hast alles im Kopf?«
 
 185
 
-»Drei Jäger versuchen mit dem Quaffel Tore zu erzielen; der
-Hüter bewacht die Torpfosten; die Treiber halten die Klatscher
-von ihrem Team fern«, spulte Harry herunter.
+»Drei Jäger versuchen mit dem Quaffel Tore zu erzielen; der Hüter bewacht die Torpfosten; die Treiber halten die Klatscher von ihrem Team fern«, spulte Harry herunter.
+
 »Sehr gut«, sagte Wood.
-»Ähm - haben die Klatscher schon mal jemanden umgebracht?«, fragte Harry, wobei er möglichst lässig klingen
-wollte.
-»In Hogwarts noch nie. Wir hatten ein paar gebrochene
-Kiefer, doch ansonsten nichts Ernstes. Wir haben noch einen in
-der Mannschaft, nämlich den Sucher. Das bist du. Und du
-brauchst dich um den Quaffel und die Klatscher nicht zu
-kümmern -«
-»Außer sie spalten mir den Schädel.«
-»Mach dir keine Sorgen, die Weasleys sind den Klatschern
-weit überlegen - ich will sagen, sie sind wie ein Paar
-menschlicher Klatschen«
-Wood griff in seinen Korb und nahm den vierten und letzten
-Ball heraus. Er war kleiner als der Quaffel und die Klatscher, so
-klein etwa wie eine große Walnuss. Er war hellgolden und hatte
-kleine, flatternde Silberflügel.
-»Das hier«, sagte Wood, »ist der Goldene Schnatz, und der
-ist der wichtigste Ball von allen. Er ist sehr schwer zu fangen,
-weil er sehr schnell und kaum zu sehen ist. Der Sucher muss ihn
-fangen. Du musst dich durch die Jäger, Treiber, Klatscher und
-den Quaffel hindurchschlängeln, um ihn vor dem Sucher der
-anderen Mannschaft zu fangen, denn der Sucher, der ihn fängt,
-holt seiner Mannschaft zusätzlich hundertfünfzig Punkte, und das
-heißt fast immer, dass sie gewinnt. Ein Quidditch-Spiel endet
-erst, wenn der Schnatz gefangen ist, also kann es ewig lange
-dauern. Ich glaube, der Rekord liegt bei drei Monaten, sie
-mussten damals ständig Ersatzleute ranschaffen, damit die
-Spieler ein wenig schlafen konnten.
+
+»Ähm - haben die Klatscher schon mal jemanden umgebracht?«, fragte Harry, wobei er möglichst lässig klingen wollte.
+
+»In Hogwarts noch nie. Wir hatten ein paar gebrochene *Kiefer, doch ansonsten nichts Ernstes. Wir haben noch einen in der Mannschaft, nämlich den Sucher. Das bist du. Und du brauchst dich um den Quaffel und die Klatscher nicht zu kümmern -.«
+
+»Außer sie *spalten mir den Schädel.«
+
+»Mach dir keine Sorgen, die Weasleys sind den Klatschern weit überlegen - ich will sagen, sie sind wie ein Paar menschlicher Klatschen.«
+
+Wood griff in seinen Korb und nahm den vierten und letzten Ball heraus. Er war kleiner als der Quaffel und die Klatscher, so klein etwa wie eine große Walnuss. Er war hellgolden und hatte kleine, flatternde Silberflügel.
+
+»Das hier«, sagte Wood, »ist der Goldene Schnatz, und der ist der wichtigste Ball von allen. Er ist sehr schwer zu fangen, weil er sehr schnell und kaum zu sehen ist. Der Sucher muss ihn fangen. Du musst dich durch die Jäger, Treiber, Klatscher und den Quaffel hindurchschlängeln, um ihn vor dem Sucher der anderen Mannschaft zu fangen, denn der Sucher, der ihn fängt, holt seiner Mannschaft **zusätzlich hundertfünfzig Punkte, und das heißt fast immer, dass sie gewinnt. 
+
+»Ein Quidditch-Spiel endet erst, wenn der Schnatz gefangen ist, also kann es ewig lange dauern. Ich glaube, der Rekord liegt bei drei Monaten, sie mussten damals ständig *Ersatzleute ranschaffen, damit die Spieler ein wenig schlafen konnten. Nun, das war's. Noch Fragen?«
 
 186
 
-»Nun, das war's. Noch Fragen?«
-Harry schüttelte den Kopf. Er hatte begriffen, wie das Spiel
-ging, und nun musste er es in die Tat umsetzen.
-»Wir üben heute noch nicht mit dem Schnatz«, sagte Wood
-und verstaute ihn sorgfältig wieder in der Kiste. »Es ist zu
-dunkel, er könnte verloren gehen. Am besten fängst du mit ein
-paar von denen an.«
-Er zog einen Beutel mit gewöhnlichen Golfbällen aus der
-Tasche und ein paar Minuten später waren die beiden oben in
-den Lüften. Wood warf die Golfbälle, so weit er konnte, in alle
-Himmelsrichtungen und Harry musste sie Auffangen.
-Harry fing jeden Ball, bevor er den Boden berührte, was
-Wood ungemein freute. Nach einer halben Stunde war die Nacht
-hereingebrochen, und sie mussten aufhören.
-»Der Quidditch-Pokal wird dieses Jahr unseren Namen
-tragen«, sagte Wood glücklich, als sie zum Schloss zurück
-schlenderten. »Würde mich nicht wundern, wenn du besser bist
-als Charlie Weasley, und der hätte für England spielen können,
-wenn er nicht Drachenjagen gegangen wäre.«
-Vielleicht war Harry so beschäftigt mit dem Quidditchtraining drei Abende die Woche und dazu noch mit all den
-Hausaufgaben jedenfalls konnte er es kaum fassen, als ihm klar
-wurde, dass er schon seit zwei Monaten in Hogwarts war. Im
-Schloss fühlte er sich mehr zu Hause als jemals im Ligusterweg.
-Auch der Unterricht wurde nun, da er die Grundlagen
-beherrschte, immer interessanter.
-Als sie am Morgen von Halloween aufwachten, wehte der
-köstliche Geruch gebackener Kürbisse durch die Gänge. Und es
-kam noch besser: Professor Flitwick verkündete im
-Zauberunterricht, sie seien nun so weit, Gegenstände fliegen zu
-lassen, und danach hatten sie sich alle gesehnt, seit sie
+Harry schüttelte den Kopf. Er hatte begriffen, wie das Spiel ging, und nun musste er es in die Tat umsetzen.
+
+»Wir üben heute noch nicht mit dem Schnatz«, sagte Wood und verstaute ihn sorgfältig wieder in der Kiste. »Es ist zu dunkel, er könnte verloren gehen. Am besten fängst du mit ein paar von denen an.«
+
+Er zog einen **Beutel mit ***gewöhnlichen Golfbällen aus der Tasche und ein paar Minuten später waren die beiden oben in den Lüften. Wood warf die Golfbälle, so weit er konnte, in alle Himmelsrichtungen und Harry musste sie Auffangen. Harry fing jeden Ball, bevor er den Boden berührte, was Wood **ungemein freute. 
+
+Nach einer halben Stunde war die Nacht hereingebrochen, und sie mussten aufhören.
+
+»Der Quidditch-Pokal wird dieses Jahr unseren Namen tragen«, sagte Wood glücklich, als sie zum Schloss zurück schlenderten. »Würde mich nicht wundern, wenn du besser bist als Charlie Weasley, und der hätte für England spielen können, wenn er nicht Drachenjagen gegangen wäre.«
+
+Vielleicht war Harry so beschäftigt mit dem Quidditchtraining drei Abende die Woche und dazu noch mit all den Hausaufgaben jedenfalls konnte er es kaum fassen, als ihm klar wurde, dass er schon seit zwei Monaten in Hogwarts war. 
+
+Im Schloss fühlte er sich mehr zu Hause als jemals im Ligusterweg. Auch der Unterricht wurde nun, da er die ***Grundlagen **beherrschte, immer interessanter. 
+
+Als sie am Morgen von Halloween aufwachten, **wehte der köstliche Geruch gebackener Kürbisse durch die Gänge. Und es kam noch besser: Professor Flitwick ***verkündete im Zauberunterricht, sie seien nun so weit, **Gegenstände fliegen zu lassen, und danach hatten sie sich alle gesehnt, seit sie erlebt hatten, wie er Nevilles Kröte im Klassenzimmer **umherschwirren ließ.
 
 187
 
-erlebt hatten, wie er Nevilles Kröte im Klassenzimmer umherschwirren ließ. Für die Übungen stellte Professor Flitwick die
-Schüler paarweise zusammen. Harrys Partner war Seamus
-Finnigan (worüber er froh war, denn Neville hatte schon zu ihm
-herübergespäht). Ron sollte jedoch mit Hermine Granger
-arbeiten. Es war schwer zu sagen, wer von den beiden deshalb
-missmutiger war. Seit Harrys Besen gekommen war, hatte sie
-nicht mehr mit ihnen gesprochen.
-»Also, vergesst nicht diese flinke Bewegung mit dem
-Handgelenk, die wir geübt haben!«, quiekte Professor Flitwick,
-wie üblich auf seinem Stapel Bücher stehend. »Wutschen und
-schnipsen, denkt daran, wutschen und schnipsen. Und die
-Zauberworte richtig herzusagen ist auch sehr wichtig - denkt
-immer an Zauberer Baruffio, der >r< statt >w< gesagt hat und
-plötzlich auf dem Boden lag - mit einem Büffel auf der Brust.«
-Es war sehr schwierig. Harry und Seamus wutschten und
-schnipsten, doch die Feder, die sie himmelwärts schicken sollten,
-blieb einfach auf dem Tisch liegen. Seamus wurde so ungeduldig,
-dass er sie mit seinem Zauberstab anstachelte, worauf sie anfing
-zu brennen - Harry musste das Feuer mit seinem Hut ersticken.
-Ron, am Tisch nebenan, erging es auch nicht viel besser.
-»Wingardium Leviosa!«, rief er und ließ seine langen Arme
-wie Windmühlenflügel kreisen.
-»Du sagst es falsch«, hörte Harry Hermine meckern. »Es
-heißt Wing-gar-dium Levi-o-sa, mach das >gar< schön und
-lang.«
-»Dann mach's doch selber, wenn du alles besser weißt«,
-knurrte Ron.
-Hermine rollte die Ärmel ihres Kleids hoch, knallte kurz mit
-dem Zauberstab auf den Tisch und sagte »Wingardium
-Leviosa!«.
+Für die Übungen stellte Professor Flitwick die Schüler paarweise zusammen. Harrys Partner war Seamus Finnigan (worüber er froh war, denn Neville hatte schon zu ihm herübergespäht). Ron sollte jedoch mit Hermine Granger arbeiten. Es war schwer zu sagen, wer von den beiden deshalb **missmutiger war. Seit Harrys Besen gekommen war, hatte sie nicht mehr mit ihnen gesprochen.
+
+»Also, vergesst nicht diese **flinke Bewegung mit dem Handgelenk, die wir geübt haben!«, quiekte Professor Flitwick, wie üblich auf seinem Stapel Bücher stehend. »Wutschen und **schnipsen, denkt daran, wutschen und schnipsen. Und die Zauberworte richtig herzusagen ist auch sehr wichtig - denkt immer an Zauberer Baruffio, der >r< statt >w< gesagt hat und plötzlich auf dem Boden lag - mit einem **Büffel auf der Brust.«
+
+Es war sehr schwierig. Harry und Seamus wutschten und schnipsten, doch die Feder, die sie himmelwärts schicken sollten, blieb einfach auf dem Tisch liegen. Seamus wurde so **ungeduldig, dass er sie mit seinem Zauberstab anstachelte, worauf sie anfing zu brennen - Harry musste das Feuer mit seinem Hut **ersticken. Ron, am Tisch nebenan, erging es auch nicht viel besser.
+
+»Wingardium Leviosa!«, rief er und ließ seine langen Arme wie Windmühlenflügel kreisen.
+
+»Du sagst es falsch«, hörte Harry Hermine meckern. »Es heißt Wing-gar-dium Levi-o-sa, mach das >gar< schön und lang.«
+
+»Dann mach's doch selber, wenn du alles besser weißt«, knurrte Ron.
+
+Hermine rollte die Ärmel ihres Kleids hoch, knallte kurz mit dem Zauberstab auf den Tisch und sagte »Wingardium Leviosa!«.
 
 188
 
-Die Feder erhob sich vom Tisch und blieb gut einen Meter
-über ihren Köpfen in der Luft schweben.
-»Oh, gut gemacht!«, rief Professor Flitwick und klatschte in
-die Hände. »Alle mal hersehen, Miss Granger hat es geschafft!«
+Die Feder erhob sich vom Tisch und blieb gut einen Meter über ihren Köpfen in der Luft schweben.
+
+»Oh, gut gemacht!«, rief Professor Flitwick und klatschte in die Hände. »Alle mal hersehen, Miss Granger hat es geschafft!«
+
 Am Ende der Stunde hatte Ron eine hundsmiserable Laune.
-»Kein Wunder, dass niemand sie ausstehen kann«, sagte er
-zu Harry, als sie hinaus in den belebten Korridor drängten,
-»ehrlich gesagt ist sie ein Alptraum.«
-Jemand stieß im Vorbeigehen Harry an. Es war Hermine. Für
-einen Augenblick sah er ihr Gesicht - und war Überrascht, dass
-sie weinte.
+
+»Kein Wunder, dass niemand sie ausstehen kann«, sagte er zu Harry, als sie hinaus in den belebten Korridor drängten, »ehrlich gesagt ist sie ein Alptraum.«
+
+Jemand stieß im Vorbeigehen Harry an. Es war Hermine. Für einen Augenblick sah er ihr Gesicht - und war Überrascht, dass sie weinte.
+
 »Ich glaube, sie hat dich gehört.«
-»So?«, sagte Ron und schaute allerdings etwas unbehaglich
-drein. »Ihr muss selbst schon aufgefallen sein, dass sie keine
-Freunde hat.«
-Hermine erschien nicht zur nächsten Stunde und blieb den
-ganzen Nachmittag lang verschwunden. Auf ihrem Weg hinunter
-in die Große Halle zum Halloween-Festessen hörten Harry und
-Ron, wie Parvati Patil ihrer Freundin Lavender sagte, Hermine
-sitze heulend im Mädchenklo und wolle allein gelassen werden.
-Daraufhin machte Ron einen noch verlegeneren Eindruck, doch
-nun betraten Sie die Große Halle, die für Halloween
-ausgeschmückt war, und vergaßen Hermine.
-Tausend echte Fledermäuse flatterten an den Wänden und an
-der Decke, und noch einmal tausend fegten in langen schwarzen
-Wolken über die Tische und ließen die Kerzen in den Kürbissen
-flackern. Auf einen Schlag, genau wie beim Bankett zum
-Schuljahresbeginn, waren die goldenen Platten mit dem Festessen
-gefüllt.
-Harry nahm sich gerade eine Pellkartoffel, als Professor
+
+»So?«, sagte Ron und schaute allerdings etwas unbehaglich drein. »Ihr muss selbst schon aufgefallen sein, dass sie keine Freunde hat.«
+
+Hermine erschien nicht zur nächsten Stunde und blieb den ganzen Nachmittag lang verschwunden. Auf ihrem Weg hinunter in die Große Halle zum Halloween-Festessen hörten Harry und Ron, wie Parvati Patil ihrer Freundin Lavender sagte, Hermine sitze heulend im Mädchenklo und wolle allein gelassen werden. Daraufhin machte Ron einen noch ***verlegeneren Eindruck, doch nun betraten Sie die Große Halle, die für Halloween **ausgeschmückt war, und vergaßen Hermine.
+
+Tausend echte 18*Fledermäuse flatterten an den Wänden und an der Decke, und noch einmal tausend **fegten in langen schwarzen **Wolken über die Tische und ließen die Kerzen in den Kürbissen flackern. 
+
+Auf einen Schlag, genau wie beim Bankett zum Schuljahresbeginn, waren die goldenen Platten mit dem Festessen gefüllt.
 
 189
 
-Quirrell mit verrutschtem Turban und angstverzerrtem Gesicht in
-die Halle gerannt kam. Aller Blicke richteten sich auf ihn, als er
-Professor Dumbledores Platz erreichte, gegen den Tisch
-rempelte und nach Luft schnappend hervorstieß: »Troll - im
-Kerker - dachte, Sie sollten es wissen.«
-Dann sank er ohnmächtig auf den Boden.
-Mit einem Mal herrschte heilloser Aufruhr. Etliche purpurrote Knallfrösche aus Professor Dumbledores Zauberstab
-waren nötig, um den Saal zur Ruhe zu bringen.
-»Vertrauensschüler«, polterte er, #führt eure Häuser sofort
-zurück in die Schlafsäle!«
+Harry nahm sich gerade eine Pellkartoffel, als Professor Quirrell mit verrutschtem Turban und angstverzerrtem Gesicht in die Halle gerannt kam. Aller Blicke richteten sich auf ihn, als er Professor Dumbledores Platz erreichte, gegen den Tisch rempelte und nach Luft schnappend hervorstieß: 
+
+»Troll - im Kerker - dachte, Sie sollten es wissen.«
+
+Dann sank er ohnmächtig auf den Boden. Mit einem Mal herrschte heilloser Aufruhr. Etliche purpurrote Knallfrösche aus Professor Dumbledores Zauberstab waren nötig, um den Saal zur Ruhe zu bringen.
+
+»Vertrauensschüler«, polterte er, »führt eure Häuser sofort zurück in die Schlafsäle!«
+
 Percy war in seinem Element.
-»Folgt mir! Bleibt zusammen, Erstklässler! Kein Grund zur
-Angst vor dem Troll, wenn ihr meinen Anweisungen folgt! Bleibt
-jetzt dicht hinter mir. Platz machen bitte für die Erstklässler.
-Pardon, ich bin Vertrauensschüler!«
-»Wie konnte ein Troll reinkommen«, fragte Harry, während
-sie die Treppen hochstiegen.
-»Frag mich nicht, angeblich sollen sie ziemlich dumm sein«,
-sagte Ron.
-Wielleicht hat ihn Peeves hereingelassen, als Streich zu
-Halloween.«
-Unterwegs trafen sie immer wieder auf andere Häufchen von
-Schülern, die in verschiedene Richtungen eilten. Als sie sich ihren
-Weg durch eine Gruppe verwirrter Hufflepuffs bahnten, packte
-Harry Ron plötzlich am Arm.
+
+»Folgt mir! Bleibt zusammen, Erstklässler! Kein Grund zur Angst vor dem Troll, wenn ihr meinen Anweisungen folgt! Bleibt jetzt dicht hinter mir. Platz machen bitte für die Erstklässler. Pardon, ich bin Vertrauensschüler!«
+
+»Wie konnte ein Troll reinkommen«, fragte Harry, während sie die Treppen hochstiegen.
+
+»Frag mich nicht, angeblich sollen sie ziemlich dumm sein«, sagte Ron. »Wielleicht hat ihn Peeves hereingelassen, als Streich zu Halloween.«
+
+Unterwegs trafen sie immer wieder auf andere Häufchen von Schülern, die in verschiedene Richtungen eilten. Als sie sich ihren Weg durch eine Gruppe ***verwirrter Hufflepuffs bahnten, packte Harry Ron plötzlich am Arm.
+
 »Da fällt mir ein - Hermine.«
+
 »Was ist mit ihr?«
+
 »Sie weiß nichts von dem Troll.«
+
 Ron biss sich auf die Lippe.
-»Von mir aus«, knurrte er. »Aber Percy sollte uns lieber
-nicht sehen.«
-Sie duckten ihre Köpfe in der Menge und folgten den
+
+»Von mir aus«, knurrte er. »Aber Percy sollte uns lieber nicht sehen.«  
+
+Sie duckten ihre Köpfe in der Menge und folgten den Hufflepuffs, die in die andere Richtung unterwegs waren, huschten dann einen ***verlassenen Korridor entlang und rannten weiter in Richtung der Mädchenklos.
 
 190
 
-Hufflepuffs, die in die andere Richtung unterwegs waren,
-huschten dann einen verlassenen Korridor entlang und rannten
-weiter in Richtung der Mädchenklos. Gerade waren sie um die
-Ecke gebogen, als sie hinter sich schnelle Schritte hörten.
-»Percy!«, zischte Ron und zog Harry hinter einen großen
-steinernen Greifen.
-Als sie um die Ecke spähten, sahen sie nicht Percy, sondern
-Snape. Er ging den Korridor entlang und entschwand ihren
-Blicken.
-»Was macht der hier?«, flüsterte Harry. »Warum ist er nicht
-unten in den Kerkern mit den anderen Lehrern?«
+Gerade waren sie um die Ecke ***gebogen, als sie hinter sich schnelle Schritte hörten.
+
+»Percy!«, zischte Ron und zog Harry hinter einen großen steinernen Greifen.
+
+Als sie um die Ecke spähten, sahen sie nicht Percy, sondern Snape. Er ging den Korridor entlang und ***entschwand ihren Blicken.
+
+»Was macht der hier?«, flüsterte Harry. »Warum ist er nicht unten in den Kerkern mit den anderen Lehrern?«
+
 »Keine Ahnung.«
-So vorsichtig wie möglich schlichen sie den nächsten Gang
-entlang, Snapes leiser werdenden Schritten nach.
-»Er ist auf dem Weg in den dritten Stock«, sagte Harry,
-doch Ron hielt die Hand hoch.
+
+So vorsichtig wie möglich schlichen sie den nächsten Gang entlang, Snapes leiser werdenden Schritten nach.
+
+»Er ist auf dem Weg in den dritten Stock«, sagte Harry, doch Ron hielt die Hand hoch. 
+
 »Riechst du was?«
-Harry schnüffelte und ein übler Gestank drang ihm in die
-Nase, eine Mischung aus getragenen Socken und der Sorte
-öffentlicher Toiletten, die niemand je zu putzen scheint.
-Und dann hörten sie es - ein leises Grunzen und das
-Schleifen gigantischer Füße. Ron deutete nach links - vom Ende
-eines Ganges her bewegte sich etwas Riesiges auf sie zu. Sie
-drängten sich in die Dunkelheit der Schatten und sahen, wie das
-Etwas in einem Fleck Mondlicht Gestalt annahm.
-Es war ein fürchterlicher Anblick. Über drei Meter hoch, die
-Haut ein fahles, granitenes Grau, der große, plumpe Körper wie
-ein Findling, auf den man einen kleinen, kokosnussartigen
-Glatzkopf gesetzt hatte. Das Wesen hatte kurze Beine, dick wie
-Baumstämme, mit flachen, verhornten Füßen. Der Gestank, den
-es ausströmte, verschlug ei
+
+Harry schnüffelte und ein übler Gestank drang ihm in die Nase, eine Mischung aus getragenen Socken und der Sorte öffentlicher Toiletten, die niemand je zu **putzen scheint. Und dann hörten sie es - ein leises Grunzen und das ***Schleifen gigantischer Füße.
+
+Ron deutete nach links - vom Ende eines Ganges her ***bewegte sich etwas Riesiges auf sie zu. Sie drängten sich in die Dunkelheit der Schatten und sahen, wie das Etwas in einem Fleck Mondlicht Gestalt annahm.
+
+Es war ein fürchterlicher Anblick. Über drei Meter hoch, die Haut ein fahles, granitenes Grau, der große, plumpe Körper wie ein **Findling, auf den man einen kleinen, kokosnussartigen Glatzkopf gesetzt hatte.
+
+Das **Wesen hatte kurze Beine, dick wie **Baumstämme, mit ***flachen, **verhornten Füßen. Der Gestank, den es ausströmte, verschlug einem den Atem.
+
 191
 
-nem den Atem. Es hielt eine riesige hölzerne Keule in der Hand,
-die, wegen seiner langen Arme, auf dem Boden entlangschleifte.
-Der Troll machte an einer Tür Halt, öffnete sie einen Spalt
-breit und linste hinein. Er wackelte mit den langen Ohren, fasste
-dann in seinem kleinen Hirn einen Entschluss und schlurfte
-gemächlich in den Raum hinein.
-»Der Schlüssel steckt«, flüsterte Harry, »Wir könnten ihn
-einschließen.«
+Es hielt eine riesige ***hölzerne ***Keule in der Hand, die, wegen seiner langen Arme, auf dem Boden entlangschleifte. Der Troll machte an einer Tür Halt, öffnete sie einen Spalt breit und ***linste hinein. Er wackelte mit den langen Ohren, fasste dann in seinem kleinen ***Hirn einen ***Entschluss und schlurfte ***gemächlich in den Raum hinein.
+
+»Der Schlüssel steckt«, flüsterte Harry, »Wir könnten ihn einschließen.«
+
 »Gute Idee«, sagte Ron nervös.
-Sie schlichen die Wand entlang zu der offenen Tür, Mit
-trockenen Mündern, betend, dass der Troll nicht gleich wieder
-herauskam. Harry machte einen großen Satz und schaffte es, die
-Klinke zu packen, die Tür zuzuschlagen und sie abzuschließen.
-ja!«
-Mit Siegesröte auf den Gesichtern rannten sie los, den Gang
-zurück, doch als sie die Ecke erreichten, hörten sie etwas, das
-ihre Herzen stillstehen ließ - einen schrillen, panischen
-Entsetzensschrei - und er kam aus dem Raum, den sie gerade
-abgeschlossen hatten.
+
+Sie schlichen die Wand entlang zu der offenen Tür, Mit trockenen Mündern, ***betend, dass der Troll nicht gleich wieder herauskam.
+
+Harry machte einen großen Satz und schaffte es, die ***Klinke zu packen, die Tür zuzuschlagen und sie abzuschließen.
+
+»Ja!«
+
+Mit Siegesröte auf den Gesichtern rannten sie los, den Gang zurück, doch als sie die Ecke erreichten, hörten sie etwas, das ihre Herzen stillstehen ließ - einen schrillen, panischen Entsetzensschrei - und er kam aus dem Raum, den sie gerade abgeschlossen hatten.
+
 »O nein«, sagte Ron, blass wie der Blutige Baron.
+
 »Es ist das Mädchenklo!«, keuchte Harry.
-»Hermine!«,japsten sie einstimmig.
-Es war das Letzte, was sie tun wollten, doch hatten sie eine
-Wahl? Sie machten auf dem Absatz kehrt, rannten zurück zur
-Tür, drehten, zitternd vor Panik, den Schlüssel herum - Harry
-stieß die Tür auf und sie stürzten hinein.
-Hermine Granger stand mit zitternden Knien an die Wand
-gedrückt da und sah aus, als ob sie gleich in Ohnmacht fallen
-würde. Der Troll, links und rechts die Waschbecken
-herunterschlagend, schlurfte langsam auf sie zu.
-»Wir müssen ihn ablenken!«, sagte Harry verzweifelt zu
+
+»Hermine!«, japsten sie einstimmig.
+
+Es war das Letzte, was sie tun wollten, doch hatten sie eine Wahl? Sie machten auf dem Absatz kehrt, rannten zurück zur Tür, drehten, zitternd vor Panik, den Schlüssel herum - Harry stieß die Tür auf und sie stürzten hinein.
+
+Hermine Granger stand mit zitternden Knien an die Wand gedrückt da und sah aus, als ob sie gleich in Ohnmacht fallen würde. Der Troll, links und rechts die ***Waschbecken herunterschlagend, schlurfte langsam auf sie zu.
+
+»Wir müssen ihn ***ablenken!«, sagte Harry ***verzweifelt zu Ron, griff nach einem auf dem Boden ***liegenden ***Wasserhahn und warf ihn mit aller Kraft gegen die Wand.
 
 192
 
-Ron, griff nach einem auf dem Boden liegenden Wasserhahn und
-warf ihn mit aller Kraft gegen die Wand.
-Der Troll hielt ein paar Meter vor Hermine inne. Schwerfällig drehte er sich um und blinzelte dumpf, um zu sehen, was
-diesen Lärm gemacht hatte. Die bösen kleinen Augen erblickten
-Harry. Er zögerte kurz und ging dann, die Keule emporhebend,
-auf Harry los.
-»He, du, Erbsenhirn! «, schrie Ron von der anderen Seite
-des Raums und warf ein Metallrohr nach ihm. Der Troll schien
-nicht einmal Notiz davon zu nehmen, dass das Rohr seine
-Schulter traf, doch er hörte den Schrei, hielt erneut inne und
-wandte seine hässliche Schnauze nun Ron zu, was Harry die Zeit
-gab, um ihn herumzurennen.
-»Schnell, lauf, lauf«, rief Harry Hermine zu und versuchte sie
-zur Tür zu zerren, doch sie konnte sich nicht bewegen. Immer
-noch stand sie flach gegen die Wand gedrückt, mit vor Entsetzen
-weit offenem Mund.
-Die Schreie und deren Echo schienen den Troll zur Raserei
-zu bringen. Mit einem dumpfen Röhren ging er auf Ron los, der
-ihm am nächsten stand und keinen Ausweg hatte.
-Harry tat nun etwas, das sehr mutig und sehr dumm zugleich
-war: mit einem mächtigen Satz sprang er auf den Rücken des
-Trolls und klammerte die Arme um seinen Hals. Der Troll spürte
-zwar nicht, dass Harry auf seinem Rücken hing, doch selbst ein
-Troll bemerkt, wenn man ihm ein langes Stück Holz in die Nase
-steckt, und Harry hatte seinen Zauberstab noch in der Hand
-gehabt, als er sprang - der war ohne weiteres in eines der
-Nasenlöcher des Trolls hineingeflutscht.
-Der Troll heulte vor Schmerz, zuckte und schlug mit der
-Keule wild um sich, und Harry, in Todesgefahr, klammerte sich
-noch immer auf seinem Rücken fest; gleich würde der
+Der Troll hielt ein paar Meter vor Hermine inne. Schwerfällig drehte er sich um und blinzelte dumpf, um zu sehen, was diesen Lärm gemacht hatte. Die bösen kleinen Augen erblickten Harry. Er zögerte kurz und ging dann, die Keule emporhebend, auf Harry los. »He, du, Erbsenhirn! «, schrie Ron von der anderen Seite des Raums und warf ein Metallrohr nach ihm. Der Troll schien nicht einmal Notiz davon zu nehmen, dass das Rohr seine Schulter traf, doch er hörte den Schrei, hielt erneut inne und wandte seine hässliche Schnauze nun Ron zu, was Harry die Zeit gab, um ihn herumzurennen. »Schnell, lauf, lauf«, rief Harry Hermine zu und versuchte sie zur Tür zu zerren, doch sie konnte sich nicht bewegen. Immer noch stand sie flach gegen die Wand gedrückt, mit vor Entsetzen weit offenem Mund. Die Schreie und deren Echo schienen den Troll zur Raserei zu bringen. Mit einem dumpfen Röhren ging er auf Ron los, der ihm am nächsten stand und keinen Ausweg hatte. Harry tat nun etwas, das sehr mutig und sehr dumm zugleich war: mit einem mächtigen Satz sprang er auf den Rücken des Trolls und klammerte die Arme um seinen Hals. Der Troll spürte zwar nicht, dass Harry auf seinem Rücken hing, doch selbst ein Troll bemerkt, wenn man ihm ein langes Stück Holz in die Nase steckt, und Harry hatte seinen Zauberstab noch in der Hand gehabt, als er sprang - der war ohne weiteres in eines der Nasenlöcher des Trolls hineingeflutscht. Der Troll heulte vor Schmerz, zuckte und schlug mit der Keule wild um sich, und Harry, in Todesgefahr, klammerte sich noch immer auf seinem Rücken fest; gleich würde der
 
 193
 
