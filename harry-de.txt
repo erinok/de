@@ -874,7 +874,18 @@ Wie ein Feuerwerk expldierten Fragen in Harrys Kopf, und er konnte sich, nicht e
 
 Nach ein paar Minuten stammelte er: »Was soll das heißen, sie erwarten eine Eule?«
 
-»Galoppierende Gorgonen, da fällt mir doch ein ...«, sagte Hagrid und schlug sich mit solcher Wucht die Hand gegen die Stirn, dass es einen Brauereigaul umgehauen hätte. Aus einer weiteren Tasche im Innern seines Umhangs zog er eine Eule hervor. Eine echte, lebende, recht zerzaust aussehende Eule - wie einen langen Federkiel und eine Pergamentrolle. Mit der Zunge zwischen den Lippen kritzelte er eine Notiz. Für Harry standen die Buchstaben zwar auf dem Kopf, dennoch konnte er sie lesen: Sehr geehrterN1r. Dumbledore, ich habe Harry seinen Brief überreicht. Nehme ihn morgen mit, um seine Sachen einzukaufen. Wetter ist fürchterlich. hoffe, Sie sind wohlauf Hagrid. Hagrid rollte die Nachricht zusammen, übergab sie der Eule, die sie in deren Schnabel klemmte, ging zur Tür und schleuderte die Eule hinaus in den Sturm. Dann kam er zurück und setzte sich, als hätte er nur mal kurz telefoniert. Harry bemerkte, dass ihm der Mund offen stand, und klappte ihn rasch zu.
+»Galoppierende Gorgonen, da fällt mir doch ein ...«, sagte Hagrid und schlug sich mit solcher Wucht die Hand gegen die Stirn, dass es einen Brauereigaul umgehauen hätte. 
+
+Aus einer weiteren Tasche im Innern seines Umhangs zog er eine Eule hervor. Eine echte, lebende, recht zerzaust aussehende Eule – wie einen langen Federkiel und eine Pergamentrolle.
+
+Mit der Zunge zwischen den Lippen kritzelte er eine Notiz. Für Harry standen die Buchstaben zwar auf dem Kopf, dennoch konnte er sie lesen: 
+
+	Sehr geehrterN1r. Dumbledore, 
+	Ich habe Harry seinen Brief überreicht. Nehme ihn morgen mit, um seine Sachen einzukaufen. Wetter ist fürchterlich. 
+	Hoffe, Sie sind wohlauf 
+		Hagrid.
+		
+Hagrid rollte die Nachricht zusammen, übergab sie der Eule, die sie in deren Schnabel klemmte, ging zur Tür und schleuderte die Eule hinaus in den Sturm. Dann kam er zurück und setzte sich, als hätte er nur mal kurz telefoniert. Harry bemerkte, dass ihm der Mund offen stand, und klappte ihn rasch zu.
 
 »Wo war ich gerade?«, sagte Hagrid, doch in diesem Augenblick trat Onkel Vernon, immer noch aschfahl, doch sehr zornig aussehend, in das Licht des Kaminfeuers.
 
@@ -6128,7 +6139,7 @@ Harry und Ron gingen in den Gemeinschaftsraum.
 
 »Wenigstens ist Hermine Snape auf den Fersen«, meinte Harry gerade, als das Porträt der fetten Dame zur Seite klappte und Hermine hereinkam.
 
-»Tut mir Leid, Harry!«, klagte sie. »Snape ist rausgekommen und hat mich gefragt, was ich da zu suchen hätte, und ich habe gesagt, ich würde auf Flitwick warten. Snape ist •reingegangen und hat ihn geholt, und ich konnte mich eben erst loseisen. Ich weiß nicht, wo Snape hin ist.«
+»Tut mir Leid, Harry!«, klagte sie. »Snape ist rausgekommen und hat mich gefragt, was ich da zu suchen hätte, und ich habe gesagt, ich würde auf Flitwick warten. Snape ist •reingegangen und hat ihn geholt, und ich konnte mich eben erst •loseisen. Ich weiß nicht, wo Snape hin ist.«
 
 »Tja, das war's dann wohl«, sagte Harry.
 
@@ -6140,14 +6151,14 @@ Die andern beiden starrten ihn an. Er war blass und seine Augen glitzerten.
 
 »Das kannst du nicht machen«, sagte Hermine. »Nach dem, was McGonagall und Snape gesagt haben? Sie werden dich rauswerfen.«
 
-»NA UND?«, rief Harry. »Versteht ihr nicht? Wenn Snape den Stein in die Hände kriegt, dann kommt Voldemort zurück! Hast du nicht gehört, wie es war, als er versucht hat, die Macht zu übernehmen? Dann gibt es kein Hogwarts mehr, aus dem wir rausgeschmissen werden können! Er würde Hogwarts dem Erdboden gleichmachen oder es in eine Schule für schwarze Magie verwandeln!
+»NA UND?«, rief Harry. »Versteht ihr nicht? Wenn Snape den Stein in die Hände kriegt, dann kommt Voldemort zurück! Hast du nicht gehört, wie es war, als er versucht hat, die Macht zu übernehmen? Dann gibt es kein Hogwarts mehr, aus dem wir •rausgeschmissen werden können! Er würde Hogwarts dem Erdboden gleichmachen oder es in eine Schule für schwarze Magie verwandeln!
 
 293
 
 »Punkte zu verlieren spielt jetzt keine Rolle mehr, begreift ihr das denn 
 nicht? Glaubt ihr etwa, er lässt euch und eure Familien in Ruhe, wenn Gryffindor den Hauspokal gewinnt?
 
-»Wenn ich erwischt werde, bevor ich zum Stein komme, sei's drum, dann muss ich zurück zu den Dursleys und darauf warten, dass mich Voldemort dort findet.
+»Wenn ich erwischt werde, bevor ich zum Stein komme, •sei's drum, dann muss ich zurück zu den Dursleys und darauf warten, dass mich Voldemort dort findet.
 
 »Das heißt nur, dass ich ein wenig später sterbe, als ich ohnehin müsste, denn ich gehe niemals auf die dunkle Seite! Ich steige heute Nacht durch diese Falltür und nichts, was ihr beide sagt, wird mich aufhalten. Voldemort hat meine Eltern umgebracht, erinnert ihr euch?«
 
@@ -6163,21 +6174,21 @@ Zornfunkelnd sah er sie an.
 
 »Aach, hör doch auf, glaubst du etwa, wir lassen dich alleine gehen?«  
 
-»Natürlich nicht«, sagte Hermine energisch. »Wie glaubst du eigentlich, dass du ohne uns zu dem Stein kommst? Ich an deiner Stelle würde mir die Bücher vornehmen, da könnte vielleicht was Nützliches drinstehen ...«  
+»Natürlich nicht«, sagte Hermine energisch. »Wie glaubst du eigentlich, dass du ohne uns zu dem Stein kommst? Ich an deiner Stelle würde mir die Bücher •vornehmen, da könnte vielleicht was Nützliches •drinstehen ...«  
 
 »Aber wenn wir erwischt werden, werdet ihr auch rausgeworfen.«
 
-»Das möcht ich erst mal sehen«, entgegnete Hermine mit entschlossener Miene. »Flitwick hat mir schon verraten, dass ich bei ihm in der Prüfung eine Eins plus habe. Mit der Note werfen die mich nicht raus.«
+»Das möcht ich erst mal sehen«, •entgegnete Hermine mit •entschlossener Miene. »Flitwick hat mir schon verraten, dass ich bei ihm in der Prüfung eine Eins plus habe. Mit der Note werfen die mich nicht raus.«
 
-Nach dem Abendessen saßen die drei abseits in einer Ecke des Gemeinschaftsraums. Sie waren nervös, aber niemand kümmerte sich um sie; mit Harry sprach ohnehin keiner von den Gryffindors mehr.
+Nach dem Abendessen saßen die drei •abseits in einer Ecke des Gemeinschaftsraums. Sie waren nervös, aber niemand kümmerte sich um sie; mit Harry sprach ohnehin keiner von den Gryffindors mehr.
 
 294
 
-An diesem Abend nahm Harry das zum ersten Mal mit Gleichmut hin. Hermine blätterte durch alle ihre Aufzeichnungen, um vielleicht auf einen der Zauberbanne zu stoßen, die sie gleich versuchen würden zu brechen.
+An diesem Abend nahm Harry das zum ersten Mal mit •Gleichmut hin. Hermine blätterte durch alle ihre •Aufzeichnungen, um vielleicht auf einen der Zauberbanne zu stoßen, die sie gleich versuchen würden zu brechen.
 
-Harry und Ron redeten nicht viel miteinander. Beide dachten über das nach, was sie gleich unternehmen würden. Allmählich leerte sich der Raum, es wurde Zeit zum Schlafengehen.
+Harry und Ron redeten nicht viel miteinander. Beide dachten über das nach, was sie gleich •unternehmen würden. Allmählich leerte sich der Raum, es wurde Zeit zum Schlafengehen.
 
-»Hol jetzt besser den Umhang«, murmelte Ron, als Lee Jordan endlich gähnend und sich streckend hinausging. Harry rannte nach oben in ihr dunkles Schlafzimmer. Er zog den Umhang hervor, und dann fiel sein Blick auf die Flöte, die ihm Hagrid zu Weihnachten geschenkt hatte. Er steckte sie ein für Fluffy - nach Singen war ihm nicht besonders zumute.
+»Hol jetzt besser den Umhang«, murmelte Ron, als Lee Jordan endlich gähnend und sich •streckend hinausging. Harry rannte nach oben in ihr dunkles Schlafzimmer. Er zog den Umhang hervor, und dann fiel sein Blick auf die Flöte, die ihm Hagrid zu Weihnachten geschenkt hatte. Er steckte sie ein für Fluffy - nach Singen war ihm nicht besonders •zumute.
 
 Dann rannte er wieder hinunter in den Gemeinschaftsraum.
 
@@ -6185,7 +6196,7 @@ Dann rannte er wieder hinunter in den Gemeinschaftsraum.
 
 »Was habt ihr vor?«, sagte eine Stimme aus der Ecke.
 
-Neville tauchte hinter einem Sessel auf, mit Trevor in der Hand, die aussah, als hätte sie wieder einmal einen Fluchtversuch unternommen.
+Neville tauchte hinter einem •Sessel auf, mit Trevor in der Hand, die aussah, als hätte sie wieder einmal einen •Fluchtversuch unternommen.
 
 »Nichts, Neville, nichts«, sagte Harry und versteckte hastig den Umhang hinter dem Rücken.
 
@@ -6203,19 +6214,19 @@ Harry warf einen Blick auf die Uhr bei der Tür.
 
 Sie durften jetzt nicht noch mehr Zeit verlieren, vielleicht sang Snape gerade in diesem Moment Fluffy in den Schlaf.
 
-»Ihr könnt nicht rausgehen«, sagte Neville, »sie erwischen euch wieder und Gryffindor kriegt noch mehr Ärger.«
+»Ihr könnt nicht rausgehen«, sagte Neville, »sie erwischen euch wieder und Gryffindor kriegt noch mehr •Ärger.«
 
 »Das verstehst du nicht«, sagte Harry, »es ist wichtig.«
 
-Doch Neville sprach sich offensichtlich gerade eisernen Mut zu, etwas Verzweifeltes zu tun.
+Doch Neville sprach sich offensichtlich gerade •eisernen Mut zu, etwas Verzweifeltes zu tun.
 
 »Ich lass euch nicht gehen«, sagte er und sprang hinüber zum Porträtloch. »Ich - ich kämpfe gegen euch.«
 
 »Neville«, schrie Ron auf, »geh weg von dem Loch und sei kein Idiot.«
 
-»Nenn mich nicht Idiot!«, sagte Neville. »Ich will nicht, dass ihr noch mehr Regeln brecht! Ihr habt mir auch gesagt, ich solle mich gegen die anderen wehren!«
+»Nenn mich nicht Idiot!«, sagte Neville. »Ich will nicht, dass ihr noch mehr Regeln brecht! Ihr habt mir auch gesagt, ich solle mich gegen die anderen •wehren!«
 
-»Ja, aber nicht gegen uns«, sagte Ron erschöpft. »Neville, du weißt nicht, was du tust.«
+»Ja, aber nicht gegen uns«, sagte Ron •erschöpft. »Neville, du weißt nicht, was du tust.«
 
 Er trat einen Schritt vor und Neville ließ Trevor fallen, die mit ein paar Hüpfern verschwand.
 
@@ -6225,11 +6236,13 @@ Harry wandte sich Hermine zu.
 
 »Unternimm was«, sagte er verzweifelt.
 
-Hermine trat vor. »Neville«, sagte sie. »Das tut mir jetzt arg, arg Leid.« 
+Hermine trat vor.
+
+»Neville«, sagte sie. »Das tut mir jetzt •arg, arg Leid.« 
 
 Sie hob den Zauberstab.
 
-»Petrificus Totalus!«, schrie sie, mit ausgestrecktem Arm auf Neville deutend.
+»Petrificus Totalus!«, schrie sie, mit •ausgestrecktem Arm auf Neville deutend.
 
 Nevilles Arme schnappten ihm an die Seiten. Seine Beine klappten zusammen. Mit vollkommen versteinertem Körper schwankte er ein wenig auf der Stelle und fiel dann, steif wie ein Brett, mit dem Gesicht voraus auf den Boden. 
 
@@ -6237,7 +6250,7 @@ Hermine stürzte zu ihm und drehte ihn um.
 
 296
 
-Nevilles Kiefer waren zusammengepresst, so dass er nicht mehr sprechen konnte. Nur seine Augen bewegten sich noch und sahen sie mit dem Ausdruck äußersten Entsetzens an.
+Nevilles •Kiefer waren zusammengepresst, so dass er nicht mehr sprechen konnte. Nur seine Augen bewegten sich noch und sahen sie mit dem Ausdruck äußersten Entsetzens an.
 
 »Was hast du mit ihm gemacht?«, flüsterte Harry.
 
@@ -6245,21 +6258,27 @@ Nevilles Kiefer waren zusammengepresst, so dass er nicht mehr sprechen konnte. N
 
 »Wir mussten es tun, Neville, keine Zeit jetzt, um es zu erklären«, sagte Harry.
 
-»Später wirst du es schon verstehen, Neville«, sagte Ron, als sie über ihn stiegen und sich den Tarnumhang überwarfen. Den versteinerten Neville zurückzulassen kam ihnen nicht als besonders gutes Omen vor.
+»Später wirst du es schon verstehen, Neville«, sagte Ron, als sie über ihn stiegen und sich den Tarnumhang überwarfen. 
 
-Nervös, wie sie waren, sah jede Statue wie Filch aus, klang jeder ferne Windhauch wie Peeves, der auf sie herabsauste. Am Fuß der ersten Treppe bemerkten sie, dass oben, fast am Ende der Treppe, Mrs. Norris lauerte.
+Den versteinerten Neville zurückzulassen kam ihnen nicht als besonders gutes Omen vor.
 
-»Ach, geben wir ihr einen Fußtritt, nur dieses eine Mal«, flüsterte Ron Harry ins Ohr, doch Harry schüttelte den Kopf Sie kletterten vorsichtig um sie herum, und Mrs. Norris richtete ihre Lampenaugen auf sie, rührte sich jedoch nicht vom Fleck.
+Nervös, wie sie waren, sah jede Statue wie Filch aus, klang jeder ferne •Windhauch wie Peeves, der auf sie herabsauste. 
 
-Sie trafen niemanden sonst, bis sie die Treppe erreichten, die hoch zum dritten Stock führte. Peeves hüpfte auf halber Höhe umher und zog den Teppich auf den Stufen locker, um die Darübergehenden ins Stolpern zu bringen.
+Am Fuß der ersten Treppe bemerkten sie, dass oben, fast am Ende der Treppe, Mrs. Norris lauerte.
+
+»Ach, geben wir ihr einen Fußtritt, nur dieses eine Mal«, flüsterte Ron Harry ins Ohr, doch Harry schüttelte den Kopf. 
+
+Sie kletterten vorsichtig um sie herum, und Mrs. Norris richtete ihre Lampenaugen auf sie, rührte sich jedoch nicht vom Fleck.
+
+Sie trafen niemanden sonst, bis sie die Treppe erreichten, die hoch zum dritten Stock führte. Peeves hüpfte auf halber Höhe umher und zog den •Teppich auf den Stufen •locker, um die Darübergehenden ins Stolpern zu bringen.
 
 »Wer da?«, fragte er plötzlich, als sie zu ihm hochstiegen.
 
-Seine gemeinen schwarzen Augen verengten sich.
+Seine •gemeinen schwarzen Augen •verengten sich.
 
-»Ich weiß, ihr seid da, auch wenn ich euch nicht sehen kann. Wer seid ihr, Gespenster oder kleine Schulbiester?«
+»Ich weiß, ihr seid da, auch wenn ich euch nicht sehen kann. Wer seid ihr, •Gespenster oder kleine Schulbiester?«
 
-Er stieg empor und blieb lauernd in der Luft schweben.
+Er stieg empor und blieb •lauernd in der Luft schweben.
 
 »Sollte Filch rufen, sollte ich, wenn etwas Unsichtbares umherschleicht.«
 
@@ -6267,27 +6286,27 @@ Er stieg empor und blieb lauernd in der Luft schweben.
 
 Harry schoss eine Idee durch den Kopf.
 
-»Peeves«, sagte er heiser flüsternd, »der Blutige Baron hat seine Gründe, unsichtbar zu bleiben.«
+»Peeves«, sagte er •heiser flüsternd, »der Blutige Baron hat seine Gründe, unsichtbar zu bleiben.«
 
 Peeves fiel vor Schreck fast aus der Luft. Er konnte sich gerade noch rechtzeitig abfangen und blieb einen Meter über der Treppe hängen.
 
-»Verzeihung vielmals, Eure Blutigkeit, Herr Baron, Sir«, sagte er schleimig. »Meine Schuld, ganz meine Schuld – ich hab Sie nicht gesehen – natürlich nicht, Sie sind unsichtbar verzeihen Sie dem alten Peeves diesen kleinen Scherz, Sir.« 
+»•Verzeihung •vielmals, Eure Blutigkeit, Herr Baron, Sir«, sagte er •schleimig. »Meine Schuld, ganz meine Schuld – ich hab Sie nicht gesehen – natürlich nicht, Sie sind unsichtbar. •Verzeihen Sie dem alten Peeves diesen kleinen •Scherz, Sir.« 
 
 »Ich bin geschäftlich hier, Peeves«, krächzte Harry. »Bleiben Sie heute Nacht von hier fern.«
 
-»Das werde ich, Sir, das werde ich ganz gewiss tun«, sagte Peeves und stieg wieder in die Lüfte. »Hoffe, die Geschäfte gehen gut, Herr Baron, ich werde Sie nicht belästigen.«
+»Das werde ich, Sir, das werde ich ganz gewiss tun«, sagte Peeves und stieg wieder in die Lüfte. »Hoffe, die •Geschäfte gehen gut, Herr Baron, ich werde Sie nicht •belästigen.«
 
 Und er schoss davon.
 
 »Genial, Harry!«, flüsterte Ron.
 
-Ein paar Sekunden später standen sie draußen vor dem Korridor im dritten Stock - und die Tür war nur angelehnt.
+Ein paar Sekunden später standen sie draußen vor dem Korridor im dritten Stock - und die Tür war nur •angelehnt.
 
-»Schöne Bescherung«, sagte Harry leise. »Snape ist schon an Fluffy vorbei.«
+»Schöne •Bescherung«, sagte Harry leise. »Snape ist schon an Fluffy vorbei.«
 
 Die offene Tür schien allen dreien eindringlich zu sagen, was sie erwartete. Unter dem Umhang wandte sich Harry an die beiden andern.
 
-»Wenn ihr jetzt zurückwollt, mach ich euch keinen Vorwurf«, sagte er. »Ihr könnt den Umhang nehmen, ich brauche ihn jetzt nicht mehr.«
+»Wenn ihr jetzt zurückwollt, mach ich euch keinen •Vorwurf«, sagte er. »Ihr könnt den Umhang nehmen, ich brauche ihn jetzt nicht mehr.«
 
 »Red keinen Stuss«, sagte Ron.
 
@@ -6295,7 +6314,7 @@ Die offene Tür schien allen dreien eindringlich zu sagen, was sie erwartete. Un
 
 298
 
-Die Tür knarrte und ein tiefes, grollendes Knurren drang an ihre Ohren. Wie im Wahn schnüffelte der Hund mit allen drei Schnauzen nach ihnen, auch wenn er sie nicht sehen konnte.
+Die Tür knarrte und ein tiefes, grollendes Knurren drang an ihre Ohren. Wie im •Wahn schnüffelte der Hund mit allen drei Schnauzen nach ihnen, auch wenn er sie nicht sehen konnte.
 
 »Was liegt da zwischen seinen Beinen?«, flüsterte Hermine.
 
@@ -6303,13 +6322,15 @@ Die Tür knarrte und ein tiefes, grollendes Knurren drang an ihre Ohren. Wie im 
 
 »Er wacht sicher auf, sobald man aufhört zu spielen«, sagte Harry. »Nun, dann mal los ...«
 
-Er setzte Hagrids Flöte an die Lippen und blies hinein. Es war keine richtige Melodie, doch kaum hatte er einen Ton hervorgebracht, kroch schon die Müdigkeit in die Augen des Untiers. Harry wagte kaum Luft zu holen. Allmählich wurde das Knurren des Hundes schwächer - er torkelte und tapste ein wenig mit den Pfoten, fiel auf die Knie, plumpste dann vollends zu Boden und versank in tiefen Schlaf.
+Er setzte Hagrids Flöte an die Lippen und blies hinein. Es war keine richtige Melodie, doch kaum hatte er einen Ton hervorgebracht, kroch schon die •Müdigkeit in die Augen des •Untiers. 
 
-»Spiel weiter«, ermahnte Ron Harry, als sie aus dem Mantel schlüpften und zur Falltür krochen.
+Harry wagte kaum Luft zu holen. Allmählich wurde das Knurren des Hundes schwächer - er •torkelte und •tapste ein wenig mit den Pfoten, fiel auf die Knie, plumpste dann vollends zu Boden und versank in tiefen Schlaf.
+
+»Spiel weiter«, •ermahnte Ron Harry, als sie aus dem Mantel schlüpften und zur Falltür krochen.
 
 Sie näherten sich den riesigen Köpfen und spürten den heißen, stinkenden Atem des Hundes.
 
-»Ich glaube, wir können die Tür hochklappen«, sagte Ron und spähte über den Rücken des Tiers. »Willst du zuerst gehen, Hermine?«
+»Ich glaube, wir können die Tür hochklappen«, sagte Ron und •spähte über den Rücken des Tiers. »Willst du zuerst gehen, Hermine?«
 
 »Nein, will ich nicht!«
 
@@ -6319,7 +6340,7 @@ Ron biss die Zähne zusammen und stapfte vorsichtig über die Beine des Hundes. 
 
 »Was siehst du?«, fragte Hermine neugierig.
 
-»Nichts - alles dunkel - hinunterklettern können wir nicht, es bleibt uns nichts übrig, als zu springen.«
+»Nichts - alles dunkel - hinunterklettern können wir nicht, es bleibt uns nichts •übrig, als zu springen.«
 
 Harry, der noch immer Flöte spielte, winkte Ron und deutete auf sich.
 
@@ -6329,47 +6350,53 @@ Harry, der noch immer Flöte spielte, winkte Ron und deutete auf sich.
 
 Harry gab ihr die Flöte. Während der wenigen Sekunden der Stille knurrte und zuckte der Hund, doch in dem Augenblick, da Hermine zu spielen begann, fiel er wieder in tiefen Schlaf.
 
-Harry stieg über ihn hinweg und blickte durch die Öffnung der Falltür. Er sah in bodenlose Schwärze. Er stieg durch die Luke, bis er nur noch an den Fingerspitzen baumelte. Dann sah er hoch zu Ron und sagte: 
+Harry stieg über ihn hinweg und blickte durch die Öffnung der Falltür. Er sah in bodenlose Schwärze. Er stieg durch die •Luke, bis er nur noch an den Fingerspitzen •baumelte. Dann sah er hoch zu Ron und sagte: 
 
 »Wenn mir etwas passiert, kommt nicht hinterher. Geht gleich in die Eulerei und schickt Hedwig zu Dumbledore, ja?«
 
 »Gut«, sagte Ron. »Wir sehen uns gleich, hoffentlich ...«
 
-Und Harry ließ sich fallen. Kalte, feuchte Luft rauschte an ihm vorbei, und er fiel immer weiter, weiter und FLUMMPPH. Mit einem merkwürdig dumpfen Aufschlag landete er auf etwas Weichem. Er setzte sich auf; seine Augen hatten sich noch nicht an die Dunkelheit gewöhnt, und so ertastete er mit den Händen seine Umgebung. Es fühlte sich an, als würde er auf einer Art Pflanze sitzen.
+Und Harry ließ sich fallen. Kalte, feuchte Luft rauschte an ihm vorbei, und er fiel immer weiter, weiter und FLUMMPPH. Mit einem merkwürdig dumpfen Aufschlag landete er auf etwas Weichem. 
+
+Er setzte sich auf; seine Augen hatten sich noch nicht an die Dunkelheit gewöhnt, und so •ertastete er mit den Händen seine •Umgebung. Es fühlte sich an, als würde er auf einer Art Pflanze sitzen.
 
 »Alles in Ordnung!«, rief er nach oben zu dem Lichtfleck der offenen Luke, die jetzt so groß wirkte wie eine Briefmarke. »Ich bin weich gelandet, ihr könnt springen!«
 
 Ron folgte ihm ohne Zögern. Er landete auf allen vieren neben Harry.
 
-»Was ist das für ein Zeug?«, waren seine ersten Worte. »Weiß nicht, eine Art Pflanze. Ich glaube, sie soll den Sturz abfedern. Komm runter, Hermine!«
+»Was ist das für ein Zeug?«, waren seine ersten Worte.
+
+»Weiß nicht, eine Art Pflanze. Ich glaube, sie soll den •Sturz •abfedern. Komm runter, Hermine!«
 
 Die ferne Musik verstummte. Der Hund gab einen lauten Kläffer von sich, doch Hermine war schon gesprungen.
 
 300
 
- Sie landete auf Harrys anderer Seite.
+Sie landete auf Harrys anderer Seite.
  
- »Wir müssen Meilen unter der Schule sein«, sagte sie. »Ein Glück, dass diese komische Pflanze hier ist«, sagte Ron.
+»Wir müssen Meilen unter der Schule sein«, sagte sie. »Ein Glück, dass diese komische Pflanze hier ist«, sagte Ron.
  
 »Glück?«, kreischte Hermine. »Schaut euch nur an!«
  
-Sie sprang auf und stakste mühsam zu einer feuchten Wand hinüber. Sie musste alle Kraft aufwenden, denn kaum dass sie gelandet war, hatte die Pflanze begonnen, Ranken wie Schlangen um ihre Fußknöchel zu winden.
+Sie sprang auf und •stakste mühsam zu einer •feuchten Wand hinüber.
 
-Und ohne dass sie es gemerkt hatten, waren Harrys und Rons Beine schon fest mit langen Kletten verschnürt. Hermine hatte es geschafft, sich zu befreien, bevor die Pflanz e sich an ihr festgesetzt hatte.
+Sie musste alle Kraft •aufwenden, denn kaum dass sie gelandet war, hatte die Pflanze begonnen, •Ranken wie Schlangen um ihre •Fußknöchel zu winden. Und ohne dass sie es gemerkt hatten, waren Harrys und Rons Beine schon fest mit langen •Kletten •verschnürt.
 
-Nun sah sie entsetzt zu, wie die beiden jungen verzweifelt versuchten die Schlingen von sich abzureißen, doch je mehr sie sich sträubten, desto fester und schneller wand sich die Pflanze um sie.
+Hermine hatte es geschafft, sich zu befreien, bevor die Pflanze sich an ihr festgesetzt hatte.
+
+Nun sah sie entsetzt zu, wie die beiden jungen verzweifelt versuchten die Schlingen von sich abzureißen, doch je mehr sie sich •sträubten, desto fester und schneller wand sich die Pflanze um sie.
 
 »Haltet still!«, befahl ihnen Hermine. »Ich weiß, was das ist es ist eine Teufelsschlinge!«  
 
-»Oh, gut, dass ich weiß, wie das, was mich umbringt, heißt, das ist eine große Hilfe«' fauchte Ron und beugte sich nach hinten, damit die Pflanze sich nicht um seinen Hals schlingen konnte. 
+»Oh, gut, dass ich weiß, wie das, was mich umbringt, heißt, das ist eine große Hilfe,« fauchte Ron und beugte sich nach hinten, damit die Pflanze sich nicht um seinen Hals schlingen konnte. 
 
-»Sei still, ich versuch mich zu erinnern, wie man sie verscheuchen kann!«, sagte Hermine.
+»Sei still, ich versuch mich zu erinnern, wie man sie •verscheuchen kann!«, sagte Hermine.
 
-»Na dann beeil dich, ich ersticke!«, würgte Harry hervor, der mit den Schlingen um seine Brust kämpfte.
+»Na dann beeil dich, ich ersticke!«, •würgte Harry hervor, der mit den Schlingen um seine Brust kämpfte.
 
 »Teufelsschlinge, Teufelsschlinge ... Was hat Professor Sprout gesagt? - Sie mag das Dunkle und Feuchte -« 
 
-»Dann mach Feuer!«, ächzte Harry.
+»Dann mach Feuer!«, •ächzte Harry.
 
 »Ja - natürlich - aber hier gibt es kein Holz!«, schrie Hermine händeringend.
 
@@ -6377,7 +6404,9 @@ Nun sah sie entsetzt zu, wie die beiden jungen verzweifelt versuchten die Schlin
 
 »BIST DU VERRÜCKT GEWORDEN?«, brüllt Ron. »BIST DU NUN EINE HEXE ODER NICHT?«  
 
-»Ach ja!«, sagte Hermine und riss ihren Zauberstab hervor, schwang ihn, murmelte etwas und schickte einen Strom der gleichen bläulichen Flämmchen gegen die Pflanze, mit denen sie schon Snape angekokelt hatte. Nach wenigen Augenblicken spürten die jungen, dass die Schlingen sich lockerten und die Pflanze vor dem Licht und der Hitze auswich.
+»Ach ja!«, sagte Hermine und riss ihren Zauberstab hervor, schwang ihn, murmelte etwas und schickte einen Strom der gleichen •bläulichen Flämmchen gegen die Pflanze, mit denen sie schon Snape angekokelt hatte. 
+
+Nach wenigen Augenblicken spürten die jungen, dass die Schlingen sich lockerten und die Pflanze vor dem Licht und der •Hitze •auswich.
 
 Zitternd und mit den Schlingen schlagend löste sie sich von Harry und Ron und sie konnten die Pflanze schließlich vollends abschütteln. 
 
@@ -6387,9 +6416,11 @@ Zitternd und mit den Schlingen schlagend löste sie sich von Harry und Ron und s
 
 »Da lang«, sagte Harry und deutete auf den einzigen Weg, der sich bot, einen steinernen Gang.
 
-Alles, was sie außer ihren Schritten hören konnten, war ein sanftes Rieseln von Wasser, das die Wände herablief.
+Alles, was sie außer ihren Schritten hören konnten, war ein sanftes •Rieseln von Wasser, das die Wände herablief.
 
-Der Gang neigte sich in die Tiefe und Harry musste an Gringotts denken. Mit plötzlichem, schmerzhaftem Herzpochen fiel ihm ein, dass angeblich Drachen die Verliese in der Zaubererbank bewachten.
+Der Gang •neigte sich in die Tiefe und Harry musste an Gringotts denken.
+
+Mit plötzlichem, schmerzhaftem Herzpochen fiel ihm ein, dass •angeblich Drachen die Verliese in der Zaubererbank bewachten.
 
 Wenn sie nun auf einen Drachen stießen, auf einen ausgewachsenen Drachen -Norbert war schon schlimm genug gewesen ...
 
@@ -6405,19 +6436,27 @@ Harry lauschte. Von oben schien ein leises Rascheln und Klimpern zu kommen.
 
 302
 
-Sie erreichten das Ende des Ganges und sahen vor sich eine strahlend hell erleuchtete Gruft, deren Decke sich hoch über ihnen wölbte. Sie war voller kleiner, diamantheller Vögel, die im ganzen Raum umherflatterten und herumhüpften. Auf der anderen Seite der Gruft war eine schwere Holztür.
+Sie erreichten das Ende des Ganges und sahen vor sich eine strahlend hell erleuchtete •Gruft, deren Decke sich hoch über ihnen •wölbte.
+
+Sie war voller kleiner, diamantheller Vögel, die im ganzen Raum umherflatterten und herumhüpften. 
+
+Auf der anderen Seite der Gruft war eine schwere Holztür.
 
 »Glaubst du, sie greifen uns an, wenn wir durchgehen?«, sagte Ron.
 
-»Wahrscheinlich«, sagte Harry. »Sie sehen zwar nicht gerade bösartig aus, aber ich glaube, wenn sie alle auf einmal auf uns losgehen ... Nun, es bleibt uns nichts anderes übrig ... Ich renne hinüber.«
+»Wahrscheinlich«, sagte Harry. »Sie sehen zwar nicht gerade •bösartig aus, aber ich glaube, wenn sie alle auf einmal auf uns losgehen ... Nun, es bleibt uns nichts anderes übrig ... Ich renne hinüber.«
 
-Er holte tief Luft, bedeckte das Gesicht mit den Armen und stürmte durch die Gruft. Er rechnete jede Sekunde damit, dass sich die Vögel mit scharfen Schnäbeln und Klauen auf ihn stürzten, doch nichts geschah. Harry erreichte die Tür, ohne dass sie sich um ihn kümmerten. Er drückte die Klinke, doch die Tür war verschlossen.
+Er holte tief Luft, bedeckte das Gesicht mit den Armen und stürmte durch die Gruft. Er rechnete jede Sekunde damit, dass sich die Vögel mit scharfen Schnäbeln und Klauen auf ihn stürzten, doch nichts geschah.
+
+Harry erreichte die Tür, ohne dass sie sich um ihn kümmerten. Er drückte die Klinke, doch die Tür war verschlossen.
 
 Die beiden anderen folgten ihm. Sie zogen und rüttelten an der Tür, doch sie gab nicht um Haaresbreite nach, nicht einmal, als es Hermine mit ihrem Alohomora-Spruch probierte.
 
 »Was nun?«, sagte Ron.
 
-»Diese Vögel ... sie können nicht einfach zum Anschauen hier sein«, sagte Hermine. Sie betrachteten die Vögel, die funkelnd über ihren Köpfen umherschwirrten -funkelnd?
+»Diese Vögel ... sie können nicht einfach zum Anschauen hier sein«, sagte Hermine. 
+
+Sie betrachteten die Vögel, die funkelnd über ihren Köpfen umherschwirrten -funkelnd?
 
 »Das sind keine Vögel!«, sagte Harry plötzlich, »das sind Schlüssel! Geflügelte Schlüssel, seht genau hin. Das muss also heißen ...«
 
@@ -6433,13 +6472,21 @@ Ron untersuchte das Türschloss.
 
 »Wir suchen nach einem großen, altmodischen Schlüssel vermutlich silbern, wie die Klinke.«
 
-Sie packten jeder einen Besen, stießen sich hoch in die Luft und fegten inmitten der Wolke aus Schlüsseln herum. Sie grabschten und pickten nach ihnen, doch die verhexten Schlüssel schossen pfeilschnell davon oder tauchten weg, so dass es unmöglich schien, einen zu fangen. Nicht umsonst jedoch war Harry der jüngste Sucher seit einem Jahrhundert. Er hatte ein Talent dafür, Dinge zu sehen, die anderen verborgen blieben. Eine Welle wedelte er durch den Wirbel der Regenbogenfedern, dann fiel ihm ein großer silberner Schlüssel mit einem geknickten Flügel auf. Er sah aus, als hätte ihn schon jemand gepackt und grob ins Schlüsselloch gesteckt.
+Sie packten jeder einen Besen, stießen sich hoch in die Luft und fegten inmitten der Wolke aus Schlüsseln herum.
 
-»Der dort!«, rief er den andern zu. »Dieser große - dort nein, dort - mit himmelblauen Flügeln - auf der einen Seite ist er ganz zerzaust.«
+Sie grabschten und pickten nach ihnen, doch die verhexten Schlüssel schossen pfeilschnell davon oder tauchten weg, so dass es unmöglich schien, einen zu fangen.
+
+Nicht umsonst jedoch war Harry der jüngste Sucher seit einem Jahrhundert. Er hatte ein Talent dafür, Dinge zu sehen, die anderen •verborgen blieben.
+
+Eine •Welle •wedelte er durch den •Wirbel der •Regenbogenfedern, dann fiel ihm ein großer silberner Schlüssel mit einem •geknickten Flügel auf.
+
+Er sah aus, als hätte ihn schon jemand gepackt und •grob ins Schlüsselloch gesteckt.
+
+»Der dort!«, rief er den andern zu. »Dieser große - dort nein, dort - mit •himmelblauen Flügeln - auf der einen Seite ist er ganz •zerzaust.«
 
 Ron sauste in die Richtung, in die Harry deutete, krachte gegen die Decke und fiel fast von seinem Besen.
 
-»Wir müssen ihn einkreisen!«, rief Harry, ohne den Schlüssel mit dem beschädigten Flügel aus den Augen zu lassen. »Ron, du kommst von oben - Hermine, du bleibst unten, falls er abtaucht und ich versuche ihn zu fangen. Los, JETZT!« 
+»Wir müssen ihn einkreisen!«, rief Harry, ohne den Schlüssel mit dem •beschädigten Flügel aus den Augen zu lassen. »Ron, du kommst von oben - Hermine, du bleibst unten, falls er abtaucht und ich versuche ihn zu fangen. Los, JETZT!« 
 
 Ron kam im Sturzflug heruntergeschossen, Hermine raste steil nach oben wie eine Rakete; der Schlüssel wich beiden aus. Harry raste ihm hinterher, der Wand entgegen, er beugte sich weit vor und presste den Schlüssel mit der Hand gegen die Wand. Es gab ein hässliches Knirschen.
 
@@ -6451,7 +6498,11 @@ Er rammte ihn in das Schloss, drehte ihn um - und es klickte. Kaum hatte sich da
 
 »Seid ihr bereit?«, fragte Harry die anderen beiden, die Hand auf der Türklinke.
 
-Sie nickten. Er öffnete die Tür. Die nächste Gruft war so dunkel, dass sie überhaupt nichts sehen konnten. Doch als sie einen Schritt hineintaten, flutete Licht durch den Raum, und ihnen bot sich ein verblüffender Anblick. Sie standen am Rande eines riesigen Schachbretts, im Rücken der schwarzen Schachfiguren, allesamt größer als sie und offenbar aus einer Art schwarzem Stein gemeißelt. Ihnen gegenüber, auf der anderen Seite der Gruft, standen die weißen Figuren.
+Sie nickten. Er öffnete die Tür. 
+
+Die nächste Gruft war so dunkel, dass sie überhaupt nichts sehen konnten. Doch als sie einen Schritt hineintaten, flutete Licht durch den Raum, und ihnen bot sich ein •verblüffender Anblick.
+
+Sie standen am Rande eines riesigen Schachbretts, im Rücken der schwarzen Schachfiguren, allesamt größer als sie und offenbar aus einer Art schwarzem Stein gemeißelt. Ihnen gegenüber, auf der anderen Seite der Gruft, standen die weißen Figuren.
 
 Harry, Ron und Hermine erschauderten - die riesigen weißen Figuren hatten keine Gesichter.
 
@@ -6467,7 +6518,7 @@ Hinter den weißen Figuren konnten sie eine weitere Tür sehen.
 
 Er ging vor zu einem schwarzen Springer, streckte die Hand aus und berührte ihn. 
 
-Sofort erwachte der Stein zum Leben. Das Pferd scharrte und der Ritter wandte seinen behelmten Kopf zu Ron hinunter.
+Sofort erwachte der Stein zum Leben. Das Pferd •scharrte und der •Ritter wandte seinen behelmten Kopf zu Ron hinunter.
 
 »Müssen wir - ähm - mit euch kämpfen, um hinüberzukommen?«
 
@@ -6477,13 +6528,13 @@ Der schwarze Ritter nickte. Ron drehte sich zu den andern um.
 
 »Lasst mich mal nachdenken ...«, sagte er. »Ich denke, wir müssen die Plätze von drei der Schwarzen einnehmen ...«
 
-Harry und Hermine sahen schweigend zu, wie Ron nachdachte. Schließlich sagte er:
+Harry und Hermine sahen •schweigend zu, wie Ron nachdachte. Schließlich sagte er:
 
-»Hört mal, seid nicht beleidigt, aber keiner von euch beiden ist besonders gut im Schach.«
+»Hört mal, seid nicht •beleidigt, aber keiner von euch beiden ist besonders gut im Schach.«
 
 »Wir sind nicht beleidigt«, sagte Harry rasch. »Sag uns einfach, was wir tun sollen.«
 
-»Gut. Harry, du nimmst den Platz dieses Läufers ein, und Hermine, du stellst dich neben ihn an die Stelle dieses Turms.«
+»Gut. Harry, du nimmst den Platz dieses •Läufers ein, und Hermine, du stellst dich neben ihn an die Stelle dieses •Turms.«
 
 »Was ist mit dir?«
 
@@ -6491,25 +6542,29 @@ Harry und Hermine sahen schweigend zu, wie Ron nachdachte. Schließlich sagte er
 
 Die Schachfiguren hatten offenbar zugehört, denn in diesem Augenblick kehrten ein Springer, ein Läufer und ein Turm den weißen Figuren den Rücken und schritten vom Platz. Sie ließen drei leere Quadrate zurück, auf denen Harry, Ron und Hermine ihre Plätze einnahmen.
 
-»Weiß zieht im Schach immer zuerst«, sagte Ron und spähte über das Brett. »Ja ... schaut ...«
+»Weiß •zieht im Schach immer zuerst«, sagte Ron und spähte über das Brett. »Ja ... schaut ...«
 
-Ein weißer Bauer war zwei Felder vorgerückt. Ron begann die schwarzen Figuren zu führen. Wo immer er sie hinschickte, sie rückten schweigend auf ihre Plätze. Harry zitterten die Knie. Was, wenn sie verloren?
+Ein weißer •Bauer war zwei Felder vorgerückt. Ron begann die schwarzen Figuren zu •führen. Wo immer er sie •hinschickte, sie •rückten schweigend auf ihre Plätze. 
 
-»Harry, rück vier Felder schräg nach rechts.«
+Harry zitterten die Knie. Was, wenn sie verloren?
+
+»Harry, rück vier Felder •schräg nach rechts.«
 
 Richtig mit der Angst zu tun bekamen sie es erst, als der andere Springer geschlagen wurde. Die weiße Dame schlug ihn zu Boden und schleifte ihn vom Brett, wo er mit dem Gesicht nach unten bewegungslos liegen blieb. 
 
 »Ich musste das zulassen«, sagte Ron erschüttert. »Deshalb kannst du jetzt diesen Läufer schlagen, Hermine, geh los.«
 
-Wenn die Weißen eine ihrer Figuren schlagen konnten, zeigten sie niemals Gnade.
+Wenn die Weißen eine ihrer Figuren schlagen konnten, zeigten sie niemals •Gnade.
 
 306
 
-Nach kurzer Zeit lagen haufenweise übereinander gekrümmte schwarze Spieler entlang der Wand. Zweimal bemerkte Ron gerade noch rechtzeitig, dass Harry und Hermine in Gefahr waren. Er selbst jagte auf dem Brett umher und schlug fast so viele weiße Figuren, wie sie schwarze verloren hatten.
+Nach kurzer Zeit lagen haufenweise übereinander gekrümmte schwarze Spieler entlang der Wand. 
+
+Zweimal bemerkte Ron gerade noch rechtzeitig, dass Harry und Hermine in Gefahr waren. Er selbst jagte auf dem Brett umher und schlug fast so viele weiße Figuren, wie sie schwarze verloren hatten.
 
 »Wir haben es gleich geschafft,« murmelte er plötzlich. »Lasst mich nachdenken ... lasst mich nachdenken ...«  
 
-Die weiße Königin wandte ihm ihr leeres Gesicht zu. 
+Die weiße •Königin wandte ihm ihr leeres Gesicht zu. 
 
 »Ja ...«, sagte Ron leise, »das ist die einzige Chance ... Ich muss geschlagen werden.«
 
@@ -6529,15 +6584,15 @@ Darauf gab es nichts mehr zu sagen.
 
 »Fertig?«, rief Ron mit blassem Gesicht, aber entschlossen.
 
-»Ich springe, und trödelt nicht, wenn ihr gewonnen habt.«
+»Ich springe, und •trödelt nicht, wenn ihr gewonnen habt.«
 
-Er sprang vor und die weiße Dame stürzte sich auf ihn. Mit ihrem steinernen Arm schlug sie Ron heftig gegen den Kopf und er brach auf dem Boden zusammen. Hermine schrie, blieb aber auf ihrem Feld. Die weiße Dame schleifte Ron zur Seite. Offenbar hatte sie ihn bewusstlos geschlagen.
+Er sprang vor und die weiße Dame stürzte sich auf ihn. Mit ihrem steinernen Arm schlug sie Ron heftig gegen den Kopf und er brach auf dem Boden zusammen. Hermine schrie, blieb aber auf ihrem Feld. Die weiße Dame schleifte Ron zur Seite. Offenbar hatte sie ihn •bewusstlos geschlagen.
 
 Harry ging mit zitternden Knien drei Felder nach links. Der weiße König nahm seine Krone ab und warf sie Harry zu Füßen.
 
 307
 
-Sie hatten gewonnen. Die Schachfiguren verbeugten sich zum Abschied und gaben die Tür auf ihrer Seite frei. Mit einem letzten verzweifelten Blick zurück auf Ron stürmten Harry und Hermine durch die Tür und rannten den nächsten Gang entlang. 
+Sie hatten gewonnen. Die Schachfiguren verbeugten sich zum •Abschied und gaben die Tür auf ihrer Seite frei. Mit einem letzten •verzweifelten Blick zurück auf Ron stürmten Harry und Hermine durch die Tür und rannten den nächsten Gang entlang. 
 
 »Was, wenn er -?«
 
@@ -6547,23 +6602,27 @@ Sie hatten gewonnen. Die Schachfiguren verbeugten sich zum Abschied und gaben di
 
 Sie waren an eine weitere Tür gelangt.
 
-»Einverstanden?«, flüsterte Harry.
+»•Einverstanden?«, flüsterte Harry.
 
 »Mach schon.«
 
-Harry stieß die Tür auf Ei widerlicher Gestank schlug ihnen entgegen und beide hielten sich den Umhang vor die Nase. Mit tränenden Augen sahen sie einen Troll, alle viere von sich gestreckt und mit einer blutigen Wunde am Kopf, auf dem Boden liegen, noch größer sogar als der, mit dem sie es schon aufgenommen hatten.
+Harry stieß die Tür auf ei widerlicher Gestank schlug ihnen entgegen und beide hielten sich den Umhang vor die Nase. 
 
-»Ich bin heilfroh, dass wir uns den sparen können«, flüsterte Harry, als sie vorsichtig über eines seiner massigen Beine stapften.
+Mit tränenden Augen sahen sie einen Troll, alle viere von sich gestreckt und mit einer blutigen Wunde am Kopf, auf dem Boden liegen, noch größer sogar als der, mit dem sie es schon aufgenommen hatten.
+
+»Ich bin •heilfroh, dass wir uns den sparen können«, flüsterte Harry, als sie vorsichtig über eines seiner massigen Beine stapften.
 
 »Komm weiter, mir verschlägt es den Atem.«
 
-Er öffnete die nächste Tür, und beide wagten kaum hinzusehen, was wohl als Nächstes kommen würde. Doch hier drin war nichts besonders Furcht erregend, nur ein Tisch mit sieben aneinander gereihten Flaschen, die alle unterschiedliche Gestalt hatten.
+Er öffnete die nächste Tür, und beide wagten kaum hinzusehen, was wohl als Nächstes kommen würde. 
+
+Doch hier drin war nichts besonders Furcht •erregend, nur ein Tisch mit sieben aneinander gereihten Flaschen, die alle unterschiedliche Gestalt hatten.
 
 308
 
 »Snapes Zauber«, sagte Harry. »Was müssen wir tun?«
 
-Kaum waren sie über die Schwelle getreten, loderte hinter ihnen im Türrahmen ein Feuer hoch. Es war kein gewöhnliches Feuer: Es war purpurrot.
+Kaum waren sie über die •Schwelle getreten, loderte hinter ihnen im •Türrahmen ein Feuer hoch. Es war kein gewöhnliches Feuer: Es war purpurrot.
 
 Im gleichen Augenblick schossen schwarze Flammen im Türbogen gegenüber auf Sie saßen in der Falle.
 
@@ -6576,7 +6635,7 @@ Die Gefahr liegt vor euch, die Rettung zurück, Zwei von uns helfen, bei denen h
 
 Hermine seufzte laut auf und Harry sah verblüfft, dass sie lächelte, das Letzte, wonach ihm zumute war.
 
-»Ausgezeichnet«, sagte Hermine. »Das ist nicht Zauberei, das ist Logik, ein Rätsel. Viele von den größten Zauberern haben keine Unze Logik im Kopf, die säßen hier für immer in der Falle.«
+»•Ausgezeichnet«, sagte Hermine. »Das ist nicht Zauberei, das ist Logik, ein Rätsel. Viele von den größten Zauberern haben keine Unze Logik im Kopf, die säßen hier für immer in der Falle.«
 
 »Aber wir doch auch, oder?«
 
@@ -6586,7 +6645,7 @@ Hermine seufzte laut auf und Harry sah verblüfft, dass sie lächelte, das Letzt
 
 »Gib mir eine Minute Zeit.«
 
-Hermine las das Papier mehrmals durch. Dann ging sie vor den Flaschen auf und ab, vor sich hin murmelnd und auf sie deutend. Schließlich klatschte sie in die Hände.
+hermine las das Papier mehrmals durch. Dann ging sie vor den Flaschen auf und ab, vor sich hin murmelnd und auf sie deutend. Schließlich klatschte sie in die Hände.
 
 »Ich hab's«, sagte sie. »Die kleinste Flasche bringt uns durch das schwarze Feuer, zum Stein.«
 
@@ -6598,7 +6657,7 @@ Sie sahen sich an.
 
 »Welche führt zurück durch die Purpurflammen?«
 
-Hermine deutete auf eine bauchige Flasche am einen Ende der Reihe.
+Hermine deutete auf eine •bauchige Flasche am einen Ende der Reihe.
 
 »Die trinkst du«, sagte Harry.
 
@@ -6638,7 +6697,9 @@ Sie nahm einen großen Schluck aus der runden Flasche und erschauderte.
 
 Hermine wandte sich um und ging geradewegs durch das purpurne Feuer. Harry holte tief Luft und nahm die kleinste Flasche in die Hand. Er wandte sich den schwarzen Flammen zu.
 
-»Ich komme«, sagte er und leerte die kleine Flasche mit einem Zug. Es war wirklich wie Eis, das seinen Körper durchströmte. Er stellte die Flasche zurück, nahm all seinen Mut zusammen und machte sich auf; er sah die schwarzen Flammen an seinem Körper hochzüngeln, doch er spürte sie nicht.
+»Ich komme«, sagte er und leerte die kleine Flasche mit einem Zug.
+
+Es war wirklich wie Eis, das seinen Körper durchströmte. Er stellte die Flasche zurück, nahm all seinen Mut zusammen und machte sich auf; er sah die schwarzen Flammen an seinem Körper hochzüngeln, doch er spürte sie nicht.
 
 311
 
@@ -6658,13 +6719,19 @@ Quirrell lächelte. Kein Zucken war mehr in seinem Gesicht.
 
 »Aber ich dachte - Snape -« 
 
-»Severus?« Quirrell lachte und es war nicht sein übliches zittrig schrilles Lachen, es war kalt und scharf. »Ja, Severus scheint der richtige Mann dafür zu sein, nicht wahr? Recht nützlich, dass er umherschwirrt wie eine zu groß geratene Fledermaus. Wer würde neben ihm den a-a-armen st-stotternden P-Professor Quirrell verdächtigen?«
+»Severus?«
+
+Quirrell lachte und es war nicht sein übliches zittrig schrilles Lachen, es war kalt und scharf.
+
+»Ja, Severus scheint der richtige Mann dafür zu sein, nicht wahr? Recht nützlich, dass er umherschwirrt wie eine zu groß geratene Fledermaus.
+
+»Wer würde neben ihm den a-a-armen st-stotternden P-Professor Quirrell •verdächtigen?«
 
 Harry konnte es nicht fassen. Das durfte einfach nicht wahr sein.
 
 »Aber Snape hat versucht mich umzubringen!«
 
-»Nein, nein, nein. Ich habe es getan. Ihre Freundin Miss Granger hat mich versehentlich umgerempelt, als sie beim Quidditch-Spiel zu Snape hinüberrannte, um ihn anzuzünden. Sie hat meinen Blickkontakt zu Ihnen unterbrochen. Ein paar Sekunden mehr und ich hätte sie von diesem Besen heruntergehabt. Ich hätte es schon vorher geschafft, wenn Snape nicht einen Gegenzauber gemurmelt hätte, um Sie zu retten.«
+»Nein, nein, nein. Ich habe es getan. Ihre Freundin Miss Granger hat mich •versehentlich •umgerempelt, als sie beim Quidditch-Spiel zu Snape hinüberrannte, um ihn •anzuzünden. Sie hat meinen Blickkontakt zu Ihnen unterbrochen. Ein paar Sekunden mehr und ich hätte sie von diesem Besen heruntergehabt. Ich hätte es schon vorher geschafft, wenn Snape nicht einen Gegenzauber gemurmelt hätte, um Sie zu retten.«
 
 »Snape hat versucht mich zu retten?«
 
@@ -6672,15 +6739,17 @@ Harry konnte es nicht fassen. Das durfte einfach nicht wahr sein.
 
 313
 
-Er wollte dafür sorgen, dass ich es nicht noch einmal versuche. Wirklich eigenartig ... wenn Dumbledore dabei ist, kann ich ohnehin nichts ausrichten. Alle anderen Lehrer dachten, Snape wolle verhindern, dass Gryffindor gewinnt, und damit hat er sich richtig unbeliebt gemacht ... was für eine Zeitverschwendung, wenn ich Sie heute Nacht schließlich doch umbringe.«
+Er wollte dafür sorgen, dass ich es nicht noch einmal versuche. Wirklich •eigenartig ... wenn Dumbledore dabei ist, kann ich ohnehin nichts •ausrichten.
+
+»Alle anderen Lehrer dachten, Snape wolle verhindern, dass Gryffindor gewinnt, und damit hat er sich richtig •unbeliebt gemacht ... was für eine •Zeitverschwendung, wenn ich Sie heute Nacht schließlich doch umbringe.«
 
 Quirrell schnippte mit den Fingern. Aus der Luft peitschten Seile hervor, die sich fest um Harrys Körper wickelten.
 
-»Ihre Neugier bringt Sie um Kopf und Kragen, Potter. Sie sind an Halloween in der Schule umhergeschlichen und sind auf mich gestoßen. Ich wollte mir ansehen, wie der Stein bewacht ist.«
+»Ihre Neugier bringt Sie um Kopf und Kragen, Potter. Sie sind an Halloween in der Schule •umhergeschlichen und sind auf mich •gestoßen. Ich wollte mir ansehen, wie der Stein bewacht ist.«
 
 »Sie haben den Troll hereingelassen?«
 
-»Gewiss. Ich habe ein glückliches Händchen, wenn es um Trolle geht. Sie haben ja gesehen, was ich mit dem in der Kammer dort hinten angestellt habe. Nun, während alle andern umherliefen und ihn suchten, ging Snape, der mich schon im Verdacht hatte, leider geradewegs in den dritten Stock, um mir den Weg abzuschneiden - und mein Troll hat es nicht nur versäumt, Sie totzuschlagen, dieser dreiköpfige Hund hat es nicht einmal fertig gebracht, Snapes Bein ganz abzubeißen. 
+»Gewiss. Ich habe ein glückliches •Händchen, wenn es um Trolle geht. Sie haben ja gesehen, was ich mit dem in der Kammer dort hinten angestellt habe. Nun, während alle andern •umherliefen und ihn suchten, ging Snape, der mich schon im Verdacht hatte, leider •geradewegs in den dritten Stock, um mir den Weg •abzuschneiden - und mein Troll hat es nicht nur •versäumt, Sie totzuschlagen, dieser dreiköpfige Hund hat es nicht einmal fertig gebracht, Snapes Bein ganz abzubeißen. 
 
 »Und jetzt, Potter, warten Sie hier ganz ruhig. Ich muss mir diesen interessanten Spiegel näher ansehen.«
 
@@ -6688,44 +6757,53 @@ Erst jetzt erkannte Harry, was hinter Quirrell stand. Es war der Spiegel Nerhege
 
 »Dieser Spiegel ist der Schlüssel zum Stein«, murmelte Quirrell und klopfte suchend am Rahmen entlang. »Typisch Dumbledore, sich so etwas einfallen zu lassen ... aber er ist in London.. bis er zurückkommt, bin ich längst über alle Berge ...«
 
-
 314
 
-Harrys Gedanken drehten sich einzig darum, wie er Quirrell am Sprechen halten und ihn vom Spiegel ablenken konnte.
+Harrys Gedanken drehten sich einzig darum, wie er Quirrell am Sprechen halten und ihn vom Spiegel •ablenken konnte.
 
-»Ich habe Sie und Snape im Wald gesehen -«, plapperte er hastig drauflos.
+»Ich habe Sie und Snape im Wald gesehen -«, plapperte er hastig •drauflos.
 
-»Ja«, sagte Quirrell gleichmütig, während er um den Spiegel herumging, um sich die Rückseite anzusehen. »Da war er mir schon auf die Pelle gerückt und wollte wissen, wie weit ich gekommen war. Er hat mich die ganze Zeit über verdächtigt. Hat versucht mich einzuschüchtern - als ob er das könnte, wenn ich Lord Voldemort auf meiner Seite habe.« Quirrell kam hinter dem Spiegel hervor und sah begierig hinein. »Ich sehe den Stein ... Ich überreiche ihn meinem Meister ... aber wo ist er?«
+»Ja«, sagte Quirrell gleichmütig, während er um den Spiegel herumging, um sich die Rückseite anzusehen. »Da war er mir schon auf die •Pelle gerückt und wollte wissen, wie weit ich gekommen war. Er hat mich die ganze Zeit über verdächtigt. Hat versucht mich einzuschüchtern - als ob er das könnte, wenn ich Lord Voldemort auf meiner Seite habe.« 
 
-Harry drückte mit aller Kraft gegen seine Fesseln, doch die Seile gaben nicht nach. Er musste Quirrell davon abhalten, seine ganze Aufmerksamkeit dem Spiegel zu widmen.
+Quirrell kam hinter dem Spiegel hervor und sah begierig hinein.
+
+»Ich sehe den Stein ... Ich •überreiche ihn meinem Meister ... aber wo ist er?«
+
+Harry drückte mit aller Kraft gegen seine •Fesseln, doch die Seile gaben nicht nach. Er musste Quirrell davon abhalten, seine ganze •Aufmerksamkeit dem Spiegel zu •widmen.
 
 »Aber Snape kam mir immer so vor, als würde er mich richtig hassen.«
 
-»Oh, das tut er auch«, sagte Quirrell nebenher, »Himmel, ja. Er und Ihr Vater waren zusammen in Hogwarts, haben Sie das nicht gewusst? Sie haben sich gegenseitig verabscheut. Aber er wollte nie, dass Sie sterben.«
+»Oh, das tut er auch«, sagte Quirrell •nebenher, »Himmel, ja. Er und Ihr Vater waren zusammen in Hogwarts, haben Sie das nicht gewusst? Sie haben sich •gegenseitig verabscheut. Aber er wollte nie, dass Sie sterben.«
 
-»Aber vor ein paar Tagen hab ich Sie schluchzen gehört. Ich dachte, Snape würde Sie bedrohen ...«
+»Aber vor ein paar Tagen hab ich Sie schluchzen gehört. Ich dachte, Snape würde Sie •bedrohen ...«
 
 Zum ersten Mal huschte ein ängstliches Zucken über Quirrells Gesicht.
 
-»Manchmal«, sagte er, »fällt es mir schwer, den Anweisungen meines Meisters zu folgen - er ist ein großer Zauberer und ich bin schwach -« 
+»Manchmal«, sagte er, »fällt es mir schwer, den •Anweisungen meines Meisters zu folgen - er ist ein großer Zauberer und ich bin schwach -« 
 
-»Sie meinen, er war in diesem Klassenzimmer bei Ihnen?«  Harry blieb der Mund offen.
+»Sie meinen, er war in diesem Klassenzimmer bei Ihnen?«  
+
+Harry blieb der Mund offen.
 
 315
 
-»Er ist bei mir, wo immer ich bin«, sagte Quirrell leise. »Ich traf ihn bei meiner Reise um die Welt. Damals war ich noch ein einfältiger junger Mann, mit dem Kopf voll lächerlicher Vorstellungen über Gut und Böse. Lord Voldemort hat mir gezeigt, wie falsch ich dachte. Es gibt kein Gut und Böse, es gibt nur Macht, und jene, die zu schwach sind, um nach ihr zu streben ... Seit damals bin ich sein treuer Diener, auch wenn ich ihn viele Male enttäuscht habe. Er musste sehr streng mit mir sein.«
+»Er ist bei mir, wo immer ich bin«, sagte Quirrell leise. »Ich traf ihn bei meiner Reise um die Welt. Damals war ich noch ein •einfältiger junger Mann, mit dem Kopf voll •lächerlicher •Vorstellungen über Gut und Böse. 
+
+»Lord Voldemort hat mir gezeigt, wie falsch ich dachte. Es gibt kein Gut und Böse, es gibt nur Macht, und jene, die zu schwach sind, um nach ihr zu •streben ... Seit damals bin ich sein treuer •Diener, auch wenn ich ihn viele •Male •enttäuscht habe. Er musste sehr streng mit mir sein.«
 
 Quirrell zitterte plötzlich.
 
-»Fehler vergibt er nicht so einfach. Als es mir nicht gelungen ist, den Stein aus Gringotts zu stehlen, war er äußerst missvergnügt. Er hat mich bestraft ... und beschlossen, mich näher im Auge zu behalten ...«
+»Fehler vergibt er nicht so einfach. Als es mir nicht •gelungen ist, den Stein aus Gringotts zu stehlen, war er äußerst •missvergnügt. Er hat mich bestraft ... und beschlossen, mich näher im Auge zu behalten ...«
 
-Quirrells Stimme verlor sich. Harry fiel der Besuch in der Winkelgasse ein - wie konnte er nur so dusslig gewesen sein? An jenem Tag hatte er Quirrell dort gesehen und ihm im Tropfenden Kessel die Hand geschüttelt. Quirrell fluchte leise vor sich hin.
+Quirrells Stimme verlor sich. Harry fiel der Besuch in der Winkelgasse ein - wie konnte er nur so •dusselig gewesen sein?
+
+An jenem Tag hatte er Quirrell dort gesehen und ihm im Tropfenden Kessel die Hand geschüttelt. Quirrell fluchte leise vor sich hin.
 
 »Ich verstehe nicht ... ist der Stein im Innern des Spiegels? Sollte ich ihn zerschlagen?«
 
-Harry raste der Kopf. Was ich im Augenblick mehr als alles auf der Welt möchte, dachte er, ist, den Stein vor Quirrell zu finden. Wenn ich in den Spiegel schauen würde, müsste ich mich eigentlich dabei sehen, wie ich den Stein finde. Und das heißt, ich wüsste, wo er versteckt ist! Doch wie kann ich hineinsehen, ohne dass Quirrell bemerkt, was ich vorhabe? 
+Harry raste der Kopf. Was ich im Augenblick mehr als alles auf der Welt möchte, dachte er, ist, den Stein vor Quirrell zu finden. Wenn ich in den Spiegel schauen würde, müsste ich mich eigentlich dabei sehen, wie ich den Stein finde. Und das heißt, ich wüsste, wo er versteckt ist! Doch wie kann ich •hineinsehen, ohne dass Quirrell bemerkt, was ich vorhabe? 
 
-Er versuchte sich ein wenig nach links zu bewegen, um vor das Glas zu kommen, ohne Quirrells Aufmerksamkeit zu erregen, doch die Seile waren zu fest um seine Knöchel gespannt: er stolperte und fiel zu Boden.
+Er versuchte sich ein wenig nach links zu bewegen, um vor das Glas zu kommen, ohne Quirrells •Aufmerksamkeit zu •erregen, doch die Seile waren zu fest um seine Knöchel gespannt: er stolperte und fiel zu Boden.
 
 Quirrell achtete nicht auf ihn. Er sprach immer noch mit sich selbst.
 
@@ -6749,15 +6827,19 @@ Harry trat zu ihm.
 
 »Ich muss lügen«, dachte er verzweifelt. »Ich muss hineinsehen und ihn darüber belügen, was ich sehe, das ist alles.«
 
-Quirrell stellte sich dicht hinter ihn. Harry atmete den merkwürdigen Geruch ein, der von Quirrells Turban auszugehen schien. Er schloss die Augen, trat vor den Spiegel und öffnete sie wieder. Er sah zuerst sein Spiegelbild, bleich und verängstigt. Doch einen Augenblick später lächelte ihn das Spiegelbild an. Es schob die Hand in die Tasche und zog einen blutroten Stein hervor. Es zwinkerte ihm zu und ließ den Stein in die Tasche zurückgleiten und in diesem Moment spürte Harry etwas Schweres in seine wirkliche Tasche fallen. Irgendwie - unfasslicherweise - besaß er den Stein.
+Quirrell stellte sich dicht hinter ihn. Harry atmete den merkwürdigen Geruch ein, der von Quirrells Turban auszugehen schien.
 
-»Nun?«, sagte Quirrell ungeduldig. »Was siehst du?«
+Er schloss die Augen, trat vor den Spiegel und öffnete sie wieder. Er sah zuerst sein Spiegelbild, bleich und verängstigt.
+
+Doch einen Augenblick später lächelte ihn das Spiegelbild an. Es schob die Hand in die Tasche und zog einen •blutroten Stein hervor. Es zwinkerte ihm zu und ließ den Stein in die Tasche zurückgleiten und in diesem Moment spürte Harry etwas Schweres in seine wirkliche Tasche fallen. Irgendwie - unfasslicherweise - besaß er den Stein.
+
+»Nun?«, sagte Quirrell •ungeduldig. »Was siehst du?«
 
 Harry nahm all seinen Mut zusammen.
 
-»Ich sehe mich, wie ich Dumbledore die Hand schüttle«, reimte er sich zusammen. »Ich ... ich hab den Hauspokal für Gryffindor gewonnen.«
+»Ich sehe mich, wie ich Dumbledore die Hand schüttle«, •reimte er sich zusammen. »Ich ... ich hab den Hauspokal für Gryffindor gewonnen.«
 
-Quirrell fluchte erneut.
+Quirrell •fluchte erneut.
 
 »Aus dem Weg«, sagte er.
 
@@ -6777,25 +6859,31 @@ Doch er war keine fünf Schritte gegangen, als eine hohe Stimme ertönte, obwohl
 
 »Ich habe genügend Kraft ... dafür ...«
 
-Harry hatte das Gefühl, als würde ihn eine Teufelsschlinge auf dem Boden anwurzeln. Er konnte keinen Muskel bewegen. Versteinert sah er zu, wie Quirrell die Hände hob und seinen Turban abwickelte. Was ging da vor? Der Turban fiel zu Boden. Quirrells Kopf sah seltsam klein aus ohne ihn. Dann drehte er sich langsam auf dem Absatz um. Harry hätte geschrien, aber er brachte keinen Ton hervor. Wo eigentlich Quirrells Hinterkopf hätte sein sollen, war ein Gesicht, das schrecklichste Gesicht, das Harry jemals gesehen hatte. Es war kreideweiß mit stierenden roten Augen und, einer Schlange gleich, Schlitzen als Nasenlöchern.
+Harry hatte das Gefühl, als würde ihn eine Teufelsschlinge auf dem Boden •anwurzeln. Er konnte keinen Muskel bewegen.
+
+Versteinert sah er zu, wie Quirrell die Hände hob und seinen Turban abwickelte. Was ging da vor? Der Turban fiel zu Boden.
+
+Quirrells Kopf sah seltsam klein aus ohne ihn. Dann drehte er sich langsam auf dem •Absatz um.
+
+Harry hätte geschrien, aber er brachte keinen Ton hervor. Wo eigentlich Quirrells Hinterkopf hätte sein sollen, war ein Gesicht, das schrecklichste Gesicht, das Harry jemals gesehen hatte. Es war •kreideweiß mit stierenden roten Augen und, einer Schlange gleich, Schlitzen als Nasenlöchern.
 
 »Harry Potter ...«, flüsterte es.
 
 Harry versuchte einen Schritt zurückzutreten, doch seine Beine wollten ihm nicht gehorchen. 
 
-»Siehst du, was aus mir geworden ist?«, sagte das Gesicht. »Nur noch Schatten und Dunst ... Ich habe nur Gestalt, wenn ich jemandes Körper teile ... aber es gibt immer jene, die willens sind, mich in ihre Herzen und Köpfe einzulassen ... Einhornblut hat mich gestärkt in den letzten Wochen ... du hast den treuen Quirrell gesehen, wie er es im Wald für mich getrunken hat ... und sobald ich das Elixier des Lebens besitze, werde ich mir meinen eigenen Körper erschaffen können ... Nun ... warum gibst du mir nicht diesen Stein in deiner Tasche?«
+»Siehst du, was aus mir geworden ist?«, sagte das Gesicht. »Nur noch Schatten und •Dunst ... Ich habe nur Gestalt, wenn ich jemandes Körper teile ... aber es gibt immer jene, die willens sind, mich in ihre Herzen und Köpfe einzulassen ... Einhornblut hat mich gestärkt in den letzten Wochen ... du hast den •treuen Quirrell gesehen, wie er es im Wald für mich getrunken hat ... und sobald ich das Elixier des Lebens besitze, werde ich mir meinen eigenen Körper erschaffen können ... Nun ... warum gibst du mir nicht diesen Stein in deiner Tasche?«
 
 318
 
 Er wusste es also. Plötzlich strömte das Gefühl in Harrys Beine zurück. Er stolperte rückwärts.
 
-»Sei kein Dummkopf«, schnarrte das Gesicht. »Rette besser dein eigenes Leben und schließ dich mir an ... oder du wirst dasselbe Schicksal wie deine Eltern erleiden ... Sie haben mich um Gnade angefleht, bevor sie gestorben sind ...«
+»Sei kein Dummkopf«, schnarrte das Gesicht. »Rette besser dein eigenes Leben und schließ dich mir an ... oder du wirst dasselbe •Schicksal wie deine Eltern erleiden ... Sie haben mich um Gnade •angefleht, bevor sie gestorben sind ...«
 
 »LÜGNER!«, rief Harry plötzlich.
 
 Quirrell ging rückwärts auf ihn zu, so dass Voldemort ihn im Auge behalten konnte. Das böse Gesicht lächelte jetzt.
 
-»Wie rührend ...«, zischte es. »Ich weiß Tapferkeit immer zu schätzen ... Ja, Junge, deine Eltern waren tapfer ... Ich habe deinen Vater zuerst getötet und er hat mir einen mutigen Kampf geliefert ... aber deine Mutter hätte nicht sterben müssen ... sie hat versucht dich zu schützen ... Gib mir jetzt den Stein, wenn du nicht willst, dass sie umsonst gestorben ist.«
+»Wie •rührend ...«, zischte es. »Ich weiß •Tapferkeit immer zu schätzen ... Ja, Junge, deine Eltern waren •tapfer ... Ich habe deinen Vater zuerst getötet und er hat mir einen mutigen Kampf geliefert ... aber deine Mutter hätte nicht sterben müssen ... sie hat versucht dich zu schützen ... Gib mir jetzt den Stein, wenn du nicht willst, dass sie umsonst gestorben ist.«
 
 »NIEMALS!«
 
