@@ -6944,7 +6944,7 @@ Harry lag da und wusste nicht, was er darauf sagen sollte. Dumbledore summte ein
 
 »Ja, Sir. Nun, Voldemort wird versuchen auf anderem Wege zurückzukommen. Ich meine, er ist nicht für immer auf und davon, oder?«
 
-»Nein, Harry, das ist er nicht. Er ist immer noch irgendwo da draußen, vielleicht auf der Suche nach einem anderen Körper, der ihn aufnimmt ... weil er nicht wirklich lebendig ist, kann er nicht getötet werden. Quirrell hat er dem Tod überlassen; seinen Gefolgsleuten erweist er genauso wenig Gnade wie seinen Feinden. Wie auch immer, Harry, vielleicht hast du nur seine Rückkehr an die Macht hinausgezögert; er braucht nur jemand anderen, der bereit ist, eine neue Schlacht zu schlagen, bei der er wohl verlieren wird - und wenn er immer wieder abgewehrt wird, wieder und wieder, vielleicht kehrt er dann nie an die Macht zurück.«
+»Nein, Harry, das ist er nicht. Er ist immer noch irgendwo da draußen, vielleicht auf der Suche nach einem anderen Körper, der ihn aufnimmt ... weil er nicht wirklich lebendig ist, kann er nicht getötet werden. Quirrell hat er dem Tod überlassen; seinen Gefolgsleuten •erweist er genauso wenig Gnade wie seinen Feinden. Wie auch immer, Harry, vielleicht hast du nur seine Rückkehr an die Macht hinausgezögert; er braucht nur jemand anderen, der bereit ist, eine neue •Schlacht zu schlagen, bei der er wohl verlieren wird - und wenn er immer wieder abgewehrt wird, wieder und wieder, vielleicht kehrt er dann nie an die Macht zurück.«
 
 323
 
@@ -6952,7 +6952,7 @@ Harry nickte, hielt aber sogleich inne, denn sein Kopf schmerzte davon. Dann sag
 
 »Sir, es gibt einige andere Dinge, die ich gern wissen möchte, falls Sie es mir erklären können ... Dinge, über die ich die Wahrheit wissen will ...«  
 
-»Die Wahrheit.« Dumbledore seufzte. »Das ist etwas Schönes und Schreckliches und sollte daher mit großer Umsicht behandelt werden. Allerdings werde ich deine Fragen beantworten, außer wenn ich einen sehr guten Grund habe, der dagegen spricht, und in diesem Falle bitte ich dich um Nachsicht. Ich werde natürlich nicht lügen.«
+»Die Wahrheit.« Dumbledore seufzte. »Das ist etwas Schönes und Schreckliches und sollte daher mit großer Umsicht behandelt werden. Allerdings werde ich deine Fragen beantworten, außer wenn ich einen sehr guten Grund habe, der dagegen spricht, und in diesem Falle bitte ich dich um •Nachsicht. Ich werde natürlich nicht lügen.«
 
 »Gut ... Voldemort sagte, er hätte meine Mutter nur getötet, weil sie ihn daran hindern wollte, mich zu töten. Aber warum wollte er mich überhaupt töten?«
 
@@ -6964,15 +6964,19 @@ Und Harry wusste, dass es keinen Zweck hatte zu streiten.
 
 »Aber warum konnte Quirrell mich nicht berühren?«
 
-»Deine Mutter ist gestorben, um dich zu retten. Wenn es etwas gibt, was Voldemort nicht versteht, dann ist es Liebe. Er wusste nicht, dass eine Liebe, die so mächtig ist wie die deiner Mutter zu dir, ihren Stempel hinterlässt. Keine Narbe, kein sichtbares Zeichen ... so tief geliebt worden zu sein, selbst wenn der Mensch, der uns geliebt hat, nicht mehr da ist, wird uns immer ein wenig schützen. Es ist deine bloße Haut, die dich schützt. Quirrell, voll Hass, Gier und Ehrgeiz, der seine Seele mit der Voldemorts teilt, konnte dich aus diesem Grunde nicht anrühren. Für ihn war es eine tödliche Qual, jemanden zu berühren, dem etwas so Wunderbares widerfahren ist.«
+»Deine Mutter ist gestorben, um dich zu retten. Wenn es etwas gibt, was Voldemort nicht versteht, dann ist es Liebe. Er wusste nicht, dass eine Liebe, die so mächtig ist wie die deiner Mutter zu dir, ihren •Stempel hinterlässt. 
+
+»Keine Narbe, kein •sichtbares •Zeichen ... so tief geliebt worden zu sein, selbst wenn der Mensch, der uns geliebt hat, nicht mehr da ist, wird uns immer ein wenig schützen. Es ist deine •bloße Haut, die dich schützt. Quirrell, voll Hass, •Gier und •Ehrgeiz, der seine Seele mit der Voldemorts teilt, konnte dich aus diesem Grunde nicht anrühren. Für ihn war es eine tödliche Qual, jemanden zu berühren, dem etwas so Wunderbares •widerfahren ist.«
 
 324
 
-Dumbledore fand nun großen Gefallen an einem Vogel, der draußen auf dem Fenstersims hockte, und Harry hatte Zeit, seine Augen an der Bettdecke zu trocknen. Als er seine Stimme wieder gefunden hatte, sagte er:
+Dumbledore fand nun großen Gefallen an einem Vogel, der draußen auf dem •Fenstersims •hockte, und Harry hatte Zeit, seine Augen an der Bettdecke zu •trocknen.
+
+Als er seine Stimme wieder gefunden hatte, sagte er:
 
 »Und der Tarnumhang - wissen Sie, wer mir den geschickt hat?«
 
-»Aah, es traf sich, dass ihn dein Vater mir anvertraut hat, und ich dachte, dir gefiele er vielleicht.« Dumbledore zwinkerte mit den Augen. »Nützliche Dinge ... dein Vater hat ihn damals meistens genommen, um in die Küche zu huschen und etwas zum Naschen zu stibitzen.«
+»Aah, es traf sich, dass ihn dein Vater mir •anvertraut hat, und ich dachte, dir gefiele er vielleicht.« Dumbledore zwinkerte mit den Augen. »Nützliche Dinge ... dein Vater hat ihn damals meistens genommen, um in die Küche zu huschen und etwas zum Naschen zu stibitzen.«
 
 »Und da ist noch etwas anderes ...«
 
@@ -6980,7 +6984,7 @@ Dumbledore fand nun großen Gefallen an einem Vogel, der draußen auf dem Fenste
 
 »Quirrell sagte, dass Snape -« 
 
-»,Professor Snape, Harry.«
+»Professor Snape, Harry.«
 
 »Ja, er - Quirrell sagte, er hasst mich, weil er auch meinen Vater hasste. Ist das wahr?«
 
@@ -6992,7 +6996,7 @@ Dumbledore fand nun großen Gefallen an einem Vogel, der draußen auf dem Fenste
 
 »Was?«
 
-»Ja ...« , sagte Dumbledore in Gedanken vertieft, »merkwürdig, wie es in den Köpfen der Menschen zugeht. Professor Snape konnte es nicht ertragen, in der Schuld deines Vaters zu stehen ... Ich bin mir sicher, dass er sich dieses Jahr deshalb so bemüht hat, dich zu schützen, weil er das Gefühl hatte, dass er und dein Vater dann quitt wären. Dann konnte er endlich wieder an deinen Vater denken und ihn in aller Ruhe hassen ...«
+»Ja ...« , sagte Dumbledore in Gedanken •vertieft, »merkwürdig, wie es in den Köpfen der Menschen zugeht. Professor Snape konnte es nicht ertragen, in der Schuld deines Vaters zu stehen ... Ich bin mir sicher, dass er sich dieses Jahr deshalb so bemüht hat, dich zu schützen, weil er das Gefühl hatte, dass er und dein Vater dann •quitt wären. Dann konnte er endlich wieder an deinen Vater denken und ihn in aller Ruhe hassen ...«
 
 Harry versuchte das zu verstehen, doch sein Kopf fing davon an zu pochen und er gab es auf.
 
@@ -7004,17 +7008,17 @@ Harry versuchte das zu verstehen, doch sein Kopf fing davon an zu pochen und er 
 
 »Wie habe ich den Stein aus dem Spiegel bekommen?«
 
-»Ah, nun, ich freue mich, dass du mich danach fragst. Es war eine meiner vortrefflicheren Ideen, und unter uns gesagt, das will schon was heißen. Sieh mal, nur jemand, der den Stein finden wollte - finden, nicht benutzen -, sollte ihn bekommen können, die andern würden nur sehen, wie sie Gold herstellen oder das Lebenselixier trinken. Mein Hirn überrascht mich gelegentlich. .. Nun, genug der Fragen. Ich schlage vor, du fängst mal an mit diesen Süßigkeiten. 
+»Ah, nun, ich freue mich, dass du mich danach fragst. Es war eine meiner •vortrefflicheren Ideen, und unter uns gesagt, das will schon was heißen. Sieh mal, nur jemand, der den Stein finden wollte - finden, nicht benutzen -, sollte ihn bekommen können, die andern würden nur sehen, wie sie Gold herstellen oder das Lebenselixier trinken. Mein •Hirn überrascht mich •gelegentlich. .. Nun, genug der Fragen. Ich schlage vor, du fängst mal an mit diesen Süßigkeiten. 
 
-»Ah! Bertie Botts Bohnen jeder Geschmacksrichtung! In meiner Jugend hatte ich leider das Pech, auf eine zu stoßen, die nach Erbrochenem schmeckte, und ich fürchte, seither habe ich meine Schwäche für sie verloren - aber ich denke, mit einer kleinen Toffee-Bohne bin ich auf der sicheren Seite, meinst du nicht?«
+»Ah! Bertie Botts Bohnen jeder Geschmacksrichtung! In meiner Jugend hatte ich leider das Pech, auf eine zu stoßen, die nach Erbrochenem schmeckte, und ich fürchte, •seither habe ich meine •Schwäche für sie verloren - aber ich denke, mit einer kleinen Toffee-Bohne bin ich auf der sicheren Seite, meinst du nicht?«
 
-Lächelnd schob er sich die goldbraune Bohne in den Mund. Kurz darauf würgte er sie wieder hervor: 
+Lächelnd schob er sich die goldbraune Bohne in den Mund. Kurz darauf •würgte er sie wieder hervor: 
 
-»Meine Güte! Ohrenschmalz!«
+»Meine Güte! •Ohrenschmalz!«
 
 Madam Pomfrey war eine nette Dame, aber sehr streng.
 
-»Nur fünf Minuten«, bettelte Harry. »Kommt nicht in Frage.«
+»Nur fünf Minuten«, •bettelte Harry. »Kommt nicht in Frage.«
 
 »Sie haben Professor Dumbledore ja auch hereingelassen ...« 
 
