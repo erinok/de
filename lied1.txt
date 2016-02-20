@@ -114,7 +114,7 @@ Danksagung
 
 Copyright
 
-== Prolog ==
+== PROLOG
 
 »Wir sollten umkehren«, drängte Gared, als es im Wald um sie zu dunkeln begann. »Die Wildlinge sind tot.«
 
@@ -520,12 +520,7 @@ Bran hörte den Wind in den Bäumen, das Klappern ihrer Hufe auf Planken aus Eis
 
 Jon Schnee warf dem Mündel seines Vaters einen langen, kalten Blick zu. »Das glaube ich kaum, Graufreud«, sagte er. »Der hier gehört mir.«
 
-
-
-
-
 == CATELYN
-
 
 Catelyn hatte diesen Götterhain noch nie gemocht.
 
@@ -623,12 +618,7 @@ Da verzog Ned das Gesicht. Zwischen ihm und der Familie der Königin gab es nur 
 
 Ned drückte ihre Hand. »Natürlich muss es ein Fest geben, mit Sängern, und Robert wird jagen wollen. Ich werde Jory mit einer Ehrengarde gen Süden schicken, die ihn auf dem Königsweg in Empfang nimmt und hierher eskortiert. Bei den Göttern, wie sollen wir sie nur alle verköstigen? Schon auf dem Weg, sagtet Ihr? Verdammt sei der Mann. Man sollte ihm sein königliches Fell über die Ohren ziehen.«
 
-
-
-
-
 == DAENERYS
-
 
 Ihr Bruder hielt den Umhang hoch, damit sie ihn betrachten konnte. »Ein Kunstwerk. Fass ihn an. Mach nur. Streich über diesen Stoff.«
 
@@ -760,12 +750,7 @@ Dany drehte sich um. Es stimmte. Magister Illyrio, der nur noch aus Lächeln und
 
 Daenerys lächelte und richtete sich auf.
 
-
-
-
-
 == EDDARD
-
 
 Wie ein reißender Fluss von Gold und Silber und poliertem Stahl strömten die Besucher durch die Tore der Burg, dreihundert Mann, eine Pracht von Vasallen und Rittern, von Gefolgsmännern und freien Rittersleuten. Über ihren Köpfen peitschte ein Dutzend goldener Banner im Nordwind hin und her, verziert mit dem gekrönten Hirschen von Baratheon.
 
@@ -919,12 +904,7 @@ Ungeduldig winkte Robert ab. »Alt genug für die Verlobung. Die Heirat kann ein
 
 Einen Moment lang war Eddard Stark von einer schrecklichen Vorahnung erfüllt. Hier war sein Platz, hier im Norden. Er sah sich nach den steinernen Gestalten um und atmete tief in der kalten Stille der Gruft. Er spürte die Blicke der Toten. Sie alle lauschten, das wusste er. Und der Winter nahte.
 
-
-
-
-
 == JON
-
 
 Es gab Momente – nicht viele, aber einige wenige –, in denen Jon Schnee sich freute, ein Bastard zu sein. Als er seinen Weinbecher ein weiteres Mal aus einem der Krüge nachfüllte, die herumgereicht wurden, kam ihm in den Sinn, dass dieser Augenblick ein solcher sein mochte.
 
@@ -1086,12 +1066,7 @@ Jon war nicht in der Stimmung, Ratschläge anzunehmen. »Was wisst Ihr davon, wi
 
 »Ohne Zweifel irgendeine Frau. Wie es meistens ist.« Er warf Jon ein reuiges Lächeln zu. »Vergiss eins nicht, Junge. Alle Zwerge könnten Bastarde sein, doch nicht alle Bastarde müssen Zwerge sein.« Und mit diesen Worten wandte er sich um und schlenderte zum Fest zurück, wobei er ein Lied vor sich hin pfiff. Als er die Tür öffnete, warf das Licht von drinnen seinen Schatten deutlich in den Hof, und nur für einen Augenblick war Tyrion Lennister groß wie ein König.
 
-
-
-
-
 == CATELYN
-
 
 Von allen Räumen in Winterfells Großem Turm waren Catelyns Schlafgemächer die wärmsten. Nur selten musste sie Feuer machen. Die Burg war über natürlichen, heißen Quellen errichtet worden, und siedendes Wasser rauschte durch die Mauern und Kammern wie Blut durch den Körper eines Menschen, vertrieb die Kälte aus den steinernen Hallen, erfüllte die gläsernen Gärten mit feuchter Wärme und verhinderte, dass der Boden gefror. Offene Tümpel dampften Tag und Nacht in einem ganzen Dutzend Höfe. Das war im Sommer kaum von Belang. Im Winter war es eine Frage von Leben und Tod.
 
@@ -1299,12 +1274,7 @@ Ned wandte sich von ihnen ab, blickte aus dem Fenster, das lange Gesicht still u
 
 »Wenn es sein muss. Erst müssen die Vorbereitungen getroffen werden. Es wird zwei Wochen dauern, bis wir zur Abreise bereit sind. Ich möchte Jon lieber seine letzten paar Tage genießen lassen. Der Sommer geht noch schnell genug zu Ende, und seine Kindheit auch. Wenn es an der Zeit ist, will ich es ihm selbst sagen.«
 
-
-
-
-
 == ARYA
-
 
 Wieder waren Aryas Stiche schief.
 
@@ -1476,12 +1446,7 @@ Widerstrebend wandte sie sich der anderen Richtung zu.
 
 Es war schlimmer, als Jon gedacht hatte. Nicht allein Septa Mordane erwartete sie in ihrem Zimmer. Sondern Septa Mordane und ihre Mutter.
 
-
-
-
-
 == BRAN
-
 
 Die Jagd begann im Morgengrauen. Der König wollte wilde Keiler zum abendlichen Fest. Prinz Joffrey ritt mit seinem Vater, sodass auch Robb gestattet wurde, sich den Jägern anzuschließen. Onkel Benjen, Jory, Theon Graufreud, Ser Rodrik und sogar der komische kleine Bruder der Königin waren allesamt mit ihnen ausgeritten. Schließlich war es die letzte Jagd. Am nächsten Morgen wollten sie gen Süden aufbrechen.
 
@@ -1635,12 +1600,7 @@ Schreiend stürzte Bran rückwärts aus dem Fenster ins Leere. Es gab nichts, wo
 
 Irgendwo in der Ferne heulte ein Wolf. Über der Turmruine kreisten Krähen, warteten auf Futter.
 
-
-
-
-
 == TYRION
-
 
 Irgendwo in dem großen, steinernen Irrgarten Winterfells heulte ein Wolf. Wie eine Trauerflagge hing sein Heulen über der Burg.
 
@@ -1774,12 +1734,7 @@ Das Lächeln seines Bruders erstarrte wie saure Milch. »Tyrion, mein lieber Bru
 
 Tyrions Mund war voller Brot und Fisch. Er nahm einen Schluck von dem starken, schwarzen Bier, um alles herunterzuspülen, und grinste Jaime wölfisch an. »Aber Jaime, mein lieber Bruder«, sagte er. »Du verletzt mich. Du weißt, wie sehr ich meine Familie liebe.«
 
-
-
-
-
 == JON
-
 
 Langsam stieg Jon die Treppe hinauf und versuchte, nicht daran zu denken, dass es vielleicht das letzte Mal sein mochte. Schweigend tappte Geist neben ihm her. Draußen wirbelte Schnee durch die Burgtore, und der Hof war von Lärm und Chaos erfüllt, doch innerhalb der dicken Steinmauern war es noch warm und still. Zu still für Jons Geschmack.
 
@@ -1943,12 +1898,7 @@ Anfangs schien Arya verdutzt. Dann dämmerte es ihr. Sie war so schnell. Sie sag
 
 Auf dem langen Weg nach Norden war die Erinnerung an ihr Lachen die einzige Wärme in der Kälte.
 
-
-
-
-
 == DAENERYS
-
 
 Daenerys Targaryen ehelichte Khal Drogo – in Angst und barbarischem Prunk auf einem Feld jenseits der Mauern von Pentos, weil die Dothraki glaubten, dass alle wichtigen Dinge im Leben eines Mannes unter freiem Himmel stattfinden müssten.
 
@@ -2086,12 +2036,7 @@ Dann hielt er inne und zog sie auf seinen Schoß. Dany war schamesrot und außer
 
 Sie nahm seine Hand und führte sie dorthin, wo sie zwischen ihren Schenkeln feucht war. »Ja«, flüsterte sie, als sie seinen Finger in sich schob.
 
-
-
-
-
 == EDDARD
-
 
 Der Ruf kam in der Stunde vor der Morgendämmerung, als die Welt noch still und grau war.
 
@@ -2247,12 +2192,7 @@ Einen Moment lang folgte Ned ihm nicht. Ihm waren die Worte ausgegangen, und er 
 
 Doch konnte ein Mann nicht immer dort sein, wohin er gehörte. Resigniert stieß Eddard Stark seinem Pferd die Stiefel in die Seiten und jagte dem König nach.
 
-
-
-
-
 == TYRION
-
 
 Der Norden nahm kein Ende.
 
@@ -2392,12 +2332,7 @@ Tyrion zog sich als Letzter zurück wie stets. Als er den Unterstand, den seine 
 
 Tyrion Lennister lächelte traurig und ging zu Bett.
 
-
-
-
-
 == CATELYN
-
 
 Ned war seit acht Tagen mit den Mädchen fort, als Maester Luwin eines Abends zu ihr in Brans Krankenzimmer kam mit einer Leselampe und den Rechnungsbüchern. »Es wird höchste Zeit, dass wir die Zahlen durchgehen, Mylady«, sagte er, »Ihr werdet wissen wollen, was uns der Besuch des Königs gekostet hat.«
 
@@ -2633,12 +2568,7 @@ Ser Rodrik protestierte. »Mylady, lasst zumindest mich Euch begleiten. Der Kön
 
 »Ich werde nicht den Königsweg nehmen«, erwiderte Catelyn. Sie dachte einen Moment lang nach, dann nickte sie. »Zwei Reiter sind so schnell wie einer und erheblich schneller als eine lange Kolonne mit Wagen und Kutschen. Ich würde mich freuen, wenn Ihr mich begleitet, Ser Rodrik. Wir folgen der Weißklinge zum Meer und schiffen uns im Weißwasserhafen ein. Kräftige Pferde und frische Winde sollten uns weit vor Ned und den Lennisters nach Königsmund bringen. « Und dann, dachte sie, werden wir sehen, was es zu sehen gibt.
 
-
-
-
-
 == SANSA
-
 
 Eddard Stark war vor dem Morgengrauen ausgeritten, worüber Septa Mordane Sansa in Kenntnis setzte, als sie ihr Morgenbrot einnahmen. »Der König hat nach ihm gesandt. Wieder zur Jagd, wie ich vermute. Es gibt noch immer wilde Auerochsen in diesem Land, wie man mir berichtet.«
 
@@ -2870,12 +2800,7 @@ Als sie fort waren, ging Sansa zu Prinz Joffrey. Er hatte die Augen vor Schmerz 
 
 Er schlug die Augen auf und sah sie an, und in diesen lag nichts als Abscheu, nichts als tiefste Verachtung. »Dann geh auch«, spuckte er ihr ins Gesicht. »Und fass mich nicht an.«
 
-
-
-
-
 == EDDARD
-
 
 »Man hat sie gefunden, Mylord.«
 
@@ -3023,12 +2948,7 @@ Ned beugte sich vor, zog den Umhang zurück, fürchtete die Worte, die er für A
 
 Die Augen des Bluthunds schienen durch den Stahl dieses schrecklichen, hundsköpfigen Helmes zu glitzern. »Er ist gerannt. « Er sah in Neds Gesicht und lachte. »Wenn auch nicht sehr schnell.«
 
-
-
-
-
 == BRAN
-
 
 Es schien, als sei er jahrelang gefallen.
 
@@ -3148,12 +3068,7 @@ Und dann gab es Bewegung neben seinem Bett, und etwas landete sanft auf seinen B
 
 Als sein Bruder Robb ins Zimmer platzte, atemlos von seinem Sturm die Stufen des Turmes hinauf, leckte der Schattenwolf Bran gerade das Gesicht ab. Ruhig sah Bran auf: »Er heißt Sommer«, sagte er.
 
-
-
-
-
 == CATELYN
-
 
 »In etwa einer Stunde legen wir in Königsmund an.«
 
@@ -3345,12 +3260,7 @@ Varys hob das Messer mit übertriebenem Zartgefühl an und strich mit dem Daumen
 
 »Der Gnom«, sagte Kleinfinger, während Lord Varys ihr Gesicht im Auge behielt. »Tyrion Lennister.«
 
-
-
-
-
 == JON
-
 
 Das Klirren von Schwertern erfüllte den Burghof.
 
@@ -3590,12 +3500,7 @@ Dann brach Tyrion Lennister in Gelächter aus. Drei der schwarzen Brüder stimmt
 
 Ser Allisar starrte Jon unverwandt an. Während sich das Gelächter um ihn herum ausbreitete, verfinsterte sich seine Miene, und seine Schwerthand ballte sich zur Faust. »Das war ein schwerer Fehler, Lord Schnee«, verkündete er schließlich mit der beißenden Stimme eines Feindes.
 
-
-
-
-
 == EDDARD
-
 
 Wund, müde, hungrig und gereizt ritt Eddard Stark durch die hoch aufragenden Bronzetore des Roten Bergfried. Er war noch zu Pferd, träumte von einem langen, heißen Bad, gebratenem Geflügel und einem Federbett, als der königliche Haushofmeister ihm erklärte, dass der Groß-Maester Pycelle ein dringendes Treffen des Kleinen Rates einberufen habe. Die Anwesenheit der Rechten Hand sei erwünscht, sobald es konveniere. »Konvenieren würde es morgen früh«, fuhr Ned ihn an, als er abstieg.
 
@@ -3833,12 +3738,7 @@ Er spürte, wie Catelyn in seinen Armen zitterte. Ihre vernarbte Hand hielt ihn 
 
 Das war der gefährliche Teil, wie Ned wusste. »Alles Recht entspringt dem König«, erklärte er. »Wenn ich die Wahrheit kenne, muss ich damit zu Robert gehen.« Und beten, dass er der Mann ist, für den ich ihn halte, endete er im Stillen, und nicht der Mann, der wohl aus ihm geworden ist.
 
-
-
-
-
 == TYRION
-
 
 »Seid Ihr sicher, dass Ihr uns schon so bald verlassen müsst?«, fragte ihn der Lord Kommandant.
 
@@ -4048,12 +3948,7 @@ Weit im Norden fing ein Wolf an zu heulen. Eine weitere Stimme nahm den Ruf auf,
 
 »Das glaube ich dir«, sagte Tyrion, doch was er dachte, war: Und wer sucht dann nach dir? Ein Schauer lief ihm über den Rücken.
 
-
-
-
-
 == ARYA
-
 
 Ihr Vater hatte wieder mit dem Rat gestritten. Arya konnte es an seinem Gesicht sehen, als er zu Tisch kam, wiederum zu spät, wie so oft schon. Der erste Gang, eine dicke, süße Suppe aus Kürbissen, war bereits abgedeckt, als Ned Stark den Kleinen Saal betrat. So nannte man ihn, um ihn von dem Großen Saal zu unterscheiden, in welchem der König tausend Gäste bewirten konnte, dennoch war der Kleine Saal ein langer Raum mit hohem Gewölbe, und auf den Bänken fand sich Platz für zweihundert Leute.
 
@@ -4249,12 +4144,7 @@ Arya versuchte, ihn zu treffen. Sie versuchte es vier Stunden lang, bis jeder Mu
 
 Am nächsten Tag begann die eigentliche Arbeit.
 
-
-
-
-
 == DAENERYS
-
 
 »Das Dothrakische Meer«, sagte Ser Jorah Mormont, als er neben ihr auf dem Kamm zum Stehen kam.
 
@@ -4438,12 +4328,7 @@ Sie waren schon auf der anderen Seite des Dothrakischen Meeres, als Jhiqui mit d
 
 Es war ihr vierzehnter Namenstag.
 
-
-
-
-
 == BRAN
-
 
 Unten im Hof lief Rickon mit den Wölfen um die Wette.
 
@@ -4637,12 +4522,7 @@ Er brachte Bran ins Bett, wickelte ihn in Decken und blies die Kerze aus. Eine Z
 
 »Ein Abenteuer«, wiederholte Bran wehmütig. Er hörte, wie sein Bruder schluchzte. Das Zimmer war so dunkel, dass er die Tränen auf Robbs Gesicht nicht sehen konnte, also tastete er nach seiner Hand. Ihre Finger schlangen sich ineinander.
 
-
-
-
-
 == EDDARD
-
 
 »Lord Arryns Tod hat große Trauer über uns gebracht, Mylord«, sagte Groß-Maester Pycelle. »Ich wäre mehr als glücklich, Euch alles sagen zu können, was ich über die Art und Weise seines Dahinscheidens weiß. Nehmt doch Platz. Ist Euch nach Erfrischungen zu Mute? Ein paar Datteln vielleicht? Ich hätte auch Persimonen. Wein bekommt meiner Verdauung nicht mehr, wie ich fürchte, aber ich kann Euch ein Glas Milch anbieten, mit Honig gesüßt. Das finde ich bei dieser Hitze sehr erfrischend.«
 
@@ -4808,12 +4688,7 @@ Eddard Stark fand keinen Geschmack an diesen Intrigen. »Bei allen sieben Hölle
 
 Kleinfinger fingerte an seinem kleinen, spitzen Bart herum. »Ihr lernt langsam, Lord Eddard. Mir zu misstrauen war das Klügste, was Ihr getan habt, seit Ihr von Eurem Pferd gestiegen seid.«
 
-
-
-
-
 == JON
-
 
 Jon machte eben Dareon vor, wie man am besten einen Seitenhieb ausführte, als der neue Rekrut den Übungshof betrat. »Deine Füße sollten weiter auseinanderstehen«, drängte er. »Du willst doch nicht dein Gleichgewicht verlieren. So ist es gut. Nun dreh dich um dich selbst, und wenn du den Hieb ausführst, leg dein ganzes Gewicht hinter die Klinge.«
 
@@ -5033,12 +4908,7 @@ Und das waren sie tatsächlich, so dachte er bei sich, nachdem Sam gegangen war.
 
 »Mein Onkel hat die Wahrheit gesagt«, flüsterte er Geist zu. Er fragte sich, ob er Benjen Stark wohl jemals wiedersehen würde, um ihm das zu sagen.
 
-
-
-
-
 == EDDARD
-
 
 »Es ist das Turnier der Hand, das all diese Probleme verursacht, Mylords«, klagte der Kommandeur der Stadtwache vor dem Rat des Königs.
 
@@ -5224,12 +5094,7 @@ Seine Garde wartete draußen bei den Pferden. »Habt Ihr etwas herausgebracht, M
 
 »Allerdings«, erklärte Ned und überlegte. Was hatte Jon Arryn von einem Bastard des Königs gewollt, und wieso war dies sein Leben wert gewesen?
 
-
-
-
-
 == CATELYN
-
 
 »Mylady, Ihr solltet Euren Kopf bedecken«, erklärte Ser Rodrik, während sich ihre Pferde gen Norden schleppten. »Ihr werdet Euch erkälten.«
 
@@ -5377,12 +5242,7 @@ Tyrion Lennister kicherte. Da wusste Catelyn, dass er ihr gehörte. »Dieser Man
 
 Sie wusste nicht, was für sie befriedigender war: das Klirren von einem Dutzend Schwerter, die gezogen wurden, oder der Gesichtsausdruck von Tyrion Lennister.
 
-
-
-
-
 == SANSA
-
 
 Sansa machte sich mit Septa Mordane und Jeyne Pool zum Turnier der Hand auf, in einer Sänfte mit Vorhängen von gelber Seide, die so fein war, dass man durch sie hindurchsehen konnte. Die ganze Welt war wie in Gold verwandelt. Jenseits der Stadtmauern waren einhundert Zelte am Ufer des Flusses errichtet worden, und das einfache Volk kam zu Tausenden, um sich die Spiele anzusehen. Der ganze Prunk raubte Sansa förmlich den Atem, die schimmernden Rüstungen, die mächtigen Schlachtrosse, herausgeputzt in Gold und Silber, der Jubel der Menge, die flatternden Banner im Wind … und die Ritter selbst, vor allem anderen die Ritter.
 
@@ -5514,12 +5374,7 @@ Der Bluthund packte sie beim Arm und beugte sich über sie. »Was ich dir heute 
 
 Es genügte nicht. »Falls du es irgendjemandem erzählst«, endete er, »werde ich dich töten.«
 
-
-
-
-
 == EDDARD
-
 
 »Ich habe selbst die letzte Wache bei ihm gehalten«, sagte Ser Barristan Selmy, als sie die Leiche auf dem Karren betrachteten. »Er hatte sonst niemanden. Eine Mutter im Grünen Tal, wie man mir sagte.«
 
@@ -5833,12 +5688,7 @@ Ned fühlte sich selbst schon halb vergiftet. »Der Knappe«, sagte er. »Ser Hu
 
 »Er hat Fragen gestellt«, erwiderte Varys und schob sich zur Tür hinaus.
 
-
-
-
-
 == TYRION
-
 
 Während er kurz vor dem Morgengrauen da so in der Kälte stand und sah, wie Chiggen sein Pferd schlachtete, dachte Tyrion Lennister an die Schuld, die er eines Tages bei den Starks einklagen würde. Dampf stieg aus dem Inneren des Kadavers auf, als der stämmige Söldner den Bauch mit seinem Messer öffnete. Er arbeitete mit flinken Händen, vergeudete keinen Schnitt. Die Arbeit musste schnell getan sein, bevor der Blutgestank die Schattenkatzen aus den Bergen lockte.
 
@@ -6066,12 +5916,7 @@ Sie sah ihn an, die Lippen fest zusammengepresst.
 
 »Wie ich bereits sagte, als wir so rüde unterbrochen wurden«, begann Tyrion, »es gibt einen schweren Fehler in Kleinfingers Fabel. Was immer Ihr von mir glauben mögt, Lady Stark, eines kann ich Euch versichern: Ich wette niemals gegen meine Familie.«
 
-
-
-
-
 == ARYA
-
 
 Der einohrige, schwarze Kater machte einen Buckel und fauchte sie an.
 
@@ -6271,12 +6116,7 @@ Desmond lachte. »Darum braucht Ihr Euch keine Sorgen zu machen, kleine Lady. Lo
 
 »Nun, was das angeht«, erwiderte Desmond und zog sein Langschwert, »so sterben Zauberer wie alle anderen Menschen auch, wenn man ihnen erst mal den Kopf abgeschlagen hat.«
 
-
-
-
-
 == EDDARD
-
 
 »Robert, ich bitte dich«, flehte Ned, »hör dich doch selbst reden. Du sprichst davon, ein Kind zu ermorden.«
 
@@ -6432,12 +6272,7 @@ Ned legte seine Stirn in Falten. »Ihr sitzt im Rat und redet von hässlichen Fr
 
 »Nichts … doch falls Ihr zufällig bei Einbruch der Dunkelheit noch hier sein solltet, würde ich Euch gern zu diesem Bordell führen, das Euer Jory so erfolglos besucht hat.« Kleinfinger lächelte. »Und ich würde auch Lady Catelyn nichts davon erzählen.«
 
-
-
-
-
 == CATELYN
-
 
 »Mylady, Ihr hättet uns Nachricht über Euer Kommen senden sollen«, erklärte Ser Donnel Waynwald, als ihre Pferde den Pass erklommen. »Wir hätten Euch eine Eskorte gesandt. Die Bergstraße ist nicht mehr so sicher, wie sie einmal war, für eine kleine Gesellschaft wie die Eure.«
 
@@ -6705,12 +6540,7 @@ Catelyn hätte sie am liebsten geohrfeigt. Onkel Brynden hatte sie zu warnen ver
 
 Lysa streichelte ihrem Sohn das Haar. »Vielleicht tun wir das«, murmelte sie. »Vielleicht tun wir genau das.«
 
-
-
-
-
 == EDDARD
-
 
 Er fand Kleinfinger im Schankraum des Bordells, wo er liebenswürdig mit einer großen, eleganten Frau plauderte, die ein Federkleid auf ihrer Haut trug und schwarz wie Tinte war. Am Kamin amüsierte sich Heward mit einer prallbrüstigen Hure beim Pfänderspiel. Es machte den Eindruck, als hätte er bislang seinen Gürtel, den Umhang, das Kettenhemd und seinen rechten Stiefel verloren, während das Mädchen das Unterhemd bis zur Hüfte aufgeknöpft hatte. Jory Cassel stand mit schiefem Lächeln auf dem Gesicht neben einem regenverschleierten Fenster, beobachtete Heward und genoss den Anblick.
 
@@ -6812,12 +6642,7 @@ Irgendwo fanden die Goldröcke eine Trage, doch der Weg zurück zur Burg war ein
 
 Dann ragte Groß-Maester Pycelle über ihm auf, hielt einen Becher und flüsterte: »Trinkt, Mylord. Hier. Mohnblumensaft gegen den Schmerz.« Er erinnerte sich daran, geschluckt zu haben, und Pycelle sagte jemandem, er solle Wein zum Kochen bringen und ihm saubere Seide holen, und das war das Letzte, woran er sich erinnerte.
 
-
-
-
-
 == DAENERYS
-
 
 Das Pferdetor von Vaes Dothrak bestand aus zwei gigantischen, bronzenen Hengsten, die sich aufbäumten und deren Hufe hundert Fuß hoch über der Durchfahrt einen Bogen bildeten.
 
@@ -6965,12 +6790,7 @@ Irri nahm das Ei mit der dunkelgrünen Schale, und bronzene Flecken schimmerten 
 
 Sie lag da und hielt das Ei, als sie spürte, wie sich das Kind in ihrem Bauch bewegte … als wollte es zu ihm, der Bruder zum Bruder, das Blut zum Blut. »Du bist der Drache«, flüsterte Dany ihm zu, »der wahre Drache. Ich weiß es. Ich weiß es.« Und sie lächelte, schlief ein und träumte von der Heimat.
 
-
-
-
-
 == BRAN
-
 
 Leichter Schnee fiel. Bran konnte spüren, wie er schmolz, wenn er sein Gesicht wie sanfter Regen berührte. Aufrecht saß er auf seinem Pferd und sah zu, wie das eiserne Fallgitter hochgezogen wurde. Sosehr er sich auch darum mühte, ruhig zu bleiben, flatterte doch sein Herz in der Brust.
 
@@ -7244,12 +7064,7 @@ Maester Luwin erhob sich. »Es könnte nützlich sein, sie zu verhören.«
 
 Bran sah die Erleichterung auf dem Gesicht des Bruders. »Wie Ihr meint, Maester. Wayn, fessle ihre Hände. Sie kommt mit uns nach Winterfell … und lebt oder stirbt, je nach den Wahrheiten, die sie uns verrät.«
 
-
-
-
-
 == TYRION
-
 
 »Willst du essen?«, fragte Mord mit düsterem Blick. Er hielt einen Teller mit gekochten Bohnen in den Stummelfingern seiner dicken Hand.
 
@@ -7487,12 +7302,7 @@ Wütend sah Lysa ihn an. »Ihr habt das Urteil durch einen Kampf gefordert.«
 
 Dann rührte sich am Ende des Raumes jemand. »Ich stehe für den Zwerg ein«, rief Bronn.
 
-
-
-
-
 == EDDARD
-
 
 Er träumte einen alten Traum von drei Rittern in weißen Umhängen und einem lang schon eingestürzten Turm und Lyanna in ihrem Bett von Blut.
 
@@ -7672,10 +7482,6 @@ Der König stöhnte. »Bei allen sieben Höllen, fang nicht wieder damit an. Das
 
 »Warum?« Robert lachte. »Warum nicht? Irgendjemand muss dieses verfluchte Königreich schließlich regieren. Leg die Spange an, Ned. Sie steht dir. Und wenn du sie mir jemals wieder vor die Füße wirfst, ich schwöre dir, hefte ich das verdammte Ding Jaime Lennister an die Brust.«
 
-
-
-
-
 == WESTEROS UND DIE SIEBEN KÖNIGSLANDE
 
 SIEBEN KÖNIGSLANDE: Überwiegender Teil des Kontinents Westeros. Sie umfassen den Norden (Haus Stark), die Eiseninseln (Haus Graufreud), das Grüne Tal von Arryn (Haus Arryn), die Westlande (Haus Lennister), die Weite (Haus Tyrell), die Sturmlande (Haus Baratheon) und Dorne (Haus Martell).
@@ -7683,10 +7489,6 @@ SIEBEN KÖNIGSLANDE: Überwiegender Teil des Kontinents Westeros. Sie umfassen d
 DIE EISENINSELN: Inselgruppe im Westen, bewohnt von einem Volk rauer Seefahrer
 
 DIE SOMMERINSELN: liegen südlich von Westeros und sind von einem milden Klima geprägt. Ihre Bewohner haben eine schwarze Haut und sind bekannt für ihre Umhänge aus bunten Federn und die süßen Weine, die sie exportieren.
-
-
-
-
 
 == STÄMME UND VÖLKER IN WESTEROS
 
@@ -7700,21 +7502,11 @@ DIE DORNISCHEN: Einwohner von Dorne, einem heißen Landstrich im Süden von West
 
 WILDLINGE: Verschiedene Völker, die im Norden zumeist hinter der Mauer leben und die Alten Götter verehren.
 
-
-
-
-
 == DIE WICHTIGSTEN HÄUSER DER SIEBEN KÖNIGSLANDE HAUS ARRYN
 
 Die Arryns sind Nachkommen der Könige von Berg und Grünem Tal, eine der ältesten und reinsten Linien des Andalischen Adels. Ihr Siegel zeigt Mond und Falke, weiß auf himmelblauem Feld. Die Worte der Arryns lauten Hoch Wie Die Ehre.
 
-
-
-
-
 {== JON ARRYN}, Lord über Hohenehr, Hüter des Grünen Tales, Wächter des Ostens, Hand des Königs, kürzlich verstorben
-
-
 
 – seine erste Frau {LADY JEYNE aus dem Hause Rois}, starb im Wochenbett, ihre Tochter tot geboren
 
@@ -7723,10 +7515,6 @@ Die Arryns sind Nachkommen der Könige von Berg und Grünem Tal, eine der ältes
 – seine dritte Frau und Witwe LADY LYSA aus dem Hause Tully
 
 – ihr Sohn: – ROBERT ARRYN, ein kränklicher Junge von sechs Jahren, nun Lord über Hohenehr und Hüter des Grünen Tales
-
-
-
-
 
 – ihr Gefolge und der Haushalt: – MAESTER COLEMON, Berater, Heilkundiger und Hauslehrer
 
@@ -7740,47 +7528,23 @@ Die Arryns sind Nachkommen der Könige von Berg und Grünem Tal, eine der ältes
 
 – MYA STEIN, ein Bastardmädchen in seinen Diensten
 
-
-
-
-
 – LORD EON JÄGER, Freier von Lady Lysa
 
 – SER LYN CORBRAY, Freier von Lady Lysa – MYCHEL ROTFEST, sein Knappe
-
-
-
-
 
 – LADY ANYA WAYNWALD, eine Witwe – SER MORTON WAYNWALD, ihr Sohn, Freier von Lady Lysa
 
 – SER DONNEL WAYNWALD, ihr Sohn
 
-
-
-
-
 – MORD, ein brutaler Kerkermeister
 
-
-
 Die wichtigsten Häuser, die durch Eid an Hohenehr gebunden sind, heißen Rois, Baelish, Egen, Waynwald, Jäger, Rotfest, Corbray, Belmor, Melcolm und Hersy.
-
-
-
-
 
 == HAUS BARATHEON
 
 Das jüngste der Großen Häuser, entstanden in den »Eroberungskriegen«. Sein Gründer, Orys Baratheon, soll Gerüchten nach der Halbbruder von Aegon, dem Drachen, sein. Orys kam zu militärischen Ehren und wurde einer von Aegons grausamsten Befehlshabern. Als er Argilac, den Arroganten, den letzten Sturmkönig, besiegte und erschlug, belohnte König Aegon ihn mit Argilacs Burg, Land und Tochter. Orys nahm das Mädchen zur Braut, übernahm Banner, Titel und auch den Sinnspruch des Geschlechts. Das Siegel der Baratheons zeigt einen gekrönten Hirschen, schwarz auf goldenem Feld. Ihre Worte sind Unser Ist Der Zorn.
 
-
-
-
-
 KÖNIG ROBERT BARATHEON, der Erste Seines Namens
-
-
 
 – seine Frau, KÖNIGIN CERSEI aus dem Hause Lennister
 
@@ -7790,10 +7554,6 @@ KÖNIG ROBERT BARATHEON, der Erste Seines Namens
 
 – PRINZ TOMMEN, ein Junge von sieben Jahren
 
-
-
-
-
 – seine Brüder: – STANNIS BARATHEON, Lord von Drachenstein
 
 – seine Frau, LADY SELYSE aus dem Hause Florent
@@ -7801,10 +7561,6 @@ KÖNIG ROBERT BARATHEON, der Erste Seines Namens
 – seine Tochter, SHARIN, ein Mädchen von neun Jahren
 
 – RENLY BARATHEON, Lord von Sturmkap
-
-
-
-
 
 – sein Kleiner Rat: – GROSSMAESTER PYCELLE
 
@@ -7817,10 +7573,6 @@ KÖNIG ROBERT BARATHEON, der Erste Seines Namens
 – SER BARRISTAN SELMY, Kommandant der Königsgarde
 
 – VARYS, ein Eunuch, genannt »die Spinne«, Meister der Flüsterer und Ohrenbläser
-
-
-
-
 
 – sein Hof und Gefolge: – SER ILYN PAYN, der Richter des Königs, ein Henker
 
@@ -7836,10 +7588,6 @@ KÖNIG ROBERT BARATHEON, der Erste Seines Namens
 
 – SER ARON SANTAGAR, Waffenmeister
 
-
-
-
-
 – seine Königsgarde: – SER BARRISTAN SELMY, Lord Kommandant
 
 – SER JAIME LENNISTER, genannt »der Königsmörder«
@@ -7854,53 +7602,23 @@ KÖNIG ROBERT BARATHEON, der Erste Seines Namens
 
 – SER MANDON MOOR
 
-
-
-
-
 Die wichtigsten Häuser, die durch Eid an Sturmkap gebunden sind, heißen Selmy, Wyld, Trant, Fünfrosen, Errol, Estermont, Tarth, Swann, Dondarrion, Caron.
 
-
-
-
-
 Die wichtigsten Häuser, die durch Eid an Drachenstein gebunden sind, heißen Celtigar, Velaryon, Seewert, Bar Emmon und Sonnglas.
-
-
-
-
 
 == HAUS GRAUFREUD
 
 Die Graufreuds von Peik stammen vom Grauen König aus dem Heldenzeitalter ab. Der Legende nach beherrschte der Graue König nicht nur die westlichen Inseln, sondern das Meer selbst und nahm sich eine Meerjungfrau zum Weib.
 
-
-
-
-
 Über Tausende von Jahren waren Banditen von den Eiseninseln – »Eisenmänner« genannt von jenen, die von ihnen geplündert wurden – der Schrecken der Meere, und sie segelten bis zum Hafen von Ibben und den Sommerinseln. Sie waren stolz auf ihren Ingrimm in der Schlacht und ihre heilige Freiheit. Jede Insel hatte ihren eigenen »Salzkönig« und »Steinkönig«. Unter diesen wurde der Hohe König der Inseln gewählt, bis König Urron den Thron erblich machte, indem er die anderen Könige ermordete, als sie sich zu einer Wahl versammelten. Urrons eigene Linie wurde tausend Jahre später ausgerottet, als die Andalen die Inseln überrannten. Die Graufreuds gingen, wie auch andere Inselherren, Ehen mit den Eroberern ein.
-
-
-
-
 
 Die Eisenkönige dehnten ihre Herrschaft weit über die Inseln hinaus aus, teilten mit Feuer und Schwert Königreiche vom Festland ab. König Qhored Haare konnte wahrheitsgemäß prahlen, sein Befehl gelte »überall, wo Menschen Salzwasser riechen oder den Donner der Wellen hören« konnten. In späteren Jahrhunderten verloren Qhoreds Nachkommen Arbor, Altsass, die Bäreninsel und einen Großteil der Westküste. Dennoch, als die Eroberungskriege kamen, herrschte König Harren, der Schwarze, über alle Länder zwischen den
 
 Bergen, von der Eng bis zum Schwarzwasserstrom. Als Harren Haare und seine Söhne beim Sturz von Harrenhal untergingen, sprach Aegon Targaryen die Flusslande dem Hause Tully zu und gestattete den überlebenden Lords der Eiseninseln, ihre alte Sitte wieder zum Leben zu erwecken und den auszuwählen, der unter ihnen den Vorrang haben sollte. Sie wählten Lord Vickon Graufreud von Peik.
 
-
-
-
-
 Das Siegel der Graufreuds ist ein goldener Krake auf einem schwarzen Feld. Ihre Worte lauten Wir Säen Nicht.
 
-
-
-
-
 BALON GRAUFREUD, Lord über die Eiseninseln, König von Salz und Stein, Sohn des Seewinds, Lord Schnitter von Peik
-
-
 
 – seine Frau LADY ALANNYS aus dem Hause Harlau
 
@@ -7912,37 +7630,19 @@ BALON GRAUFREUD, Lord über die Eiseninseln, König von Salz und Stein, Sohn des
 
 – THEON, ihr einziger überlebender Sohn, Erbe von Peik, Mündel von Lord Eddard Stark
 
-
-
-
-
 – seine Brüder: – EURON, genannt »Krähenauge«, Kapitän der Stille, ein Verstoßener, Pirat und Räuber
 
 – VICTARION, Oberster Kommandeur der Eisernen Flotte
 
 – AERON, genannt »Feuchthaar«, ein Priester des Ertrunkenen Gottes
 
-
-
-
-
 Zu den kleineren Häusern, die durch Eid an Peik gebunden sind, gehören Harlau, Steinheim, Merlyn, Sunderly, Bothley, Tauny, Wynch, Guthbruder.
-
-
-
-
 
 == HAUS LENNISTER
 
 Blond, groß und stattlich sind die Lennisters, vom Geschlecht der Andalischen Abenteurer, die ein mächtiges Königreich auf den Hügeln und in den Tälern des Westens errichtet haben. In der weiblichen Linie prahlt man mit der Abstammung von Lenn, dem Listigen, dem legendären Schwindler aus dem Heldenzeitalter. Das Gold von Casterlystein und Goldzahn haben sie zur reichsten Familie der Großen Häuser gemacht. Ihr Siegel ist ein goldener Löwe auf rotem Feld. Die Worte der Lennisters sind Hört Mich Brüllen!
 
-
-
-
-
 TYWIN LENNISTER, Lord von Casterlystein, Wächter des Westens, Schild von Lennishort,
-
-
 
 – seine Frau {LADY JOANNA}, eine Cousine, starb im Wochenbett
 
@@ -7952,10 +7652,6 @@ TYWIN LENNISTER, Lord von Casterlystein, Wächter des Westens, Schild von Lennis
 
 – == TYRION, genannt der »Gnom«, ein Zwerg
 
-
-
-
-
 – seine Geschwister: – SER KEVAN, sein ältester Bruder
 
 – seine Frau DORNA aus dem Hause Swyft – ihr ältester Sohn LANCEL, Knappe des Königs
@@ -7964,27 +7660,15 @@ TYWIN LENNISTER, Lord von Casterlystein, Wächter des Westens, Schild von Lennis
 
 – ihre kleine Tochter JANEI
 
-
-
-
-
 – GENNA, seine Schwester, vermählt mit Ser Emmon Frey
 
 – ihr Sohn SER CLEOS FREY
 
 – ihr Sohn TION FREY, ein Schildknappe
 
-
-
-
-
 – {SER TYGETT}, sein zweiter Bruder, starb an den Pocken – seine Witwe DARLESSA, aus dem Hause Marbrand
 
 – ihr Sohn TYREK, Knappe beim König
-
-
-
-
 
 – {GERION}, sein jüngster Bruder, auf See verschollen
 
@@ -8014,27 +7698,13 @@ TYWIN LENNISTER, Lord von Casterlystein, Wächter des Westens, Schild von Lennis
 
 – VARGO HOAT, aus der Freien Stadt von Qohor, ein Söldner
 
-
-
-
-
 Die wichtigsten Häuser, die durch Eid an Casterlystein gebunden sind, heißen Payn, Swyft, Marbrand, Lydden, Bannstein, Leffert, Rallenhall, Serrett, Ginster, Clegane, Prester und Westerling.
-
-
-
-
 
 == HAUS MARTELL
 
 Nymeria, die Kriegerkönigin der Rhoyne, brachte ihre zehntausend Schiffe in Dorne an Land, dem südlichsten der Sieben Königslande, und nahm Lord Mors Martell zum Manne. Mit ihrer Hilfe bezwang er seine Rivalen und herrschte über ganz Dorne. Der rhoynische Einfluss ist nach wie vor stark. So nennen sich dornische Herrscher eher »Fürst« als »König«. Nach dornischem Gesetz gehen Länder und Titel an das älteste Kind, nicht an den ältesten Sohn. Von allen Sieben Königslanden wurde Dorne allein niemals von Aegon, dem Drachen, erobert. Erst zweihundert Jahre später wurde es dauerhaft dem Reich angeschlossen, durch Heirat und Vertrag, nicht durch das Schwert. Dem friedliebenden König Daeron II. gelang, was den Kriegern misslungen war, indem er die dornische Prinzessin Myriah ehelichte und seine Schwester Daenerys dem Fürsten Maron Martell von Dorne gab. Das Banner der Martell zeigt eine rote Sonne, die von einem Speer durchbohrt ist. Ihre Worte lauten Ungebeugt, Ungezähmt, Ungebrochen.
 
-
-
-
-
 DORAN NYMEROS MARTELL, Lord von Sonnspeer, Fürst von Dorne
-
-
 
 – seine Frau MELLARIO aus der Freien Stadt Norvos – ihre Kinder:
 
@@ -8044,10 +7714,6 @@ DORAN NYMEROS MARTELL, Lord von Sonnspeer, Fürst von Dorne
 
 – Prinz TRYSTANE, ihr jüngerer Sohn
 
-
-
-
-
 – seine Geschwister:
 
 – seine Schwester {PRINZESSIN ELIA}, vermählt mit Prinz Rhaegar Targaryen, getötet während der Plünderung von Königsmund
@@ -8056,43 +7722,21 @@ DORAN NYMEROS MARTELL, Lord von Sonnspeer, Fürst von Dorne
 
 – {PRINZ AEGON}, ein Säugling, getötet während der Plünderung von Königsmund
 
-
-
-
-
 – sein Bruder PRINZ OBERYN, die Rote Viper
 
 – sein Haushalt: – AREO HOTAH, ein Söldner aus Norvos, Hauptmann der Garde
 
 – MAESTER CALEOTTE, Berater, Heilkundiger und Hauslehrer
 
-
-
-
-
 – seine Ritter und Vasallen: – EDRIC DAYN, Lord von Sternfall
 
-
-
-
-
 Zu den wichtigsten Häusern, die durch Eid an Sonnspeer gebunden sind, gehören Jordayn, Santagar, Allyrion, Toland, Isenwald, Wyl, Fowler und Dayn.
-
-
-
-
 
 == HAUS STARK
 
 Die Starks führen ihre Herkunft auf Brandon, den Erbauer, und die alten Winterkönige zurück. Über Tausende von Jahren herrschten sie von Winterfell aus als Könige des Nordens, bis Torrhen Stark, der Kniende König, es vorzog, Aegon, dem Drachen, die Treue zu schwören, um nicht gegen ihn in die Schlacht ziehen zu müssen. Ihr Emblem ist ein grauer Schattenwolf auf eisweißem Feld. Die Worte der Starks lauten Der Winter Naht.
 
-
-
-
-
 == EDDARD STARK, Lord von Winterfell, Wächter des Nordens
-
-
 
 – seine Frau LADY == CATELYN, aus dem Hause Tully
 
@@ -8110,35 +7754,19 @@ Die Starks führen ihre Herkunft auf Brandon, den Erbauer, und die alten Winterk
 
 – sein Mündel, THEON GRAUFREUD, Erbe der Eiseninseln
 
-
-
-
-
 – seine Geschwister: – {BRANDON}, sein älterer Bruder, ermordet auf Befehl von Aerys II. Targaryen
 
 – {LYANNA}, seine jüngere Schwester, gestorben in den Bergen von Dorne
 
 – BENJEN, sein jüngerer Bruder, ein Mann der Nachtwache
 
-
-
-
-
 – sein Haushalt: – MAESTER LUWIN, Berater, Heilkundiger und Hauslehrer
 
 – VAYON POOL, Haushofmeister von Winterfell – JEYNE, seine Tochter, Sansas engste Freundin
 
-
-
-
-
 – JORY CASSEL, Hauptmann der Garde
 
 – SER RODRIK CASSEL, Waffenmeister, Jorys Onkel – BETH, seine kleine Tochter
-
-
-
-
 
 – SEPTA MORDANE, Erzieherin der Töchter Lord Eddards
 
@@ -8146,27 +7774,15 @@ Die Starks führen ihre Herkunft auf Brandon, den Erbauer, und die alten Winterk
 
 – HULLEN, Stallmeister – sein Sohn HARWIN, ein Gardist
 
-
-
-
-
 – JOSETH, ein Stallknecht und Zureiter
 
 – FARLEN, Hundeführer
 
 – DIE ALTE NAN, Geschichtenerzählerin, einst Amme – HODOR, ihr Urenkel, ein einfältiger Stallbursche
 
-
-
-
-
 – GAGE, der Koch
 
 – MIKKEN, der Waffenschmied
-
-
-
-
 
 – seine wichtigsten Lords und Vasallen: – SER HELMAN TALLHART
 
@@ -8182,27 +7798,13 @@ Die Starks führen ihre Herkunft auf Brandon, den Erbauer, und die alten Winterk
 
 – MAEGEN MORMONT, die Lady von Bäreninsel
 
-
-
-
-
 Die wichtigsten Häuser, die durch Eid an Winterfell gebunden sind, heißen Karstark, Umber, Flint, Mormont, Hornwald, Cerwyn, Reet, Manderly, Glauer, Tallhart, Bolton.
-
-
-
-
 
 == HAUS TULLY
 
 Die Tullys haben nie als Könige regiert, doch gehören ihnen seit tausend Jahren reiche Ländereien und die große Burg von Schnellwasser. Während der »Eroberungskriege« gehörten die Flusslande Harren, dem Schwarzen, König der Inseln. Harrens Großvater, König Harwyn Harthand, hatte den Trident von Arrec, dem Sturmkönig, übernommen, dessen Vorfahren dreihundert Jahre zuvor bis zur Eng vorgedrungen waren und den letzten der alten Flusskönige erschlagen hatten. Als eitler und blutiger Tyrann war Harren, der Schwarze, bei jenen, die er regierte, nur wenig beliebt, und mancher Flusslord verließ ihn, um sich Aegons Heer anzuschließen. Unter diesen war auch Edmyn Tully von Schnellwasser. Als Harren und sein Geschlecht im Brand von Harrenhal ausgelöscht wurden, belohnte Aegon das Haus Tully, indem er Lord Edmyn die Länder am Trident zur Herrschaft übertrug und von den anderen Flusslords verlangte, ihm Treue zu schwören. Das Siegel der Tullys ist eine springende Forelle, silbern, auf einem Feld von gewelltem Blau und Rot. Die Worte der Tullys lauten Familie, Pflicht, Ehre.
 
-
-
-
-
 HOSTER TULLY, Lord von Schnellwasser
-
-
 
 – seine Frau {LADY MINISA aus dem Hause Whent}, starb im Wochenbett
 
@@ -8212,10 +7814,6 @@ HOSTER TULLY, Lord von Schnellwasser
 
 – SER EDMURE, Erbe von Schnellwasser
 
-
-
-
-
 – sein Bruder SER BRYNDEN, genannt Schwarzfisch
 
 – sein Haushalt: – MAESTER VYMAN, Heilkundiger und Hauslehrer
@@ -8224,10 +7822,6 @@ HOSTER TULLY, Lord von Schnellwasser
 
 – SER ROBIN RYGER, Hauptmann der Garde
 
-
-
-
-
 – UTHERYDES WAYN, Haushofmeister von Schnellwasser
 
 – seine Ritter und Vasallen: – JASON MALLISTER, Lord von Seegart
@@ -8235,10 +7829,6 @@ HOSTER TULLY, Lord von Schnellwasser
 – PATREK MALLISTER, sein Sohn und Erbe
 
 – WALDER FREY, Lord über den Kreuzweg – dessen zahlreiche Söhne, Enkel und Bastarde
-
-
-
-
 
 – JONOS BRACKEN, Lord von Steinheck
 
@@ -8254,27 +7844,13 @@ HOSTER TULLY, Lord von Schnellwasser
 
 – SER WILLIS WOD, ein Ritter in ihren Diensten
 
-
-
-
-
 Zu den kleineren Häusern, die durch Eid an Schnellwasser gebunden sind, zählen Darry, Frey, Mallister, Bracken, Schwarzhain, Whent, Ryger, Peiper, Vanke.
-
-
-
-
 
 == HAUS TYRELL
 
 Die Tyrells kamen als Haushofmeister der Könige der Weite zu Einfluss, zu deren Ländern die fruchtbaren Ebenen des Südwestens von den Dornischen Marschen und dem Schwarzwasser zu den Ufern der Westlichen See gehörten. Auf weiblicher Linie erhebt man Anspruch auf die Abstammung von Garth Grünhand, dem Gärtnerkönig der Ersten Menschen, der eine Krone aus Ranken und Blumen trug und das Land erblühen ließ. Als König Mern, der letzte der alten Linie, auf dem Feld des Feuers umkam, übergab sein Haushofmeister Harlen Tyrell Rosengarten an Aegon Targaryen und gelobte ihm Treue. Aegon ließ ihm Burg und Herrschaft über die Weite. Das Siegel der Tyrells ist eine goldene Rose auf grasgrünem Feld. Ihre Worte lauten Kräftig Wachsen.
 
-
-
-
-
 MAES TYRELL, Lord von Rosengarten, Wächter des Südens, Hüter der Marschlande, Hochmarschall über die Weite
-
-
 
 – seine Frau LADY ALERIE aus dem Hause Hohenturm von Altsass
 
@@ -8286,25 +7862,13 @@ MAES TYRELL, Lord von Rosengarten, Wächter des Südens, Hüter der Marschlande,
 
 – MARGAERY, ihre Tochter, eine Jungfer von vierzehn Jahren
 
-
-
-
-
 – seine verwitwete Mutter LADY OLENNA aus dem Hause Rothweyn, genannt die »Dornenkönigin«
 
 – seine Schwestern: – MINA, vermählt mit Lord Paxter Rothweyn
 
 – JANNA, vermählt mit Ser Jon Fossowey
 
-
-
-
-
 – seine Onkel: – GARTH, genannt der »Grobe«, Lord Seneschal von Rosengarten
-
-
-
-
 
 – seine unehelichen Söhne GARSE und GARRETT BLUMEN
 
@@ -8318,10 +7882,6 @@ MAES TYRELL, Lord von Rosengarten, Wächter des Südens, Hüter der Marschlande,
 
 – SER VORTIMER KRANICH, Waffenmeister
 
-
-
-
-
 – seine Ritter und Vasallen: – PAXTER ROTHWEYN, Lord über den Arbor
 
 – seine Frau LADY MINA, aus dem Hause Tyrell
@@ -8330,17 +7890,9 @@ MAES TYRELL, Lord von Rosengarten, Wächter des Südens, Hüter der Marschlande,
 
 – SER HOBBER, Zwilling von Horas
 
-
-
-
-
 – RANDYLL TARLY, Lord von Hornberg – SAMWELL, sein ältester Sohn, bei der Nachtwache
 
 – DICKON, sein jüngerer Sohn, Erbe von Hornberg
-
-
-
-
 
 – ARWYN EICHENHERZ, Lady von Alteich
 
@@ -8350,15 +7902,7 @@ MAES TYRELL, Lord von Rosengarten, Wächter des Südens, Hüter der Marschlande,
 
 – SER == JON FOSSOWEY
 
-
-
-
-
 Bedeutende Häuser, die durch Eid an Rosengarten gebunden sind, heißen Vyrwel, Florent, Eichenherz, Hohenturm, Kranich, Tarly, Rothweyn, Esch, Fossowey und Mullendor.
-
-
-
-
 
 DIE ALTE DYNASTIE:
 
@@ -8368,17 +7912,9 @@ Die Targaryen sind das Blut der Drachen, Nachkommen der Herren aus dem alten Fre
 
 Die Vorfahren von Aegon, dem Drachen, entkamen dem Untergang Valyrias und dem darauf folgenden Chaos und Gemetzel, indem sie sich auf Drachenstein niederließen, einer Felseninsel in der Meerenge. Von dort aus stachen Aegon und seine Schwestern Visenya und Rhaenys in See, um die Sieben Königslande zu erobern. Um das königliche Blut zu erhalten und für seine Reinheit zu sorgen, folgte das Haus Targaryen oftmals der valyrischen Sitte, Bruder und Schwester zu vermählen. Aegon selbst nahm seine beiden Schwestern zur Frau und zeugte mit beiden jeweils einen Sohn. Das Banner der Targaryen ist ein dreiköpfiger Drache, Rot auf Schwarz, wobei die drei Köpfe Aegon und seine Schwestern darstellen. Die Worte der Targaryen lauten Feuer Und Blut.
 
-
-
-
-
 DIE THRONFOLGE DER TARGARYEN
 
 datiert nach Jahren, ausgehend von Aegons Landung
-
-
-
-
 
 1–37 Aegon I. Aegon, der Eroberer, Aegon, der Drache
 
@@ -8414,26 +7950,15 @@ datiert nach Jahren, ausgehend von Aegons Landung
 
 262–283 Aerys II. Der Irre König, einziger Sohn des Jaehaerys
 
-
 Die Ahnenreihe der Drachenkönige endete, als Aerys II. entthront und getötet und sein Erbe, Kronprinz Rhaegar Targaryen, von Robert Baratheon am Trident erschlagen wurde.
-
-
-
-
 
 == DIE LETZTEN DER TARGARYEN
 
 {KÖNIG AERYS TARGARYEN}, der Zweite seines Namens, von Jaime Lennister während der Plünderung von Königsmund erschlagen
 
-
-
 – seine Schwester und Frau KÖNIGIN RHAELLA aus dem Hause Targaryen verstorben im Wochenbett auf Drachenstein – ihre Kinder:
 
 – {PRINZ RHAEGAR}, Erbe des Eisernen Thrones, von Robert Baratheon am Trident erschlagen
-
-
-
-
 
 – seine Frau {PRINZESSIN ELIA} aus dem Hause Martell, getötet während der Plünderung von Königsmund
 
@@ -8443,29 +7968,19 @@ Die Ahnenreihe der Drachenkönige endete, als Aerys II. entthront und getötet u
 
 – PRINZ VISERYS, nennt sich selbst Viserys, der Dritte seines Namens, Lord der Sieben Königslande, genannt der »Bettelkönig«
 
-– PRINZESSIN == DAENERYS, genannt Daenerys Sturmtochter, eine Maid von dreizehn Jahren.
-
-
-
-
+– PRINZESSIN DAENERYS, genannt Daenerys Sturmtochter, eine Maid von dreizehn Jahren.
 
 == AN DER MAUER
 
 Die Mauer ist ein hohes, dickes, meilenlanges Bollwerk aus Eis und Stein, das die Nordgrenze der Sieben Königslande schützt. Jenseits der Mauer liegt der Verfluchte Wald, bewohnt von wilden Völkern, Schattenwölfen und schlimmeren, sagenumwobenen Wesen. Sie wird bewacht und in Stand gehalten von den Männern der Nachtwache. Einst hatte die Wache neunzehn große Bollwerke entlang der Mauer errichtet, doch nur drei davon sind noch besetzt: Ostwacht an der See, an der grauen, windgepeitschten Küste, der Schattenturm direkt an den Bergen, wo die Mauer endet, und dazwischen die Schwarze Festung mit dem Dorf Moles am Ende des Königswegs.
 
-
-
-
-
 Geschworene Brüder der Nachtwache
-
-
 
 – JEOR MORMONT, Lord Kommandant der Nachtwache
 
 – BENJEN STARK, jüngerer Bruder von Lord Eddard Stark
 
-– == JON SCHNEE, Bastard von Eddard Stark
+– JON SCHNEE, Bastard von Eddard Stark
 
 – MAESTER AEMON, hundertjähriger, blinder Heilkundiger und Berater
 
@@ -8473,27 +7988,13 @@ Geschworene Brüder der Nachtwache
 
 – SAMWELL TARLY, ein Rekrut, ältester Sohn von Lord Randyll Tarly
 
-
-
-
-
 == JENSEITS DER MEERENGE
 
 Jenseits der Meerenge erstreckt sich der große, weitgehend unbekannte östliche Kontinent, von dem man annimmt, dass er bis zu den Grenzen der Welt reicht und auf dem sich die Freien Städte, die ausgedehnten Steppenlandschaften der Dothraki und das sagenumwobene Valyrien befinden, welches für seine hochentwickelte Schmiedekunst und seinen Stahl bekannt ist. Im Osten liegt die Sklavenbucht mit den Sklavenstädten, die vom Menschenhandel leben.
 
-
-
-
-
 DIE FREIEN STÄDTE sind unabhängige Städte im Westen des östlichen Kontinents, die mit Westeros Handel treiben. Ihre Namen lauten: Braavos, Lorath, Lys, Myr, Norvos, Pentos, Qohor, Tyrosh, Volantis.
 
-
-
-
-
 DIE DOTHRAKI: Ein wildes, kupferhäutiges Reitervolk der Steppe jenseits der Meerenge. Sie leben in großen, nomadisierenden Stämmen, die Khalasar genannt werden und mehrere Tausend Menschen umfassen können und von einem Häuptling, dem Khal, angeführt werden. Diese Stämme bilden einen lockeren Verbund, der von den Dosh Khaleen, weisen Frauen, den Witwen hoher Khals, geleitet wird. Die Dosh Khaleen leben in Vaes Dothrak, der heiligen Stadt aller Dothraki.
-
-
 
 – KHAL DROGO: Anführer des größten Khalasar in der dothrakischen Steppe, der noch in keinem Kampf besiegt wurde
 
@@ -8503,17 +8004,9 @@ DIE DOTHRAKI: Ein wildes, kupferhäutiges Reitervolk der Steppe jenseits der Mee
 
 – IRRI, JHIQUI UND DOREAH, ihre Mägde, Irri und Jhiqui sind Dothraki, Doreah ein blondes, blauäugiges Mädchen aus Lys
 
-
-
-
-
 – ILLYRIO MOPATIS, ein Magister aus der Freien Stadt Pentos, ein sehr dicker, wohlhabender Kaufmann mit vielfältigen Beziehungen
 
 – SER JORAH MORMONT, Ritter der Sieben Königslande und Sohn von Lord Jeor Mormont, ein Verbannter, der ins Exil floh, um sich seiner gerechten Strafe zu entziehen, nachdem er Wilddiebe an einen Sklavenhändler verkauft hat, anstatt sie der Nachtwache zu übergeben.
-
-
-
-
 
 Danksagung
 
@@ -8525,13 +8018,11 @@ Mein Dank und meine Anerkennung gelten daher all jenen freundlichen Menschen, di
 
 Und ein besonderer Dank geht an Jennifer Hershey für unbeschreibliche Mühen…
 
-
 Die amerikanische Originalausgabe erschien 1996 unter dem Titel
 
 »A Game of Thrones« (Pages 1-359 + Appendix)
 
 bei Bantam Dell, a division of Random House, Inc., New York.
-
 
 2. Auflage
 
@@ -8562,8 +8053,4 @@ eISBN 978-3-641-03586-0
 www.blanvalet.de
 
 www.randomhouse.de
-
-
-
-
 
