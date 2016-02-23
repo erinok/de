@@ -2,7 +2,7 @@ Inhaltsverzeichnis
 
 Titel
 
-Prolog
+PROLOG
 
 == BRAN
 
@@ -750,7 +750,7 @@ Dany drehte sich um. Es stimmte. Magister Illyrio, der nur noch aus Lächeln und
 
 Daenerys lächelte und richtete sich auf.
 
-== EDDARD
+== EDDARD (1)
 
 Wie ein reißender Fluss von Gold und Silber und poliertem Stahl strömten die Besucher durch die Tore der Burg, dreihundert Mann, eine Pracht von Vasallen und Rittern, von Gefolgsmännern und freien Rittersleuten. Über ihren Köpfen peitschte ein Dutzend goldener Banner im Nordwind hin und her, verziert mit dem gekrönten Hirschen von Baratheon.
 
@@ -792,29 +792,29 @@ Schon immer war Robert Baratheon ein Mann von mächtigem Appetit gewesen, ein Ma
 
 »Majestät«, sagte Ned respektvoll. Er schwang die Laterne in weitem Halbkreis. Schatten taumelten und schwankten. Flackerndes Licht fiel auf die Steine zu ihren Füßen und strich über eine lange Prozession von Granitpfeilern, die paarweise in die Dunkelheit vorausmarschierten. Zwischen den Säulen saßen die Toten auf ihren steinernen Thronen an den Wänden, mit den Rücken an die Grabstätten gelehnt, die ihre sterblichen Überreste bargen. »Sie ist hinten am Ende, bei Vater und Brandon.«
 
-Er lief zwischen den Säulen voraus, und Robert folgte wortlos, fror in der unterirdischen Kälte. Hier unten war es stets kalt. Ihre Schritte hallten im Gewölbe über ihnen nach, während sie sich unter die Toten des Hauses Stark mischten. Die Lords von Winterfell sahen sie vorüberziehen. Ihre Ebenbilder waren in den Stein gemeißelt, der die Gräber versiegelte. In langen Reihen saßen sie da, starrten mit blinden Augen in ewige Finsternis, während große, steinerne Schattenwölfe sich um ihre Füße scharten. Die schwankenden Schatten ließen die Steinfiguren aussehen, als bewegten sie sich, wenn die Lebenden vorübergingen.
+Er lief zwischen den Säulen voraus, und Robert folgte wortlos, fror in der unterirdischen Kälte. Hier unten war es stets kalt. Ihre Schritte hallten im •Gewölbe über ihnen nach, während sie sich unter die Toten des Hauses Stark •mischten. Die Lords von Winterfell sahen sie vorüberziehen. Ihre •Ebenbilder waren in den Stein gemeißelt, der die Gräber versiegelte. In langen Reihen saßen sie da, starrten mit blinden Augen in ewige Finsternis, während große, steinerne Schattenwölfe sich um ihre Füße •scharten. Die •schwankenden Schatten ließen die Steinfiguren aussehen, als bewegten sie sich, wenn die Lebenden vorübergingen.
 
-Aus alter Sitte hatte man jedem, der Lord von Winterfell gewesen war, ein eisernes Langschwert auf den Schoß gelegt, um die rachsüchtigen Geister in ihrer Gruft zu halten. Das älteste war lange schon vom Rost zerfressen, und nur noch ein paar rote Flecken waren zurückgeblieben, wo das Metall auf Stein gelegen hatte. Ned fragte sich, ob es bedeutete, dass sich diese Geister nun frei in seiner Burg bewegen konnten. Er hoffte es nicht. Die ersten Lords von Winterfell waren so hart gewesen wie das Land, über das sie herrschten. In den Jahrhunderten, bevor die Drachenlords über das Meer kamen, hatten sie sich niemandem unterwerfen müssen und sich selbst zu Königen des Nordens gemacht.
+Aus alter Sitte hatte man jedem, der Lord von Winterfell gewesen war, ein eisernes Langschwert auf den Schoß gelegt, um die rachsüchtigen Geister in ihrer •Gruft zu halten. Das älteste war lange schon vom Rost zerfressen, und nur noch ein paar rote Flecken waren zurückgeblieben, wo das Metall auf Stein gelegen hatte. Ned fragte sich, ob es bedeutete, dass sich diese Geister nun frei in seiner Burg bewegen konnten. Er hoffte es nicht. Die ersten Lords von Winterfell waren so hart gewesen wie das Land, über das sie herrschten. In den Jahrhunderten, bevor die Drachenlords über das Meer kamen, hatten sie sich niemandem unterwerfen müssen und sich selbst zu Königen des Nordens gemacht.
 
-Schließlich blieb Ned stehen und hob die Öllaterne in die Höhe. Die Gruft führte noch weiter in die Finsternis vor ihnen, doch von hier an waren die Gräber leer und unverschlossen. Schwarze Gruben erwarteten ihre Toten, warteten auf ihn und seine Kinder. Daran mochte Ned nicht denken. »Hier«, erklärte er seinem König.
+Schließlich blieb Ned stehen und hob die Öllaterne in die Höhe. Die Gruft führte noch weiter in die Finsternis vor ihnen, doch von hier an waren die •Gräber leer und •unverschlossen. Schwarze Gruben erwarteten ihre Toten, warteten auf ihn und seine Kinder. Daran mochte Ned nicht denken. »Hier«, erklärte er seinem König.
 
 Robert nickte leise, kniete nieder und neigte den Kopf.
 
 Es waren drei Gräber, Seite an Seite. Lord Rickard Stark, Neds Vater, hatte ein langes, ernstes Gesicht. Der Steinmetz hatte ihn gut gekannt. In stiller Würde saß er da, die steinernen Finger hielten das Schwert auf seinem Schoß, doch im Leben hatten Schwerter ihm kein Glück gebracht. In zwei kleineren Gräbern zu beiden Seiten lagen seine Kinder.
 
-Brandon war zwanzig gewesen, als er starb, erdrosselt auf Befehl des Irren Königs Aerys Targaryen, nur wenige kurze Tage, bevor er Catelyn Tully von Schnellwasser heiraten sollte. Seinen Vater hatte man gezwungen zuzusehen, wie er starb. Brandon war der wahre Erbe gewesen, der Älteste, zum Herrschen geboren.
+Brandon war zwanzig gewesen, als er starb, erdrosselt auf Befehl des Irren Königs Aerys Targaryen, nur wenige kurze Tage, bevor er Catelyn Tully von Schnellwasser heiraten sollte. Seinen Vater hatte man gezwungen zuzusehen, wie er starb. Brandon war der wahre •Erbe gewesen, der Älteste, zum Herrschen geboren.
 
 Lyanna war erst sechzehn gewesen, ein unvorstellbar liebreizendes Kind von einer Frau. Ned hatte sie von ganzem Herzen geliebt. Robert hatte sie sogar noch mehr geliebt. Sie hatte seine Braut werden sollen.
 
 »Sie war hübscher als das«, sagte der König nach einigem Schweigen. Sein Blick ruhte auf Lyannas Gesicht, als könnte er sie mit seinem Willen wieder zum Leben erwecken.
 
-Schließlich erhob er sich, unbeholfen wegen seines Gewichts. »Ach, verflucht, Ned, musstest du sie an einem solchen Ort begraben?« Seine Stimme war heiser vor Trauer. »Sie verdient Besseres als diese Dunkelheit …«
+Schließlich erhob er sich, •unbeholfen wegen seines Gewichts. »Ach, verflucht, Ned, musstest du sie an einem solchen Ort begraben?« Seine Stimme war heiser vor Trauer. »Sie verdient Besseres als diese Dunkelheit …«
 
 »Sie war eine Stark von Winterfell«, erwiderte Ned leise. »Sie gehört hierher.«
 
-»Sie sollte irgendwo auf einem Hügel liegen, unter einem Obstbaum, mit der Sonne und den Wolken über ihr, und dem Regen, der sie rein wäscht.«
+»Sie sollte irgendwo auf einem Hügel liegen, unter einem •Obstbaum, mit der Sonne und den Wolken über ihr, und dem Regen, der sie rein wäscht.«
 
-»Ich war bei ihr, als sie starb«, erinnerte Ned den König. »Sie wollte heimkehren und neben Brandon und Vater ruhen. « Manchmal konnte er ihre Worte noch hören. Versprich es mir, hatte sie geweint, in einem Zimmer, das nach Blut und Rosen roch. Versprich es mir, Ned. Das Fieber hatte ihr die Kraft geraubt, und ihre Stimme war schwach wie ein Flüstern gewesen, doch als er ihr das Versprechen gab, war die Angst in den Augen seiner Schwester verflogen. Ned erinnerte sich daran, wie sie ihn angelächelt hatte, wie fest ihre Finger die seinen umfassten, als sie das Leben losließ, ihr die Rosenblätter aus der Hand glitten, tot und schwarz. Danach erinnerte er sich an nichts mehr. Man hatte ihn gefunden, mit der Toten im Arm, schweigend vor Trauer. Howland Reet, der kleine Pfahlbaumann, hatte ihre Hand aus seiner gelöst. Daran konnte Ned sich nicht erinnern. »Ich bringe ihr Blumen, wann immer ich kann«, sagte er. »Lyanna war … sie liebte Blumen.«
+»Ich war bei ihr, als sie starb«, erinnerte Ned den König. »Sie wollte heimkehren und neben Brandon und Vater ruhen.« Manchmal konnte er ihre Worte noch hören. Versprich es mir, hatte sie geweint, in einem Zimmer, das nach Blut und Rosen roch. Versprich es mir, Ned. Das Fieber hatte ihr die Kraft geraubt, und ihre Stimme war schwach wie ein Flüstern gewesen, doch als er ihr das Versprechen gab, war die Angst in den Augen seiner Schwester verflogen. Ned erinnerte sich daran, wie sie ihn angelächelt hatte, wie fest ihre Finger die seinen umfassten, als sie das Leben losließ, ihr die Rosenblätter aus der Hand glitten, tot und schwarz. Danach erinnerte er sich an nichts mehr. Man hatte ihn gefunden, mit der Toten im Arm, schweigend vor Trauer. Howland Reet, der kleine Pfahlbaumann, hatte ihre Hand aus seiner gelöst. Daran konnte Ned sich nicht erinnern. »Ich bringe ihr Blumen, wann immer ich kann«, sagte er. »Lyanna war … sie liebte Blumen.«
 
 Der König berührte ihre Wange, und seine Finger strichen so sanft über den groben Stein, als wäre dieser lebendige Haut. »Ich habe geschworen, Rhaegar für das zu töten, was er ihr angetan hat.«
 
@@ -822,7 +822,7 @@ Der König berührte ihre Wange, und seine Finger strichen so sanft über den gr
 
 »Einmal nur«, sagte Robert bitter.
 
-Sie waren sich an der Furt des Trident begegnet, während um sie herum die Schlacht tobte, Robert mit seinem Streithammer und dem großen Geweihhelm, der Targaryen ganz in schwarzer Rüstung. Auf seiner Brustplatte war der dreiköpfige Drache seines Geschlechts zu sehen, mit Rubinen überzogen, die im Sonnenlicht wie Feuer blitzten. Rot färbten sich die Fluten des Trident um die Hufe ihrer Rösser, als sie einander umkreisten und aufeinanderprallten, wieder und immer wieder, bis endlich ein berstender Hieb von Roberts Hammer den Drachen und die Brust darunter traf. Als Ned schließlich hinzukam, lag Rhaegar tot im Strom, während Männer beider Armeen in den tosenden Fluten nach den Rubinen scharrten, die aus seinem Panzer gebrochen waren.
+Sie waren sich an der •Furt des Trident begegnet, während um sie herum die •Schlacht tobte, Robert mit seinem Streithammer und dem großen Geweihhelm, der Targaryen ganz in schwarzer Rüstung. Auf seiner Brustplatte war der dreiköpfige Drache seines Geschlechts zu sehen, mit Rubinen überzogen, die im Sonnenlicht wie Feuer blitzten. Rot färbten sich die Fluten des Trident um die Hufe ihrer Rösser, als sie einander umkreisten und aufeinanderprallten, wieder und immer wieder, bis endlich ein berstender Hieb von Roberts Hammer den Drachen und die Brust darunter traf. Als Ned schließlich hinzukam, lag Rhaegar tot im Strom, während Männer beider Armeen in den tosenden Fluten nach den Rubinen scharrten, die aus seinem Panzer gebrochen waren.
 
 »In meinen Träumen töte ich ihn jede Nacht«, gestand Robert. »Tausende Tode wären noch immer weniger, als er verdient. «
 
@@ -832,13 +832,13 @@ Es gab nichts, was Ned dazu hätte sagen können. Nach einigem Schweigen meinte 
 
 »Ich habe es nicht vergessen«, erwiderte Ned leise. Als der König nicht antwortete, sagte er: »Erzähl mir von Jon.«
 
-Robert schüttelte den Kopf. »Noch nie habe ich gesehen, wie ein Mann so schnell verfallen ist. Wir hatten ein Turnier am Namenstag meines Sohnes. Hättest du Jon da gesehen, hättest du geschworen, dass er ewig lebt. Vierzehn Tage später war er tot. Die Krankheit erhob sich wie eine Feuersbrunst in seinem Gedärm. Sie hat sich geradewegs durch ihn hindurchgebrannt.« An einer Säule blieb er stehen, vor dem Sarg eines lang verstorbenen Stark. »Ich habe den alten Mann geliebt.«
+Robert schüttelte den Kopf. »Noch nie habe ich gesehen, wie ein Mann so schnell verfallen ist. Wir hatten ein Turnier am Namenstag meines Sohnes. Hättest du Jon da gesehen, hättest du geschworen, dass er ewig lebt. Vierzehn Tage später war er tot. Die Krankheit erhob sich wie eine Feuersbrunst in seinem •Gedärm. Sie hat sich geradewegs durch ihn hindurchgebrannt.« An einer •Säule blieb er stehen, vor dem •Sarg eines lang verstorbenen Stark. »Ich habe den alten Mann geliebt.«
 
-»Das haben wir beide getan.« Ned wartete einen Moment. »Catelyn fürchtet um ihre Schwester. Wie trägt Lysa ihre Trauer?«
+»Das haben wir beide getan.« Ned wartete einen Moment. »Catelyn fürchtet um ihre Schwester. Wie trägt Lysa ihre •Trauer?«
 
-Um Roberts Mund erschien ein bitterer Zug. »Nicht gut, um die Wahrheit zu sagen«, gestand er. »Ich glaube, Jon zu verlieren, hat die Frau um den Verstand gebracht, Ned. Sie hat den Jungen mit zurück auf die Ehr genommen. Gegen meinen Wunsch. Ich hatte gehofft, ich könnte ihn Tywin Lennister in Casterlystein anvertrauen. Jon hat keine Brüder, keine weiteren Söhne. Sollte ich zulassen, dass er von Frauen aufgezogen wird?«
+Um Roberts Mund erschien ein bitterer Zug. »Nicht gut, um die Wahrheit zu sagen«, gestand er. »Ich glaube, Jon zu verlieren, hat die Frau um den •Verstand gebracht, Ned. Sie hat den Jungen mit zurück auf die Ehr genommen. Gegen meinen Wunsch. Ich hatte gehofft, ich könnte ihn Tywin Lennister in Casterlystein anvertrauen. Jon hat keine Brüder, keine weiteren Söhne. Sollte ich zulassen, dass er von Frauen aufgezogen wird?«
 
-Ned hätte ein Kind eher einer Schlange als Lord Tywin anvertraut, doch ließ er seine Zweifel unausgesprochen. Manch alte Wunde heilt niemals wirklich und blutet beim leisesten Wort. »Die Frau hat ihren Mann verloren«, sagte er vorsichtig. »Vielleicht fürchtete die Mutter, den Sohn nun ebenfalls zu verlieren. Der Junge ist noch sehr klein.«
+Ned hätte ein Kind eher einer Schlange als Lord Tywin anvertraut, doch ließ er seine Zweifel unausgesprochen. Manch alte •Wunde heilt niemals wirklich und blutet beim leisesten Wort. »Die Frau hat ihren Mann verloren«, sagte er vorsichtig. »Vielleicht fürchtete die Mutter, den Sohn nun ebenfalls zu verlieren. Der Junge ist noch sehr klein.«
 
 »Sechs Jahre und kränklich und – mögen uns die Götter gnädig sein – Lord über Hohenehr«, fluchte der König. »Lord Tywin hatte noch nie ein Mündel zu sich genommen. Lysa hätte sich geehrt fühlen sollen. Die Lennisters sind ein großes und edles Geschlecht. Sie hat sich geweigert, auch nur davon zu hören. Dann ist sie mitten in der Nacht abgereist, ohne sich zu verabschieden. Cersei war außer sich.« Er seufzte tief. »Der Junge ist mein Namensvetter, wusstest du das? Robert Arryn. Ich habe geschworen, ihn zu beschützen. Wie kann ich das, wenn seine Mutter ihn verschleppt?«
 
@@ -848,11 +848,11 @@ Ned hätte ein Kind eher einer Schlange als Lord Tywin anvertraut, doch ließ er
 
 »Das Wohlergehen meines Neffen liegt mir mehr am Herzen als der Stolz der Lennisters«, erklärte Ned.
 
-»Weil du nicht mit einer Lennister schläfst«, lachte Robert. Sein Lachen hallte zwischen den Särgen und kehrte von der gewölbten Decke zurück. Im Dickicht des mächtigen, schwarzen Bartes blitzten weiße Zähne auf, als er lächelte. »Ach, Ned«, sagte er, »du bist noch immer viel zu ernst.« Er legte den massigen Arm um Neds Schulter. »Ich hatte ein paar Tage warten wollen, bis ich mit dir spreche, doch jetzt sehe ich, dass es dafür keinen Grund gibt. Komm, geh ein Stück mit mir.«
+»Weil du nicht mit einer Lennister schläfst«, lachte Robert. Sein •Lachen hallte zwischen den Särgen und kehrte von der •gewölbten Decke zurück. Im •Dickicht des mächtigen, schwarzen Bartes blitzten weiße Zähne auf, als er lächelte. »Ach, Ned«, sagte er, »du bist noch immer viel zu ernst.« Er legte den massigen Arm um Neds Schulter. »Ich hatte ein paar Tage warten wollen, bis ich mit dir spreche, doch jetzt sehe ich, dass es dafür keinen Grund gibt. Komm, geh ein Stück mit mir.«
 
 Sie setzten zwischen den Säulen hindurch den Rückweg fort. Blinde, steinerne Augen schienen ihnen zu folgen, wenn sie vorübergingen. Noch immer hatte der König seinen Arm um Neds Schulter gelegt. »Du wirst dich gefragt haben, wieso ich endlich in den Norden nach Winterfell gekommen bin, nach so langer Zeit.«
 
-Ned hatte seine Vermutungen, doch behielt er sie für sich. »Um das Vergnügen meiner Gesellschaft zu haben, nehme ich doch an«, sagte er freudig. »Und dann ist da die Mauer. Die müsst Ihr sehen, Majestät, auf ihren Zinnen spazieren und mit denen sprechen, die sie bemannen. Die Nachtwache ist nur noch ein Schatten dessen, was sie einmal darstellte. Benjen sagt …«
+Ned hatte seine •Vermutungen, doch behielt er sie für sich. »Um das •Vergnügen meiner •Gesellschaft zu haben, nehme ich doch an«, sagte er freudig. »Und dann ist da die Mauer. Die müsst Ihr sehen, Majestät, auf ihren Zinnen spazieren und mit denen sprechen, die sie bemannen. Die Nachtwache ist nur noch ein Schatten dessen, was sie einmal darstellte. Benjen sagt …«
 
 »Zweifelsohne werde ich noch früh genug erfahren, was dein Bruder sagt«, unterbrach ihn Robert. »Die Mauer steht jetzt – wie lange? – seit achttausend Jahren. Sie wird noch ein paar Tage warten können. Ich habe drängendere Probleme. Wir leben in schwierigen Zeiten. Ich brauche gute Männer um mich. Männer wie Jon Arryn. Er hat mir als Lord über Hohenehr gedient, als Wächter des Ostens, als Rechte Hand des Königs. Er wird nicht leicht zu ersetzen sein.«
 
@@ -864,13 +864,13 @@ Das überraschte Ned. Er blieb stehen, verdutzt, und wandte sich um, damit er se
 
 »Vielleicht kann man ihm diese Ehre wieder übertragen, wenn er alt genug ist«, sagte Robert. »Ich muss dieses und das nächste Jahr bedenken. Ein Sechsjähriger ist kein Kriegsherr, Ned.«
 
-»In Friedenszeiten ist der Titel nicht mehr als eine Ehre. Lass ihn dem Jungen. Um seines Vaters willen, wenn schon nicht um seiner selbst willen. Das bist du Jon für seine Dienste sicher schuldig.«
+»In Friedenszeiten ist der Titel nicht mehr als eine Ehre. Lass ihn dem Jungen. Um seines Vaters willen, wenn schon nicht um seiner selbst willen. Das bist du Jon für seine •Dienste sicher schuldig.«
 
 Der König war nicht eben erfreut. Er nahm den Arm von Neds Schulter. »Jons Dienste waren die Pflicht, die er seinem Lehnsherrn schuldete. Ich bin nicht undankbar, Ned. Du vor allem solltest das wissen. Aber der Sohn ist nicht der Vater. Ein Kind allein kann den Osten nicht halten.« Dann wurde seine Stimme milder. »Genug davon. Es gibt Wichtigeres zu besprechen, und ich möchte mit dir nicht streiten.« Robert packte Ned beim Ellbogen. »Ich brauche dich, Ned.«
 
-»Ich stehe Euch zur Verfügung, Majestät. Jederzeit.« Es waren Worte, die er sagen musste, und so sprach er sie aus, besorgt darum, was als Nächstes folgen mochte.
+»Ich stehe Euch zur •Verfügung, Majestät. Jederzeit.« Es waren Worte, die er sagen musste, und so sprach er sie aus, besorgt darum, was als Nächstes folgen mochte.
 
-Robert schien ihn kaum zu hören. »Jene Jahre, die wir auf Hohenehr verbracht haben … bei den Göttern, das waren gute Jahre. Ich möchte dich wieder an meiner Seite sehen, Ned. Ich möchte dich unten in Königsmund haben, nicht hier oben am Ende der Welt, wo du niemandem nützt.« Robert blickte in die Dunkelheit, einen Moment lang melancholisch wie ein Stark. »Ich schwöre dir: Auf einem Thron zu sitzen ist tausend Mal schwerer, als einen zu erobern. Gesetze sind eine öde Angelegenheit, und Kupfermünzen zählen noch viel schlimmer. Und diese Leute … sie nehmen einfach kein Ende. Ich sitze da auf diesem gottverdammten Eisenstuhl und hör mir ihre Klagen an, bis mein Verstand benebelt und mein Hintern wund ist. Alle wollen irgendwas, Geld oder Land oder Gerechtigkeit. Die Lügen, die sie erzählen … und meine Lords und Ladys sind nicht besser. Ich bin von Schmeichlern und Narren umgeben. Das kann einen Mann in den Wahnsinn treiben, Ned. Die eine Hälfte von ihnen wagt nicht, mir die Wahrheit zu sagen, und die andere Hälfte kann sie nicht finden. Es gibt Nächte, in denen ich mir wünsche, wir hätten am Trident verloren. Ach nein, nicht wirklich, aber …«
+Robert schien ihn kaum zu hören. »Jene Jahre, die wir auf Hohenehr verbracht haben … bei den Göttern, das waren gute Jahre. Ich möchte dich wieder an meiner Seite sehen, Ned. Ich möchte dich unten in Königsmund haben, nicht hier oben am Ende der Welt, wo du niemandem nützt.« Robert blickte in die Dunkelheit, einen Moment lang melancholisch wie ein Stark. »Ich schwöre dir: Auf einem Thron zu sitzen ist tausend Mal schwerer, als einen zu erobern. Gesetze sind eine •öde •Angelegenheit, und Kupfermünzen zählen noch viel schlimmer. Und diese Leute … sie nehmen einfach kein Ende. Ich sitze da auf diesem gottverdammten Eisenstuhl und hör mir ihre Klagen an, bis mein Verstand benebelt und mein Hintern wund ist. Alle wollen irgendwas, Geld oder Land oder Gerechtigkeit. Die Lügen, die sie erzählen … und meine Lords und Ladys sind nicht besser. Ich bin von Schmeichlern und Narren umgeben. Das kann einen Mann in den Wahnsinn treiben, Ned. Die eine Hälfte von ihnen wagt nicht, mir die Wahrheit zu sagen, und die andere Hälfte kann sie nicht finden. Es gibt Nächte, in denen ich mir wünsche, wir hätten am Trident verloren. Ach nein, nicht wirklich, aber …«
 
 »Ich verstehe«, sagte Ned sanft.
 
@@ -896,7 +896,7 @@ Schließlich verklang das Gelächter und erstarb. Ned stützte sich noch immer a
 
 Dieses Angebot erstaunte ihn nun doch. »Sansa ist erst elf.«
 
-Ungeduldig winkte Robert ab. »Alt genug für die Verlobung. Die Heirat kann ein paar Jahre warten.« Der König lächelte. »Nun steh auf und sag ja, verdammt!«
+Ungeduldig winkte Robert ab. »Alt genug für die •Verlobung. Die Heirat kann ein paar Jahre warten.« Der König lächelte. »Nun steh auf und sag ja, verdammt!«
 
 »Nichts würde mir größere Freude bereiten, Majestät«, antwortete Ned. Er zögerte. »Diese Ehrungen kommen allesamt sehr unerwartet. Habe ich etwas Zeit, sie zu bedenken? Ich muss mich mit meiner Frau besprechen …«
 
