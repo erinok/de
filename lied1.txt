@@ -2,21 +2,21 @@ Inhaltsverzeichnis
 
 Titel
 
-PROLOG
+xx PROLOG
 
-== BRAN
+xx == BRAN
 
-== CATELYN
+xx == CATELYN
 
-== DAENERYS
+xx == DAENERYS
 
-== EDDARD
+xx == EDDARD
 
-== JON
+xx == JON
 
-== CATELYN
+xx == CATELYN
 
-== ARYA
+xx == ARYA
 
 == BRAN
 
@@ -906,13 +906,13 @@ Einen Moment lang war Eddard Stark von einer schrecklichen Vorahnung erfüllt. H
 
 == JON
 
-Es gab Momente – nicht viele, aber einige wenige –, in denen Jon Schnee sich freute, ein Bastard zu sein. Als er seinen Weinbecher ein weiteres Mal aus einem der Krüge nachfüllte, die herumgereicht wurden, kam ihm in den Sinn, dass dieser Augenblick ein solcher sein mochte.
+Es gab Momente – nicht viele, aber einige wenige –, in denen Jon Schnee sich freute, ein Bastard zu sein. Als er seinen •Weinbecher ein weiteres Mal aus einem der •Krüge nachfüllte, die herumgereicht wurden, kam ihm in den Sinn, dass dieser Augenblick ein solcher sein mochte.
 
 Er lehnte sich an seinem Platz auf der Bank zwischen den jüngeren Schildknappen zurück und trank. Der süße, fruchtige Geschmack von Sommerwein erfüllte seinen Mund und lockte ein Lächeln auf seine Lippen.
 
-Die Große Halle von Winterfell war von Rauch vernebelt. Schwer hing der Duft von geröstetem Fleisch und frisch gebackenem Brot in der Luft. Die grauen Steinwände waren mit Bannern verziert. Weiß, Gold, Rot: der Schattenwolf von Stark, Baratheons gekrönter Hirsch, der Löwe von Lennister. Ein Sänger spielte die Harfe und trug eine Ballade vor, doch unten am Ende des Saales war seine Stimme beim Prasseln des Feuers, dem Klirren von Zinntellern und Bechern und dem tiefen Gemurmel von hundert trunkenen Gesprächen kaum noch zu vernehmen.
+Die Große Halle von Winterfell war von •Rauch •vernebelt. Schwer hing der •Duft von geröstetem Fleisch und frisch gebackenem Brot in der Luft. Die grauen Steinwände waren mit Bannern verziert. Weiß, Gold, Rot: der Schattenwolf von Stark, Baratheons gekrönter Hirsch, der Löwe von Lennister. Ein Sänger spielte die Harfe und trug eine Ballade vor, doch unten am Ende des Saales war seine Stimme beim Prasseln des Feuers, dem Klirren von Zinntellern und Bechern und dem tiefen Gemurmel von hundert trunkenen Gesprächen kaum noch zu vernehmen.
 
-Es war die vierte Stunde des Willkommensfestes, das man dem König bereitete. Jons Brüder und Schwestern hatte man zu den Königskindern gesetzt, unterhalb des erhöhten Podiums, auf dem Lord und Lady Stark den König und die Königin bewirteten. Zur Feier dieses Anlasses würde sein Hoher Vater zweifellos jedem Kind ein Glas Wein gestatten, doch nicht mehr als das. Hier unten auf den Bänken gab es niemanden, der Jon daran hätte hindern können, so viel zu trinken, wie sein Durst befahl.
+Es war die vierte Stunde des Willkommensfestes, das man dem König bereitete. Jons Brüder und Schwestern hatte man zu den Königskindern gesetzt, unterhalb des erhöhten Podiums, auf dem Lord und Lady Stark den König und die Königin •bewirteten. Zur Feier dieses •Anlasses würde sein Hoher Vater •zweifellos jedem Kind ein Glas Wein gestatten, doch nicht mehr als das. Hier unten auf den Bänken gab es niemanden, der Jon daran hätte hindern können, so viel zu trinken, wie sein Durst befahl.
 
 Und er stellte fest, dass er den Durst eines Mannes hatte, zum rauen Vergnügen der Jungen um ihn herum, die ihn anspornten, sobald er sein Glas geleert hatte. Sie waren angenehme Gesellschaft, und Jon genoss die Geschichten, die sie erzählten, Märchen von Schlachten, Bett und Jagd. Und bestimmt waren seine Gefährten unterhaltsamer als die Sprösslinge des Königs. Seine Neugier auf die Besucher hatte er befriedigt, als sie in den Saal eingezogen waren. Kaum einen Fuß von seinem Platz entfernt, den man ihm auf der Bank zugewiesen hatte, war die Prozession vorbeigezogen, und Jon hatte sich jeden einzelnen gut ansehen können.
 
@@ -1278,15 +1278,15 @@ Ned wandte sich von ihnen ab, blickte aus dem Fenster, das lange Gesicht still u
 
 Wieder waren Aryas Stiche schief.
 
-Erschrocken blickte sie darauf und sah hinüber, wo ihre Schwester Sansa zwischen den anderen Mädchen saß. Sansas Handarbeiten waren vorzüglich. Alle sagten das. »Sansas Arbeit ist so hübsch wie sie selbst«, hatte Septa Mordane ihrer Hohen Mutter einst erklärt. »Sie hat so feine, zarte Hände.« Als Lady Catelyn sich nach Arya erkundigte, hatte die Septa die Nase gerümpft. »Arya hat die Hände eines Schmieds.«
+Erschrocken blickte sie darauf und sah hinüber, wo ihre Schwester Sansa zwischen den anderen Mädchen saß. Sansas Handarbeiten waren vorzüglich. Alle sagten das. »Sansas Arbeit ist so hübsch wie sie selbst«, hatte Septa Mordane ihrer Hohen Mutter einst erklärt. »Sie hat so feine, zarte Hände.« Als Lady Catelyn sich nach Arya erkundigte, hatte die Septa die Nase gerümpft. »Arya hat die Hände eines •Schmieds.«
 
-Heimlich sah sich Arya im Zimmer um, fürchtete, dass Septa Mordane ihre Gedanken gelesen haben mochte, doch die Septa schenkte ihr heute keinerlei Beachtung. Sie saß mit Prinzessin Myrcella da, lächelte stetig und voller Bewunderung. Es kam nicht oft vor, dass die Septa das Privileg genoss, eine Prinzessin in den weiblichen Künsten unterweisen zu dürfen, wie sie es auszudrücken pflegte, als die Königin Myrcella zu ihnen gebracht hatte. Arya fand, dass auch Myrcellas Stiche etwas schief aussahen, doch Septa Mordane war davon nichts anzumerken.
+Heimlich sah sich Arya im Zimmer um, fürchtete, dass Septa Mordane ihre Gedanken gelesen haben mochte, doch die Septa schenkte ihr heute keinerlei •Beachtung. Sie saß mit Prinzessin Myrcella da, lächelte stetig und voller Bewunderung. Es kam nicht oft vor, dass die Septa das Privileg genoss, eine Prinzessin in den weiblichen Künsten unterweisen zu dürfen, wie sie es auszudrücken pflegte, als die Königin Myrcella zu ihnen gebracht hatte. Arya fand, dass auch Myrcellas Stiche etwas schief aussahen, doch Septa Mordane war davon nichts anzumerken.
 
 Wieder betrachtete sie ihr eigenes Werk, suchte nach einer Möglichkeit, es noch zu retten, dann seufzte sie und legte die Nadel nieder. Bedrückt sah sie ihre Schwester an. Sansa plapperte fröhlich während der Arbeit. Beth Cassel, Ser Rodriks kleines Mädchen, saß zu ihren Füßen, lauschte jedem Wort, das sie sagte, und Jeyne Pool beugte sich vor, um ihr etwas ins Ohr zu flüstern.
 
 »Was redet ihr da?«, fragte Arya plötzlich.
 
-Jeyne warf ihr einen verdutzten Blick zu, dann kicherte sie. Sansa sah beschämt aus. Beth errötete. Niemand antwortete.
+Jeyne warf ihr einen verdutzten Blick zu, dann kicherte sie. Sansa sah beschämt aus. Beth `errötete. Niemand antwortete.
 
 »Sagt es mir«, sagte Arya.
 
@@ -1348,13 +1348,13 @@ Er lächelte. »Dann komm her.«
 
 Arya kletterte zum Fenster hinauf und setzte sich neben ihn, zum Chor von dumpfen Schlägen und angestrengtem Stöhnen.
 
-Zu ihrer Enttäuschung übten dort die kleineren Jungen. Bran war derart dick gepolstert, dass er aussah, als hätte er ein Federbett um sich gewickelt, und Prinz Tommen, der ohnehin etwas dicklich war, wirkte nun wie eine Kugel. Sie keuchten und schnauften und schlugen mit gepolsterten Holzschwertern aufeinander ein, und alles unter den Augen von Ser Rodrik Cassel, dem Waffenmeister, einem großen, gestauchten Fass von einem Mann mit prächtig weißem Backenbart. Ein Dutzend Zuschauer, Männer und Jungen, feuerten sie an, und Robbs Stimme war die lauteste von allen. Sie entdeckte Theon Graufreud neben ihm, das schwarze Wams mit dem goldenen Kraken seines Hauses bestickt. Auf seinem Gesicht zeigte sich Verachtung. Beide Kämpfer taumelten. Vermutlich waren sie schon eine Weile dabei.
+Zu ihrer Enttäuschung übten dort die kleineren Jungen. Bran war derart dick gepolstert, dass er aussah, als hätte er ein Federbett um sich gewickelt, und Prinz Tommen, der ohnehin etwas dicklich war, wirkte nun wie eine •Kugel. Sie keuchten und schnauften und schlugen mit gepolsterten Holzschwertern aufeinander ein, und alles unter den Augen von Ser Rodrik Cassel, dem Waffenmeister, einem großen, gestauchten Fass von einem Mann mit prächtig weißem Backenbart. Ein Dutzend Zuschauer, Männer und Jungen, feuerten sie an, und Robbs Stimme war die lauteste von allen. Sie entdeckte Theon Graufreud neben ihm, das schwarze Wams mit dem goldenen Kraken seines Hauses bestickt. Auf seinem Gesicht zeigte sich Verachtung. Beide Kämpfer taumelten. Vermutlich waren sie schon eine Weile dabei.
 
 »Einen Hauch ermüdender als Handarbeit«, bemerkte Jon.
 
 »Einen Hauch vergnüglicher als Handarbeit«, gab Arya zurück. Jon grinste, streckte eine Hand aus und zauste ihr Haar. Arya errötete. Schon immer hatten sie einander nahegestanden. Jon besaß das Gesicht ihres Vaters, genau wie sie. Sie waren die einzigen. Robb und Sansa und Bran und selbst der kleine Rickon kamen allesamt nach den Tullys, stets lächelnd und mit Feuer im Haar. Als Arya klein gewesen war, hatte sie befürchtet, es bedeutete, dass auch sie ein Bastard sei. Jon war es gewesen, zu dem sie mit ihren Befürchtungen gegangen war, und Jon hatte sie beruhigt.
 
-»Wieso bist du nicht unten auf dem Hof?«, fragte Arya.
+»Wieso bist du nicht unten auf dem `Hof?«, fragte Arya.
 
 Mit halbem Lächeln sah er sie an. »Einem Bastard ist es nicht gestattet, junge Prinzen zu verbeulen«, sagte er. »Die Prellungen, die sie von ihren Übungen heimbringen, müssen von reinrassigen Schwertern stammen.«
 
@@ -1448,25 +1448,25 @@ Es war schlimmer, als Jon gedacht hatte. Nicht allein Septa Mordane erwartete si
 
 == BRAN
 
-Die Jagd begann im Morgengrauen. Der König wollte wilde Keiler zum abendlichen Fest. Prinz Joffrey ritt mit seinem Vater, sodass auch Robb gestattet wurde, sich den Jägern anzuschließen. Onkel Benjen, Jory, Theon Graufreud, Ser Rodrik und sogar der komische kleine Bruder der Königin waren allesamt mit ihnen ausgeritten. Schließlich war es die letzte Jagd. Am nächsten Morgen wollten sie gen Süden aufbrechen.
+Die Jagd begann im Morgengrauen. Der König wollte wilde `Keiler zum `abendlichen Fest. Prinz Joffrey ritt mit seinem Vater, sodass auch Robb `gestattet wurde, sich den Jägern anzuschließen. Onkel Benjen, Jory, Theon Graufreud, Ser Rodrik und sogar der komische kleine Bruder der Königin waren allesamt mit ihnen ausgeritten. Schließlich war es die letzte Jagd. Am nächsten Morgen wollten sie gen Süden aufbrechen.
 
 Bran war mit Jon, den Mädchen und Rickon zu Hause geblieben. Aber Rickon war noch ein kleines Kind, die Mädchen waren eben Mädchen und Jon und sein Wolf nirgends aufzutreiben. Bran suchte ihn nicht gerade fieberhaft. Er glaubte, Jon sei ihm böse. In letzter Zeit schien Jon auf alle böse zu sein. Bran wusste nicht, wieso. Er würde mit Onkel Ben zur Mauer gehen, um sich dort der Nachtwache anzuschließen. Das war fast genauso gut, wie mit dem König gen Süden zu ziehen. Robb war es, der zurückbleiben würde, nicht Jon.
 
-Tagelang konnte Bran es kaum erwarten, abzureisen. Auf einem eigenen Pferd würde er über den Königsweg reiten, nicht auf einem Pony, sondern auf einem richtigen Pferd. Sein Vater würde die Rechte Hand des Königs sein, und sie würden in der roten Burg von Königsmund leben, der Burg, welche die Drachenlords errichtet hatten. Die Alte Nan sagte, dort gäbe es Gespenster und Verliese, in denen schreckliche Dinge vor sich gegangen seien, und dazu Drachenköpfe auf den Mauern. Der bloße Gedanke daran ließ Bran einen Schauer über den Rücken rinnen, doch fürchtete er sich nicht. Wie konnte er sich fürchten? Sein Vater wäre bei ihm, und auch der König mit seinen Rittern und den Gefolgsleuten.
+Tagelang konnte Bran es kaum erwarten, abzureisen. Auf einem eigenen Pferd würde er über den Königsweg reiten, nicht auf einem Pony, sondern auf einem richtigen Pferd. Sein Vater würde die Rechte Hand des Königs sein, und sie würden in der roten Burg von Königsmund leben, der Burg, welche die Drachenlords errichtet hatten. Die Alte Nan sagte, dort gäbe es `Gespenster und `Verliese, in denen schreckliche Dinge vor sich gegangen seien, und dazu Drachenköpfe auf den Mauern. Der bloße Gedanke daran ließ Bran einen Schauer über den Rücken rinnen, doch fürchtete er sich nicht. Wie konnte er sich `fürchten? Sein Vater wäre bei ihm, und auch der König mit seinen Rittern und den Gefolgsleuten.
 
-Eines Tages würde Bran selbst Ritter sein, einer aus der Königsgarde. Die Alte Nan sagte, das seien die besten Krieger im ganzen Reich. Es gab nur sieben von ihnen, und sie trugen weiße Rüstungen und hatten weder Frauen noch Kinder, sondern lebten nur für den Dienst am König. Bran kannte sämtliche Geschichten. Ihre Namen waren wie Musik in seinen Ohren. Serwyn vom Spiegelschild. Ser Ryam Rothweyn. Prinz Aemon der Drachenritter. Die Zwillinge Ser Erryk und Ser Arryk, die vor Jahrhunderten schon durch das Schwert des anderen gestorben waren, als Bruder und Schwester einander in einem Krieg bekämpften, den die Sänger als »Drachentanz« bezeichneten. Der Weiße Bulle Gerold Hohenturm. Ser Arthur Dayne, das Schwert des Morgens. Barristan, der Kühne.
+Eines Tages würde Bran selbst Ritter sein, einer aus der Königsgarde. Die Alte Nan sagte, das seien die besten Krieger im ganzen Reich. Es gab nur sieben von ihnen, und sie trugen weiße Rüstungen und hatten weder Frauen noch Kinder, sondern lebten nur für den `Dienst am König. Bran kannte sämtliche Geschichten. Ihre Namen waren wie Musik in seinen Ohren. Serwyn vom Spiegelschild. Ser Ryam Rothweyn. Prinz Aemon der Drachenritter. Die Zwillinge Ser Erryk und Ser Arryk, die vor Jahrhunderten schon durch das Schwert des anderen gestorben waren, als Bruder und Schwester einander in einem Krieg bekämpften, den die Sänger als »Drachentanz« bezeichneten. Der Weiße Bulle Gerold Hohenturm. Ser Arthur Dayne, das Schwert des Morgens. Barristan, der Kühne.
 
 Zwei aus der Königsgarde waren mit König Robert in den Norden gekommen. Voller Begeisterung hatte Bran sie beobachtet, doch nie gewagt, sie anzusprechen. Ser Boros war ein kahler Mann mit Hängebacken, und Ser Meryn mit den müden Augen und einem rostfarbenen Bart. Ser Jaime Lennister sah eher aus wie die Ritter in den Geschichten, und auch er gehörte der Königsgarde an, doch Robb sagte, er habe den alten Irren König erschlagen und zähle daher nicht. Der größte aller lebenden Ritter war Ser Barristan Selmy, Barristan der Kühne, Kommandant der Königsgarde. Vater hatte versprochen, dass sie Ser Barristan treffen würden, wenn sie nach Königsmund kämen, und Bran hatte die Tage an der Hand abgezählt, in Vorfreude auf die Reise, die ihm eine Welt zu Gesicht bringen sollte, von der er bisher nur geträumt hatte, um dort ein Leben zu beginnen, das er sich kaum vorzustellen wagte.
 
-Doch nun, da der letzte Tag angebrochen war, fühlte sich Bran verloren. Er hatte bisher immer in Winterfell gelebt. Sein Vater hatte ihm erklärt, dass er sich heute verabschieden sollte, und er hatte es versucht. Nachdem die Jagdgesellschaft ausgeritten war, ging er mit seinem Wolf durch die Burg, in der Absicht, diejenigen aufzusuchen, die er zurücklassen musste, die Alte Nan und Gage, den Koch, Mikken in seiner Schmiede, Hodor, den Stalljungen, der immer lächelte und sich um sein Pony kümmerte und nie etwas anderes als »Hodor« sagte, den Mann in den Gläsernen Gärten, der ihm stets eine Brombeere schenkte, wenn er ihn besuchte …
+Doch nun, da der letzte Tag angebrochen war, fühlte sich Bran verloren. Er hatte bisher immer in Winterfell gelebt. Sein Vater hatte ihm erklärt, dass er sich heute verabschieden sollte, und er hatte es versucht. Nachdem die Jagdgesellschaft ausgeritten war, ging er mit seinem Wolf durch die Burg, in der Absicht, diejenigen aufzusuchen, die er zurücklassen musste, die Alte Nan und Gage, den Koch, Mikken in seiner Schmiede, Hodor, den Stalljungen, der immer lächelte und sich um sein Pony kümmerte und nie etwas anderes als »Hodor« sagte, den Mann in den Gläsernen Gärten, der ihm stets eine `Brombeere schenkte, wenn er ihn besuchte …
 
 Doch es ergab keinen Sinn. Zuerst war er zum Stall gegangen und hatte sein Pony dort stehen sehen, nur dass es nicht mehr sein Pony war, denn er bekam ein echtes Pferd und sollte das Pony zurücklassen, und ganz plötzlich hätte sich Bran am liebsten hingesetzt und geweint. Er drehte sich um, rannte davon, bevor Hodor und die anderen Stalljungen die Tränen in seinen Augen sahen. Damit war sein Abschied beendet. Stattdessen verbrachte Bran den Morgen allein im Götterhain, versuchte, seinem Wolf beizubringen, wie man Stöckchen holt, und scheiterte dabei. Der Wolf war klüger als alle Hunde in der Meute seines Vaters, und Bran hätte schwören können, dass er jedes Wort verstand, das man zu ihm sagte, doch zeigte er nur wenig Interesse daran, Stöckchen zu holen.
 
-Noch immer hatte sich Bran nicht für einen Namen entscheiden können. Robb nannte seinen Grauwind, weil er so schnell laufen konnte. Sansa hatte ihren Lady genannt, Arya ihren nach irgendeiner alten Hexe aus den Liedern, und der kleine Rickon nannte seinen Struppel, was Bran für einen ziemlich dummen Namen für einen Schattenwolf hielt. Jons Wolf, der weiße, hieß Geist. Bran wünschte, es wäre ihm zuerst eingefallen, obwohl sein Wolf nicht weiß war. Hundert Namen hatte er in den vergangenen zwei Wochen probiert, doch keiner klang passend.
+Noch immer hatte sich Bran nicht für einen Namen entscheiden können. Robb nannte seinen Grauwind, weil er so schnell laufen konnte. Sansa hatte ihren Lady genannt, Arya ihren nach irgendeiner alten Hexe aus den Liedern, und der kleine Rickon nannte seinen `Struppel, was Bran für einen ziemlich dummen Namen für einen Schattenwolf hielt. Jons Wolf, der weiße, hieß Geist. Bran wünschte, es wäre ihm zuerst eingefallen, obwohl sein Wolf nicht weiß war. Hundert Namen hatte er in den vergangenen zwei Wochen probiert, doch keiner klang passend.
 
 Schließlich wurde er des Stöckchenwerfens müde und beschloss, klettern zu gehen. Seit Wochen war er nicht mehr oben auf der Turmruine gewesen, so viel war los gewesen, und heute mochte die letzte Gelegenheit dazu sein.
 
-Er lief durch den Götterhain, nahm den langen Weg, um dem Teich auszuweichen, wo der Herzbaum wuchs. Schon immer hatte ihm der Herzbaum Angst gemacht. Bäume sollten keine Augen haben, dachte Bran, und auch keine Blätter, die wie Hände waren. Sein Wolf jagte hinter ihm her. »Du bleibst hier«, befahl er ihm am Fuße des Wachbaumes nahe der Mauer zur Waffenkammer. »Platz. So ist es recht. Und jetzt sitz.«
+Er lief durch den `Götterhain, nahm den langen Weg, um dem `Teich `auszuweichen, wo der Herzbaum wuchs. Schon immer hatte ihm der Herzbaum Angst gemacht. Bäume sollten keine Augen haben, dachte Bran, und auch keine Blätter, die wie Hände waren. Sein Wolf jagte hinter ihm her. »Du bleibst hier«, befahl er ihm am Fuße des Wachbaumes nahe der Mauer zur Waffenkammer. »Platz. So ist es recht. Und jetzt sitz.«
 
 Der Wolf tat, was man ihm sagte. Bran kraulte ihn hinter den Ohren, dann wandte er sich ab, sprang hoch, packte einen Ast und zog sich nach oben. Er war schon auf halbem Weg den Baum hinauf, kletterte mühelos von einem Ast zum anderen, als der Wolf aufsprang und zu heulen begann.
 
@@ -1474,7 +1474,7 @@ Bran sah hinab. Da schwieg sein Wolf, starrte ihn aus gelben Schlitzaugen an. Ei
 
 Die Dächer von Winterfell waren Brans zweite Heimat. Oft sagte seine Mutter, Bran habe klettern können, bevor er lief, aber er selbst konnte sich nicht mehr erinnern, wann er zu klettern begonnen hatte, also musste es wohl stimmen.
 
-Für einen Jungen war Winterfell ein grauer, steinerner Irrgarten aus Mauern und Türmen und Höfen und Tunneln, die sich in alle Richtungen ausbreiteten. In den älteren Teilen der Burg konnte man nie sicher sein, in welchem Stockwerk man sich gerade befand. Die Anlage war im Laufe von Jahrhunderten wie ein monströser, steinerner Baum gewachsen, so hatte Maester Luwin es ihm erklärt, und die Äste waren knorrig und dick und verdreht, die Wurzeln tief in die Erde eingegraben.
+Für einen Jungen war Winterfell ein grauer, steinerner `Irrgarten aus Mauern und Türmen und Höfen und Tunneln, die sich in alle Richtungen ausbreiteten. In den älteren Teilen der Burg konnte man nie sicher sein, in welchem Stockwerk man sich gerade befand. Die Anlage war im Laufe von Jahrhunderten wie ein monströser, steinerner Baum gewachsen, so hatte Maester Luwin es ihm erklärt, und die Äste waren knorrig und dick und verdreht, die Wurzeln tief in die Erde eingegraben.
 
 Wenn er darunter hervorkroch und nah am Himmel auf die Beine kam, konnte Bran ganz Winterfell mit einem Blick überschauen. Es gefiel ihm, wie es aussah, wie es sich unter ihm ausbreitete und nur die Vögel über seinem Kopf kreisten, während alles Leben in der Burg unter ihm geschah. Stundenlang konnte Bran zwischen den formlosen, vom Regen verwaschenen Wasserspeiern des Bergfrieds hocken und sich alles ansehen: die Männer, die sich im Hof mit Holz und Stahl übten, die Köche, die im Gläsernen Garten ihr Gemüse pflegten, rastlose Hunde, die in den Zwingern auf und ab liefen, die Stille im Götterhain, die plaudernden Mädchen am Waschbrunnen. Es gab ihm ein Gefühl, als wäre er der Herr über diese Burg, auf eine Art und Weise, die Robb nie kennenlernen würde.
 
@@ -1486,37 +1486,37 @@ In einem Anfall von Schuldgefühlen beichtete er sein Vergehen am nächsten Tag.
 
 So zornig er auch sein mochte, konnte sein Vater darüber doch nur lachen. »Du bist nicht mein Sohn«, erklärte er Bran, als man ihn herunterholte, »du bist ein Eichhörnchen. So sei es denn. Wenn du klettern musst, dann klettere, nur achte darauf, dass deine Mutter dich nicht sieht.«
 
-Bran gab sein Bestes, obwohl er nicht glaubte, sie je wirklich täuschen zu können. Da sein Vater es ihm nicht verbieten wollte, wandte sie sich anderen zu. Die Alte Nan erzählte ihm die Geschichte von einem kleinen Jungen, der zu hoch geklettert war und von einem Blitz getroffen wurde, woraufhin die Krähen kamen und ihm die Augen aushackten. Bran blieb unbeeindruckt. Oben auf der Turmruine gab es Krähennester, zu denen außer ihm nie jemand vorstieß, und manchmal füllte er seine Taschen mit Körnern, bevor er hinaufkletterte, und die Krähen fraßen ihm direkt aus der Hand. Keine hatte je auch nur das geringste Interesse daran gezeigt, ihm die Augen auszuhacken.
+Bran gab sein Bestes, obwohl er nicht glaubte, sie je wirklich täuschen zu können. Da sein Vater es ihm nicht verbieten wollte, wandte sie sich anderen zu. Die Alte Nan erzählte ihm die Geschichte von einem kleinen Jungen, der zu hoch geklettert war und von einem Blitz getroffen wurde, woraufhin die `Krähen kamen und ihm die Augen aushackten. Bran blieb unbeeindruckt. Oben auf der Turmruine gab es Krähennester, zu denen außer ihm nie jemand vorstieß, und manchmal füllte er seine Taschen mit Körnern, bevor er hinaufkletterte, und die Krähen fraßen ihm direkt aus der Hand. Keine hatte je auch nur das geringste Interesse daran gezeigt, ihm die Augen auszuhacken.
 
-Später töpferte Maester Luwin die Figur eines kleinen Jungen, zog ihr Brans Kleider über und warf sie von der Mauer hinunter auf den Hof, um zu demonstrieren, was geschah, falls Bran einmal fallen sollte. Das hatte Spaß gemacht, doch danach hatte Bran den Maester nur angesehen und gesagt: »Ich bin nicht aus Lehm. Und außerdem falle ich nicht herunter. «
+Später töpferte Maester Luwin die Figur eines kleinen Jungen, zog ihr Brans Kleider über und warf sie von der Mauer hinunter auf den Hof, um zu demonstrieren, was geschah, falls Bran einmal fallen sollte. Das hatte Spaß gemacht, doch danach hatte Bran den Maester nur angesehen und gesagt: »Ich bin nicht aus `Lehm. Und außerdem falle ich nicht herunter.«
 
 Dann jagten ihn die Wachen eine Weile jedes Mal, wenn sie ihn auf den Dächern sahen, und versuchten, ihn herunterzuholen. Das war die allerbeste Zeit. Es war, als spielte man mit seinen Brüdern ein Spiel, nur dass Bran hierbei stets gewann. Keiner der Wachmänner konnte so gut klettern wie Bran, nicht einmal Jory. Die meiste Zeit sahen sie ihn ohnehin nicht. Die Menschen sehen nicht nach oben. Das war noch etwas, das ihm am Klettern so gefiel. Fast war es, als wäre man unsichtbar.
 
-Er mochte auch, wie es sich anfühlte, wenn er sich Stein für Stein an einer Mauer hochzog und sich Finger und Zehen hart in die kleinen Spalten dazwischen gruben. Stets zog er seine Stiefel aus und ging barfuß, wenn er kletterte, denn es gab ihm das Gefühl, als besäße er vier Hände statt zwei. Er mochte den tiefen, süßen Schmerz, der danach in den Muskeln zurückblieb. Er mochte es, wie die Luft dort oben roch, süß und kalt wie ein Winterpfirsich. Er mochte die Vögel: die Krähen in der Turmruine, die winzig kleinen Spatzen, die in den Spalten zwischen den Steinen nisteten, die alte Eule, die auf dem staubigen Dachboden über der alten Waffenkammer schlief. Bran kannte sie alle.
+Er mochte auch, wie es sich anfühlte, wenn er sich Stein für Stein an einer Mauer hochzog und sich Finger und `Zehen hart in die kleinen Spalten dazwischen gruben. Stets zog er seine Stiefel aus und ging barfuß, wenn er kletterte, denn es gab ihm das Gefühl, als besäße er vier Hände statt zwei. Er mochte den tiefen, süßen Schmerz, der danach in den Muskeln zurückblieb. Er mochte es, wie die Luft dort oben roch, süß und kalt wie ein Winterpfirsich. Er mochte die Vögel: die Krähen in der Turmruine, die winzig kleinen Spatzen, die in den Spalten zwischen den Steinen nisteten, die alte Eule, die auf dem staubigen Dachboden über der alten Waffenkammer schlief. Bran kannte sie alle.
 
 Vor allem aber suchte er gern Orte auf, die keinem anderen zugänglich waren, und von dort aus betrachtete er das graue Winterfell, wie niemand sonst es sah. Dadurch wurde die ganze Burg zu Brans geheimem Ort.
 
-Am liebsten war ihm die Turmruine. Einst war sie ein Wachturm gewesen, der höchste von ganz Winterfell. Vor langer Zeit, hundert Jahre bevor selbst sein Vater geboren worden war, hatte ein Blitzschlag den Turm in Brand gesetzt. Das obere Drittel des Baus war innerlich in sich zusammengestürzt und der Turm nie mehr neu errichtet worden. Manchmal schickte sein Vater Rattenfänger in den Keller des Turmes, um die Nester auszuräumen, die sich ständig zwischen den heruntergestürzten Steinen und verkohlten und vermoderten Balken fanden. Doch niemand kam mehr zur zerklüfteten Spitze des Turmes, niemand außer Bran und den Krähen.
+Am liebsten war ihm die Turmruine. Einst war sie ein Wachturm gewesen, der höchste von ganz Winterfell. Vor langer Zeit, hundert Jahre bevor selbst sein Vater geboren worden war, hatte ein Blitzschlag den Turm in Brand gesetzt. Das obere Drittel des Baus war innerlich in sich zusammengestürzt und der Turm nie mehr neu errichtet worden. Manchmal schickte sein Vater Rattenfänger in den Keller des Turmes, um die Nester auszuräumen, die sich ständig zwischen den heruntergestürzten Steinen und verkohlten und vermoderten `Balken fanden. Doch niemand kam mehr zur zerklüfteten Spitze des Turmes, niemand außer Bran und den Krähen.
 
-Zwei Wege wusste er dorthin. Man konnte direkt an der Seite des Turmes selbst hinaufklettern, doch die Steine waren lose, denn der Mörtel, der sie einst gehalten hatte, war lange schon zu Asche verbrannt, und Bran mochte ihnen nie so recht sein ganzes Gewicht anvertrauen.
+Zwei Wege wusste er dorthin. Man konnte direkt an der Seite des Turmes selbst hinaufklettern, doch die Steine waren lose, denn der `Mörtel, der sie einst gehalten hatte, war lange schon zu Asche verbrannt, und Bran mochte ihnen nie so recht sein ganzes Gewicht anvertrauen.
 
-Das Beste war es, vom Götterhain auszugehen, den großen Wachbaum hinaufzuklettern, quer über die Waffenkammer und den Wachsaal zu laufen und von Dach zu Dach zu springen, barfuß, damit die Wachen einen nicht über sich hörten. Das führte einen zur blinden Seite des Bergfrieds, dem ältesten Teil der Burg, einer dicken, viereckigen Festungsanlage, die höher war, als sie aussah. Inzwischen lebten dort nur noch Ratten und Spinnen, doch die alten Steine waren zum Klettern noch immer gut. Von dort aus konnte man direkt hinauf, wo die Wasserspeier sich blindlings in den leeren Raum lehnten, und sich von einem Wasserspeier zum nächsten hangeln, Hand über Hand, um die Nordseite herum. Hier nun musste man sich richtig strecken und sich mit langen Armen zur Turmruine ziehen, wo diese sich herüberneigte. Dann blieb nur noch, die verrußten Steine hinauf zum Horst zu klettern, nicht mehr als zehn Schritte weit, und schon kamen die Krähen, um zu sehen, ob er ihnen wieder Körner brachte.
+Das Beste war es, vom Götterhain auszugehen, den großen Wachbaum hinaufzuklettern, quer über die `Waffenkammer und den Wachsaal zu laufen und von Dach zu Dach zu springen, barfuß, damit die Wachen einen nicht über sich hörten. Das führte einen zur blinden Seite des `Bergfrieds, dem ältesten `Teil der Burg, einer dicken, `viereckigen Festungsanlage, die höher war, als sie aussah. Inzwischen lebten dort nur noch Ratten und `Spinnen, doch die alten Steine waren zum Klettern noch immer gut. Von dort aus konnte man direkt hinauf, wo die Wasserspeier sich blindlings in den leeren Raum lehnten, und sich von einem Wasserspeier zum nächsten hangeln, Hand über Hand, um die Nordseite herum. Hier nun musste man sich richtig strecken und sich mit langen Armen zur Turmruine ziehen, wo diese sich `herüberneigte. Dann blieb nur noch, die `verrußten Steine hinauf zum `Horst zu klettern, nicht mehr als zehn Schritte weit, und schon kamen die Krähen, um zu sehen, ob er ihnen wieder Körner brachte.
 
-Bran hangelte sich gerade mit der Leichtigkeit langjähriger Erfahrung von einem Wasserspeier zum nächsten, als er Stimmen hörte. Er war derart erschrocken, dass er beinahe den Halt verlor. Sein Leben lang war der Bergfried verlassen gewesen.
+Bran hangelte sich gerade mit der `Leichtigkeit langjähriger Erfahrung von einem Wasserspeier zum nächsten, als er Stimmen hörte. Er war derart erschrocken, dass er beinahe den Halt verlor. Sein Leben lang war der `Bergfried verlassen gewesen.
 
-»Es gefällt mir nicht«, sagte eine Frau. Eine Reihe von Fenstern lag unter ihm, und die Stimme kam aus dem letzten Fenster auf der ihm zugewandten Seite. »Du solltest die Hand sein.«
+»Es gefällt mir nicht«, sagte eine Frau. Eine Reihe von Fenstern lag unter ihm, und die Stimme kam aus dem letzten Fenster auf der ihm `zugewandten Seite. »Du solltest die Hand sein.«
 
-»Mögen die Götter es mir ersparen«, erwiderte der Mann träge. »Es ist keine Ehre, die ich mir wünsche. Viel zu viel Arbeit.«
+»Mögen die Götter es mir ersparen«, erwiderte der Mann `träge. »Es ist keine Ehre, die ich mir wünsche. Viel zu viel Arbeit.«
 
 Bran hing da, lauschte, fürchtete sich plötzlich, weiterzuklettern. Vielleicht würden sie seine Füße sehen, wenn er sich vorbeischwang.
 
 »Siehst du denn nicht die Gefahr, in die es uns bringt?«, sagte die Frau. »Robert liebt diesen Mann wie einen Bruder.«
 
-»Robert kann seine eigenen Brüder kaum ertragen. Nicht, dass ich es ihm verdenken würde. Stannis würde jedem Magenbeschwerden bereiten.«
+»Robert kann seine eigenen Brüder kaum ertragen. Nicht, dass ich es ihm verdenken würde. Stannis würde jedem `Magenbeschwerden bereiten.«
 
-»Spiel nicht den Dummkopf. Stannis und Renly sind eine Sache, und Eddard Stark ganz sicher eine andere. Robert wird auf Stark hören. Verdammt sollen sie beide sein. Ich hätte darauf bestehen sollen, dass er dich ernennt, aber ich war mir sicher, Stark würde ablehnen.«
+»Spiel nicht den Dummkopf. Stannis und Renly sind eine Sache, und Eddard Stark ganz sicher eine andere. Robert wird auf Stark hören. Verdammt sollen sie beide sein. Ich hätte darauf bestehen sollen, dass er dich `ernennt, aber ich war mir sicher, Stark würde ablehnen.«
 
-»Wir sollten uns glücklich schätzen«, sagte der Mann. »Der König hätte ebenso gut einen seiner Brüder ernennen können oder – bei allen Göttern – sogar Kleinfinger. Man gebe mir lieber ehrenhafte Feinde als ehrgeizige, damit ich nachts ruhiger schlafen kann.«
+»Wir sollten uns glücklich schätzen«, sagte der Mann. »Der König hätte ebenso gut einen seiner Brüder ernennen können oder – bei allen Göttern – sogar Kleinfinger. Man gebe mir lieber ehrenhafte Feinde als `ehrgeizige, damit ich nachts ruhiger schlafen kann.«
 
 Sie sprachen von seinem Vater, das wusste Bran. Er wollte noch mehr hören. Nur noch ein Stück … doch würden sie ihn sehen, wenn er sich am Fenster vorbeihangelte.
 
@@ -1524,7 +1524,7 @@ Sie sprachen von seinem Vater, das wusste Bran. Er wollte noch mehr hören. Nur 
 
 »Lieber würde ich mich nur um dich kümmern«, sagte der Mann. Er klang gelangweilt. »Komm her zu mir.«
 
-»Lord Eddard hat sich nie für irgendetwas interessiert, das südlich der Eng vor sich ging«, sagte die Frau. »Niemals. Ich sage dir, er will gegen uns ziehen. Warum sonst sollte er den Sitz seiner Macht verlassen?«
+»Lord Eddard hat sich nie für irgendetwas interessiert, das südlich der `Eng vor sich ging«, sagte die Frau. »Niemals. Ich sage dir, er will gegen uns ziehen. Warum sonst sollte er den Sitz seiner Macht verlassen?«
 
 »Aus hundert Gründen. Pflicht. Ehre. Er sehnt sich danach, seinen Namen in Großbuchstaben ins Buch der Geschichte einzutragen, um von seiner Frau wegzukommen, oder beides. Vielleicht will er einfach nur, dass ihm einmal im Leben warm wird.«
 
@@ -1552,11 +1552,11 @@ Bran betrachtete den Sims. Er könnte sich hinunterfallen lassen. Das Sims war z
 
 »Wenn du meinst, dass ich dieselben Dinge sehe, ja«, sagte der Mann. »Ich sehe einen Mann, der eher sterben würde, als seinen König zu verraten.«
 
-»Einen hat er bereits verraten, oder hast du das vergessen? «, sagte die Frau. »Oh, sicherlich verhält er sich Robert gegenüber loyal, das ist offensichtlich. Was geschieht, wenn Robert stirbt und Joff den Thron besteigt? Und je eher das über die Bühne geht, desto sicherer werden wir alle sein. Mein Mann wird mit jedem Tag rastloser. Einen Stark neben sich zu wissen, wird es nur noch schlimmer machen. Er liebt noch immer diese Schwester, die geistlose, kleine, tote Sechzehnjährige. Wie lange wird es wohl dauern, bis er mich wegen einer neuen Lyanna verstößt?«
+»Einen hat er bereits verraten, oder hast du das vergessen?«, sagte die Frau. »Oh, sicherlich verhält er sich Robert gegenüber loyal, das ist offensichtlich. Was geschieht, wenn Robert stirbt und Joff den Thron besteigt? Und je eher das über die `Bühne geht, desto sicherer werden wir alle sein. Mein Mann wird mit jedem Tag `rastloser. Einen Stark neben sich zu wissen, wird es nur noch schlimmer machen. Er liebt noch immer diese Schwester, die geistlose, kleine, tote Sechzehnjährige. Wie lange wird es wohl dauern, bis er mich wegen einer neuen Lyanna verstößt?«
 
 Plötzlich bekam Bran große Angst. Er wollte nichts lieber als dorthin zurück, woher er gekommen war, und seine Brüder suchen. Doch was sollte er denen erzählen? Er musste näher heran, das wurde Bran nun klar. Er musste sehen, wer dort sprach.
 
-Der Mann seufzte. »Du solltest weniger an die Zukunft und mehr an die greifbaren Freuden denken.«
+Der Mann seufzte. »Du solltest weniger an die Zukunft und mehr an die `greifbaren Freuden denken.«
 
 »Lass das!«, fuhr ihn die Frau an. Bran hörte ein kurzes Klatschen auf Haut und dann das Lachen des Mannes.
 
@@ -1564,19 +1564,19 @@ Bran zog sich hinauf, kletterte über den Wasserspeier, kroch auf das Dach. Das 
 
 »Dieses ganze Gerede ist wirklich ermüdend, Schwester«, sagte der Mann. »Komm her und sei still.«
 
-Bran saß rittlings auf dem Wasserspeier, klammerte seine Beine darum und schwang sich selbst herum, kopfüber. Er hing an seinen Beinen und reckte sich langsam zum Fenster hin. Seltsam sah die Welt kopfüber aus. Ein Burghof lag verschwommen unter ihm, die Steine waren feucht von geschmolzenem Schnee.
+Bran saß `rittlings auf dem Wasserspeier, klammerte seine Beine darum und schwang sich selbst herum, `kopfüber. Er hing an seinen Beinen und reckte sich langsam zum Fenster hin. Seltsam sah die Welt kopfüber aus. Ein Burghof lag verschwommen unter ihm, die Steine waren feucht von `geschmolzenem Schnee.
 
 Bran sah in das Fenster.
 
-Drinnen rang ein Mann mit einer Frau. Beide waren nackt. Bran konnte nicht erkennen, wer sie waren. Der Mann hatte ihm den Rücken zugewandt, und sein Leib verdeckte den Blick auf die Frau, da er sich an die Wand drückte.
+Drinnen rang ein Mann mit einer Frau. Beide waren nackt. Bran konnte nicht erkennen, wer sie waren. Der Mann hatte ihm den Rücken zugewandt, und sein `Leib verdeckte den Blick auf die Frau, da er sich an die Wand drückte.
 
-Weiche, feuchte Geräusche waren zu hören. Bran merkte, dass sie sich küssten. Er sah ihnen zu, mit großen Augen und ängstlich, und ihm stockte der Atem. Der Mann hatte eine Hand zwischen ihren Beinen, und er musste ihr wohl Schmerzen bereiten, denn die Frau begann zu stöhnen, tief unten aus der Kehle. »Lass das«, sagte sie, »lass das, lass das. Oh, bitte …« Doch ihre Stimme war leise und schwach, und sie stieß ihn nicht von sich. Ihre Hände gruben sich in sein Haar, sein verworrenes, goldenes Haar, und zogen sein Gesicht auf ihre Brust hinab.
+Weiche, feuchte Geräusche waren zu hören. Bran merkte, dass sie sich küssten. Er sah ihnen zu, mit großen Augen und ängstlich, und ihm stockte der Atem. Der Mann hatte eine Hand zwischen ihren Beinen, und er musste ihr wohl Schmerzen bereiten, denn die Frau begann zu stöhnen, tief unten aus der `Kehle. »Lass das«, sagte sie, »lass das, lass das. Oh, bitte …« Doch ihre Stimme war leise und schwach, und sie stieß ihn nicht von sich. Ihre Hände gruben sich in sein Haar, sein `verworrenes, goldenes Haar, und zogen sein Gesicht auf ihre Brust hinab.
 
 Bran sah ihr Gesicht. Ihre Augen waren geschlossen, und ihr Mund stand offen, stöhnend. Ihr goldenes Haar wehte von einer Seite zur anderen, während ihr Kopf vor und zurück ging, und dennoch erkannte er die Königin.
 
 Er musste wohl ein Geräusch gemacht haben. Plötzlich schlug sie die Augen auf und starrte ihn geradewegs an. Sie schrie.
 
-Dann geschah alles zur gleichen Zeit. Wild stieß die Frau den Mann von sich, schrie und deutete auf ihn. Bran versuchte, sich hochzuziehen, krümmte sich und langte nach dem Wasserspeier. Er war zu sehr in Eile. Nutzlos packten seine Hände nach dem glatten Stein, und in seiner Panik glitten auch die Beine ab, und plötzlich stürzte er. Er spürte einen kurzen Schwindel, einen Ekel erregenden Ruck im Magen, als das Fenster an ihm vorüberflog. Blitzartig streckte er eine Hand aus, griff nach dem Sims, rutschte ab, bekam ihn mit der anderen Hand wieder zu fassen. Hart prallte er an die Mauer. Der Schlag nahm ihm den Atem. Bran baumelte an einer Hand, keuchend.
+Dann geschah alles zur gleichen Zeit. Wild stieß die Frau den Mann von sich, schrie und deutete auf ihn. Bran versuchte, sich hochzuziehen, krümmte sich und langte nach dem Wasserspeier. Er war zu sehr in `Eile. Nutzlos packten seine Hände nach dem glatten Stein, und in seiner Panik glitten auch die Beine ab, und plötzlich stürzte er. Er spürte einen kurzen `Schwindel, einen `Ekel `erregenden Ruck im Magen, als das Fenster an ihm vorüberflog. Blitzartig streckte er eine Hand aus, griff nach dem Sims, rutschte ab, bekam ihn mit der anderen Hand wieder zu fassen. Hart prallte er an die Mauer. Der Schlag nahm ihm den Atem. Bran baumelte an einer Hand, keuchend.
 
 Im Fenster über ihm tauchten Gesichter auf.
 
@@ -1598,39 +1598,39 @@ Der Mann sah die Frau an. »Was man nicht alles für die Liebe tut«, sagte er v
 
 Schreiend stürzte Bran rückwärts aus dem Fenster ins Leere. Es gab nichts, woran er sich hätte festhalten können. Der Burghof flog ihm entgegen.
 
-Irgendwo in der Ferne heulte ein Wolf. Über der Turmruine kreisten Krähen, warteten auf Futter.
+Irgendwo in der Ferne heulte ein Wolf. Über der Turmruine kreisten Krähen, warteten auf `Futter.
 
 == TYRION
 
 Irgendwo in dem großen, steinernen Irrgarten Winterfells heulte ein Wolf. Wie eine Trauerflagge hing sein Heulen über der Burg.
 
-Tyrion Lennister sah von seinen Büchern auf, und ein Schauer lief ihm über den Rücken, obwohl es in der Bibliothek warm und gemütlich war. Irgendetwas am Heulen eines Wolfes riss ihn aus dem Hier und Jetzt und ließ ihn in einem finsteren Wald von Gedanken zurück, nackt auf der Flucht vor der Meute.
+Tyrion Lennister sah von seinen Büchern auf, und ein Schauer lief ihm über den Rücken, obwohl es in der Bibliothek warm und gemütlich war. Irgendetwas am Heulen eines Wolfes riss ihn aus dem Hier und Jetzt und ließ ihn in einem finsteren Wald von Gedanken zurück, nackt auf der `Flucht vor der `Meute.
 
-Als der Schattenwolf ein weiteres Mal heulte, schloss Tyrion das schwere, ledergebundene Buch, in dem er las, eine hundert Jahre alte Abhandlung über den Wandel der Jahreszeiten von einem lang schon verstorbenen Maester. Er verbarg ein Gähnen hinter dem Rücken seiner Hand. Seine Leselampe flackerte, da das Öl ausgebrannt war, während schon das Licht des frühen Morgens durch die hohen Fenster drang. Die ganze Nacht hatte er hier gesessen, doch das war nichts Neues. Tyrion Lennister schlief nie besonders viel.
+Als der Schattenwolf ein weiteres Mal heulte, schloss Tyrion das schwere, ledergebundene Buch, in dem er las, eine hundert Jahre alte `Abhandlung über den Wandel der Jahreszeiten von einem lang schon verstorbenen Maester. Er verbarg ein Gähnen hinter dem Rücken seiner Hand. Seine Leselampe flackerte, da das Öl ausgebrannt war, während schon das Licht des frühen Morgens durch die hohen Fenster drang. Die ganze Nacht hatte er hier gesessen, doch das war nichts Neues. Tyrion Lennister schlief nie besonders viel.
 
-Seine Beine waren steif und schmerzten, als er sich von der Bank schob. Er massierte ihnen Leben ein und humpelte schwerfällig zu dem Tisch, an dem der Septon sanft schnarchte, den Kopf auf einem offenen Buch vor sich. Tyrion warf einen Blick auf dessen Titel. Das Leben des Groß-Maester Aethelmure, kein Wunder. »Chayle«, sagte er leise. Der junge Mann schreckte auf, blinzelnd, verwirrt, und der Kristall seines Ordens baumelte wild an seiner Silberkette herum. »Ich gehe frühstücken. Denkt daran, dass Ihr die Bücher wieder in die Regale stellt. Seid vorsichtig mit den valyrischen Schriftrollen, das Pergament ist sehr trocken. Ayrmidons Triebkräfte des Krieges ist sehr selten, und Eures ist die einzige vollständige Ausgabe, die ich je gesehen habe.« Chayle glotzte ihn an, noch immer halb im Schlaf. Geduldig wiederholte Tyrion seine Anweisungen, dann klopfte er dem Septon auf die Schulter und überließ ihn seinen Aufgaben.
+Seine Beine waren steif und schmerzten, als er sich von der Bank schob. Er massierte ihnen Leben ein und humpelte schwerfällig zu dem Tisch, an dem der Septon sanft schnarchte, den Kopf auf einem offenen Buch vor sich. Tyrion warf einen Blick auf dessen Titel. Das Leben des Groß-Maester Aethelmure, kein Wunder. »Chayle«, sagte er leise. Der junge Mann schreckte auf, blinzelnd, verwirrt, und der Kristall seines Ordens baumelte wild an seiner `Silberkette herum. »Ich gehe frühstücken. Denkt daran, dass Ihr die Bücher wieder in die Regale stellt. Seid vorsichtig mit den valyrischen Schriftrollen, das Pergament ist sehr trocken. Ayrmidons Triebkräfte des Krieges ist sehr selten, und Eures ist die einzige vollständige Ausgabe, die ich je gesehen habe.« Chayle glotzte ihn an, noch immer halb im Schlaf. `Geduldig wiederholte Tyrion seine Anweisungen, dann klopfte er dem Septon auf die Schulter und überließ ihn seinen Aufgaben.
 
 Draußen sog Tyrion die kalte Morgenluft in die Lungen und begann den mühsamen Abstieg die steile, steinerne Treppe hinab, die sich um die Außenwand des Bücherturmes wand. Er konnte nur langsam gehen. Die Stufen waren schmal und hoch, seine Beine waren kurz und krumm. Noch hatte sich die aufgehende Sonne nicht über den Mauern von Winterfell gezeigt, doch die Männer unten auf dem Hof waren schon wieder hart bei der Sache. Sandor Cleganes schnarrende Stimme wehte zu ihm herauf. »Der Junge lässt sich mit dem Sterben Zeit. Ich wünschte, er würde sich beeilen.«
 
 Tyrion blickte in die Tiefe und sah den Bluthund dort mit dem jungen Joffrey stehen, während Knappen sie umschwärmten. »Zumindest stirbt er leise«, erwiderte der Prinz. »Dieser Wolf, der macht den Lärm. Ich konnte letzte Nacht kaum schlafen.«
 
-Clegane warf einen langen Schatten über die festgetretene Erde, als der Knappe den schwarzen Helm auf seinen Kopf sinken ließ. »Ich könnte das Vieh zum Schweigen bringen, wenn es Euch beliebt«, sagte er durch das offene Visier. Sein Knappe gab ihm ein Langschwert in die Hand. Er prüfte dessen Gewicht und schnitt durch die kalte Morgenluft. Hinter ihm hörte man das Klirren von Stahl auf Stahl.
+Clegane warf einen langen Schatten über die festgetretene Erde, als der Knappe den schwarzen Helm auf seinen Kopf sinken ließ. »Ich könnte das `Vieh zum Schweigen bringen, wenn es Euch beliebt«, sagte er durch das offene Visier. Sein Knappe gab ihm ein Langschwert in die Hand. Er prüfte dessen Gewicht und schnitt durch die kalte Morgenluft. Hinter ihm hörte man das Klirren von Stahl auf Stahl.
 
 Die Vorstellung schien den Prinzen zu erfreuen. »Man schicke einen Hund, um einen Hund zu töten!«, rief er aus. »In Winterfell wimmelt es derart von Wölfen, dass die Starks sicher keinen vermissen würden.«
 
-Tyrion hüpfte von der letzten Stufe auf den Hof. »Ich erlaube mir, anderer Meinung zu sein, Neffe«, sagte er. »Die Starks können über sechs hinauszählen. Im Gegensatz zu manchen Prinzen, die ich nennen könnte.«
+Tyrion hüpfte von der letzten Stufe auf den Hof. »Ich `erlaube mir, anderer Meinung zu sein, Neffe«, sagte er. »Die Starks können über sechs hinauszählen. Im Gegensatz zu manchen Prinzen, die ich nennen könnte.«
 
-Joffrey besaß zumindest so viel Anstand, zu erröten.
+Joffrey besaß zumindest so viel `Anstand, zu erröten.
 
 »Eine Stimme aus dem Nichts«, sagte Sandor. Er lugte durch seinen Helm, blickte hierhin und dorthin. »Geister aus der Luft!«
 
 Der Prinz lachte, wie er immer lachte, wenn sein Leibwächter diesen Mummenschanz trieb. Tyrion war daran gewöhnt. »Hier unten.«
 
-Der große Mann spähte zu Boden und gab vor, ihn jetzt zu bemerken. »Der kleine Lord Tyrion«, sagte er. »Ich bitte um Verzeihung. Ich habe Euch dort nicht stehen sehen.«
+Der große Mann spähte zu Boden und gab vor, ihn jetzt zu bemerken. »Der kleine Lord Tyrion«, sagte er. »Ich bitte um `Verzeihung. Ich habe Euch dort nicht stehen sehen.«
 
-»Ich bin heute nicht in der Stimmung für Eure Überheblichkeit. « Tyrion wandte sich seinem Neffen zu. »Joffrey, es wird höchste Zeit, dass du Lord Eddard und seiner Lady die Aufwartung machst, um ihnen dein Mitgefühl auszusprechen. «
+»Ich bin heute nicht in der Stimmung für Eure Überheblichkeit.« Tyrion wandte sich seinem Neffen zu. »Joffrey, es wird höchste Zeit, dass du Lord Eddard und seiner Lady die Aufwartung machst, um ihnen dein Mitgefühl auszusprechen. «
 
-Joffrey sah so verdrießlich aus, wie nur ein kleiner Prinz verdrießlich aussehen kann. »Was wird ihnen mein Mitgefühl schon nützen?«
+Joffrey sah so `verdrießlich aus, wie nur ein kleiner Prinz verdrießlich aussehen kann. »Was wird ihnen mein Mitgefühl schon nützen?«
 
 »Nichts«, erwiderte Tyrion. »Und dennoch wird es von dir erwartet. Dein Nichterscheinen wurde schon bemerkt.«
 
@@ -1648,17 +1648,17 @@ Wieder schlug Tyrion zu. Nun flammten beide Wangen auf.
 
 Der Junge sah aus, als wollte er gleich in Tränen ausbrechen. Stattdessen brachte er ein schwaches Nicken zu Stande. Dann drehte er sich um, floh Hals über Kopf vom Hof und hielt sich die Wangen. Tyrion sah ihm nach.
 
-Ein Schatten fiel über sein Gesicht. Er wandte sich um und sah, wie Clegane wie eine Klippe über ihm aufragte. Seine rußschwarze Rüstung schien die Sonne zu verdunkeln. Er hatte das Visier an seinem Helm geschlossen. Dieser war einem zähnefletschenden, schwarzen Jagdhund nachempfunden, schrecklich anzuschauen, doch empfand Tyrion den Helm als enorme Verbesserung gegenüber Cleganes grauenvoll verbranntem Gesicht.
+Ein Schatten fiel über sein Gesicht. Er wandte sich um und sah, wie Clegane wie eine `Klippe über ihm aufragte. Seine rußschwarze Rüstung schien die Sonne zu verdunkeln. Er hatte das Visier an seinem Helm geschlossen. Dieser war einem zähnefletschenden, schwarzen Jagdhund nachempfunden, schrecklich anzuschauen, doch empfand Tyrion den Helm als enorme Verbesserung gegenüber Cleganes grauenvoll verbranntem Gesicht.
 
 »Das wird der Prinz nicht vergessen, kleiner Lord«, warnte ihn der Bluthund. Der Helm verwandelte sein Lachen in ein hohles Grollen.
 
-»Das will ich hoffen«, erwiderte Tyrion Lennister. »Falls er es vergessen sollte, seid ein braver Hund und erinnert ihn daran.« Er sah sich auf dem Burghof um. »Wisst Ihr, wo ich meinen Bruder finden könnte?«
+»Das will ich hoffen«, erwiderte Tyrion Lennister. »Falls er es vergessen sollte, seid ein braver Hund und erinnert ihn daran.« Er sah sich auf dem `Burghof um. »Wisst Ihr, wo ich meinen Bruder finden könnte?«
 
 »Beim Frühstück mit der Königin.«
 
 »Ah«, sagte Tyrion. Er widmete Sandor Clegane ein flüchtiges Nicken und ging pfeifend so rasch davon, wie seine verkrüppelten Beine ihn trugen. Er bedauerte den ersten Ritter, der sich heute dem Bluthund stellen musste. Der Mann hatte schlechte Laune.
 
-Ein kaltes, freudloses Mahl war im Damenzimmer des Gästehauses aufgetischt. Jaime saß mit Cersei und den Kindern am Tisch, und sie unterhielten sich im Flüsterton.
+Ein kaltes, freudloses `Mahl war im Damenzimmer des Gästehauses aufgetischt. Jaime saß mit Cersei und den Kindern am Tisch, und sie unterhielten sich im `Flüsterton.
 
 »Ist Robert noch im Bett?«, fragte Tyrion, als er sich unaufgefordert an den Tisch setzte.
 
@@ -1684,7 +1684,7 @@ Argwöhnisch betrachtete Cersei ihn. »Was meinst du damit? «
 
 Tyrion sah sie mit schiefem Lächeln an. »Nun, nur dass Tommens Wunsch vielleicht in Erfüllung geht. Der Maester glaubt, der Junge könnte überleben.« Er nahm einen Schluck Bier.
 
-Myrcella seufzte erleichtert auf, und Tommen lächelte angespannt, doch waren es nicht die Kinder, die Tyrion beobachtete. Der Blick, den Jaime und Cersei wechselten, dauerte nicht mehr als eine Sekunde, doch er entging ihm nicht. Dann sank der Blick seiner Schwester auf den Tisch. »Das ist kein Segen. Die Götter des Nordens sind grausam, wenn sie ein Kind mit solchen Schmerzen leben lassen.«
+Myrcella seufzte erleichtert auf, und Tommen lächelte angespannt, doch waren es nicht die Kinder, die Tyrion beobachtete. Der Blick, den Jaime und Cersei `wechselten, dauerte nicht mehr als eine Sekunde, doch er `entging ihm nicht. Dann sank der Blick seiner Schwester auf den Tisch. »Das ist kein `Segen. Die Götter des Nordens sind grausam, wenn sie ein Kind mit solchen Schmerzen leben lassen.«
 
 »Was waren die Worte des Maesters?«, fragte Jaime.
 
@@ -1694,7 +1694,7 @@ Der Schinken knirschte, als er hineinbiss. Nachdenklich kaute Tyrion einen Momen
 
 »Sein Rückgrat ist gebrochen, meine Kleine«, erklärte ihr Tyrion. »Der Sturz hat ihm außerdem die Beine zertrümmert. Man hält ihn mit Honig und Wasser am Leben, sonst müsste er verhungern. Vielleicht kann er, falls er erwacht, wieder richtig essen, doch wird er nie mehr laufen können.«
 
-»Falls er erwacht«, wiederholte Cersei. »Ist das wahrscheinlich? «
+»Falls er erwacht«, wiederholte Cersei. »Ist das wahrscheinlich?«
 
 »Das wissen nur die Götter allein«, erklärte ihr Tyrion. »Der Maester kann nur hoffen.« Er kaute noch etwas Brot. »Ich möchte schwören, dass dieser Wolf den Jungen am Leben hält. Das Tier sitzt Tag und Nacht heulend vor seinem Fenster. Jedes Mal, wenn sie ihn fortjagen, kommt er zurück. Der Maester sagt, einmal hätten sie das Fenster geschlossen, um den Lärm auszusperren, und Bran schien schwächer zu werden. Als sie es wieder öffneten, schlug sein Herz fester.«
 
@@ -1900,39 +1900,39 @@ Auf dem langen Weg nach Norden war die Erinnerung an ihr Lachen die einzige Wär
 
 == DAENERYS
 
-Daenerys Targaryen ehelichte Khal Drogo – in Angst und barbarischem Prunk auf einem Feld jenseits der Mauern von Pentos, weil die Dothraki glaubten, dass alle wichtigen Dinge im Leben eines Mannes unter freiem Himmel stattfinden müssten.
+Daenerys Targaryen `ehelichte Khal Drogo – in Angst und barbarischem Prunk auf einem Feld jenseits der Mauern von Pentos, weil die Dothraki glaubten, dass alle wichtigen Dinge im Leben eines Mannes unter freiem Himmel stattfinden müssten.
 
 Drogo hatte sein Khalasar gerufen, damit es ihm zur Seite stünde, und sie waren gekommen, vierzigtausend dothrakische Krieger und unzählige Frauen, Kinder und Sklaven. Draußen vor den Stadtmauern lagerten sie mit ihren riesigen Horden, errichteten Paläste aus geflochtenem Gras, aßen alles, was in Sichtweite kam, und verängstigten die braven Leute von Pentos mit jedem Tag mehr.
 
-»Die anderen Magister haben die Stärke der Stadtwache verdoppelt«, erklärte Illyrio ihnen eines Abends bei Tellern voller Honigenten mit Orangen in der Villa, die einst Drogos gewesen war. Der Khal hatte sich seinem Khalasar angeschlossen, da er sein Anwesen bis zur Hochzeit Daenerys und ihrem Bruder überließ.
+»Die anderen Magister haben die Stärke der Stadtwache verdoppelt«, erklärte Illyrio ihnen eines Abends bei Tellern voller `Honigenten mit Orangen in der Villa, die einst Drogos gewesen war. Der Khal hatte sich seinem Khalasar angeschlossen, da er sein `Anwesen bis zur Hochzeit Daenerys und ihrem Bruder überließ.
 
-»Am besten sorgen wir dafür, dass Prinzessin Daenerys bald heiratet, bevor sie die Hälfte allen Reichtums von Pentos unter Soldrittern und Meuchelmördern verteilen«, scherzte Ser Jorah Mormont. Der Verbannte hatte ihrem Bruder sein Schwert an jenem Abend angeboten, an dem Dany an Khal Drogo verkauft worden war. Viserys hatte das Angebot dankend angenommen. Seither war Mormont nicht von ihrer Seite gewichen.
+»Am besten sorgen wir dafür, dass Prinzessin Daenerys bald heiratet, bevor sie die Hälfte allen Reichtums von Pentos unter `Soldrittern und `Meuchelmördern `verteilen«, scherzte Ser Jorah Mormont. Der `Verbannte hatte ihrem Bruder sein Schwert an jenem Abend angeboten, an dem Dany an Khal Drogo `verkauft worden war. Viserys hatte das Angebot dankend angenommen. Seither war Mormont nicht von ihrer Seite `gewichen.
 
-Magister Illyrio lachte leise durch seinen gespaltenen Bart, doch Viserys lächelte nur. »Er kann sie schon morgen haben, wenn er will«, sagte ihr Bruder. Er sah zu Dany hinüber, und sie senkte den Blick. »Vorausgesetzt, er zahlt den Preis.«
+Magister Illyrio lachte leise durch seinen `gespaltenen Bart, doch Viserys lächelte nur. »Er kann sie schon morgen haben, wenn er will«, sagte ihr Bruder. Er sah zu Dany hinüber, und sie `senkte den Blick. »Vorausgesetzt, er zahlt den Preis.«
 
-Illyrio wedelte mit träger Hand durch die Luft, und Ringe glitzerten an seinen fetten Fingern. »Ich habe es Euch gesagt: Es ist alles vereinbart. Vertraut mir. Der Khal hat Euch eine Krone versprochen, und die sollt Ihr auch bekommen.«
+Illyrio wedelte mit träger Hand durch die Luft, und Ringe glitzerten an seinen fetten Fingern. »Ich habe es Euch gesagt: Es ist alles `vereinbart. Vertraut mir. Der Khal hat Euch eine Krone versprochen, und die sollt Ihr auch bekommen.«
 
 »Ja, nur wann?«
 
-»Wenn es dem Khal beliebt«, sagte Illyrio. »Erst wird er das Mädchen bekommen, und wenn sie verheiratet sind, muss er seine feierliche Prozession durch die Steppe machen und sie den dosh Khaleen in Vaes Dothrak vorstellen. Danach vielleicht. Falls die Omen einen Krieg gutheißen.«
+»Wenn es dem Khal beliebt«, sagte Illyrio. »Erst wird er das Mädchen bekommen, und wenn sie verheiratet sind, muss er seine `feierliche Prozession durch die Steppe machen und sie den dosh Khaleen in Vaes Dothrak vorstellen. Danach vielleicht. Falls die Omen einen Krieg gutheißen.«
 
-Viserys kochte vor Ungeduld. »Ich pisse auf die Omen der Dothraki. Der Usurpator sitzt auf dem Thron meines Vaters. Wie lange muss ich warten?«
+Viserys kochte vor `Ungeduld. »Ich pisse auf die Omen der Dothraki. Der Usurpator sitzt auf dem Thron meines Vaters. Wie lange muss ich warten?«
 
 Illyrio zuckte mit den massigen Schultern. »Ihr habt die meiste Zeit Eures Lebens gewartet, großer König. Was sind da ein paar weitere Monate, ein paar Jahre?«
 
 Ser Jorah, der gen Osten bis nach Vaes Dothrak gereist war, nickte zustimmend. »Ich rate Euch, Geduld zu zeigen, Majestät. Die Dothraki stehen zu ihrem Wort, nur tun sie es in ihrer eigenen Geschwindigkeit. Ein Untertan darf einen Gefallen vom Khal erbitten, sich jedoch niemals erdreisten, ihn dafür zu schelten.«
 
-Viserys wurde zornig. »Hütet Eure Zunge, Mormont, sonst lasse ich sie herausschneiden. Ich bin kein Untertan, ich bin der rechtmäßige Herr der Sieben Königslande. Der Drache bettelt nicht.«
+Viserys wurde zornig. »Hütet Eure Zunge, Mormont, sonst lasse ich sie herausschneiden. Ich bin kein Untertan, ich bin der rechtmäßige Herr der Sieben Königslande. Der Drache `bettelt nicht.«
 
 Respektvoll senkte Ser Jorah seinen Blick. Illyrio lächelte geheimnisvoll und riss der Ente einen Flügel aus. Honig und Öl liefen über seine Finger und tropften in seinen Bart, als er am zarten Fleisch nagte. Es gibt keine Drachen mehr, dachte Dany, während sie ihren Bruder anstarrte, doch wagte sie nicht, es laut zu sagen.
 
 Dennoch träumte sie in dieser Nacht von einem solchen. Viserys schlug sie, tat ihr weh. Sie war nackt, unbeholfen in ihrer Angst. Sie floh vor ihm, doch ihr Leib wirkte dick und linkisch. Wieder schlug er sie. Sie stolperte und fiel. »Du hast den Drachen geweckt«, schrie er, als er nach ihr trat. »Du hast den Drachen geweckt, du hast den Drachen geweckt.« Ihre Schenkel glänzten vom Blut. Sie schloss die Augen und wimmerte. Wie zur Antwort hörte sie ein grauenvolles Reißen und das Knistern eines großen Feuers. Als sie wieder hinsah, war Viserys fort, Rauchsäulen stiegen überall auf, und mittendrin stand der Drache. Langsam wandte er den Kopf. Als seine geschmolzenen Augen sie fanden, erwachte sie, bebend und von feinem Schweiß überzogen. Nie zuvor hatte sie sich so gefürchtet …
 
-… bis zu dem Tag, an dem schließlich ihre Hochzeit stattfand.
+… bis zu dem Tag, an dem schließlich ihre `Hochzeit stattfand.
 
-Die Zeremonie begann im Morgengrauen und dauerte bis in die Abenddämmerung, ein endloser Tag des Trinkens und Feierns und Kämpfens. Eine mächtige, irdene Rampe war inmitten der Graspaläste errichtet worden, und auf dieser saß Dany neben Khal Drogo über dem brodelnden Meer der Dothraki. Weder hatte sie je zuvor so viele Menschen an einem Ort gesehen noch welche, die ihr so fremd und furchterregend vorgekommen waren. Die Reiterlords mochten prunkvolle Stoffe und schwere Duftwässer anlegen, wenn sie die Freien Städte besuchten, doch draußen unter freiem Himmel wahrten sie die alten Traditionen. Männer und Frauen gleichermaßen trugen bemalte Lederwesten auf nackter Brust und Hosen aus Pferdehaar, die von Gürteln mit bronzenen Medaillons gehalten wurden, und die Krieger ölten ihre langen Zöpfe mit Fett ein. Sie schlangen mit Honig und Paprika geröstetes Pferdefleisch in sich hinein, tranken bis zum Vollrausch gegorene Stutenmilch und Illyrios feine Weine und spuckten einander Scherze übers Feuer zu, mit Stimmen, die für Danys Ohren harsch und fremdartig klangen.
+Die Zeremonie begann im Morgengrauen und dauerte bis in die Abenddämmerung, ein endloser Tag des Trinkens und Feierns und Kämpfens. Eine mächtige, irdene Rampe war inmitten der Graspaläste errichtet worden, und auf dieser saß Dany neben Khal Drogo über dem brodelnden Meer der Dothraki. Weder hatte sie je zuvor so viele Menschen an einem Ort gesehen noch welche, die ihr so fremd und furchterregend vorgekommen waren. Die Reiterlords mochten `prunkvolle Stoffe und schwere `Duftwässer anlegen, wenn sie die Freien Städte besuchten, doch draußen unter freiem Himmel wahrten sie die alten Traditionen. Männer und Frauen gleichermaßen trugen `bemalte Lederwesten auf nackter Brust und Hosen aus Pferdehaar, die von `Gürteln mit bronzenen Medaillons gehalten wurden, und die Krieger ölten ihre langen `Zöpfe mit Fett ein. Sie schlangen mit Honig und Paprika geröstetes Pferdefleisch in sich hinein, tranken bis zum `Vollrausch `gegorene `Stutenmilch und Illyrios feine Weine und `spuckten einander `Scherze übers Feuer zu, mit Stimmen, die für Danys Ohren harsch und fremdartig klangen.
 
-Viserys saß gleich unter ihr, prächtig anzusehen in einem neuen, schwarzen Wollrock mit einem roten Drachen auf der Brust. Illyrio und Ser Jorah saßen an seiner Seite. Es war ein Platz von hohen Ehren, gleich unterhalb der Blutreiter des Khal, doch Dany sah den Zorn in den veilchenblauen Augen ihres Bruders. Es gefiel ihm nicht, unter ihr zu sitzen, und er schäumte, wenn die Diener jedes Gericht erst dem Khal und seiner Braut anboten und ihn von den Portionen bedienten, die sie abgelehnt hatten. Es blieb ihm nichts weiter, als seinen Groll zu pflegen, und so pflegte er seinen Groll, und seine Laune wurde stündlich und mit jeder Beleidigung seiner Person düsterer.
+Viserys saß gleich unter ihr, prächtig anzusehen in einem neuen, schwarzen `Wollrock mit einem roten Drachen auf der Brust. Illyrio und Ser Jorah saßen an seiner Seite. Es war ein Platz von hohen Ehren, gleich unterhalb der Blutreiter des Khal, doch Dany sah den Zorn in den veilchenblauen Augen ihres Bruders. Es gefiel ihm nicht, unter ihr zu sitzen, und er `schäumte, wenn die Diener jedes Gericht erst dem Khal und seiner Braut anboten und ihn von den Portionen bedienten, die sie abgelehnt hatten. Es blieb ihm nichts weiter, als seinen Groll zu pflegen, und so pflegte er seinen Groll, und seine Laune wurde stündlich und mit jeder Beleidigung seiner Person düsterer.
 
 Noch niemals hatte sich Dany so allein gefühlt wie inmitten dieser unübersehbaren Horde. Ihr Bruder hatte ihr gesagt, sie solle lächeln, und also lächelte sie, bis ihr das Gesicht schmerzte und die Tränen ihr ungebeten in die Augen traten. Sie gab ihr Bestes, um sie zu verbergen, da sie wusste, wie böse Viserys wäre, wenn er sie weinen sähe, und sie hatte schreckliche Angst davor, wie Khal Drogo darauf reagieren mochte. Man brachte ihr Speisen, dampfende Braten, dicke, schwarze Würste und dothrakische Blutpasteten, später Früchte und Eintopf von süßem Gras und köstliches Gebäck aus den Küchen von Pentos, doch winkte sie bei allem ab. Ihr Magen war in Aufruhr, und sie wusste, dass sie nichts von alledem würde bei sich behalten können.
 
