@@ -2,21 +2,21 @@ Inhaltsverzeichnis
 
 Titel
 
-xx PROLOG
+PROLOG
 
-xx == BRAN
+== BRAN
 
-xx == CATELYN
+== CATELYN
 
-xx == DAENERYS
+== DAENERYS
 
-xx == EDDARD
+== EDDARD
 
-xx == JON
+== JON
 
-xx == CATELYN
+== CATELYN
 
-xx == ARYA
+== ARYA
 
 == BRAN
 
@@ -750,7 +750,7 @@ Dany drehte sich um. Es stimmte. Magister Illyrio, der nur noch aus Lächeln und
 
 Daenerys lächelte und richtete sich auf.
 
-== EDDARD (1)
+== EDARD (1)
 
 Wie ein reißender Fluss von Gold und Silber und poliertem Stahl strömten die Besucher durch die Tore der Burg, dreihundert Mann, eine Pracht von Vasallen und Rittern, von Gefolgsmännern und freien Rittersleuten. Über ihren Köpfen peitschte ein Dutzend goldener Banner im Nordwind hin und her, verziert mit dem gekrönten Hirschen von Baratheon.
 
@@ -1940,29 +1940,29 @@ Niemand war da, mit dem sie reden konnte. Khal Drogo rief Befehle und Scherze zu
 
 So saß sie in ihrem Hochzeitskleid, nippte an einem Becher Honigwein, fürchtete sich zu essen und sprach im Stillen mit sich selbst. Ich bin Daenerys Sturmtochter, Prinzessin von Drachenstein, vom Blut und Samen Aegons des Eroberers.
 
-Die Sonne hatte erst ein Viertel ihres Weges zum Zenit hinter sich gebracht, als sie den ersten Mann sterben sah. Trommeln schlugen, während einige der Frauen für den Khal tanzten. Ausdruckslos sah Drogo zu, doch seine Blicke folgten ihren Bewegungen, und von Zeit zu Zeit warf er eine bronzene Münze hinunter, um welche die Frauen dann rauften.
+Die Sonne hatte erst ein Viertel ihres Weges zum Zenit hinter sich gebracht, als sie den ersten Mann sterben sah. `Trommeln schlugen, während einige der Frauen für den Khal tanzten. `Ausdruckslos sah Drogo zu, doch seine Blicke folgten ihren Bewegungen, und von Zeit zu Zeit warf er eine bronzene Münze hinunter, um welche die Frauen dann `rauften.
 
-Auch die Krieger sahen zu. Einer von ihnen trat schließlich in den Kreis, packte eine Tänzerin beim Arm, stieß sie zu Boden und bestieg sie gleich dort, wie ein Hengst eine Stute besteigt. Illyrio hatte ihr gesagt, dass so etwas geschehen mochte. »Die Dothraki paaren sich wie die Tiere in ihren Herden. Es gibt kein Alleinsein in einem Khalasar, und sie verstehen Sünde und Scham nicht wie wir.«
+Auch die Krieger sahen zu. Einer von ihnen trat schließlich in den Kreis, packte eine Tänzerin beim Arm, stieß sie zu Boden und bestieg sie gleich dort, wie ein `Hengst eine `Stute besteigt. Illyrio hatte ihr gesagt, dass so etwas geschehen mochte. »Die Dothraki paaren sich wie die Tiere in ihren Herden. Es gibt kein `Alleinsein in einem Khalasar, und sie verstehen `Sünde und `Scham nicht wie wir.«
 
-Dany wandte sich von dieser Paarung erschrocken ab, als ihr bewusst wurde, was dort geschah, doch ein zweiter Krieger trat vor, und ein dritter, und bald gab es keine Möglichkeit mehr, sich abzuwenden. Dann packten zwei Männer dieselbe Frau. Sie hörte einen Schrei, sah einen Stoß, und innerhalb eines Augenblicks waren die arakhs gezückt, lange, rasiermesserscharfe Klingen, halb Schwert, halb Sense. Ein Todestanz begann, als die Krieger einander umkreisten und zuschlugen, einander ansprangen, die Klingen über den Köpfen wirbeln ließen, bei jedem Hieb Beleidigungen brüllten. Niemand trat vor, um einzugreifen.
+Dany wandte sich von dieser Paarung erschrocken ab, als ihr bewusst wurde, was dort geschah, doch ein zweiter Krieger trat vor, und ein dritter, und bald gab es keine Möglichkeit mehr, sich abzuwenden. Dann packten zwei Männer dieselbe Frau. Sie hörte einen Schrei, sah einen Stoß, und innerhalb eines Augenblicks waren die arakhs gezückt, lange, rasiermesserscharfe `Klingen, halb Schwert, halb `Sense. Ein Todestanz begann, als die Krieger einander umkreisten und zuschlugen, einander ansprangen, die Klingen über den Köpfen wirbeln ließen, bei jedem Hieb Beleidigungen brüllten. Niemand trat vor, um einzugreifen.
 
-Es endete so schnell, wie es begonnen hatte. Die arakhs zuckten schneller, als Dany sehen konnte, ein Mann ließ einen Schritt aus, der andere schwang seine Klinge in flachem Bogen. Stahl schnitt knapp über der Hüfte des Dothraki in sein Fleisch und riss ihn vom Rückgrat bis zum Nabel auf, verteilte sein Gedärm im Staub. Noch während der Verlierer starb, packte sich der Sieger die nächststehende Frau – nicht einmal diejenige, um die sie gestritten hatten – und nahm sie auf der Stelle. Sklaven trugen die Leiche fort, und der Tanz begann von neuem.
+Es endete so schnell, wie es begonnen hatte. Die arakhs zuckten schneller, als Dany sehen konnte, ein Mann ließ einen Schritt aus, der andere schwang seine Klinge in flachem Bogen. Stahl schnitt knapp über der Hüfte des Dothraki in sein Fleisch und riss ihn vom `Rückgrat bis zum `Nabel auf, verteilte sein `Gedärm im Staub. Noch während der Verlierer starb, packte sich der Sieger die nächststehende Frau – nicht einmal diejenige, um die sie gestritten hatten – und nahm sie auf der Stelle. Sklaven trugen die `Leiche fort, und der Tanz begann von neuem.
 
 Auch davor hatte Magister Illyrio Dany gewarnt. »Eine dothrakische Hochzeit ohne mindestens drei Tote ist keine richtige Hochzeit«, hatte er gesagt. Ihre Hochzeit schien auf besondere Weise gesegnet zu sein. Bevor der Tag ein Ende nahm, waren ein ganzes Dutzend Männer gestorben.
 
-Während die Stunden verrannen, wuchs Danys Angst, bis sie nur noch darum rang, nicht aufzuschreien. Sie fürchtete sich vor den Dothraki, deren Sitten ihr fremd und grausam erschienen, als wären sie wilde Tiere in Menschenhaut und eigentlich gar keine Menschen. Sie fürchtete sich vor ihrem Bruder, vor dem, was er ihr antun mochte, wenn sie ihn enttäuschte. Vor allem jedoch fürchtete sie sich davor, was des Nachts unterm Sternenzelt geschehen mochte, wenn ihr Bruder sie dem ungeschlachten Riesen auslieferte, der mit einem Gesicht, das so unbewegt und grausam wie eine Bronzemaske war, trinkend neben ihr saß.
+Während die Stunden `verrannen, wuchs Danys Angst, bis sie nur noch darum rang, nicht aufzuschreien. Sie fürchtete sich vor den Dothraki, deren Sitten ihr fremd und grausam erschienen, als wären sie wilde Tiere in Menschenhaut und eigentlich gar keine Menschen. Sie fürchtete sich vor ihrem Bruder, vor dem, was er ihr `antun mochte, wenn sie ihn `enttäuschte. Vor allem jedoch fürchtete sie sich davor, was des Nachts unterm Sternenzelt geschehen mochte, wenn ihr Bruder sie dem ungeschlachten Riesen auslieferte, der mit einem Gesicht, das so unbewegt und grausam wie eine Bronzemaske war, trinkend neben ihr saß.
 
 Ich bin das Blut des Drachen, sagte sie sich immer wieder.
 
 Als die Sonne tief am Himmel stand, klatschte Khal Drogo in die Hände, und die Trommeln und Schreie und die ganze Feier erstarben mit einem Mal. Drogo stand auf und zog Dany neben sich auf die Beine. Es wurde Zeit für ihre Brautgeschenke.
 
-Und nach den Geschenken, das wusste sie, nachdem die Sonne untergegangen war, würde es Zeit für den ersten Ritt und die Vollstreckung der Ehe. Dany versuchte, den Gedanken zu verdrängen, doch wollte es ihr nicht gelingen. Sie verschränkte die Arme vor der Brust, damit sie nicht zitterte.
+Und nach den Geschenken, das wusste sie, nachdem die Sonne untergegangen war, würde es Zeit für den ersten Ritt und die `Vollstreckung der `Ehe. Dany versuchte, den Gedanken zu verdrängen, doch wollte es ihr nicht gelingen. Sie verschränkte die Arme vor der Brust, damit sie nicht zitterte.
 
-Ihr Bruder Viserys beschenkte sie mit drei Mägden. Dany wusste, dass sie ihn nichts gekostet hatten. Zweifellos hatte Illyrio die Mädchen gestellt. Irri und Jhiqui waren kupferhäutige Dothraki mit schwarzem Haar und mandelförmigen Augen, Doreah ein blondes, blauäugiges lysenisches Mädchen. »Diese sind keine gewöhnlichen Dienerinnen, liebe Schwester«, erklärte ihr Bruder, als eine nach der anderen vorgeführt wurde. »Illyrio und ich haben sie persönlich für dich ausgewählt. Irri wird dich das Reiten lehren, Jhiqui die Sprache der Dothraki, und Doreah wird dich in der weiblichen Kunst der Liebe unterweisen.« Er lächelte schmal. »Sie ist sehr gut, das können Illyrio und ich beide bestätigen.«
+Ihr Bruder Viserys beschenkte sie mit drei Mägden. Dany wusste, dass sie ihn nichts gekostet hatten. Zweifellos hatte Illyrio die Mädchen gestellt. Irri und Jhiqui waren `kupferhäutige Dothraki mit schwarzem Haar und `mandelförmigen Augen, Doreah ein blondes, blauäugiges lysenisches Mädchen. »Diese sind keine gewöhnlichen Dienerinnen, liebe Schwester«, erklärte ihr Bruder, als eine nach der anderen vorgeführt wurde. »Illyrio und ich haben sie persönlich für dich ausgewählt. Irri wird dich das Reiten lehren, Jhiqui die Sprache der Dothraki, und Doreah wird dich in der weiblichen Kunst der Liebe unterweisen.« Er lächelte schmal. »Sie ist sehr gut, das können Illyrio und ich beide `bestätigen.«
 
 Ser Jorah Mormont bat für seine Gabe um Verzeihung. »Es ist nur eine Kleinigkeit, meine Prinzessin, doch alles, was ein armer Verbannter sich leisten kann«, sagte er, als er einen kleinen Stapel alter Bücher vor sie legte. Es waren Historien und Lieder aus den Sieben Königslanden, wie sie sah, verfasst in der Gemeinen Zunge. Sie dankte ihm von ganzem Herzen.
 
-Magister Illyrio murmelte einen Befehl, und vier stämmige Sklaven eilten vor, trugen zwischen sich eine große, bronzebeschlagene Zederntruhe. Als sie diese öffnete, fand sie Stapel vom feinsten Samt und Damast, den es in den Freien Städten gab … und darauf ruhten – auf weichem Tuch aneinandergeschmiegt – drei übergroße Eier. Dany hielt den Atem an. Nie zuvor hatte sie etwas Schöneres gesehen. Jedes war anders als die anderen, mit Mustern in derart dunklen Farben, dass sie anfangs glaubte, sie seien mit Juwelen besetzt, und so groß, dass sie beide Hände brauchte, um eines davon festzuhalten. Vorsichtig hob sie es an, erwartete, dass es aus feinem Porzellan oder zartem Emaille wäre, sogar aus geblasenem Glas, doch war es viel schwerer als das, als wäre es ganz aus Stein. Die Oberfläche der Schale war von winzigen Schuppen überzogen, und als sie das Ei zwischen ihren Fingern drehte, schimmerten die Schuppen im Licht der untergehenden Sonne wie poliertes Metall. Ein Ei war von dunklem Grün mit geschliffenen Bronzeflecken, die kamen und gingen, je nachdem, wie Dany es hielt. Ein anderes war von heller Cremefarbe, mit Gold durchzogen. Das Letzte war schwarz, so schwarz wie ein mitternächtlicher See, dennoch schienen rote Wellen und Wirbel darauf zu leben. »Was ist das?«, fragte sie mit leiser Stimme voll Verwunderung.
+Magister Illyrio murmelte einen Befehl, und vier stämmige Sklaven eilten vor, trugen zwischen sich eine große, bronzebeschlagene Zederntruhe. Als sie diese öffnete, fand sie Stapel vom feinsten Samt und Damast, den es in den Freien Städten gab … und darauf ruhten – auf weichem `Tuch `aneinandergeschmiegt – drei übergroße Eier. Dany hielt den Atem an. Nie zuvor hatte sie etwas Schöneres gesehen. Jedes war anders als die anderen, mit `Mustern in derart dunklen Farben, dass sie anfangs glaubte, sie seien mit Juwelen besetzt, und so groß, dass sie beide Hände brauchte, um eines davon festzuhalten. Vorsichtig hob sie es an, erwartete, dass es aus feinem Porzellan oder zartem Emaille wäre, sogar aus geblasenem Glas, doch war es viel schwerer als das, als wäre es ganz aus Stein. Die Oberfläche der Schale war von winzigen Schuppen überzogen, und als sie das Ei zwischen ihren Fingern drehte, schimmerten die Schuppen im Licht der untergehenden Sonne wie poliertes Metall. Ein Ei war von dunklem Grün mit geschliffenen Bronzeflecken, die kamen und gingen, je nachdem, wie Dany es hielt. Ein anderes war von heller Cremefarbe, mit Gold durchzogen. Das Letzte war schwarz, so schwarz wie ein mitternächtlicher See, dennoch schienen rote Wellen und Wirbel darauf zu leben. »Was ist das?«, fragte sie mit leiser Stimme voll Verwunderung.
 
 »Dracheneier aus den Schattenländern jenseits von Asshai«, sagte Magister Illyrio. »Die Ewigkeiten haben sie in Stein verwandelt, doch dennoch leuchtet ihre Schönheit hell.«
 
@@ -1994,7 +1994,7 @@ Das silbergraue Fohlen setzte sich mit weichem und seidigem Gang in Bewegung, un
 
 Das silberne Pferd übersprang die Flammen, als hätte es Flügel.
 
-Als sie vor Magister Illyrio zum Stehen kam, sagte sie: »Sagt Khal Drogo, dass er mir den Wind geschenkt hat.« Der fette Pentosi strich über seinen gelben Bart, als er die Worte ins Dothrakische übersetzte, und Dany sah ihren neuen Gatten zum ersten Mal lächeln.
+Als sie vor Magister Illyrio zum Stehen kam, sagte sie: »Sagt Khal Drogo, dass er mir den Wind geschenkt hat.« Der fette Pentosi strich über seinen gelben Bart, als er die Worte ins Dothrakische übersetzte, und Dany sah ihren neuen `Gatten zum ersten Mal lächeln.
 
 In diesem Augenblick verging der letzte Sonnenstrahl hinter den hohen Mauern von Pentos. Dany hatte jegliches Gefühl für die Zeit verloren. Khal Drogo befahl seinen Blutreitern, sein Pferd zu bringen, einen schlanken, roten Hengst. Während der Khal das Pferd sattelte, trat Viserys nah an seine Schwester heran, grub seine Finger in ihr Bein und zischte ihr zu: »Bereite ihm Freude, Schwesterchen, oder ich schwöre dir, du wirst erleben, dass der Drache erwacht, wie er noch nie erwacht ist.«
 
@@ -2002,39 +2002,39 @@ Da kehrte die Angst zu ihr zurück bei den Worten ihres Bruders. Wieder fühlte 
 
 Gemeinsam ritten sie davon, als die Sterne herauskamen, ließen das Khalasar und die Graspaläste hinter sich. Khal Drogo sagte kein Wort zu ihr, doch trieb er seinen Hengst im schnellen Trab durch die herabsinkende Dämmerung. Die winzigen Silberglöckchen in seinem langen Zopf läuteten leise. »Ich bin das Blut des Drachen«, flüsterte sie laut, da sie ihm folgte, und versuchte, sich Mut zu machen. »Ich bin das Blut des Drachen. Ich bin das Blut des Drachen.« Der Drache fürchtete sich niemals.
 
-Später konnte sie nicht mehr sagen, wie weit oder wie lange sie geritten waren, doch herrschte Dunkelheit, als sie auf einer Wiese neben einem kleinen Bach Halt machten. Drogo schwang sich von seinem Pferd und hob sie von ihrem. In seinen Händen fühlte sie sich zerbrechlich wie Glas, ihre Glieder waren wie Wasser. Hilflos und zitternd stand sie in ihrer Hochzeitsseide da, während er die Pferde sicherte, und als er sich zu ihr umdrehte, fing sie an zu weinen.
+Später konnte sie nicht mehr sagen, wie weit oder wie lange sie geritten waren, doch herrschte Dunkelheit, als sie auf einer `Wiese neben einem kleinen `Bach Halt machten. Drogo schwang sich von seinem Pferd und hob sie von ihrem. In seinen Händen fühlte sie sich zerbrechlich wie Glas, ihre Glieder waren wie Wasser. Hilflos und zitternd stand sie in ihrer Hochzeitsseide da, während er die Pferde sicherte, und als er sich zu ihr umdrehte, fing sie an zu weinen.
 
-Khal Drogo starrte auf ihre Tränen, seine Miene seltsam ausdruckslos. »Nein«, sagte er. Er hob die Hand und wischte die Tränen grob mit schwieligem Daumen fort.
+Khal Drogo starrte auf ihre Tränen, seine Miene seltsam ausdruckslos. »Nein«, sagte er. Er hob die Hand und wischte die Tränen grob mit schwieligem `Daumen fort.
 
 »Ihr sprecht die Gemeine Zunge«, fragte Dany verwundert.
 
 »Nein«, sagte er noch einmal.
 
-Vielleicht kannte er nur das eine Wort, so dachte sie, doch war es ein Wort mehr, als sie erwartet hatte, und in gewisser Weise fühlte sie sich dadurch besser. Drogo berührte sanft ihr Haar, ließ die silberblonden Strähnen durch seine Finger gleiten und murmelte leise etwas auf Dothrakisch. Dany verstand die Worte nicht, doch lag Wärme in ihrem Klang, eine Zärtlichkeit, die sie von diesem Mann niemals erwartet hätte.
+Vielleicht kannte er nur das eine Wort, so dachte sie, doch war es ein Wort mehr, als sie erwartet hatte, und in gewisser Weise fühlte sie sich dadurch besser. Drogo berührte sanft ihr Haar, ließ die silberblonden Strähnen durch seine Finger gleiten und murmelte leise etwas auf Dothrakisch. Dany verstand die Worte nicht, doch lag Wärme in ihrem Klang, eine `Zärtlichkeit, die sie von diesem Mann niemals erwartet hätte.
 
-Er legte ihr einen Finger unters Kinn und hob ihren Kopf, damit sie ihm in die Augen sah. Drogo ragte über ihr auf, wie er über jedermann aufragte. Indem er ihr leicht unter die Arme griff, nahm er sie hoch und setzte sie auf einen runden Stein am Bach. Dann setzte er sich ihr gegenüber auf den Boden, die Beine unter sich gekreuzt, und endlich waren ihre Gesichter auf gleicher Höhe. »Nein«, sagte er.
+Er legte ihr einen Finger unters `Kinn und hob ihren Kopf, damit sie ihm in die Augen sah. Drogo ragte über ihr auf, wie er über jedermann aufragte. Indem er ihr leicht unter die Arme griff, nahm er sie hoch und setzte sie auf einen runden Stein am Bach. Dann setzte er sich ihr gegenüber auf den Boden, die Beine unter sich gekreuzt, und endlich waren ihre Gesichter auf gleicher Höhe. »Nein«, sagte er.
 
 »Ist es das einzige Wort, das Ihr kennt?«, fragte sie ihn.
 
-Drogo antwortete nicht. Sein langer, schwerer Zopf kringelte sich neben ihm im Schmutz. Er zog ihn über seine rechte Schulter und begann, die Glöckchen aus seinem Haar zu nehmen, eines nach dem anderen. Einen Augenblick später beugte sich Dany vor, um zu helfen. Als sie damit fertig waren, machte Drogo eine Geste. Sie verstand. Langsam, vorsichtig, begann sie, den Zopf zu lösen.
+Drogo antwortete nicht. Sein langer, schwerer Zopf kringelte sich neben ihm im `Schmutz. Er zog ihn über seine rechte Schulter und begann, die Glöckchen aus seinem Haar zu nehmen, eines nach dem anderen. Einen Augenblick später beugte sich Dany vor, um zu helfen. Als sie damit fertig waren, machte Drogo eine `Geste. Sie verstand. Langsam, vorsichtig, begann sie, den Zopf zu lösen.
 
-Es dauerte seine Zeit. Währenddessen saß er schweigend da, betrachtete sie. Als sie fertig war, schüttelte er den Kopf, und sein Haar breitete sich wie ein Strom der Finsternis auf seinem Rücken aus, ölig und schimmernd. Nie zuvor hatte sie so langes Haar gesehen, so schwarz, so voll.
+Es dauerte seine Zeit. Währenddessen saß er schweigend da, betrachtete sie. Als sie fertig war, schüttelte er den Kopf, und sein Haar breitete sich wie ein Strom der `Finsternis auf seinem Rücken aus, ölig und schimmernd. Nie zuvor hatte sie so langes Haar gesehen, so schwarz, so voll.
 
-Dann war er an der Reihe. Er begann, sie zu entkleiden.
+Dann war er an der Reihe. Er begann, sie zu `entkleiden.
 
-Seine Hände waren geschickt und seltsam zärtlich. Er entfernte ihre Seide Schicht für Schicht, während Dany ungerührt dasaß, schweigend, und ihm in die Augen sah. Als er ihre kleinen Brüste enthüllte, wusste sie sich nicht zu helfen. Sie wandte sich ab und bedeckte sie mit den Händen. »Nein«, sagte Drogo. Er nahm ihre Hände von den Brüsten, sanft, wenn auch bestimmt, dann hob er wieder ihr Gesicht, damit sie ihn ansah. »Nein«, wiederholte er.
+Seine Hände waren geschickt und seltsam `zärtlich. Er entfernte ihre Seide Schicht für `Schicht, während Dany ungerührt dasaß, schweigend, und ihm in die Augen sah. Als er ihre kleinen Brüste enthüllte, wusste sie sich nicht zu helfen. Sie wandte sich ab und bedeckte sie mit den Händen. »Nein«, sagte Drogo. Er nahm ihre Hände von den Brüsten, sanft, wenn auch bestimmt, dann hob er wieder ihr Gesicht, damit sie ihn ansah. »Nein«, wiederholte er.
 
 »Nein«, gab sie wie ein Echo zurück.
 
-Dann stand er auf und zog sie an sich, um die letzte Seide zu entfernen. Die Nacht war kühl auf ihrer nackten Haut. Sie zitterte und bekam auf Armen und Beinen eine Gänsehaut. Sie fürchtete, was nun kommen würde, doch eine Weile geschah nichts. Khal Drogo saß im Schneidersitz nur da, sah sie an, trank ihren Leib mit seinen Augen.
+Dann stand er auf und zog sie an sich, um die letzte Seide zu entfernen. Die Nacht war kühl auf ihrer nackten Haut. Sie zitterte und bekam auf Armen und Beinen eine Gänsehaut. Sie fürchtete, was nun kommen würde, doch eine Weile geschah nichts. Khal Drogo saß im `Schneidersitz nur da, sah sie an, trank ihren `Leib mit seinen Augen.
 
-Nach einer Weile begann er, sie zu berühren. Anfangs leicht, dann fester. Sie konnte die wilde Kraft in seinen Händen fühlen, doch tat er ihr nie weh. Er hielt ihre Hand in seiner und strich über ihre Finger, einen nach dem anderen. Er fuhr mit einer Hand sanft an ihrem Bein hinab. Er streichelte ihr Gesicht, zeichnete den Schwung ihrer Ohren nach, strich mit einem Finger sanft um ihren Mund. Er schob beide Hände in ihr Haar und kämmte es mit seinen Fingern. Er drehte sie herum, massierte ihre Schultern, rieb mit einem Knöchel an ihrem Rückgrat hinab.
+Nach einer Weile begann er, sie zu berühren. Anfangs leicht, dann fester. Sie konnte die wilde Kraft in seinen Händen fühlen, doch tat er ihr nie weh. Er hielt ihre Hand in seiner und strich über ihre Finger, einen nach dem anderen. Er fuhr mit einer Hand sanft an ihrem Bein hinab. Er streichelte ihr Gesicht, `zeichnete den Schwung ihrer Ohren nach, strich mit einem Finger sanft um ihren Mund. Er schob beide Hände in ihr Haar und kämmte es mit seinen Fingern. Er drehte sie herum, massierte ihre Schultern, rieb mit einem Knöchel an ihrem Rückgrat hinab.
 
-Es schien, als wären Stunden vergangen, als seine Hände zu ihren Brüsten kamen. Er streichelte die weiche Haut darunter, bis sie prickelte. Er umkreiste ihre Brustwarzen mit seinen Daumen, nahm sie zwischen Daumen und Zeigefinger und begann, daran zu ziehen, anfangs ganz leicht, dann beharrlicher, bis ihre Brustwarzen hart wurden und zu schmerzen begannen.
+Es schien, als wären Stunden vergangen, als seine Hände zu ihren Brüsten kamen. Er streichelte die weiche Haut darunter, bis sie `prickelte. Er umkreiste ihre Brustwarzen mit seinen Daumen, nahm sie zwischen Daumen und `Zeigefinger und begann, daran zu ziehen, anfangs ganz leicht, dann beharrlicher, bis ihre Brustwarzen hart wurden und zu schmerzen begannen.
 
-Dann hielt er inne und zog sie auf seinen Schoß. Dany war schamesrot und außer Atem, das Herz flatterte ihr in der Brust. Er nahm ihr Gesicht in seine riesenhaften Hände und sah ihr in die Augen. »Nein?«, sagte er, und sie wusste, dass es eine Frage war.
+Dann hielt er inne und zog sie auf seinen Schoß. Dany war `schamesrot und außer Atem, das Herz flatterte ihr in der Brust. Er nahm ihr Gesicht in seine riesenhaften Hände und sah ihr in die Augen. »Nein?«, sagte er, und sie wusste, dass es eine Frage war.
 
-Sie nahm seine Hand und führte sie dorthin, wo sie zwischen ihren Schenkeln feucht war. »Ja«, flüsterte sie, als sie seinen Finger in sich schob.
+Sie nahm seine Hand und führte sie dorthin, wo sie zwischen ihren `Schenkeln feucht war. »Ja«, flüsterte sie, als sie seinen Finger in sich schob.
 
 == EDDARD
 
@@ -2044,7 +2044,7 @@ Alyn rüttelte ihn grob aus seinen Träumen, und Ned stolperte in die nächtlich
 
 »Alles, was recht ist«, sagte Ned. »Kommt herein, Majestät. « Alyn hob die Zelttür an.
 
-»Nein, nein, nein«, entgegnete Robert. Sein Atem dampfte bei jedem Wort. »Das Lager ist voller Ohren. Außerdem will ich ausreiten und ein Gefühl für dein Land bekommen.« Ser Boros und Ser Meryn warteten hinter ihm mit einem Dutzend Gardisten, wie Ned sah. Er konnte nichts weiter tun, als den Schlaf aus seinen Augen reiben, sich ankleiden und aufsitzen.
+»Nein, nein, nein«, entgegnete Robert. Sein Atem dampfte bei jedem Wort. »Das Lager ist voller Ohren. Außerdem will ich ausreiten und ein Gefühl für dein neues Land bekommen.« Ser Boros und Ser Meryn warteten hinter ihm mit einem Dutzend Gardisten, wie Ned sah. Er konnte nichts weiter tun, als den Schlaf aus seinen Augen reiben, sich ankleiden und aufsitzen.
 
 Robert gab die Gangart vor, trieb sein mächtiges, schwarzes Streitross hart an, während Ned neben ihm galoppierte und versuchte, mitzuhalten. Er rief ihm eine Frage zu, während sie ritten, doch der Wind verwehte seine Worte, und der König konnte ihn nicht hören. Danach ritt Ned schweigend weiter. Bald schon verließen sie den Königsweg und eilten über weite, dunstverhangene Hügel. Mittlerweile war die Garde ein kleines Stück zurückgefallen, sicher außer Hörweite, und dennoch wollte Robert nicht langsamer werden.
 
@@ -2104,7 +2104,7 @@ Diesmal beschloss Ned, seinen Zorn im Zaum zu halten. »Majestät, das Mädchen 
 
 »Nichtsdestotrotz«, hielt Ned dagegen, »Mord an Kindern … es wäre schändlich … unsagbar …«
 
-»Unsagbar?«, brüllte der König. »Was Aerys deinem Bruder Brandon angetan hat, das war unsagbar. Die Art und Weise, wie dein Vater gestorben ist, das war unsagbar. Und Rhaegar … wie oft, glaubst du, hat er deine Schwester vergewaltigt? Wie viele hundert Male?« Seine Stimme war so laut geworden, dass sein Pferd unter ihm unruhig wieherte. Hart riss der König an den Zügeln, brachte das Tier zur Ruhe und deutete mit wütendem Finger auf Ned. »Ich werde jeden Targaryen töten, den ich zu fassen bekomme, bis sie so tot wie ihre Drachen sind, und dann werde ich auf ihre Gräber pissen. «
+»Unsagbar?«, brüllte der König. »Was Aerys deinem Bruder Brandon angetan hat, das war unsagbar. Die Art und Weise, wie dein Vater gestorben ist, das war unsagbar. Und Rhaegar … wie oft, glaubst du, hat er deine Schwester vergewaltigt? Wie viele hundert Male?« Seine Stimme war so laut geworden, dass sein Pferd unter ihm unruhig wieherte. Hart riss der König an den Zügeln, brachte das Tier zur Ruhe und deutete mit wütendem Finger auf Ned. »Ich werde jeden Targaryen töten, den ich zu fassen bekomme, bis sie so tot wie ihre Drachen sind, und dann werde ich auf ihre Gräber pissen.«
 
 Ned war klug genug, ihm nicht zu trotzen, wenn der Zorn ihn überkam. Wenn die Jahre Roberts Rachedurst nicht gestillt hatten, dann würden auch Worte nicht helfen. »Du kommst nicht an sie heran, was?«, fragte er ruhig.
 
@@ -2144,21 +2144,21 @@ Robert trat sein Pferd wieder in Gang und hielt den Hang hinab den Hügelgräber
 
 »Kann man Jaime Lennister vertrauen?«
 
-»Er ist der Zwillingsbruder meiner Frau, ein Waffenbruder der Königsgarde, sein Leben, sein Schicksal und seine Ehre sind allesamt an mich gebunden.«
+»Er ist der Zwillingsbruder meiner Frau, ein Waffenbruder der Königsgarde, sein Leben, sein `Schicksal und seine Ehre sind allesamt an mich gebunden.«
 
 »Wie sie an Aerys Targaryen gebunden waren«, erklärte Ned.
 
 »Warum sollte ich ihm misstrauen? Er hat alles getan, worum ich ihn je gebeten habe. Sein Schwert hat geholfen, den Thron zu erobern, auf dem ich sitze.«
 
-Sein Schwert hat geholfen, den Thron zu besudeln, auf dem du sitzt, dachte Ned, doch ließ er die Worte nicht über seine Lippen kommen. »Er hat einen Eid geschworen, das Leben seines Königs mit seinem eigenen zu verteidigen. Dann hat er diesem König mit seinem Schwert die Kehle aufgeschlitzt.«
+Sein Schwert hat geholfen, den Thron zu besudeln, auf dem du sitzt, dachte Ned, doch ließ er die Worte nicht über seine Lippen kommen. »Er hat einen Eid geschworen, das Leben seines Königs mit seinem eigenen zu `verteidigen. Dann hat er diesem König mit seinem Schwert die `Kehle aufgeschlitzt.«
 
-»Bei den sieben Höllen, irgendwer musste Aerys töten!«, sagte Robert und brachte sein Pferd neben einem uralten Grab plötzlich zum Stehen. »Wenn Jaime es nicht getan hätte, wäre es an dir oder mir hängen geblieben.«
+»Bei den sieben `Höllen, irgendwer musste Aerys töten!«, sagte Robert und brachte sein Pferd neben einem `uralten `Grab plötzlich zum Stehen. »Wenn Jaime es nicht getan hätte, wäre es an dir oder mir hängen geblieben.«
 
 »Wir waren keine Waffenbrüder der Königsgarde«, gab Ned zurück. In diesem Moment beschloss er, dass für Robert die Zeit gekommen war, die ganze Wahrheit zu erfahren. »Erinnert Ihr Euch an den Trident, Majestät?«
 
 »Dort habe ich meine Krone errungen. Wie könnte ich das vergessen?«
 
-»Ihr habt eine Wunde von Rhaegar davongetragen«, erinnerte Ned. »Als das Heer der Targaryen nun also wich und floh, legtet Ihr die Verfolgung in meine Hände. Die Reste von Rhaegars Armee flüchteten nach Königsmund zurück. Wir folgten ihnen. Aerys war mit mehreren Tausend Getreuen im Roten Bergfried. Ich hatte erwartet, die Tore verschlossen vorzufinden.«
+»Ihr habt eine Wunde von Rhaegar davongetragen«, erinnerte Ned. »Als das Heer der Targaryen nun also wich und floh, legtet Ihr die `Verfolgung in meine Hände. Die Reste von Rhaegars Armee flüchteten nach Königsmund zurück. Wir folgten ihnen. Aerys war mit mehreren Tausend Getreuen im Roten Bergfried. Ich hatte erwartet, die Tore verschlossen vorzufinden.«
 
 Ungeduldig schüttelte Robert den Kopf. »Stattdessen habt Ihr festgestellt, dass unsere Mannen die Stadt bereits eingenommen hatten. Was ist damit?«
 
@@ -2174,9 +2174,9 @@ Der Krieg hatte fast ein Jahr getobt. Große und kleine Lords hatten sich Robert
 
 »Du hast Lyanna am Trident gerächt«, sagte Ned, als er neben dem König stehen blieb. Versprich es mir, Ned, hatte sie geflüstert.
 
-»Das hat sie nicht zurückgebracht.« Robert wandte sich ab, blickte in die graue Ferne. »Mögen die Götter verdammt sein. Es war ein schaler Sieg, den sie mir gegeben haben. Eine Krone … es war das Mädchen, für das ich zu ihnen gebetet hatte. Deine Schwester, in Sicherheit … und wieder mein, wie es hatte sein sollen. Ich frage dich, Ned, was ist gut daran, eine Krone zu tragen? Die Götter verspotten die Gebete von Königen und Kuhhirten gleichermaßen.«
+»Das hat sie nicht zurückgebracht.« Robert wandte sich ab, blickte in die graue Ferne. »Mögen die Götter verdammt sein. Es war ein schaler Sieg, den sie mir gegeben haben. Eine Krone … es war das Mädchen, für das ich zu ihnen gebetet hatte. Deine Schwester, in Sicherheit … und wieder mein, wie es hatte sein sollen. Ich frage dich, Ned, was ist gut daran, eine Krone zu tragen? Die Götter `verspotten die Gebete von Königen und Kuhhirten gleichermaßen.«
 
-»Ich kann nicht für die Götter sprechen, Majestät … nur für das, was ich fand, als ich an jenem Tag in den Thronraum ritt«, begann Ned. »Aerys lag tot am Boden, erstickt an seinem eigenen Blut. Seine Drachenschädel starrten von den Wänden herab. Lennisters Mannen waren überall. Jaime trug den weißen Umhang der Königsgarde über seiner goldenen Rüstung. Ich sehe ihn noch vor mir. Selbst sein Schwert war vergoldet. Er saß auf dem Eisernen Thron, hoch über seinen Rittern, und trug einen Helm, der einem Löwenkopf nachempfunden war. Wie er gefunkelt hat!«
+»Ich kann nicht für die Götter sprechen, Majestät … nur für das, was ich fand, als ich an jenem Tag in den Thronraum ritt«, begann Ned. »Aerys lag tot am Boden, erstickt an seinem eigenen Blut. Seine Drachenschädel starrten von den Wänden herab. Lennisters Mannen waren überall. Jaime trug den weißen Umhang der Königsgarde über seiner goldenen Rüstung. Ich sehe ihn noch vor mir. Selbst sein Schwert war vergoldet. Er saß auf dem Eisernen Thron, hoch über seinen Rittern, und trug einen Helm, der einem Löwenkopf nachempfunden war. Wie er `gefunkelt hat!«
 
 »Das ist wohlbekannt«, beschwerte sich der König.
 
@@ -2186,7 +2186,7 @@ Der König warf den Kopf in den Nacken und grölte. Sein Gelächter schreckte ei
 
 »Kind oder Mann, er hatte kein Recht, auf dem Thron zu sitzen.«
 
-»Vielleicht war er müde«, gab Robert zurück. »Könige zu töten, ist ein ermüdendes Geschäft. Die Götter wissen, dass in diesem vermaledeiten Saal sonst keine Bank ist, auf der man seinen Arsch ausruhen kann. Und er hat die Wahrheit gesprochen: Es ist ein grauenvoll unbequemer Stuhl. In mehr als einer Hinsicht.« Der König schüttelte den Kopf. »Nun, jetzt kenne ich Jaimes finstere Sünde, und wir können die Sache vergessen. Ich habe ehrlich genug von Geheimnissen und Zank und Staatsaffären, Ned. Das alles ist so öde wie das Münzenzählen. Komm, reiten wir, früher wusstest du doch, wie es geht. Ich will den Wind wieder in meinen Haaren spüren.« Er trieb sein Pferd an und galoppierte über das Hügelgrab hinweg, dass es in seinem Rücken Erde regnete.
+»Vielleicht war er müde«, gab Robert zurück. »Könige zu töten, ist ein ermüdendes Geschäft. Die Götter wissen, dass in diesem vermaledeiten Saal sonst keine Bank ist, auf der man seinen Arsch ausruhen kann. Und er hat die Wahrheit gesprochen: Es ist ein grauenvoll unbequemer Stuhl. In mehr als einer Hinsicht.« Der König schüttelte den Kopf. »Nun, jetzt kenne ich Jaimes finstere `Sünde, und wir können die Sache vergessen. Ich habe ehrlich genug von Geheimnissen und `Zank und Staatsaffären, Ned. Das alles ist so öde wie das Münzenzählen. Komm, reiten wir, früher wusstest du doch, wie es geht. Ich will den Wind wieder in meinen Haaren spüren.« Er trieb sein Pferd an und galoppierte über das Hügelgrab hinweg, dass es in seinem Rücken Erde regnete.
 
 Einen Moment lang folgte Ned ihm nicht. Ihm waren die Worte ausgegangen, und er sah sich von einem maßlosen Gefühl der Hilflosigkeit erfüllt. Nicht zum ersten Mal fragte er sich, was er hier tat und wozu er hergekommen war. Er war nicht Jon Arryn, der die Wildheit seines Königs zügelte und ihn die Weisheit lehrte. Robert würde tun, was ihm beliebte, wie er es von jeher tat, und nichts von allem, was Ned sagen oder tun konnte, würde etwas daran ändern. Er gehörte nach Winterfell. Er gehörte zu Catelyn in ihrer Trauer, und zu Bran.
 
@@ -2208,7 +2208,7 @@ Drei Tagesritte von Winterfell entfernt jedoch wich das Ackerland dichtem Wald, 
 
 Mit den Bergen wie eine Mauer im Westen schlängelte sich die Straße nordöstlich durchs Gehölz, durch einen Wald von Eichen und Tannen und Dorngestrüpp, der älter und dunkler schien als alle Wälder, die Tyrion je gesehen hatte. »Der Wolfswald«, nannte Benjen Stark ihn, und tatsächlich war er des Nachts vom Heulen ferner Rudel belebt, und manche davon gar nicht so fern. Jon Schnees Albinowolf stellte bei dem nächtlichen Geheul die Ohren auf, doch heulte er nie zur Antwort. Dieses Tier hat etwas Beunruhigendes an sich, dachte Tyrion.
 
-Inzwischen waren sie acht, den Wolf nicht mitgerechnet. Tyrion reiste mit zwei seiner eigenen Männer, wie es einem Lennister gebührte. Benjen Stark hatte nur seinen Bastard von einem Neffen und ein paar frische Pferde für die Nachtwache dabei, doch am Rande des Wolfswaldes verbrachten sie eine Nacht hinter den Holzwänden einer Waldfestung und taten sich mit einem weiteren schwarzen Bruder, einem gewissen Yoren, zusammen. Yoren war krumm und finster, sein Gesicht hinter einem Bart verborgen, der so schwarz war wie seine Kleider, doch wirkte er so unbeugsam wie eine alte Wurzel und hart wie Stein. Bei ihm waren zwei zerlumpte Bauernjungen von den Fingern. »Vergewaltiger«, sagte Yoren mit kaltem Blick auf seine Schützlinge. Tyrion verstand. Es hieß, das Leben auf der Mauer sei hart, doch zweifellos war es einer Kastration vorzuziehen.
+Inzwischen waren sie acht, den Wolf nicht mitgerechnet. Tyrion reiste mit zwei seiner eigenen Männer, wie es einem Lennister gebührte. Benjen Stark hatte nur seinen Bastard von einem Neffen und ein paar frische Pferde für die Nachtwache dabei, doch am Rande des Wolfswaldes verbrachten sie eine Nacht hinter den Holzwänden einer Waldfestung und taten sich mit einem weiteren schwarzen Bruder, einem gewissen Yoren, zusammen. Yoren war krumm und finster, sein Gesicht hinter einem Bart verborgen, der so schwarz war wie seine Kleider, doch wirkte er so unbeugsam wie eine alte Wurzel und hart wie Stein. Bei ihm waren zwei zerlumpte Bauernjungen von den Fingern. »`Vergewaltiger«, sagte Yoren mit kaltem Blick auf seine Schützlinge. Tyrion verstand. Es hieß, das Leben auf der Mauer sei hart, doch zweifellos war es einer Kastration vorzuziehen.
 
 Fünf Männer, drei Jungen, ein Schattenwolf, zwanzig Pferde und ein Käfig voller Raben, der Benjen Stark von Maester Luwin übergeben worden war. Ohne Zweifel stellten sie auf dem Königsweg eine seltsame Gesellschaft dar wie wohl auf jeder Straße.
 
@@ -2222,17 +2222,17 @@ Weit weniger Mitgefühl hatte er für den Onkel. Benjen Stark schien den Widerwi
 
 Selbstverständlich schlug man dem Bruder der Königin nichts ab, womit die Sache dann geklärt war, doch Freude hatte Stark darüber nicht empfunden. »Der Ritt wird Euch nicht behagen, das kann ich Euch versprechen«, hatte er barsch gesagt, und seit dem Augenblick, in dem sie losgeritten waren, hatte er alles getan, um sein Versprechen einzulösen.
 
-Gegen Ende der ersten Woche waren Tyrions Oberschenkel blutig gescheuert vom harten Ritt, in den Beinen hatte er schwere Krämpfe, und er fror bis auf die Knochen. Er klagte nicht. Er wollte verdammt sein, wenn er Benjen Stark diese Genugtuung gönnte.
+Gegen Ende der ersten Woche waren Tyrions Oberschenkel blutig gescheuert vom harten Ritt, in den Beinen hatte er schwere Krämpfe, und er `fror bis auf die `Knochen. Er klagte nicht. Er wollte verdammt sein, wenn er Benjen Stark diese Genugtuung gönnte.
 
 Er nahm eine kleine Rache, was sein Reitfell anging, ein zerfetztes Bärenfell, alt und muffig riechend. Stark hatte es ihm in einem Anflug von Ritterlichkeit angeboten und zweifellos erwartet, dass er dankend ablehnte. Lächelnd hatte Tyrion es akzeptiert. Er hatte seine wärmsten Kleider eingepackt, als sie Winterfell verließen, und bald schon festgestellt, dass sie nicht im Entferntesten warm genug waren. Kalt war es dort oben, und es wurde immer kälter. Die Nächte waren inzwischen unter dem Gefrierpunkt, und wenn der Wind wehte, war es, als schnitte ein Messer geradewegs durch seine wärmste Wollkleidung. Mittlerweile bereute Stark seinen ritterlichen Impuls ganz ohne Zweifel. Vielleicht war es ihm eine Lektion. Die Lennisters lehnten niemals ab, dankend oder sonst wie. Die Lennisters nahmen, was sich ihnen bot.
 
 Bauernhöfe und Festungsanlagen wurden seltener und kleiner, je weiter sie nach Norden kamen, tiefer und tiefer ins Dunkel des Wolfswaldes hinein, bis es schließlich keine Dächer mehr gab, unter denen man Schutz suchen konnte, und sie auf sich selbst gestellt waren.
 
-Tyrion war nie eine große Hilfe, wenn es darum ging, ein Lager zu errichten oder abzubrechen. Zu klein, zu behindert, zu sehr im Weg. Während Stark und Yoren und die anderen Männer also grobe Unterstände errichteten, sich um die Pferde kümmerten, ein Feuer machten, wurde es ihm zur Gewohnheit, sein Fell und einen Weinschlauch zu nehmen und sich zum Lesen zurückzuziehen.
+Tyrion war nie eine große Hilfe, wenn es darum ging, ein `Lager zu errichten oder abzubrechen. Zu klein, zu behindert, zu sehr im Weg. Während Stark und Yoren und die anderen Männer also grobe `Unterstände errichteten, sich um die Pferde kümmerten, ein Feuer machten, wurde es ihm zur Gewohnheit, sein Fell und einen Weinschlauch zu nehmen und sich zum Lesen zurückzuziehen.
 
 Am achtzehnten Abend ihrer Reise war der Wein ein selten süßer Rebensaft von den Sommerinseln, den er den ganzen Weg von Casterlystein in den Norden mitgenommen hatte, und das Buch eine Abhandlung zu Geschichte und Eigenschaften der Drachen. Mit Lord Eddard Starks Erlaubnis hatte Tyrion einige seltene Bände aus der Bibliothek von Winterfell für die Reise in den Norden entliehen.
 
-Er fand eine bequeme Stelle etwas abseits des Lagerlärms, an einem rauschenden Bach, dessen Fluten klar und kalt wie Eis waren. Eine Eiche von bizarrem Alter bot ihm Schutz vor dem schneidenden Wind. Tyrion wickelte sich mit dem Rücken am Stamm in sein Fell, nahm einen Schluck Wein und begann, über die Eigenschaften von Drachenknochen nachzulesen. Drachenknochen ist schwarz wegen seines hohen Eisengehalts, las er in dem Buch. Er ist hart wie Stahl, doch leichter und weit biegsamer und natürlich Feuer gegenüber gänzlich unempfindlich. Bogen aus Drachenknochen sind bei den Dothraki hoch geschätzt, was nicht verwundern kann. Ein damit bewehrter Bogenschütze schießt weiter als mit jedem Holzbogen.
+Er fand eine bequeme Stelle etwas abseits des Lagerlärms, an einem rauschenden Bach, dessen `Fluten klar und kalt wie Eis waren. Eine Eiche von bizarrem Alter bot ihm Schutz vor dem schneidenden Wind. Tyrion wickelte sich mit dem Rücken am Stamm in sein Fell, nahm einen Schluck Wein und begann, über die Eigenschaften von Drachenknochen nachzulesen. Drachenknochen ist schwarz wegen seines hohen Eisengehalts, las er in dem Buch. Er ist hart wie Stahl, doch leichter und weit biegsamer und natürlich Feuer gegenüber gänzlich unempfindlich. Bogen aus Drachenknochen sind bei den Dothraki hoch geschätzt, was nicht verwundern kann. Ein damit bewehrter Bogenschütze schießt weiter als mit jedem Holzbogen.
 
 Drachen übten auf Tyrion eine morbide Faszination aus. Als er für die Hochzeit seiner Schwester mit Robert Baratheon zum ersten Mal nach Königsmund gekommen war, hatte er darauf bestanden, die Drachenschädel zu besichtigen, die an den Wänden des Thronsaals der Targaryen gehangen hatten. König Robert hatte sie durch Banner und Wandteppiche ersetzt, doch Tyrion war derart beharrlich geblieben, bis er die Schädel schließlich in dem feuchten Keller aufspürte, wo man sie lagerte.
 
@@ -2332,7 +2332,7 @@ Tyrion zog sich als Letzter zurück wie stets. Als er den Unterstand, den seine 
 
 Tyrion Lennister lächelte traurig und ging zu Bett.
 
-== CATELYN
+== CATELYN ***
 
 Ned war seit acht Tagen mit den Mädchen fort, als Maester Luwin eines Abends zu ihr in Brans Krankenzimmer kam mit einer Leselampe und den Rechnungsbüchern. »Es wird höchste Zeit, dass wir die Zahlen durchgehen, Mylady«, sagte er, »Ihr werdet wissen wollen, was uns der Besuch des Königs gekostet hat.«
 
@@ -2346,7 +2346,7 @@ Sie schnitt ihm das Wort ab. »Ich sagte, nehmt die Bücher wieder mit. Der Haus
 
 Catelyn nickte abwesend. »O ja, Ihr habt Recht.« Bran sah so blass aus. Sie überlegte, ob sie sein Bett ans Fenster stellen sollte, damit er ein wenig Morgensonne bekam.
 
-Maester Luwin stellte die Lampe in eine Nische bei der Tür und fingerte an ihrem Docht herum. »Es stehen mehrere Ernennungen an, Mylady. Neben dem Haushofmeister brauchen wir einen Hauptmann der Garde, der an Jorys Stelle tritt, einen neuen Stallmeister …«
+Maester Luwin stellte die Lampe in eine Nische bei der Tür und fingerte an ihrem `Docht herum. »Es stehen mehrere Ernennungen an, Mylady. Neben dem Haushofmeister brauchen wir einen Hauptmann der Garde, der an Jorys Stelle tritt, einen neuen Stallmeister …«
 
 Ihr Blick fuhr herum und fand ihn. »Einen Stallmeister?« Ihre Stimme war wie eine Peitsche.
 
@@ -2418,27 +2418,27 @@ Catelyn sah das Messer an, dann Bran. »Nein«, sagte sie. Das Wort blieb ihr in
 
 Er musste sie gehört haben. »Es ist ein Akt der Gnade«, sagte er. »Er ist doch schon tot.«
 
-»Nein«, sagte Catelyn, lauter jetzt, da sie ihre Stimme wiedergefunden hatte. »Nein, das dürft Ihr nicht.« Sie fuhr wieder zum Fenster herum, damit sie um Hilfe rufen konnte, doch der Mann war schneller, als sie sich hätte vorstellen können. Eine Hand schloss sich um ihren Mund und riss ihr den Kopf zurück, die andere brachte den Dolch an ihre Luftröhre. Der Gestank des Mannes war überwältigend.
+»Nein«, sagte Catelyn, lauter jetzt, da sie ihre Stimme wiedergefunden hatte. »Nein, das dürft Ihr nicht.« Sie fuhr wieder zum Fenster herum, damit sie um Hilfe rufen konnte, doch der Mann war schneller, als sie sich hätte vorstellen können. Eine Hand schloss sich um ihren Mund und riss ihr den Kopf zurück, die andere brachte den `Dolch an ihre `Luftröhre. Der Gestank des Mannes war überwältigend.
 
-Sie hob beide Hände und packte die Klinge mit aller Kraft, drückte sie von ihrem Hals fort. Sie hörte, wie er in ihr Ohr fluchte. Ihre Finger waren schlüpfrig vom Blut, doch wollte sie den Dolch nicht loslassen. Die Hand auf ihrem Mund griff fester zu, drückte ihr die Luft ab. Catelyn drehte ihren Kopf zur Seite und schaffte es, etwas von seinem Fleisch zwischen die Zähne zu bekommen. Fest biss sie in seine Hand. Der Mann stöhnte vor Schmerz. Sie biss die Zähne zusammen und zerrte an ihm, und ganz plötzlich ließ er los. Der Geschmack von Blut erfüllte ihren Mund. Keuchend holte sie Luft und schrie, und er packte sie beim Haar und riss sie von sich fort, und sie stolperte und ging zu Boden, und dann stand er über ihr, keuchend, bebend. Den Dolch hielt er noch immer fest in der rechten Hand, glänzend vom Blut. »Ihr solltet nicht hier sein«, wiederholte er wie benommen.
+Sie hob beide Hände und packte die Klinge mit aller Kraft, drückte sie von ihrem Hals fort. Sie hörte, wie er in ihr Ohr fluchte. Ihre Finger waren schlüpfrig vom Blut, doch wollte sie den Dolch nicht loslassen. Die Hand auf ihrem Mund griff fester zu, drückte ihr die Luft ab. Catelyn drehte ihren Kopf zur Seite und schaffte es, etwas von seinem Fleisch zwischen die Zähne zu bekommen. Fest biss sie in seine Hand. Der Mann stöhnte vor Schmerz. Sie biss die Zähne zusammen und `zerrte an ihm, und ganz plötzlich ließ er los. Der Geschmack von Blut erfüllte ihren Mund. Keuchend holte sie Luft und schrie, und er packte sie beim Haar und riss sie von sich fort, und sie stolperte und ging zu Boden, und dann stand er über ihr, keuchend, `bebend. Den Dolch hielt er noch immer fest in der rechten Hand, glänzend vom Blut. »Ihr solltet nicht hier sein«, wiederholte er wie benommen.
 
-Catelyn sah den Schatten durch die offene Tür in seinem Rücken gleiten. Es folgte ein leises Rumpeln, dann ein Knurren, das leise Flüstern einer Drohung, doch musste er etwas gehört haben, denn eben wollte er sich umdrehen, als der Wolf zum Sprung ansetzte. Gemeinsam gingen sie zu Boden, wälzten sich halb über Catelyn, die dort noch lag. Der Wolf hatte ihn zwischen den Zähnen. Der Mann kreischte keine Sekunde lang, bis das Tier den Kopf zurückwarf und seine halbe Kehle dabei mitriss.
+Catelyn sah den Schatten durch die offene Tür in seinem Rücken gleiten. Es folgte ein leises Rumpeln, dann ein Knurren, das leise Flüstern einer Drohung, doch musste er etwas gehört haben, denn eben wollte er sich umdrehen, als der Wolf zum Sprung ansetzte. Gemeinsam gingen sie zu Boden, wälzten sich halb über Catelyn, die dort noch lag. Der Wolf hatte ihn zwischen den Zähnen. Der Mann kreischte keine Sekunde lang, bis das Tier den Kopf zurückwarf und seine halbe `Kehle dabei mitriss.
 
 Sein Blut fühlte sich wie warmer Regen an, als es über ihr Gesicht spritzte.
 
 Der Wolf sah sie an. Sein Maul war rot und feucht, und seine Augen glühten golden im dunklen Zimmer. Es war Brans Wolf, wie sie merkte. Natürlich war er es. »Danke«, flüsterte Catelyn mit schwacher, kaum vernehmbarer Stimme. Sie hob zitternd die Hand. Der Wolf tappte näher, schnüffelte an ihren Fingern, dann leckte er das Blut mit feuchter, rauer Zunge. Als er ihre Hand vom Blut gereinigt hatte, wandte er sich ab, sprang auf Brans Bett und legte sich neben ihn. Catelyn fing hysterisch an zu lachen.
 
-So fand man sie, als Robb, Maester Luwin und Ser Rodrik mit der halben Garde von Winterfell hereinstürmten. Als das Gelächter schließlich in ihrer Kehle erstarb, wickelte man sie in warme Decken und führte sie zum Großen Turm in ihre Gemächer. Die Alte Nan entkleidete sie, half ihr in ein siedend heißes Bad und wusch das Blut mit einem weichen Tuch ab.
+So fand man sie, als Robb, Maester Luwin und Ser Rodrik mit der halben Garde von Winterfell hereinstürmten. Als das Gelächter schließlich in ihrer Kehle erstarb, wickelte man sie in warme Decken und führte sie zum Großen Turm in ihre `Gemächer. Die Alte Nan entkleidete sie, half ihr in ein siedend heißes Bad und wusch das Blut mit einem weichen `Tuch ab.
 
-Später kam Maester Luwin, um ihre Wunden zu verbinden. Die Schnitte in ihren Fingern waren tief, fast bis auf den Knochen, und ihre Kopfhaut blutete dort, wo der Mann ihr eine Hand voll Haare ausgerissen hatte. Der Maester erklärte, der Schmerz würde erst jetzt einsetzen, und gab ihr Mohnblumensaft zu trinken, damit sie schlafen konnte.
+Später kam Maester Luwin, um ihre `Wunden zu verbinden. Die Schnitte in ihren Fingern waren tief, fast bis auf den Knochen, und ihre Kopfhaut blutete dort, wo der Mann ihr eine Hand voll Haare ausgerissen hatte. Der Maester erklärte, der Schmerz würde erst jetzt einsetzen, und gab ihr `Mohnblumensaft zu trinken, damit sie schlafen konnte.
 
 Endlich schloss sie die Augen.
 
-Als sie diese wieder aufschlug, sagte man ihr, sie habe vier Tage lang geschlafen. Catelyn nickte und setzte sich im Bett auf. Alles schien ihr nun wie ein Albtraum, alles seit Brans Sturz, ein schrecklicher Traum von Blut und Trauer, doch hatte sie den Schmerz in ihren Händen, der sie daran erinnerte, dass alles Wirklichkeit war. Sie fühlte sich schwach und benommen und dennoch seltsam beherzt, als wäre ihr eine schwere Last von der Seele genommen.
+Als sie diese wieder aufschlug, sagte man ihr, sie habe vier Tage lang geschlafen. Catelyn nickte und setzte sich im Bett auf. Alles schien ihr nun wie ein Albtraum, alles seit Brans Sturz, ein schrecklicher Traum von Blut und `Trauer, doch hatte sie den Schmerz in ihren Händen, der sie daran erinnerte, dass alles Wirklichkeit war. Sie fühlte sich schwach und benommen und dennoch seltsam beherzt, als wäre ihr eine schwere Last von der Seele genommen.
 
 »Bringt mir etwas Brot und Honig«, trug sie den Dienerinnen auf, »und bringt Maester Luwin Nachricht, dass meine Verbände gewechselt werden müssen.« Voller Überraschung sah man sie an, dann liefen alle, um ihren Wünschen zu entsprechen.
 
-Als Catelyn sich erinnerte, wie sie sich vorher verhalten hatte, schämte sie sich. Sie hatte alle im Stich gelassen, ihre Kinder, ihren Mann, ihre Familie. Es würde nicht wieder geschehen. Sie würde diesen Nordmännern zeigen, wie stark eine Tully aus Schnellwasser sein konnte.
+Als Catelyn sich erinnerte, wie sie sich vorher verhalten hatte, schämte sie sich. Sie hatte alle im `Stich gelassen, ihre Kinder, ihren Mann, ihre Familie. Es würde nicht wieder geschehen. Sie würde diesen Nordmännern zeigen, wie stark eine Tully aus Schnellwasser sein konnte.
 
 Robb traf noch vor ihrem Essen ein. Rodrik Cassel war bei ihm, dazu das Mündel ihres Mannes, Theon Graufreud, und zuletzt Hallis Mollen, ein muskulöser Gardist mit kantigem, braunem Bart. Er sei der neue Hauptmann der Garde, sagte Robb. Ihr Sohn trug gehärtetes Leder und ein Kettenhemd, wie sie sah, und an seiner Seite hing ein Schwert.
 
@@ -2470,7 +2470,7 @@ Graufreud hatte seine Zweifel. »Das ist Irrsinn.«
 
 Catelyn warf ihrem Erstgeborenen einen scharfen Blick zu. »Wenn du im Norden herrschen sollst, musst du über solche Dinge nachdenken, Robb. Beantworte dir die Frage selbst. Warum sollte jemand ein schlafendes Kind ermorden wollen? «
 
-Bevor er antworten konnte, kehrten die Dienerinnen mit einem Tablett voller Speisen aus der Küche zurück. Es war viel mehr darauf, als sie erbeten hatte: warmes Brot, Butter und Honig und eingemachte Brombeeren, ein Speckstreifen und ein weich gekochtes Ei, ein Stück Käse, eine Kanne Pfefferminztee. Und nun kam auch Maester Luwin.
+Bevor er antworten konnte, kehrten die Dienerinnen mit einem Tablett voller Speisen aus der Küche zurück. Es war viel mehr darauf, als sie erbeten hatte: warmes Brot, Butter und Honig und eingemachte Brombeeren, ein `Speckstreifen und ein weich gekochtes Ei, ein Stück Käse, eine Kanne Pfefferminztee. Und nun kam auch Maester Luwin.
 
 »Wie geht es meinem Sohn, Maester?« Catelyn sah die Speisen an und merkte, dass sie keinen Appetit hatte.
 
@@ -2502,7 +2502,7 @@ Hallis Mollen verbeugte sich und ging hinaus.
 
 »Die Umstände ließen nicht zu, dass ich ihn näher untersuchen konnte, aber für seine Schärfe kann ich mich verbürgen«, erwiderte Catelyn mit schiefem Lächeln. »Wieso fragt Ihr?«
 
-»Wir fanden das Messer noch in der Hand des Schurken. Es schien mir eine insgesamt zu feine Waffe für einen solchen Mann, deshalb habe ich sie mir lange und gut angesehen. Die Klinge ist aus valyrischem Stahl, der Griff aus Drachenknochen. Eine solche Waffe hat in Händen wie den seinen nichts zu suchen. Jemand hat sie ihm gegeben.«
+»Wir fanden das `Messer noch in der Hand des Schurken. Es schien mir eine insgesamt zu feine Waffe für einen solchen Mann, deshalb habe ich sie mir lange und gut angesehen. Die Klinge ist aus valyrischem Stahl, der Griff aus Drachenknochen. Eine solche Waffe hat in Händen wie den seinen nichts zu suchen. Jemand hat sie ihm gegeben.«
 
 Catelyn nickte nachdenklich. »Robb, schließ die Tür.«
 
@@ -2526,7 +2526,7 @@ Das Entsetzen stand ihnen ins Gesicht geschrieben. »Mylady, das ist eine ungehe
 
 »Würde er?«, zweifelte Theon Graufreud. »Das ist die Frage.«
 
-»Stolz und Ehrgeiz der Lennisters kennen keine Grenzen«, sagte Catelyn.
+»Stolz und `Ehrgeiz der Lennisters kennen keine `Grenzen«, sagte Catelyn.
 
 »Der Junge war in der Vergangenheit stets sehr geschickt im Klettern«, erklärte Maester Luwin nachdenklich. »Er kannte jeden Stein auf Winterfell.«
 
@@ -2804,7 +2804,7 @@ Er schlug die Augen auf und sah sie an, und in diesen lag nichts als Abscheu, ni
 
 »Man hat sie gefunden, Mylord.«
 
-Eilig stand Ned auf. »Unsere Männer oder Lennisters?«
+`Eilig stand Ned auf. »Unsere Männer oder Lennisters?«
 
 »Es war Jory«, gab sein Haushofmeister Vayon Pool zurück. »Ihr ist nichts geschehen.«
 
@@ -2812,11 +2812,11 @@ Eilig stand Ned auf. »Unsere Männer oder Lennisters?«
 
 »Es tut mir leid, Mylord«, erklärte Pool. »Die Wachen am Tor waren Lennisters Leute, und sie haben die Königin informiert, als Jory sie hereinbrachte. Man hat sie direkt vor den König geführt …«
 
-»Verdammt sei diese Frau!«, fluchte Ned auf dem Weg zur Tür. »Sucht Sansa und bringt sie ins Audienzzimmer. Vielleicht ist ihre Aussage vonnöten.« Wutentbrannt schritt er die Stufen des Turmes hinab. Er selbst hatte drei Tage lang die Suche geleitet und kaum eine Stunde geschlafen, seit Arya verschwunden war. Heute Morgen war er so verzweifelt und müde gewesen, dass er kaum mehr stehen konnte, doch nun war sein Zorn geweckt und erfüllte ihn mit Kraft.
+»Verdammt sei diese Frau!«, fluchte Ned auf dem Weg zur Tür. »Sucht Sansa und bringt sie ins Audienzzimmer. Vielleicht ist ihre Aussage `vonnöten.« Wutentbrannt schritt er die Stufen des Turmes hinab. Er selbst hatte drei Tage lang die Suche geleitet und kaum eine Stunde geschlafen, seit Arya verschwunden war. Heute Morgen war er so verzweifelt und müde gewesen, dass er kaum mehr stehen konnte, doch nun war sein Zorn geweckt und erfüllte ihn mit Kraft.
 
 Männer riefen nach ihm, als er den Burghof überquerte, doch Ned achtete in seiner Eile nicht auf sie. Er wäre gerannt, doch war er die Rechte Hand des Königs, und als solche musste er seine Würde wahren. Der Blicke, die ihm folgten, war er sich bewusst, und auch des Gemurmels, das sich fragte, was er tun würde.
 
-Die Burg war ein bescheidener Besitz, eine halbe Tagesreise südlich des Trident. Das königliche Gefolge hatte sich zu ungeladenen Gästen seines Herrn gemacht, Ser Raymun Darry, während man zu beiden Seiten des Flusses nach Arya und dem Schlachterjungen jagte. Sie waren kein willkommener Besuch. Ser Raymun fügte sich dem König, doch seine Familie hatte unter Rhaegars Drachenbanner am Trident gekämpft, und seine drei älteren Brüder waren dort gefallen, ein Umstand, den weder Robert noch Ser Raymun vergessen hatten. Nachdem sich nun die Mannen des Königs, die Männer Darrys, Lennisters und Starks allesamt in einer Burg drängten, die zu klein war, traten die Spannungen offen zu Tage.
+Die Burg war ein `bescheidener `Besitz, eine halbe `Tagesreise südlich des Trident. Das königliche Gefolge hatte sich zu ungeladenen Gästen seines Herrn gemacht, Ser Raymun Darry, während man zu beiden Seiten des Flusses nach Arya und dem Schlachterjungen jagte. Sie waren kein willkommener Besuch. Ser Raymun fügte sich dem König, doch seine Familie hatte unter Rhaegars Drachenbanner am Trident gekämpft, und seine drei älteren Brüder waren dort gefallen, ein Umstand, den weder Robert noch Ser Raymun vergessen hatten. Nachdem sich nun die Mannen des Königs, die Männer Darrys, Lennisters und Starks allesamt in einer Burg drängten, die zu klein war, traten die Spannungen offen zu Tage.
 
 Der König hatte sich Ser Raymuns Audienzzimmer angeeignet, und dort fand Ned sie. Der Raum war voller Menschen, als er hereinplatzte. Zu voll, dachte er. Allein hätten Robert und er die Angelegenheit auf friedliche Weise bereinigen können.
 
@@ -2836,17 +2836,17 @@ Er sprach mit Robert, doch es war Cersei Lennister, die antwortete: »Wie könnt
 
 Daraufhin rührte sich der König. »Still, Weib«, fuhr er sie an. Er richtete sich auf seinem Stuhl auf. »Verzeih mir, Ned. Ich wollte das Mädchen nicht erschrecken. Es schien mir das Beste, sie herzubringen und die Angelegenheit schnell zu klären.«
 
-»Und welche Angelegenheit ist das?« Ned sprach mit eisiger Stimme.
+»Und welche `Angelegenheit ist das?« Ned sprach mit eisiger Stimme.
 
-Die Königin trat vor. »Das wisst Ihr ganz genau, Stark. Dieses Mädchen hat meinen Sohn angegriffen. Sie und dieser Schlachterjunge. Dieses Vieh, das sie stets bei sich hat, wollte ihm den Arm ausreißen.«
+Die Königin trat vor. »Das wisst Ihr ganz genau, Stark. Dieses Mädchen hat meinen Sohn angegriffen. Sie und dieser `Schlachterjunge. Dieses Vieh, das sie stets bei sich hat, wollte ihm den Arm ausreißen.«
 
 »Das ist nicht wahr«, widersprach Arya lauthals. »Sie hat ihn nur etwas gebissen. Er wollte Mycah etwas antun.«
 
-»Joff hat uns erzählt, was vorgefallen ist«, sagte die Königin. »Du und dieser Schlachterjunge, ihr habt mit Knüppeln auf ihn eingeprügelt, und dann hast du den Wolf auf ihn gehetzt. «
+»Joff hat uns erzählt, was vorgefallen ist«, sagte die Königin. »Du und dieser Schlachterjunge, ihr habt mit `Knüppeln auf ihn `eingeprügelt, und dann hast du den Wolf auf ihn gehetzt. «
 
 »So war es nicht«, sagte Arya und war wieder den Tränen nah. Ned legte eine Hand auf ihre Schulter.
 
-»So war es doch!«, beharrte Prinz Joffrey. »Sie haben mich alle angegriffen, und sie hat Löwenfang in den Fluss geworfen! « Ned fiel auf, dass er Arya nicht einmal ansah, während er sprach.
+»So war es doch!«, beharrte Prinz Joffrey. »Sie haben mich alle angegriffen, und sie hat Löwenfang in den Fluss geworfen!« Ned fiel auf, dass er Arya nicht einmal ansah, während er sprach.
 
 »Lügner!«, schrie Arya.
 
@@ -2864,13 +2864,13 @@ Prinz Joffrey war aschfahl, als er seine ganz eigene Version der Ereignisse bega
 
 Zögerlich trat seine älteste Tochter vor. Sie trug blauen Samt, mit Weiß verziert, und eine Silberkette um den Hals. Ihr volles kastanienbraunes Haar war gebürstet worden, bis es glänzte. Sie blinzelte ihre Schwester an, dann den jungen Prinzen. »Ich weiß es nicht«, sagte sie unter Tränen und sah dabei aus, als wollte sie davonlaufen. »Ich erinnere mich nicht. Alles ging so schnell. Ich habe nicht gesehen …«
 
-»Du Hundsgemeine!«, kreischte Arya. Wie ein Pfeil stürzte sie sich auf ihre Schwester, schlug Sansa zu Boden, trommelte mit den Fäusten auf sie ein. »Lügnerin, Lügnerin, Lügnerin, Lügnerin.«
+»Du Hundsgemeine!«, kreischte Arya. Wie ein `Pfeil stürzte sie sich auf ihre Schwester, schlug Sansa zu Boden, trommelte mit den Fäusten auf sie ein. »Lügnerin, Lügnerin, Lügnerin, Lügnerin.«
 
 »Arya, hör auf!«, rief Ned. Jory zog das um sich tretende Mädchen von seiner Schwester fort. Sansa war blass und zitterte, als Ned sie wieder auf die Beine hob. »Ist dir was passiert? «, fragte er, doch sie starrte nur Arya an und schien ihn nicht zu hören.
 
 »Das Mädchen ist so wild wie ihr verfilztes Untier«, bemerkte Cersei Lennister. »Robert, ich will, dass sie bestraft wird.«
 
-»Bei allen sieben Höllen«, fluchte Robert. »Cersei, sieh sie dir an. Sie ist ein Kind. Was soll ich mit ihr machen, sie auf der Straße auspeitschen lassen? Verdammt noch mal, Kinder streiten sich. Es ist vorbei. Bleibender Schaden ist nicht entstanden.«
+»Bei allen sieben Höllen«, fluchte Robert. »Cersei, sieh sie dir an. Sie ist ein Kind. Was soll ich mit ihr machen, sie auf der Straße auspeitschen lassen? Verdammt noch mal, Kinder streiten sich. Es ist vorbei. `Bleibender `Schaden ist nicht entstanden.«
 
 Die Königin war außer sich. »Joff wird diese Narben für den Rest seines Lebens tragen.«
 
@@ -2890,7 +2890,7 @@ Die Königin sprach mit lauter Stimme. »Einhundert Golddrachen für den Mann, d
 
 »Ein teurer Pelz«, knurrte Robert. »Damit will ich nichts zu tun haben, Weib. Deine Pelze kannst du gern mit dem Gold der Lennisters bezahlen.«
 
-Kühlen Blickes betrachtete ihn die Königin. »Für so schäbig hätte ich dich nicht gehalten. Der König, den ich zu heiraten geglaubt hatte, hätte mir noch vor Sonnenuntergang einen Wolfspelz auf mein Bett gelegt.«
+Kühlen Blickes betrachtete ihn die Königin. »Für so `schäbig hätte ich dich nicht gehalten. Der König, den ich zu heiraten geglaubt hatte, hätte mir noch vor Sonnenuntergang einen Wolfspelz auf mein Bett gelegt.«
 
 Roberts Miene verfinsterte sich vor Zorn. »Ohne den Wolf wäre das keine schlechte Sache.«
 
@@ -2918,7 +2918,7 @@ Robert sah Ned mit leeren, toten Augen an und ging ohne ein Wort, mit Schritten 
 
 »Wo ist der Schattenwolf?«, fragte Cersei Lennister, als ihr Mann gegangen war. An ihrer Seite lächelte Prinz Joffrey.
 
-»Das Tier ist draußen vor dem Wachhaus angekettet, Majestät«, antwortete Ser Barristan Selmy zögerlich.
+»Das Tier ist draußen vor dem Wachhaus angekettet, Majestät«, antwortete Ser Barristan Selmy `zögerlich.
 
 »Schickt nach Ilyn Payne.«
 
@@ -2926,7 +2926,7 @@ Robert sah Ned mit leeren, toten Augen an und ging ohne ein Wort, mit Schritten 
 
 Misstrauisch musterte ihn Cersei Lennister. »Ihr, Stark? Ist das ein Trick? Warum solltet Ihr so etwas tun?«
 
-Alle starrten ihn an, doch war es Sansas Blick, der schmerzte. »Sie ist aus dem Norden. Sie hat Besseres als einen Schlachter verdient.«
+Alle starrten ihn an, doch war es Sansas Blick, der schmerzte. »Sie ist aus dem Norden. Sie hat Besseres als einen `Schlachter verdient.«
 
 Als er hinausging, brannten ihm die Augen, das Klagen seiner Tochter hallte noch in seinen Ohren, und er fand die kleine Schattenwölfin, wo man sie angekettet hatte. Ned setzte sich einen Moment lang neben sie. »Lady«, sagte er und kostete den Namen. Nie hatte er den Namen, die die Kinder sich ausgesucht hatten, große Aufmerksamkeit gewidmet, doch wenn er sie so ansah, wusste er, dass Sansa eine gute Wahl getroffen hatte. Sie war die kleinste aus dem Wurf, die hübscheste, die sanfteste und gutgläubigste. Mit strahlend goldenen Augen sah sie ihn an, und er kraulte ihr dickes, graues Fell.
 
@@ -2936,7 +2936,7 @@ Als es geschehen war, sagte er: »Wählt vier Mann aus und lasst ihren Kadaver n
 
 »Den ganzen Weg?«, sagte Jory erstaunt.
 
-»Den ganzen Weg«, bekräftigte Ned. »Dieses Fell wird die Lennister nicht bekommen.«
+»Den ganzen Weg«, bekräftigte Ned. »Dieses `Fell wird die Lennister nicht bekommen.«
 
 Eben kehrte er zum Turm zurück, um endlich etwas Schlaf zu finden, als Sandor Clegane und seine Reiter durch das Burgtor stampften, zurück von ihrer Jagd.
 
@@ -2944,9 +2944,9 @@ Etwas lag auf dem Rücken des Streitrosses, ein schwerer Leib, in einen blutigen
 
 Ned beugte sich vor, zog den Umhang zurück, fürchtete die Worte, die er für Arya würde finden müssen, doch lag dort nicht Nymeria. Es war Mycah, der Schlachterjunge, und seine Leiche war von trockenem Blut verkrustet. Er war fast in zwei Hälften zerteilt, von der Schulter bis zur Hüfte, durch einen schweren Hieb von oben.
 
-»Ihr habt ihn gehetzt«, sagte Ned.
+»Ihr habt ihn `gehetzt«, sagte Ned.
 
-Die Augen des Bluthunds schienen durch den Stahl dieses schrecklichen, hundsköpfigen Helmes zu glitzern. »Er ist gerannt. « Er sah in Neds Gesicht und lachte. »Wenn auch nicht sehr schnell.«
+Die Augen des Bluthunds schienen durch den Stahl dieses schrecklichen, hundsköpfigen Helmes zu glitzern. »Er ist gerannt.« Er sah in Neds Gesicht und lachte. »Wenn auch nicht sehr schnell.«
 
 == BRAN
 
@@ -2954,21 +2954,21 @@ Es schien, als sei er jahrelang gefallen.
 
 Flieg, flüsterte eine Stimme in der Dunkelheit, doch Bran wusste nicht, wie man flog, und daher konnte er nur fallen.
 
-Maester Luwin formte einen kleinen Jungen aus Lehm, buk ihn, bis er hart und zerbrechlich war, zog ihm Brans Kleider an und warf ihn vom Dach. Bran wusste noch, wie er zersprungen war. »Aber ich falle nicht«, sagte er, während er fiel.
+Maester Luwin formte einen kleinen Jungen aus Lehm, buk ihn, bis er hart und zerbrechlich war, zog ihm Brans `Kleider an und warf ihn vom Dach. Bran wusste noch, wie er `zersprungen war. »Aber ich falle nicht«, sagte er, während er fiel.
 
 Die Erde war so weit unter ihm, dass er sie durch den grauen Dunst, der ihn umschwirrte, kaum ausmachen konnte, doch spürte er, wie schnell er flog, und er wusste, was ihn dort unten erwartete. Selbst im Traum kann man nicht ewig fallen. Er würde in dem Moment aufwachen, bevor er am Boden aufschlug, das wusste er. Immer schreckte man in dem Moment hoch, kurz bevor man aufschlug.
 
 Und wenn nicht?, fragte die Stimme.
 
-Die Erde war nun näher, doch noch immer in weiter, weiter Ferne, tausend Meilen weit, doch näher, als sie gewesen war. Es war kalt hier in der Finsternis. Es gab keine Sonne, keine Sterne, nur die Erde, die ihm entgegenkam, und den grauen Dunst und die flüsternden Stimmen. Er wollte weinen.
+Die Erde war nun näher, doch noch immer in weiter, weiter Ferne, tausend Meilen weit, doch näher, als sie gewesen war. Es war kalt hier in der Finsternis. Es gab keine Sonne, keine Sterne, nur die Erde, die ihm entgegenkam, und den grauen `Dunst und die flüsternden Stimmen. Er wollte weinen.
 
-Flenne nicht. Flieg.
+`Flenne nicht. Flieg.
 
 »Ich kann nicht fliegen«, greinte Bran. »Ich kann nicht, ich kann nicht …«
 
 Woher weißt du das? Hast du es jemals versucht?
 
-Die Stimme klang hoch und dünn. Bran drehte sich um, weil er sehen wollte, woher sie kam. Eine Krähe segelte in Kreisen mit ihm hinab, gerade außer Reichweite, folgte ihm auf seinem Sturz. »Hilf mir«, bat er.
+Die Stimme klang hoch und dünn. Bran drehte sich um, weil er sehen wollte, woher sie kam. Eine Krähe segelte in Kreisen mit ihm hinab, gerade außer `Reichweite, folgte ihm auf seinem Sturz. »Hilf mir«, bat er.
 
 Ich versuche es, erwiderte die Krähe. Sag, hast du Futter dabei?
 
@@ -2986,9 +2986,9 @@ Tatsächlich?, fragte die Krähe.
 
 »Ich werde wach werden, bevor ich unten aufschlage«, erklärte Bran dem Vogel.
 
-Du wirst tot sein, wenn du unten aufschlägst, entgegnete die Krähe. Sie machte sich wieder an ihr Futter.
+Du wirst tot sein, wenn du unten aufschlägst, entgegnete die Krähe. Sie machte sich wieder an ihr `Futter.
 
-Bran sah hinab. Jetzt konnte er die Berge sehen, die weißen Gipfel schneebedeckt, und die silbernen Fäden von Flüssen in dunklen Wäldern. Er schloss die Augen und weinte.
+Bran sah hinab. Jetzt konnte er die Berge sehen, die weißen `Gipfel schneebedeckt, und die silbernen `Fäden von Flüssen in dunklen Wäldern. Er schloss die Augen und weinte.
 
 Das wird dir nichts nützen, krächzte die Krähe. Ich habe es dir gesagt, die Antwort lautet fliegen, nicht flennen. Kann es denn so schwierig sein? Ich mache es doch auch. Die Krähe hob ab und umflatterte Brans Hand.
 
@@ -2996,11 +2996,11 @@ Das wird dir nichts nützen, krächzte die Krähe. Ich habe es dir gesagt, die A
 
 Du vielleicht auch.
 
-Bran betastete seine Schultern, suchte nach Flügeln.
+Bran `betastete seine Schultern, suchte nach Flügeln.
 
 Es gibt noch eine andere Art von Flügeln, sagte die Krähe.
 
-Bran starrte seine Arme an, seine Beine. Er war so dünn, nur Haut, die sich stramm über die Knochen spannte. War er schon immer so dünn gewesen? Er versuchte, sich zu erinnern. Ein Gesicht tauchte aus dem grauen Nebel vor ihm auf, schimmerte von Licht, golden. »Was man nicht alles für die Liebe tut«, sagte es.
+Bran starrte seine Arme an, seine Beine. Er war so dünn, nur Haut, die sich stramm über die `Knochen spannte. War er schon immer so dünn gewesen? Er versuchte, sich zu erinnern. Ein Gesicht tauchte aus dem grauen Nebel vor ihm auf, schimmerte von Licht, golden. »Was man nicht alles für die Liebe tut«, sagte es.
 
 Bran schrie.
 
@@ -3030,9 +3030,9 @@ Er blickte gen Osten und sah eine Galeere, die durch die Fluten des Biss fegte. 
 
 Er blickte gen Süden und sah den mächtigen, blaugrünen Strom des Trident. Er sah, wie sein Vater den König anflehte, die Trauer in sein Gesicht gemeißelt. Er sah, wie sich Sansa des Nachts in den Schlaf weinte, und er sah, wie Arya sie schweigend betrachtete und ihre Geheimnisse hart in ihrem Herzen behielt. Sie waren von Schatten umgeben. Ein Schatten war dunkel wie Asche, mit dem schrecklichen Gesicht eines Bluthunds. Ein anderer war gepanzert wie die Sonne, golden und wunderschön. Über beiden ragte ein Riese mit steinerner Rüstung auf, doch als er sein Visier öffnete, waren darin nichts als Finsternis und dickes, schwarzes Blut.
 
-Er blickte auf und sah deutlich über die Meerenge hinweg zu den Freien Städten, der grünen dothrakischen See und darüber hinaus nach Vaes Dothrak unter dessen Berg, zu den sagenhaften Inseln der Jadesee, nach Asshai, wo jenseits der Morgenröte die Drachen erwachten.
+Er blickte auf und sah deutlich über die `Meerenge hinweg zu den Freien Städten, der grünen dothrakischen See und darüber hinaus nach Vaes Dothrak unter dessen Berg, zu den sagenhaften `Inseln der Jadesee, nach Asshai, wo `jenseits der `Morgenröte die Drachen erwachten.
 
-Schließlich blickte er gen Norden. Er sah die Mauer wie blauen Kristall leuchten und seinen Halbbruder Jon allein in einem kalten Bett schlafen, und dessen Haut wurde fahl und hart, während ihm alle Erinnerung an Wärme entfloh. Und er blickte über die Mauer, über endlose, schneeverhüllte Wälder, jenseits des erstarrten Ufers und der großen blauweißen Flüsse aus Eis und der toten Steppen, auf denen nichts wuchs oder lebte. Gen Norden und Norden und Norden blickte er zum Vorhang aus Licht am Ende der Welt und dann hinter diesen Vorhang. Tief ins Herz des Winters blickte er, und dann schrie er laut auf vor Angst, und die Hitze seiner Tränen brannte auf seinen Wangen.
+Schließlich blickte er gen Norden. Er sah die Mauer wie blauen Kristall `leuchten und seinen Halbbruder Jon allein in einem kalten Bett schlafen, und dessen Haut wurde `fahl und hart, während ihm alle Erinnerung an Wärme entfloh. Und er blickte über die Mauer, über endlose, schneeverhüllte Wälder, jenseits des erstarrten `Ufers und der großen blauweißen Flüsse aus Eis und der toten `Steppen, auf denen nichts wuchs oder lebte. Gen Norden und Norden und Norden blickte er zum `Vorhang aus Licht am Ende der Welt und dann hinter diesen Vorhang. Tief ins Herz des Winters blickte er, und dann schrie er laut auf vor Angst, und die `Hitze seiner Tränen brannte auf seinen Wangen.
 
 Jetzt weißt du es, flüsterte die Krähe, als sie auf seiner Schulter saß. Jetzt weißt du, warum du leben musst.
 
@@ -3040,19 +3040,19 @@ Jetzt weißt du es, flüsterte die Krähe, als sie auf seiner Schulter saß. Jet
 
 Weil der Winter naht.
 
-Bran sah die Krähe auf seiner Schulter an, und die Krähe erwiderte den Blick. Sie hatte drei Augen, und das dritte Auge war voll grausamer Erkenntnis. Bran schaute hinab. Unter ihm war nichts als Schnee und Kälte und Tod, eine erfrorene Einöde, in der gezackte, blauweiße Zapfen aus Eis darauf warteten, ihn zu empfangen. Wie Speere flogen sie ihm entgegen. Er sah die Knochen tausend anderer Träumer darauf aufgespießt. Er hatte entsetzliche Angst.
+Bran sah die Krähe auf seiner Schulter an, und die Krähe erwiderte den Blick. Sie hatte drei Augen, und das dritte Auge war voll grausamer Erkenntnis. Bran schaute hinab. Unter ihm war nichts als Schnee und Kälte und Tod, eine `erfrorene `Einöde, in der `gezackte, blauweiße `Zapfen aus Eis darauf warteten, ihn zu empfangen. Wie Speere flogen sie ihm entgegen. Er sah die Knochen tausend anderer Träumer darauf aufgespießt. Er hatte entsetzliche Angst.
 
-»Kann ein Mensch tapfer sein, auch wenn er sich fürchtet? «, hörte er seine eigene Stimme fragen, leise und in weiter Ferne.
+»Kann ein Mensch `tapfer sein, auch wenn er sich fürchtet?«, hörte er seine eigene Stimme fragen, leise und in weiter Ferne.
 
 Und die Stimme seines Vaters antwortete ihm. »Das ist der einzige Moment, in dem er tapfer sein kann.«
 
 Jetzt, Bran, drängte die Krähe. Du hast die Wahl. Flieg oder stirb.
 
-Kreischend griff der Tod nach ihm.
+`Kreischend griff der Tod nach ihm.
 
 Bran breitete die Arme aus und flog.
 
-Unsichtbare Flügel sogen den Wind in sich auf, füllten sich und zogen ihn aufwärts. Die schrecklichen Eisnadeln unter ihm rückten in die Ferne. Über ihm tat sich der Himmel auf. Bran schwang sich empor. Es war besser als Klettern. Es war besser als alles. Die Welt unter ihm wurde klein.
+Unsichtbare Flügel sogen den Wind in sich auf, füllten sich und zogen ihn aufwärts. Die schrecklichen `Eisnadeln unter ihm rückten in die Ferne. Über ihm tat sich der Himmel auf. Bran schwang sich empor. Es war besser als Klettern. Es war besser als alles. Die Welt unter ihm wurde klein.
 
 »Ich fliege!«, rief er freudig aus.
 
@@ -3060,9 +3060,9 @@ Ist mir schon aufgefallen, sagte die dreiäugige Krähe. Sie erhob sich in die L
 
 »Was tust du?«, schrie er.
 
-Die Krähe klappte ihren Schnabel auf und krächzte ihn an, ein schrilles, schmerzerfülltes Kreischen, und ein Schauer durchfuhr die grauen Nebel, die ihn umwirbelten und rissen wie ein Schleier, und er sah, dass die Krähe eigentlich eine Frau war, eine Dienerin mit langem, schwarzem Haar, und er kannte sie von irgendwo, aus Winterfell, ja, das war es, jetzt erkannte er sie, und dann wurde ihm klar, dass er in Winterfell war, in einem Bett, hoch oben in einem kühlen Turmzimmer, und die schwarzhaarige Frau ließ einen Wassertrog zu Boden fallen, wo er zersprang, und rannte die Treppe hinunter und schrie: »Er ist wach, er ist wach, er ist wach.«
+Die Krähe klappte ihren Schnabel auf und krächzte ihn an, ein schrilles, schmerzerfülltes Kreischen, und ein Schauer durchfuhr die grauen Nebel, die ihn umwirbelten und rissen wie ein `Schleier, und er sah, dass die Krähe eigentlich eine Frau war, eine Dienerin mit langem, schwarzem Haar, und er kannte sie von irgendwo, aus Winterfell, ja, das war es, jetzt erkannte er sie, und dann wurde ihm klar, dass er in Winterfell war, in einem Bett, hoch oben in einem kühlen Turmzimmer, und die schwarzhaarige Frau ließ einen Wassertrog zu Boden fallen, wo er zersprang, und rannte die Treppe hinunter und schrie: »Er ist wach, er ist wach, er ist wach.«
 
-Bran berührte seine Stirn zwischen den Augen. Die Stelle, auf welche die Krähe eingehackt hatte, brannte noch immer, doch war dort nichts, kein Blut, keine Wunde. Er fühlte sich schwach und benebelt. Er versuchte aufzustehen, doch nichts geschah.
+Bran berührte seine Stirn zwischen den Augen. Die Stelle, auf welche die Krähe eingehackt hatte, brannte noch immer, doch war dort nichts, kein Blut, keine Wunde. Er fühlte sich schwach und `benebelt. Er versuchte aufzustehen, doch nichts geschah.
 
 Und dann gab es Bewegung neben seinem Bett, und etwas landete sanft auf seinen Beinen. Er spürte nichts. Gelbe Augen blickten in die seinen, strahlend wie die Sonne. Das Fenster stand offen, und es war kalt im Zimmer, doch die Wärme, die der Wolf ausstrahlte, umfing ihn wie ein heißes Bad. Sein Welpe, Bran erkannte ihn … oder doch nicht? Er war so groß geworden. Er streckte die Hand aus, um ihn zu streicheln, und sie zitterte wie Espenlaub.
 
@@ -3100,21 +3100,21 @@ Wie eine Libelle flog die Galeere übers Wasser, und ihre Ruder tauchten im perf
 
 Catelyn legte ihm die Hand auf den Arm. »Wir sind da, Ser Rodrik, und zwar unbeschadet. Nur das allein zählt wirklich. « Ihre Hand suchte etwas unter ihrem Umhang, mit steifen, unsteten Fingern. Der Dolch war noch an ihrer Seite. Hin und wieder musste sie ihn berühren, um sich zu beruhigen. »Nun müssen wir den Waffenmeister des Königs erreichen und beten, dass ihm zu trauen ist.«
 
-»Ser Aron Santagar ist ein eitler Mann, doch auch ein ehrlicher. « Ser Rodrik hob eine Hand an sein Gesicht, um über den Backenbart zu streichen, und stellte einmal mehr fest, dass dieser nicht mehr vorhanden war. Er wirkte ratlos. »Er könnte den Dolch kennen, ja … nur, Mylady, sobald wir an Land gehen, befinden wir uns in Gefahr. Und es gibt bei Hofe auch solche, die Euch vom Sehen her kennen.«
+»Ser Aron Santagar ist ein eitler Mann, doch auch ein ehrlicher.« Ser Rodrik hob eine Hand an sein Gesicht, um über den Backenbart zu streichen, und stellte einmal mehr fest, dass dieser nicht mehr vorhanden war. Er wirkte ratlos. »Er könnte den Dolch kennen, ja … nur, Mylady, sobald wir an Land gehen, befinden wir uns in Gefahr. Und es gibt bei Hofe auch solche, die Euch vom Sehen her kennen.«
 
 Catelyn kniff den Mund zusammen. »Kleinfinger«, murmelte sie. Sie sah sein Gesicht vor Augen, ein jungenhaftes Gesicht, auch wenn er schon lange kein Junge mehr war. Sein Vater war vor Jahren gestorben, sodass er nun selbst Lord Baelish hieß, dennoch nannte man ihn Kleinfinger. Ihr Bruder Edmure hatte ihm diesen Namen gegeben, vor langer Zeit in Schnellwasser. Die bescheidenen Besitztümer seiner Familie lagen auf dem kleinsten der Finger, und Petyr war für sein Alter schmal und klein gewesen.
 
 Ser Rodrik räusperte sich. »Lord Baelish hat einmal, nun …« Sein Gedanke verklang unsicher auf der Suche nach einem höflichen Ausdruck.
 
-Catelyn setzte sich über etwaige Empfindlichkeiten hinweg. »Er war Mündel meines Vaters. Wir sind in Schnellwasser zusammen aufgewachsen. Für mich war er wie ein Bruder, doch seine Gefühle für mich waren … mehr als brüderlich. Als verkündet wurde, dass ich Brandon Stark heiraten sollte, forderte Petyr ihn zum Kampf um das Recht auf meine Hand heraus. Es war Irrsinn. Brandon war zwanzig, Petyr kaum fünfzehn. Ich musste Brandon anflehen, Petyrs Leben zu schonen. Er ließ ihn mit einer Narbe entkommen. Danach schickte mein Vater ihn fort. Seither habe ich ihn nicht gesehen. « Sie hob ihr Gesicht der Gischt zu, als könne der frische Wind Erinnerungen verwehen. »Er hat mir nach Schnellwasser geschrieben, nachdem Brandon tot war, doch habe ich den Brief ungelesen verbrannt. Inzwischen wusste ich, dass Ned mich an seines Bruders Stelle heiraten würde.«
+Catelyn setzte sich über etwaige Empfindlichkeiten hinweg. »Er war Mündel meines Vaters. Wir sind in Schnellwasser zusammen aufgewachsen. Für mich war er wie ein Bruder, doch seine Gefühle für mich waren … mehr als brüderlich. Als verkündet wurde, dass ich Brandon Stark heiraten sollte, forderte Petyr ihn zum Kampf um das Recht auf meine Hand heraus. Es war Irrsinn. Brandon war zwanzig, Petyr kaum fünfzehn. Ich musste Brandon anflehen, Petyrs Leben zu schonen. Er ließ ihn mit einer Narbe entkommen. Danach schickte mein Vater ihn fort. Seither habe ich ihn nicht gesehen.f« Sie hob ihr Gesicht der Gischt zu, als könne der frische Wind Erinnerungen verwehen. »Er hat mir nach Schnellwasser geschrieben, nachdem Brandon tot war, doch habe ich den Brief ungelesen verbrannt. Inzwischen wusste ich, dass Ned mich an seines Bruders Stelle heiraten würde.«
 
 Erneut tasteten Ser Rodriks Finger nach dem nicht vorhandenen Backenbart. »Kleinfinger sitzt mittlerweile im Kleinen Rat.«
 
 »Ich wusste, er würde es weit bringen«, sagte Catelyn. »Er war schon immer findig, schon als Junge, nur ist es eine Sache, findig zu sein, und eine andere, weise zu sein. Ich frage mich, was die Jahre aus ihm gemacht haben.«
 
-Hoch über ihnen rief der Ausguck etwas aus der Takelage. Kapitän Moreo hastete übers Deck, gab Befehle, und überall um sie breitete sich hektisches Treiben auf der Sturmtänzer aus, als Königsmund auf seinen drei hohen Hügeln in Sicht kam.
+Hoch über ihnen rief der `Ausguck etwas aus der `Takelage. Kapitän Moreo hastete übers Deck, gab `Befehle, und überall um sie breitete sich hektisches Treiben auf der Sturmtänzer aus, als Königsmund auf seinen drei hohen Hügeln in Sicht kam.
 
-Vor dreihundert Jahren, das wusste Catelyn, waren diese Hügel noch von Wald bedeckt gewesen, und nur eine Hand voll Fischer hatte an der Nordküste des Schwarzwassers gelebt, wo dieser tiefe, schnelle Fluss ins Meer mündete. Dann war Aegon der Eroberer von Drachenstein gekommen. Hier hatte er seine Armee zum ersten Mal an Land gebracht und dort auf dem höchsten Hügel seine erste grobe Schanze aus Holz und Erde errichtet.
+Vor dreihundert Jahren, das wusste Catelyn, waren diese Hügel noch von Wald bedeckt gewesen, und nur eine Hand voll Fischer hatte an der Nordküste des Schwarzwassers gelebt, wo dieser tiefe, schnelle Fluss ins Meer mündete. Dann war Aegon der Eroberer von Drachenstein gekommen. Hier hatte er seine Armee zum ersten Mal an Land gebracht und dort auf dem höchsten Hügel seine erste grobe `Schanze aus Holz und Erde errichtet.
 
 Jetzt überzog die Stadt das Ufer so weit Catelyns Auge reichte. Wohnhäuser und Lauben und Kornkammern, steinerne Lagerhäuser und hölzerne Wirtshäuser und Händlerbuden, Tavernen und Friedhöfe und Bordelle, alles übereinandergestapelt. Sie konnte das Geschrei vom Fischmarkt selbst aus dieser Entfernung hören. Zwischen den Häusern führten breite, von Bäumen gesäumte Straßen, gewundene, bucklige Gassen, die so schmal waren, dass zwei Männer kaum aneinander vorübergehen konnten. Visenyas Hügel war von der Großen Septe von Baelor mit ihren sieben Kristalltürmen gekrönt. Auf der anderen Seite der Stadt, auf dem Hügel von Rhaenys, standen die schwarzen Mauern der Drachenhöhle, deren mächtige Kuppel in sich zusammengebrochen war und deren bronzene Türen nun schon seit einem Jahrhundert verschlossen waren. Dazwischen verlief die Straße der Schwestern, schnurgerade. In der Ferne ragten die Stadtmauern auf, hoch und fest.
 
@@ -3174,7 +3174,7 @@ Sie wusch ihre Hände im Becken und umwickelte sie mit sauberen Leinentüchern. 
 
 Dann dachte sie: Moreo. Der Tyroshi wusste, wer sie waren und wo sie waren. Verdammt sollte er sein. Nun, hoffentlich hatte er einen guten Preis für die Information bekommen.
 
-Sie hatten ein Pferd für sie mitgebracht. Die Laternen entlang der Straßen wurden gerade angezündet, als sie sich auf den Weg machten, und Catelyn spürte beim Reiten, dass die Blicke der Stadt auf ihr lasteten, wie sie umgeben von der Garde in ihren goldenen Umhängen dahinzog. Als sie zum Roten Bergfried kamen, waren die Fallgitter unten und die großen Tore für die Nacht verriegelt, doch in den Burgfenstern flackerte Licht. Die Gardisten ließen die Pferde vor den Mauern und eskortierten sie durch eine schmale Seitentür, dann endlose Treppen in einen Turm hinauf.
+Sie hatten ein Pferd für sie mitgebracht. Die Laternen entlang der Straßen wurden gerade angezündet, als sie sich auf den Weg machten, und Catelyn spürte beim Reiten, dass die Blicke der Stadt auf ihr lasteten, wie sie umgeben von der Garde in ihren goldenen Umhängen dahinzog. Als sie zum Roten Bergfried kamen, waren die `Fallgitter `unten und die großen Tore für die Nacht `verriegelt, doch in den Burgfenstern flackerte Licht. Die Gardisten ließen die Pferde vor den Mauern und eskortierten sie durch eine schmale Seitentür, dann endlose Treppen in einen Turm hinauf.
 
 Er war allein im Raum, saß an einem schweren Holztisch, neben sich eine Öllampe, da er schrieb. Als man sie hereinschob, legte er seine Feder beiseite und sah sie an. »Cat«, sagte er leise.
 
@@ -3182,9 +3182,9 @@ Er war allein im Raum, saß an einem schweren Holztisch, neben sich eine Öllamp
 
 Er stand auf und winkte die Garde brüsk hinaus. »Lasst uns allein.« Die Männer verließen den Raum. »Ich hoffe, man hat Euch gut behandelt«, sagte er, nachdem sie gegangen waren. »Ich habe strenge Anweisung gegeben.« Er bemerkte ihre Bandagen. »Eure Hände …«
 
-Catelyn überging die unterschwellige Frage. »Ich bin es nicht gewohnt, wie eine Dienstmagd herbeizitiert zu werden«, sagte sie eisig. »Als Junge wusstet Ihr um die Bedeutung der Höflichkeit.«
+Catelyn überging die `unterschwellige Frage. »Ich bin es nicht gewohnt, wie eine Dienstmagd `herbeizitiert zu werden«, sagte sie eisig. »Als Junge wusstet Ihr um die Bedeutung der Höflichkeit.«
 
-»Ich habe Euch verärgert, Mylady. Das war nicht meine Absicht.« Er wirkte reumütig. Dieser Blick rief bei Catelyn lebhafte Erinnerungen wach. Er war ein verschlagenes Kind gewesen, doch nach seinen Missetaten wirkte er stets reumütig. Er hatte diese Gabe. Die Jahre hatten ihn kaum verändert. Petyr war als Junge klein gewesen, und er war zu einem kleinen Mann herangewachsen, eine bis zwei Daumenbreit kleiner als Catelyn, schlank und behände, mit scharfen Zügen, an die sie sich gut erinnerte, und dieselben fröhlichen grüngrauen Augen. Er hatte ein kleines, spitzes Kinn und silberne Strähnen im dunklen Haar, obwohl er noch keine dreißig war. Die Strähnen passten gut zu der silbernen Spottdrossel, die seinen Umhang zusammenhielt. Schon als Kind hatte er das Silber geliebt.
+»Ich habe Euch verärgert, Mylady. Das war nicht meine Absicht.« Er wirkte reumütig. Dieser Blick rief bei Catelyn lebhafte Erinnerungen wach. Er war ein verschlagenes Kind gewesen, doch nach seinen Missetaten wirkte er stets reumütig. Er hatte diese Gabe. Die Jahre hatten ihn kaum verändert. Petyr war als Junge klein gewesen, und er war zu einem kleinen Mann herangewachsen, eine bis zwei `Daumenbreit kleiner als Catelyn, schlank und behände, mit scharfen Zügen, an die sie sich gut erinnerte, und dieselben fröhlichen grüngrauen Augen. Er hatte ein kleines, spitzes `Kinn und silberne Strähnen im dunklen Haar, obwohl er noch keine dreißig war. Die Strähnen passten gut zu der silbernen Spottdrossel, die seinen Umhang zusammenhielt. Schon als Kind hatte er das Silber geliebt.
 
 »Woher wusstet Ihr, dass ich in der Stadt bin?«
 
@@ -3192,7 +3192,7 @@ Catelyn überging die unterschwellige Frage. »Ich bin es nicht gewohnt, wie ein
 
 Catelyn überhörte seine Vertraulichkeit. Es gab wichtigere Fragen. »Dann war es also die Königsspinne, die mich gefunden hat.«
 
-Kleinfinger zuckte zusammen. »Ihr solltet ihn besser nicht so nennen. Er ist sehr empfindlich. Ich vermute, es rührt daher, dass er Eunuch ist. In dieser Stadt geschieht nichts ohne Varys’ Wissen. Oftmals weiß er es, bevor es geschieht. Er hat seine Informanten überall. Seine kleinen Vögel nennt er sie. Einer seiner kleinen Vögel hat von Eurem Besuch erfahren. Glücklicherweise kam Varys damit zuerst zu mir.«
+Kleinfinger zuckte zusammen. »Ihr solltet ihn besser nicht so nennen. Er ist sehr `empfindlich. Ich vermute, es rührt daher, dass er Eunuch ist. In dieser Stadt geschieht nichts ohne Varys’ Wissen. Oftmals weiß er es, bevor es geschieht. Er hat seine Informanten überall. Seine kleinen Vögel nennt er sie. Einer seiner kleinen Vögel hat von Eurem Besuch erfahren. Glücklicherweise kam Varys damit zuerst zu mir.«
 
 »Warum zu Euch?«
 
@@ -3206,9 +3206,9 @@ Er zuckte mit den Achseln. »Warum nicht zu mir? Ich bin Meister der Münze, Ber
 
 Kleinfinger lachte. »Oh, sehr gut, Mylady, doch erwartet bitte nicht von mir, dass ich es glaube. Ich kenne Euch zu gut. Wie waren noch die Worte der Tullys?«
 
-Ihre Kehle war trocken. »Familie, Pflicht, Ehre«, antwortete sie steif. Er kannte sie zu gut.
+Ihre `Kehle war trocken. »Familie, Pflicht, Ehre«, antwortete sie steif. Er kannte sie zu gut.
 
-»Familie, Pflicht, Ehre«, wiederholte er. »Die allesamt von Euch verlangten, dass Ihr auf Winterfell bleibt, wo unsere Rechte Hand Euch zurückgelassen hat. Nein, Mylady, irgendetwas ist geschehen. Diese überstürzte Reise verrät eine gewisse Dringlichkeit. Ich bitte Euch, lasst mich helfen. Gute, alte Freunde sollten niemals zögern, sich aufeinander zu verlassen. « Es klopfte leise an der Tür. »Herein«, rief Kleinfinger.
+»Familie, Pflicht, Ehre«, wiederholte er. »Die allesamt von Euch verlangten, dass Ihr auf Winterfell bleibt, wo unsere Rechte Hand Euch zurückgelassen hat. Nein, Mylady, irgendetwas ist geschehen. Diese überstürzte Reise verrät eine gewisse Dringlichkeit. Ich bitte Euch, lasst mich helfen. Gute, alte Freunde sollten niemals zögern, sich aufeinander zu verlassen.« Es klopfte leise an der Tür. »Herein«, rief Kleinfinger.
 
 Der Mann, der durch die Tür trat, war plump, parfümiert, gepudert und haarlos wie ein Ei. Er trug eine Weste aus gewebtem Goldfaden über einer weiten Robe aus roter Seide, und an seinen Füßen steckten spitze Pantoffeln aus weichem Samt. »Lady Stark«, grüßte er und hielt ihre Hand mit beiden Händen, »Euch nach so vielen Jahren wiederzusehen, ist mir eine Freude.« Seine Haut war weich und feucht, und sein Atem roch nach Veilchen. »Oh, Eure armen Hände. Habt Ihr Euch verbrannt, Verehrteste? Die Hände sind so zart … Unser guter Maester Pycelle stellt eine großartige Salbe her. Soll ich einen Tiegel bringen lassen?«
 
@@ -3230,7 +3230,7 @@ Der Eunuch breitete seine weichen Arme aus. »In noch weit mehr, wie ich hoffe, 
 
 Varys kicherte wie ein kleines Mädchen. »O ja, ich vermute, dass es meine Schuld ist. Ich hoffe, Ihr verzeiht mir, freundliche Lady.« Er ließ sich auf einen Stuhl herab und legte die Hände ineinander. »Ich frage mich, ob wir Euch die Unannehmlichkeit zumuten dürfen, uns den Dolch zu zeigen?«
 
-Catelyn Stark starrte den Eunuchen mit sprachlosem Unglauben an. Er war eine Spinne, dachte sie, ein Zauberer oder Schlimmeres. Er wusste Dinge, die unmöglich jemand wissen konnte, es sei denn … »Was habt Ihr mit Ser Rodrik gemacht ?«, verlangte sie zu wissen.
+Catelyn Stark starrte den Eunuchen mit sprachlosem Unglauben an. Er war eine Spinne, dachte sie, ein Zauberer oder Schlimmeres. Er wusste Dinge, die unmöglich jemand wissen konnte, es sei denn … »Was habt Ihr mit Ser Rodrik gemacht?«, verlangte sie zu wissen.
 
 Kleinfinger war verdutzt. »Ich fühle mich etwas wie ein Ritter, der ohne seine Lanze zur Schlacht erscheint. Von welchem Dolch ist hier die Rede? Wer ist Ser Rodrik?«
 
@@ -3316,7 +3316,7 @@ Wenn er allein sein musste, wollte er die Einsamkeit zu seinem Panzer machen. Di
 
 Ihm fehlten seine wahren Brüder: der kleine Rickon und seine strahlenden Augen, wenn er um Süßes bettelte; Robb, sein Rivale und bester Freund und ständiger Begleiter; Bran, halsstarrig und seltsam, der immer mitkommen und bei allem mitmachen wollte, was Jon und Robb taten. Auch die Mädchen fehlten ihm, selbst Sansa, die ihn nie anders als »mein Halbbruder« nannte, seit sie alt genug war, zu verstehen, was Bastard bedeutete. Und Arya … sie fehlte ihm noch mehr als Robb, das magere, kleine Ding mit aufgeschlagenen Knien, zerzaustem Haar und zerrissenen Kleidern, so wild und so eigenwillig. Arya schien sich nirgends einzufügen, ganz wie er selbst … doch stets brachte sie Jon zum Lächeln. Er hätte alles gegeben, um jetzt bei ihr sein zu können, um ihr Haar zu zerwühlen und zu sehen, wie sie dann eine Grimasse schnitt, um zu hören, wie sie mit ihm gemeinsam einen Satz zu Ende sprach.
 
-»Du hast mir das Handgelenk gebrochen, Bastardbengel. «
+»Du hast mir das Handgelenk gebrochen, Bastardbengel.«
 
 Jon blickte zu der verdrossenen Stimme auf. Grenn stand über ihn gebeugt, mit dickem Hals und rot im Gesicht, drei seiner Freunde hinter sich. Er kannte Todder, einen kleinen, hässlichen Jungen mit unangenehmer Stimme. Die Rekruten nannten ihn alle nur die Kröte. Die anderen beiden hatte Yoren mit in den Norden gebracht, wie Jon sich erinnerte, Vergewaltiger, die auf den Vier Fingern gefasst worden waren. Ihre Namen hatte er vergessen. Er sprach kaum jemals mit ihnen, wenn es sich vermeiden ließ. Sie waren brutale Maulhelden, ohne auch nur einen Fingerhut voll Ehrgefühl im Leib.
 
@@ -3510,15 +3510,15 @@ Der Haushofmeister verneigte sich sehr tief. »Ich werde den Ratsherren Euer Bed
 
 »Ja, Mylord«, sagte der Haushofmeister. »Wir haben Euch Lord Arryns ehemalige Gemächer im Turm der Rechten Hand gegeben, sofern es Euch beliebt. Ich werde Eure Sachen dorthin bringen lassen.«
 
-»Meinen Dank«, sagte Ned, während er seine Reithandschuhe abstreifte. Der Rest seines Haushalts kam hinter ihm durchs Tor. Ned sah Vayon Pool, seinen eigenen Haushofmeister, und rief nach ihm. »Es scheint, als würde ich dringend im Rat gebraucht. Sorgt dafür, dass meine Töchter ihre Schlafgemächer finden, und sagt Jory, er soll darauf achten, dass sie dort bleiben. Arya wird nicht auf Erkundung gehen. « Pool verneigte sich. Ned wandte sich wieder dem königlichen Haushofmeister zu. »Meine Wagen kämpfen sich noch immer durch die Stadt. Ich werde angemessene Kleidung brauchen.«
+»Meinen Dank«, sagte Ned, während er seine Reithandschuhe abstreifte. Der Rest seines Haushalts kam hinter ihm durchs Tor. Ned sah Vayon Pool, seinen eigenen Haushofmeister, und rief nach ihm. »Es scheint, als würde ich dringend im `Rat gebraucht. Sorgt dafür, dass meine Töchter ihre Schlafgemächer finden, und sagt Jory, er soll darauf achten, dass sie dort bleiben. Arya wird nicht auf `Erkundung gehen.« Pool verneigte sich. Ned wandte sich wieder dem königlichen Haushofmeister zu. »Meine Wagen kämpfen sich noch immer durch die Stadt. Ich werde angemessene Kleidung brauchen.«
 
 »Es wird mir eine große Freude sein«, bot der Haushofmeister seine Hilfe an.
 
 Und so hatte Ned die Ratskammer betreten, hundemüde und in geborgten Kleidern, und fand dort vier Herren des Kleinen Rates, die schon auf ihn warteten.
 
-Die Kammer war reich möbliert. An Stelle von Binsen lagen myrische Teppiche am Boden, und in einer Ecke prangten hundert Fabeltiere in grellen Farben auf einem geschnitzten Schirm von den Sommerinseln. Die Wände waren mit Teppichen von Norvos und Qohor und Lys behängt, und zwei valyrische Sphinxe flankierten die Tür; die Augen, die in schwarzen Marmorgesichtern glimmten, waren aus poliertem Granat.
+Die Kammer war `reich `möbliert. An Stelle von Binsen lagen myrische Teppiche am Boden, und in einer Ecke prangten hundert Fabeltiere in grellen Farben auf einem geschnitzten Schirm von den Sommerinseln. Die Wände waren mit Teppichen von Norvos und Qohor und Lys behängt, und zwei valyrische Sphinxe flankierten die Tür; die Augen, die in schwarzen Marmorgesichtern glimmten, waren aus poliertem Granat.
 
-Der Ratsherr, den Ned am wenigsten mochte, der Eunuch Varys, kam ihm sofort entgegen, als er eintrat. »Lord, ich bin untröstlich, von Euren Problemen auf dem Königsweg zu hören. Wir alle haben die Septe besucht, um eine Kerze für Prinz Joffrey zu entfachen. Ich bete für seine Genesung.« Seine Hand hinterließ Puderspuren an Neds Ärmel, und er roch so faulig und süß wie Blumen auf einem Grab.
+Der Ratsherr, den Ned am wenigsten mochte, der Eunuch Varys, kam ihm sofort entgegen, als er eintrat. »Lord, ich bin `untröstlich, von Euren Problemen auf dem Königsweg zu hören. Wir alle haben die Septe besucht, um eine `Kerze für Prinz Joffrey zu `entfachen. Ich bete für seine `Genesung.« Seine Hand hinterließ `Puderspuren an Neds Ärmel, und er roch so faulig und süß wie Blumen auf einem Grab.
 
 »Eure Götter haben Euch erhört«, erwiderte Ned kühl. »Der Prinz erstarkt mit jedem Tag.« Er löste sich aus dem Griff des Eunuchen und durchmaß den Raum dorthin, wo Lord Renly bei dem Schirm stand und sich leise mit einem kleinen Mann unterhielt, bei dem es sich nur um Kleinfinger handeln konnte. Renly war ein Junge von acht Jahren gewesen, als Robert den Thron eroberte, doch war er zu einem Mann herangewachsen, der seinem Bruder derart ähnlich war, dass es Ned fast aus der Fassung brachte. Wenn er ihn sah, schien es ihm stets, als seien die Jahre nicht vergangen und Robert stünde vor ihm, direkt nach dem Sieg am Trident.
 
@@ -3526,25 +3526,25 @@ Der Ratsherr, den Ned am wenigsten mochte, der Eunuch Varys, kam ihm sofort entg
 
 »Und Ihr seht gleichermaßen wohl aus«, erwiderte Ned. »Ihr müsst mir verzeihen, aber manchmal seid Ihr Eurem Bruder Robert wie aus dem Gesicht geschnitten.«
 
-»Eine schlechte Kopie«, sagte Renly achselzuckend.
+»Eine schlechte Kopie«, sagte Renly `achselzuckend.
 
 »Wenn auch weit besser gekleidet«, spottete Kleinfinger. »Lord Renly gibt für Kleidung mehr aus als die Hälfte aller Damen bei Hofe.«
 
-Es entsprach der Wahrheit. Lord Renly trug dunkelgrünen Samt, sein Wams war mit einem Dutzend goldener Hirsche bestickt. Ein kurzer Umhang aus Goldtuch war lässig über eine Schulter geworfen und mit einer Smaragdbrosche befestigt. »Es gibt üblere Missetaten«, sagte Renly lachend. »Etwa die Art und Weise, wie Ihr Euch kleidet.«
+Es entsprach der Wahrheit. Lord Renly trug dunkelgrünen `Samt, sein `Wams war mit einem `Dutzend goldener Hirsche bestickt. Ein kurzer Umhang aus `Goldtuch war lässig über eine Schulter geworfen und mit einer `Smaragdbrosche befestigt. »Es gibt üblere Missetaten«, sagte Renly lachend. »Etwa die Art und Weise, wie Ihr Euch kleidet.«
 
-Kleinfinger überging die spöttische Bemerkung. Er beäugte Ned mit einem Lächeln auf den Lippen, das an Unverschämtheit grenzte. »Ich hoffe schon seit einigen Jahren, Euch einmal zu begegnen, Lord Stark. Zweifellos hat Lady Catelyn Euch von mir erzählt.«
+Kleinfinger überging die spöttische Bemerkung. Er beäugte Ned mit einem Lächeln auf den Lippen, das an Unverschämtheit grenzte. »Ich hoffe schon seit einigen Jahren, Euch einmal zu `begegnen, Lord Stark. Zweifellos hat Lady Catelyn Euch von mir erzählt.«
 
 »Das hat sie«, erwiderte Ned mit frostiger Stimme. Die hinterlistige Arroganz dieser Bemerkung nagte an ihm. »Soweit ich weiß, kanntet Ihr auch meinen Bruder Brandon.«
 
 Renly Baratheon lachte. Varys schlurfte herüber, um zuzuhören.
 
-»Zu gut vielleicht«, sagte Kleinfinger. »Noch heute trage ich einen Beweis seiner Wertschätzung bei mir. Hat auch Brandon von mir gesprochen?«
+»Zu gut vielleicht«, sagte Kleinfinger. »Noch heute trage ich einen Beweis seiner `Wertschätzung bei mir. Hat auch Brandon von mir gesprochen?«
 
 »Oft und meist erhitzt«, sagte Ned in der Hoffnung, das würde es beenden. Er hatte keine Geduld mit diesem Spielchen, das sie spielten, diesem Duell mit Worten.
 
 »Ich hätte gedacht, dass Euch Starks die Hitze übel ansteht«, fuhr Kleinfinger fort. »Hier im Süden sagt man, Ihr wäret aus Eis gemacht und müsstet schmelzen, sobald Ihr über die Eng reitet.«
 
-»Ich habe nicht vor, bald zu schmelzen, Lord Baelish. Darauf könnt Ihr bauen.« Ned trat an den Ratstisch. »Maester Pycelle, ich hoffe, es geht Euch gut.«
+»Ich habe nicht vor, bald zu `schmelzen, Lord Baelish. Darauf könnt Ihr `bauen.« Ned trat an den Ratstisch. »Maester Pycelle, ich hoffe, es geht Euch gut.«
 
 Der Groß-Maester lächelte sanft von seinem Stuhl am Ende des Tisches herüber. »Gut genug für einen Mann meines Alters, Mylord«, erwiderte er, »doch ermüde ich schnell, wie ich befürchte.« Dünne Strähnen von weißem Haar säumten die breite, kahle Kuppel seiner Stirn über einem freundlichen Gesicht. Seine Ordenskette war kein schlichtes, enges Halsband wie jenes, das Luwin trug, sondern bestand aus zwei Dutzend schwerer Ketten, die zu einem massigen, metallenen Halsschmuck geflochten waren, welcher ihn vom Hals bis auf die Brust bedeckte. Die Glieder waren aus allen Metallen geschmiedet, die den Menschen bekannt waren: schwarzes Eisen und rotes Gold, leuchtendes Kupfer und mattes Blei, Stahl und Blech und fahles Silber, Messing und Bronze und Platin. Granate und Amethyste und schwarze Perlen verzierten die Metallarbeiten, und hier und dort ein Smaragd oder Rubin. »Vielleicht sollten wir beginnen«, schlug der Groß-Maester vor und faltete die Hände auf seinem mächtigen Bauch. »Ich fürchte, ich schlafe ein, wenn wir noch länger warten.«
 
@@ -3600,13 +3600,13 @@ Groß-Maester Pycelle schüttelte seinen großen, kahlen Kopf, und seine Ketten 
 
 »An einem anderen Tag«, sagte Ned. Vielleicht zu scharf, nach den Blicken zu urteilen, die sie ihm zuwarfen. Er würde daran denken müssen, dass er nicht mehr auf Winterfell war, wo nur der König über ihm stand. Hier war er nur Erster unter Gleichen. »Verzeiht mir, Mylords«, fügte er mit milderer Stimme hinzu. »Ich bin müde. Lasst uns für heute Schluss machen und fortfahren, wenn wir wacher sind.« Er bat nicht um ihre Zustimmung, sondern stand abrupt auf, nickte allen zu und machte sich zur Tür auf.
 
-Draußen strömten noch immer Wagen und Reiter durch die Burgtore herein, und der Hof war ein Tumult von Schlamm und Pferden und brüllenden Männern. Der König war noch nicht eingetroffen, wie man ihm erklärte. Seit den schändlichen Vorkommnissen am Trident waren die Starks mit ihrem Haushalt der Hauptkolonne weit vorausgeritten, um sich von den Lennisters und der wachsenden Spannung abzusetzen. Robert war kaum noch zu sehen gewesen. Man sagte, er reiste in der riesigen Karosse, die meiste Zeit betrunken. Falls dem so war, mochte er Stunden zurückliegen, doch käme er für Neds Geschmack noch immer viel zu früh. Er musste nur in Sansas Gesicht sehen, um zu spüren, wie der Zorn in ihm erneut aufflammte. Die letzten zwei Wochen ihrer Reise waren ein einziges Elend gewesen. Sansa gab Arya die Schuld und sagte ihr, dass eigentlich Nymeria hätte sterben sollen. Und Arya hatte allen Halt verloren, als sie hörte, was mit dem Schlachterjungen geschehen war. Sansa weinte sich in den Schlaf, Arya brütete den ganzen Tag schweigend vor sich hin, und Eddard Stark träumte von einer eisigen Hölle, die den Starks von Winterfell vorbehalten war.
+Draußen strömten noch immer Wagen und Reiter durch die Burgtore herein, und der Hof war ein Tumult von `Schlamm und Pferden und brüllenden Männern. Der König war noch nicht eingetroffen, wie man ihm erklärte. Seit den `schändlichen `Vorkommnissen am Trident waren die Starks mit ihrem Haushalt der Hauptkolonne weit vorausgeritten, um sich von den Lennisters und der `wachsenden `Spannung `abzusetzen. Robert war kaum noch zu sehen gewesen. Man sagte, er reiste in der riesigen Karosse, die meiste Zeit betrunken. Falls dem so war, mochte er Stunden zurückliegen, doch käme er für Neds Geschmack noch immer viel zu früh. Er musste nur in Sansas Gesicht sehen, um zu spüren, wie der Zorn in ihm erneut aufflammte. Die letzten zwei Wochen ihrer Reise waren ein einziges `Elend gewesen. Sansa gab Arya die Schuld und sagte ihr, dass eigentlich Nymeria hätte sterben sollen. Und Arya hatte allen Halt verloren, als sie hörte, was mit dem Schlachterjungen geschehen war. Sansa weinte sich in den Schlaf, Arya brütete den ganzen Tag schweigend vor sich hin, und Eddard Stark träumte von einer eisigen `Hölle, die den Starks von Winterfell vorbehalten war.
 
-Er überquerte den Außenhof, ging unter einem Fallgitter in den Innenhof und war gerade auf dem Weg zu dem, was er für den Turm der Rechten Hand hielt, als Kleinfinger vor ihm erschien. »Ihr lauft in die falsche Richtung, Stark. Kommt mit mir.«
+Er `überquerte den `Außenhof, ging unter einem Fallgitter in den `Innenhof und war gerade auf dem Weg zu dem, was er für den Turm der Rechten Hand hielt, als Kleinfinger vor ihm erschien. »Ihr lauft in die falsche Richtung, Stark. Kommt mit mir.«
 
-Zögernd folgte Ned. Kleinfinger führte ihn in einen Turm, eine Treppe hinab, über einen kleinen, vertieften Burghof und einen verlassenen Korridor entlang, in welchem leere Rüstungen entlang der Wände Wache hielten. Es waren Relikte der Targaryen, schwarzer Stahl mit Drachenschuppen als Helmschmuck, jetzt staubig und vergessen. »Das ist nicht der Weg zu meinen Räumen«, sagte Ned.
+Zögernd folgte Ned. Kleinfinger führte ihn in einen Turm, eine Treppe hinab, über einen kleinen, vertieften Burghof und einen verlassenen Korridor entlang, in welchem leere Rüstungen entlang der Wände Wache hielten. Es waren `Relikte der Targaryen, schwarzer Stahl mit Drachenschuppen als Helmschmuck, jetzt staubig und vergessen. »Das ist nicht der Weg zu meinen Räumen«, sagte Ned.
 
-»Hatte ich das behauptet? Ich führe Euch ins Verlies, um Euch die Kehle aufzuschlitzen und Eure Leiche einzumauern«, gab Kleinfinger zurück, und seine Stimme quoll über vor Sarkasmus. »Wir haben dafür keine Zeit, Stark. Eure Frau erwartet Euch.«
+»Hatte ich das `behauptet? Ich führe Euch ins Verlies, um Euch die Kehle aufzuschlitzen und Eure Leiche einzumauern«, gab Kleinfinger zurück, und seine Stimme quoll über vor Sarkasmus. »Wir haben dafür keine Zeit, Stark. Eure Frau erwartet Euch.«
 
 »Was spielt Ihr hier, Kleinfinger? Catelyn ist in Winterfell, Hunderte von Meilen weit entfernt.«
 
@@ -3614,15 +3614,15 @@ Zögernd folgte Ned. Kleinfinger führte ihn in einen Turm, eine Treppe hinab, �
 
 Ned folgte ihm müde, fragte sich, ob dieser Tag wohl jemals enden würde. Er fand keinen Geschmack an diesen Intrigen, doch wurde ihm langsam klar, dass sie für einen Mann wie Kleinfinger die reine Wonne waren.
 
-Am Fuße der Treppe war eine schwere Tür aus Eiche und Eisen. Petyr Baelish hob den Riegel an und winkte Ned hindurch. Sie traten in den rötlichen Glanz der Dämmerung hinaus, auf eine felsige Klippe hoch über dem Fluss. »Wir sind draußen vor der Burg«, stellte Ned fest.
+Am Fuße der Treppe war eine schwere Tür aus Eiche und Eisen. Petyr Baelish hob den `Riegel an und winkte Ned hindurch. Sie traten in den rötlichen `Glanz der Dämmerung hinaus, auf eine felsige Klippe hoch über dem Fluss. »Wir sind draußen vor der Burg«, stellte Ned fest.
 
-»Ihr seid nur schwer zu täuschen, Stark«, höhnte Kleinfinger und grinste. »War es die Sonne, die es Euch verraten hat, oder der Himmel? Folgt mir. Es sind Nischen in den Fels gehauen. Versucht, nicht zu Tode zu stürzen, Catelyn würde es mir nie glauben.« Mit diesen Worten war er hinter der Klippe verschwunden und stürmte schnell wie ein Äffchen hinab.
+»Ihr seid nur schwer zu `täuschen, Stark«, höhnte Kleinfinger und grinste. »War es die Sonne, die es Euch verraten hat, oder der Himmel? Folgt mir. Es sind Nischen in den Fels gehauen. Versucht, nicht zu Tode zu stürzen, Catelyn würde es mir nie glauben.« Mit diesen Worten war er hinter der Klippe verschwunden und stürmte schnell wie ein Äffchen hinab.
 
 Ned betrachtete die Felswand der Klippe für einen Moment, dann folgte er ihm langsamer. Die Nischen waren da, ganz wie Kleinfinger es angekündigt hatte, flache Mulden, die von unten nicht zu sehen waren, wenn man nicht genau wusste, wo man suchen sollte. Der Fluss lag in weiter, Schwindel erregender Tiefe unter ihm. Ned hielt sein Gesicht fest an den Fels gepresst und gab sich Mühe, nicht öfter als notwendig hinunterzublicken.
 
 Als er endlich unten ankam, an einem schmalen, schlammigen Pfad am Ufer, faulenzte Kleinfinger auf einem Stein und aß einen Apfel. Er war schon fast beim Kerngehäuse. »Ihr werdet alt und langsam, Stark«, sagte er und schnippte den Apfel beiläufig ins rauschende Wasser. »Macht nichts, wir reiten den Rest des Weges.« Zwei Pferde warteten. Ned stieg auf und trabte ihm hinterher, den Pfad hinab zur Stadt.
 
-Schließlich hielt Baelish vor einem baufälligen Haus, dreistöckig, aus Holz gebaut, die Fenster hell vom Lampenschein in der Abenddämmerung. Musik und heiseres Gelächter war zu hören und trieb übers Wasser hin. Neben der Tür hing eine verzierte Öllampe an einer schweren Kette, mit einer Kugel aus rotem Bleiglas.
+Schließlich hielt Baelish vor einem baufälligen Haus, dreistöckig, aus Holz gebaut, die Fenster hell vom Lampenschein in der Abenddämmerung. Musik und heiseres Gelächter war zu hören und trieb übers Wasser hin. Neben der Tür hing eine `verzierte Öllampe an einer schweren `Kette, mit einer `Kugel aus rotem `Bleiglas.
 
 Wutentbrannt stieg Ned Stark von seinem Pferd. »Ein Bordell«, sagte er, als er Kleinfinger bei der Schulter nahm und ihn herumdrehte. »Ihr habt mich den ganzen Weg hierhergebracht, um mich in ein Bordell zu führen.«
 
@@ -3632,11 +3632,11 @@ Es war die endgültige Beleidigung. »Brandon war zu gut gegen Euch«, sagte Ned
 
 »Mylord, nein«, rief eine aufgebrachte Stimme. »Er spricht die Wahrheit.« Hinter ihm waren Schritte zu hören.
 
-Ned fuhr herum, mit dem Messer in der Hand, als ein alter, weißhaariger Mann ihnen entgegenstürzte. Er trug grobes, braunes Tuch, und die weiche Haut unter seinem Kinn schwabbelte, wenn er rannte. »Das ist nicht Eure Sache«, setzte Ned an, dann plötzlich erkannte er ihn. Erstaunt ließ er den Dolch sinken. »Ser Rodrik?«
+Ned fuhr herum, mit dem Messer in der Hand, als ein alter, weißhaariger Mann ihnen entgegenstürzte. Er trug grobes, braunes `Tuch, und die weiche Haut unter seinem Kinn schwabbelte, wenn er rannte. »Das ist nicht Eure Sache«, setzte Ned an, dann plötzlich erkannte er ihn. Erstaunt ließ er den Dolch sinken. »Ser Rodrik?«
 
 Rodrik Cassel nickte. »Eure Lady erwartet Euch oben.«
 
-Ned wusste nicht mehr weiter. »Catelyn ist wirklich hier? Das Ganze ist kein schlechter Scherz von Kleinfinger?« Er steckte seine Klinge ein.
+Ned wusste nicht mehr weiter. »Catelyn ist wirklich hier? Das Ganze ist kein schlechter Scherz von Kleinfinger?« Er steckte seine `Klinge ein.
 
 »Wenn es nur so wäre, Stark«, sagte Kleinfinger. »Folgt mir und versucht, einen Hauch lüsterner und etwas weniger wie die Rechte Hand des Königs zu wirken. Es wäre nicht von Vorteil, wenn man Euch erkennt. Vielleicht solltet Ihr die eine oder andere Brust tätscheln, nur so im Vorübergehen.«
 
@@ -4002,7 +4002,7 @@ Nur war das Winterfell eine andere Welt, und jetzt hatte sich alles verändert. 
 
 Der dicke Tom war auf seinem Posten und bewachte die Tür zum Turm der Hand. Er wunderte sich, als Arya ihm entgegenstürmte und er die Septa rufen hörte. »Moment mal, meine Kleine«, wollte er sagen und griff nach ihr, doch schob sich Arya an ihm vorbei und rannte die Wendeltreppe des Turmes hinauf, wobei ihre Füße auf dem Steinboden klapperten, während der dicke Tom hinter ihr keuchte.
 
-Ihre Schlafkammer war der einzige Ort, den Arya in ganz Königsmund mochte, und am besten gefiel ihr daran die Tür, ein massiver Brocken dunkler Eiche mit schwarzen, eisernen Beschlägen. Wenn sie diese Tür zuknallte und den schweren Riegel vorschob, konnte niemand in ihr Zimmer kommen, weder Septa Mordane oder der dicke Tom noch Sansa oder Jory oder der Bluthund, niemand! Jetzt knallte sie sie zu.
+Ihre Schlafkammer war der einzige Ort, den Arya in ganz Königsmund mochte, und am besten gefiel ihr daran die Tür, ein massiver Brocken dunkler Eiche mit schwarzen, eisernen Beschlägen. Wenn sie diese Tür zuknallte und den schweren Riegel vorschob [vorschieben], konnte niemand in ihr Zimmer kommen, weder Septa Mordane oder der dicke Tom noch Sansa oder Jory oder der Bluthund, niemand! Jetzt knallte [knallen] sie sie zu.
 
 Als der Riegel unten war, fühlte sich Arya endlich sicher genug, dass sie weinen konnte.
 
