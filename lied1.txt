@@ -2332,7 +2332,7 @@ Tyrion zog sich als Letzter zurück wie stets. Als er den Unterstand, den seine 
 
 Tyrion Lennister lächelte traurig und ging zu Bett.
 
-== CATELYN ***
+== CATELYN
 
 Ned war seit acht Tagen mit den Mädchen fort, als Maester Luwin eines Abends zu ihr in Brans Krankenzimmer kam mit einer Leselampe und den Rechnungsbüchern. »Es wird höchste Zeit, dass wir die Zahlen durchgehen, Mylady«, sagte er, »Ihr werdet wissen wollen, was uns der Besuch des Königs gekostet hat.«
 
@@ -4150,7 +4150,7 @@ Am nächsten Tag begann die eigentliche Arbeit.
 
 Unter ihnen erstreckte sich die endlose Leere, eine flache, unermessliche Weite, die bis zum Horizont und noch darüber hinaus reichte. Es war ein Meer, dachte Dany. Von hier an gab es keine Hügel, keine Berge, weder Bäume noch Städte oder Flüsse, nur die endlose, gräserne Steppe, und die hohen Halme wogten wie Wellen, wenn der Wind wehte. »Es ist so grün«, sagte sie.
 
-»Hier und jetzt«, gab Ser Jorah ihr Recht. »Ihr solltet es sehen, wenn alles blüht, die dunkelroten Blumen von einem Horizont zum anderen wie ein Meer von Blut. Kommt die trockene Jahreszeit, nimmt die Welt die Farbe alter Bronze an. Und das hier ist nur hranna, Kind. Da draußen gibt es hundert Sorten von Gräsern, gelb wie Zitronen und dunkel wie Indigo, blaue Gräser und orangefarbene Gräser und Gräser wie Regenbogen. Es heißt, unten in den Schattenländern jenseits von Asshai gäbe es ganze Ozeane von Geistergräsern, höher als ein Mensch zu Pferd, mit Stängeln fahl wie Milchglas. Es tötet alle anderen Gräser, und bei Dunkelheit leuchten aus ihm die Geister der Verdammten. Die Dothraki behaupten, dass dieses Geistergras eines Tages die ganze Welt überziehen wird und dann alles Leben endet. «
+»Hier und jetzt«, gab Ser Jorah ihr Recht. »Ihr solltet es sehen, wenn alles blüht, die dunkelroten Blumen von einem Horizont zum anderen wie ein Meer von Blut. Kommt die trockene Jahreszeit, nimmt die Welt die Farbe alter Bronze an. Und das hier ist nur hranna, Kind. Da draußen gibt es hundert Sorten von Gräsern, gelb wie Zitronen und dunkel wie Indigo, blaue Gräser und orangefarbene Gräser und Gräser wie `Regenbogen. Es heißt, unten in den Schattenländern jenseits von Asshai gäbe es ganze Ozeane von Geistergräsern, höher als ein Mensch zu Pferd, mit Stängeln fahl wie Milchglas. Es tötet alle anderen Gräser, und bei Dunkelheit leuchten aus ihm die Geister der Verdammten. Die Dothraki behaupten, dass dieses Geistergras eines Tages die ganze Welt überziehen wird und dann alles Leben endet.«
 
 Dieser Gedanke schickte Daenerys einen Schauer über den Rücken. »Darüber möchte ich jetzt nicht sprechen«, sagte sie. »Hier ist es so schön, ich möchte nicht daran denken, dass alles stirbt.«
 
