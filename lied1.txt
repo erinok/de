@@ -5006,6 +5006,8 @@ Jory legte Neds Umhang um dessen Schultern und befestigte ihn am Hals mit dem Am
 
 Ned nickte. »Die Götter mögen diesem Kellner gnädig sein, wenn er mich auf die Hatz nach Schatten geschickt hat.« Es war nur ein dünner Stecken, auf den er sich stützte, doch der Lord Arryn, den Ned gekannt hatte, war niemand, der juwelenbesetzte und versilberte Rüstungen trug. Stahl war Stahl. Er war zum Schutz gedacht, nicht zur Verzierung. Sicher mochte er seine Ansichten überdacht haben. Er wäre nicht der erste Mensch, der nach ein paar Jahren bei Hofe die Dinge etwas anders sah … doch dieser Wandel war derart markant, dass er Ned nachdenklich stimmte.
 
+:2:55:21
+
 »Gibt es sonst noch einen Dienst, den ich Euch erweisen könnte?«
 
 »Ich denke, Ihr solltet damit beginnen, Hurenhäuser aufzusuchen.«
@@ -5096,6 +5098,8 @@ Seine Garde wartete draußen bei den Pferden. »Habt Ihr etwas herausgebracht, M
 
 == CATELYN
 
+:3:09:40
+
 »Mylady, Ihr solltet Euren Kopf bedecken«, erklärte Ser Rodrik, während sich ihre Pferde gen Norden schleppten. »Ihr werdet Euch erkälten.«
 
 »Es ist nur Wasser, Ser Rodrik«, erwiderte Catelyn. Ihr Haar hing nass und schwer herab, eine lose Strähne klebte an ihrer Stirn, und sie konnte sich vorstellen, wie abgerissen und wild sie aussehen musste, doch diesmal war es ihr egal. Der Regen im Süden war weich und warm. Catelyn gefiel es, wie er sich auf ihrem Gesicht anfühlte, sanft wie die Küsse einer Mutter. Es führte sie zurück in ihre Kindheit, zu langen, grauen Tagen in Schnellwasser. Sie erinnerte sich an den Götterhain, herabhängende Äste, schwer von der Feuchtigkeit, und an das Lachen ihres Bruders, wenn er sie durch Haufen feuchter Blätter jagte. Sie erinnerte sich daran, wie sie mit Lysa Matschkuchen gebacken hatte, wie schwer diese waren, und an den glitschigen, braunen Schlamm zwischen den Fingern. Sie hatten sie Kleinfinger serviert, kichernd, und er hatte so viel Matsch gegessen, dass er eine Woche krank war. Wie jung sie alle gewesen waren.
@@ -5104,7 +5108,7 @@ Fast hatte Catelyn es schon vergessen. Im Norden fiel der Regen kalt und hart, u
 
 »Ich bin triefnass«, beklagte sich Ser Rodrik. »Bis auf die Knochen.« Die Bäume um sie standen immer dichter, und das stete Prasseln von Regen auf den Blättern wurde begleitet vom leise schmatzenden Geräusch, das ihre Pferde machten, wenn sie ihre Hufe aus dem Schlamm zogen. »Wir werden heute Abend ein Feuer brauchen, Mylady, und eine warme Mahlzeit würde uns beiden guttun.«
 
-»Es gibt einen Gasthof an der Kreuzung dort hinten«, erklärte ihm Catelyn. So manche Nacht hatte sie in ihrer Jugend dort geschlafen, wenn sie mit ihrem Vater reiste. Lord Hoster Tully war in der Blüte seiner Jahre ein rastloser Mann gewesen, der stets irgendwohin ritt. Noch heute erinnerte sie sich an die Wirtin, eine dicke Frau namens Masha Heddle, die bei Tag und Nacht Bitterblatt kaute und einen nie enden wollenden Vorrat an Freundlichkeit und süßen Kuchen für die Kinder bereitzuhalten schien. Die Kuchen waren von Honig durchtränkt, mächtig und schwer auf der Zunge, doch ihr Lächeln hatte Catelyn gefürchtet. Das Bitterblatt hatte Mashas Zähne dunkelrot gefärbt, was ihr Lächeln zum blanken Schrecken machte.
+»Es gibt einen Gasthof an der Kreuzung dort hinten«, erklärte ihm Catelyn. So manche Nacht hatte sie in ihrer Jugend dort geschlafen, wenn sie mit ihrem Vater reiste. Lord Hoster Tully war in der Blüte seiner Jahre ein rastloser Mann gewesen, der stets irgendwohin ritt. Noch heute erinnerte sie sich an die Wirtin, eine dicke Frau namens Masha Heddle, die bei Tag und Nacht Bitterblatt kaute und einen nie enden wollenden Vorrat an Freundlichkeit und süßen Kuchen für die Kinder bereitzuhalten [bereithalten] schien. Die Kuchen waren von Honig durchtränkt, mächtig und schwer auf der Zunge, doch ihr Lächeln hatte Catelyn gefürchtet. Das Bitterblatt hatte Mashas Zähne dunkelrot gefärbt, was ihr Lächeln zum blanken Schrecken machte.
 
 »Einen Gasthof«, wiederholte Ser Rodrik versonnen. »Wenn nur … aber wir dürfen es nicht riskieren. Wenn wir unerkannt bleiben wollen, halte ich es für das Beste, wenn wir uns einen kleinen Unterstand suchen …« Er hielt inne, als sie vor sich auf der Straße etwas hörten, platschendes Wasser, das Klirren von Ketten, das Wiehern eines Pferdes. »Reiter«, warnte er, und seine Hand ging zum Heft seines Schwertes. Selbst auf dem Königsweg schadete es nie, wachsam zu sein.
 
